@@ -1,0 +1,106 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+70,70,80,118,Yuvette Henderson,3/2/2015,shot,gun,38.0,F,Black,Emeryville,CA,False,attack,Car,False,-122.28399999999999,37.827,True,1
+106,106,118,130,Betty Sexton,17/2/2015,shot,gun,43.0,F,White,Gaston County,NC,False,attack,Not fleeing,False,-81.169,35.229,True,1
+128,128,143,184,Crystal Lee Miley Harry,26/2/2015,shot,gun,34.0,F,White,Sylvester,GA,False,attack,Car,False,-83.902,31.55,True,1
+136,136,151,192,Stephanie Hill,28/2/2015,shot,gun,37.0,F,White,La Paz County,AZ,False,attack,Car,False,-114.45100000000001,33.619,True,1
+183,183,202,225,Kaylene Stone,18/3/2015,shot,gun,49.0,F,White,Glendale,AZ,False,attack,Not fleeing,False,-112.20299999999999,33.582,True,1
+209,209,229,246,Deanne Choate,26/3/2015,shot,gun,53.0,F,White,Gardner,KS,False,attack,Not fleeing,False,-94.91,38.81800000000001,True,1
+297,297,324,421,Alexia Christian,29/4/2015,shot,gun,25.0,F,Black,Atlanta,GA,False,attack,Not fleeing,False,-84.39,33.751999999999995,True,1
+346,346,379,475,Cassandra Bolin,25/5/2015,shot,gun,31.0,F,White,Austin,TX,True,attack,Not fleeing,False,-97.721,30.331999999999997,True,1
+397,397,439,557,Wendy Chappell,17/6/2015,shot,gun,40.0,F,White,Clanton,AL,False,attack,Car,False,-86.625,32.885999999999996,True,1
+492,492,547,673,Tamala Satre,23/7/2015,shot,gun,44.0,F,White,Meadow Vista,CA,True,attack,Not fleeing,False,-121.01799999999999,38.975,True,1
+631,631,716,849,Tina Money,21/9/2015,shot,gun,23.0,F,White,Sand City,CA,False,attack,Not fleeing,False,-121.844,36.622,True,1
+667,667,759,910,Margaret Wagner,9/10/2015,shot,gun,62.0,F,White,Aguanga,CA,False,attack,Not fleeing,False,-116.819,33.477,True,1
+676,676,772,913,Michelle Marie Burg,14/10/2015,shot,gun,46.0,F,White,Naples,FL,True,attack,Car,False,-87.415,39.413000000000004,True,1
+680,680,778,919,Linda Lee Lush,15/10/2015,shot,gun,50.0,F,White,Las Vegas,NV,True,attack,Car,False,-115.259,36.129,True,1
+710,710,812,955,Marquesha McMillan,26/10/2015,shot,gun,21.0,F,Black,Washington,DC,False,attack,Not fleeing,False,-77.027,38.983000000000004,True,1
+737,737,841,987,Laura Lemieux,5/11/2015,shot,gun,36.0,F,White,Goose Creek,SC,True,attack,Not fleeing,False,-80.02,32.964,True,1
+778,778,894,1046,Somer Speer,25/11/2015,shot,gun,37.0,F,White,Ozark,MO,False,attack,Not fleeing,False,-93.27799999999999,37.05,True,1
+790,790,909,1050,Tashfeen Malik,2/12/2015,shot,gun,27.0,F,Other,San Bernardino,CA,False,attack,Car,False,-117.29,34.108000000000004,True,1
+799,799,919,1061,Sheilah Huck,5/12/2015,shot,gun,61.0,F,White,St. Louis,MO,True,attack,Not fleeing,False,-90.23899999999999,38.811,True,1
+815,815,941,1077,Shirley  Weis,13/12/2015,shot,gun,51.0,F,White,Arlington,TX,True,attack,Not fleeing,False,-97.101,32.728,True,1
+821,821,947,1091,Brenda Dean Kimberling,14/12/2015,shot,gun,48.0,F,White,Las Vegas,NV,True,attack,Not fleeing,False,-115.057,36.244,True,1
+828,828,957,1100,Erica Lauro,18/12/2015,shot,gun,22.0,F,White,Northwood,OH,False,attack,Other,False,-83.462,41.618,True,1
+957,957,1109,1276,Sahlah Ridgeway,12/2/2016,shot,gun,32.0,F,Black,Syracuse,NY,True,other,Not fleeing,False,-76.14399999999998,43.068999999999996,True,1
+981,981,1134,1290,Sherrisa Homer,21/2/2016,shot,gun,36.0,F,Native Hawaiian,Phoenix,AZ,True,attack,Foot,False,-112.10799999999999,33.495,True,1
+982,982,1135,1292,Kisha Michael,21/2/2016,shot,gun,31.0,F,Black,Inglewood,CA,False,other,Not fleeing,False,-118.36200000000001,33.961999999999996,True,1
+984,984,1137,1305,Patricia Kruger,21/2/2016,shot,gun,38.0,F,Native Hawaiian,Houston,AK,False,attack,Not fleeing,False,-149.778,61.585,True,1
+1074,1074,1244,1422,Denise Fairchild,29/3/2016,shot,gun,50.0,F,White,Aitkin,MN,True,attack,Not fleeing,False,-93.71,46.533,True,1
+1112,1112,1289,1464,Kisha Arrone,17/4/2016,shot,gun,35.0,F,Black,Dayton,OH,False,other,Car,False,-84.243,39.742,True,1
+1129,1129,1309,1489,Kay Frances Campbell,25/4/2016,shot,gun,60.0,F,White,East Flat Rock,NC,True,attack,Not fleeing,False,-82.41799999999998,35.285,True,1
+1132,1132,1312,1492,Jacquelyn Burke,26/4/2016,shot,gun,24.0,F,White,Albuquerque,NM,True,attack,Car,False,-106.527,35.146,True,1
+1150,1150,1336,1518,Deresha Armstrong,5/5/2016,shot,gun,26.0,F,Black,Orlando,FL,False,attack,Not fleeing,False,-81.442,28.551,True,1
+1252,1252,1467,1658,Christy Sheats,24/6/2016,shot,gun,42.0,F,White,Fulshear,TX,True,attack,Not fleeing,False,-95.9,29.693,True,1
+1322,1322,1559,1747,Amanda Page Bivens,29/7/2016,shot,gun,40.0,F,White,Homewood,AL,False,attack,Not fleeing,False,-86.818,33.46,True,1
+1326,1326,1564,1750,Korryn Gaines,1/8/2016,shot,gun,23.0,F,Black,Randallstown,MD,False,attack,Not fleeing,False,-76.814,39.37,True,1
+1387,1387,1637,1826,Paula Dell Phillips,29/8/2016,shot,gun,35.0,F,White,Kingman,AZ,False,attack,Not fleeing,False,-114.04,35.47400000000001,True,1
+1431,1431,1695,1900,Michelle Miller,19/9/2016,shot,gun,46.0,F,White,Spring,TX,True,attack,Not fleeing,True,-95.37799999999999,30.066999999999997,True,1
+1491,1491,1775,1988,Renee Davis,21/10/2016,shot,gun,23.0,F,Native Hawaiian,Muckleshoot Indian Reservation,WA,True,other,Not fleeing,False,-122.131,47.25899999999999,True,1
+1512,1512,1800,2035,Ashley Sides,31/10/2016,shot,gun,31.0,F,White,Brookville,OH,False,attack,Other,False,-84.425,39.852,True,1
+1517,1517,1806,2013,Rita King,3/11/2016,shot,gun,56.0,F,White,Loganville,GA,False,attack,Not fleeing,False,-83.963,33.791,True,1
+1601,1601,1944,2170,Judy Boardman,27/12/2016,shot,gun,71.0,F,White,Pearland,TX,False,attack,Not fleeing,False,-95.367,29.54300000000001,True,1
+1752,1752,2135,2390,Jacqueline Cheyanne Johnson,24/2/2017,shot,gun,33.0,F,White,Lake Jackson,TX,False,attack,Car,False,-95.436,29.051,True,1
+1868,1868,2298,2561,Lucille Espinosa,4/5/2017,shot,gun,54.0,F,Hispanic,Katy,TX,True,other,Not fleeing,False,-95.73899999999999,29.804000000000002,True,1
+1881,1881,2313,2571,Robin White,10/5/2017,shot,gun,50.0,F,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.257,38.566,True,1
+1889,1889,2324,2581,Jonie Block,15/5/2017,shot,gun,27.0,F,Black,Phoenix,AZ,False,other,Not fleeing,False,-112.07600000000001,33.461999999999996,True,1
+1893,1893,2330,2586,Isabelle Duval,16/5/2017,shot,gun,41.0,F,White,Washington,DC,False,attack,Not fleeing,False,-77.006,38.821999999999996,True,1
+1928,1928,2384,2646,Michele Rice,8/6/2017,shot,gun,33.0,F,White,Long Beach,CA,False,attack,Not fleeing,False,-118.09899999999999,33.81,True,1
+1992,1992,2465,2743,Tiffany Lynn Potter,5/7/2017,shot,gun,29.0,F,White,Des Moines,IA,False,attack,Foot,True,-93.601,41.608000000000004,True,1
+1999,1999,2477,2760,Tina Medlin,8/7/2017,shot,gun,50.0,F,White,Newton Grove,NC,False,attack,Not fleeing,False,-78.367,35.236,True,1
+2013,2013,2499,2782,India N. Nelson,17/7/2017,shot,gun,25.0,F,Black,Norfolk,VA,False,attack,Not fleeing,False,-76.315,36.944,True,1
+2061,2061,2557,2845,Melissa Wiseman,4/8/2017,shot,gun,36.0,F,White,Marine City,MI,False,other,Not fleeing,False,-82.50200000000002,42.70399999999999,True,1
+2101,2101,2603,2894,Ciara Howard,23/8/2017,shot,gun,26.0,F,White,Olathe,KS,True,other,Not fleeing,False,-94.806,38.882,True,1
+2106,2106,2608,2899,Kristen Ambury,25/8/2017,shot,gun,28.0,F,White,Sunrise,FL,True,undetermined,Not fleeing,False,-80.277,26.169,True,1
+2115,2115,2619,2910,Brandy Caldwell,29/8/2017,shot,gun,46.0,F,White,Watagua,TX,True,other,Not fleeing,False,-97.249,32.861999999999995,True,1
+2119,2119,2623,2913,Debi Lynn Thorkelson,31/8/2017,shot,gun,54.0,F,White,Fort Myers,FL,False,attack,Not fleeing,False,-81.91199999999998,26.430999999999997,True,1
+2176,2176,2704,3012,Sandy Guardiola,4/10/2017,shot,gun,48.0,F,Black,Canandaigua,NY,False,attack,Not fleeing,False,-77.26899999999998,42.87600000000001,True,1
+2188,2188,2719,3004,Sabrina Ann Garcia,8/10/2017,shot,gun,34.0,F,Hispanic,Mesa,AZ,True,undetermined,Foot,False,-111.84899999999999,33.379,True,1
+2214,2214,2752,3059,Samantha Hennard,22/10/2017,shot,gun,25.0,F,White,St. Joseph,MO,False,attack,Foot,False,-94.848,39.747,True,1
+2216,2216,2755,3064,Ashleigh Bertucci,23/10/2017,shot,gun,31.0,F,White,Shelbyville,KY,True,other,Not fleeing,True,-85.219,38.191,True,1
+2245,2245,2799,3106,Talathia Brooks,7/11/2017,shot,gun,32.0,F,White,Marietta,GA,True,attack,Not fleeing,False,-84.48,33.972,True,1
+2321,2321,2926,3246,Brooke Amelia Camacho,26/12/2017,shot,gun,38.0,F,Hispanic,Farmers Branch,TX,False,attack,Not fleeing,False,-96.889,32.924,True,1
+2329,2329,2944,3291,Shana Diane Musquiz,2/1/2018,shot,gun,30.0,F,White,Camp Wood,TX,False,attack,Not fleeing,False,-100.01100000000001,29.67,True,1
+2366,2366,2989,3323,Kerry Lee Nield,16/1/2018,shot,gun,53.0,F,White,Gooding,ID,False,attack,Not fleeing,False,-114.654,42.931000000000004,True,1
+2393,2393,3029,3360,Kirsten Kloppe,27/1/2018,shot,gun,43.0,F,White,San Antonio,TX,True,attack,Not fleeing,False,-98.5,29.565,True,1
+2521,2521,3207,3539,Kaitlin Marie Demeo,24/3/2018,shot,gun,25.0,F,White,Columbus,OH,False,attack,Not fleeing,False,-82.835,39.876999999999995,True,1
+2549,2549,3243,3581,Alexis Stinson,4/4/2018,shot,gun,44.0,F,White,Phoenix,AZ,False,attack,Not fleeing,False,-112.152,33.655,True,1
+2572,2572,3271,3605,Betty Lemoine,11/4/2018,shot,gun,71.0,F,White,Winn Parish,LA,False,attack,Not fleeing,False,-92.932,31.826,True,1
+2627,2627,3349,3675,Kimberly McCann,7/5/2018,shot,gun,55.0,F,White,Floyd County,GA,False,attack,Car,False,-85.18700000000003,34.214,True,1
+2629,2629,3351,3747,Lisa Rivera,7/5/2018,shot,gun,49.0,F,Hispanic,Yuma,AZ,False,other,Not fleeing,False,-114.618,32.721,True,1
+2658,2658,3390,3710,Makell Meyerin,23/5/2018,shot,gun,31.0,F,White,Gurnee,IL,False,attack,Foot,False,-87.943,42.38,True,1
+2738,2738,3504,3827,Sylvia Marie Bejarano,5/7/2018,shot,gun,33.0,F,Hispanic,Tempe,AZ,False,attack,Other,False,-111.978,33.393,True,1
+2839,2839,3640,3998,Jennifer Sharp,25/8/2018,shot,gun,37.0,F,White,Alamosa,CO,False,attack,Car,False,-105.87,37.469,True,1
+2840,2840,3641,3996,Stephanie B. Owens,26/8/2018,shot,gun,41.0,F,White,Blacksburg,SC,True,attack,Not fleeing,False,-81.525,35.066,True,1
+2847,2847,3649,4005,Jessica Cribbs,30/8/2018,shot,gun,45.0,F,White,Beverly Hills,FL,False,attack,Not fleeing,False,-82.536,28.948,True,1
+2908,2908,3731,4090,Leslie Shayne Miller,10/10/2018,shot,gun,49.0,F,White,Sullivan,IN,False,attack,Not fleeing,False,-87.427,39.101,True,1
+2929,2929,3761,4132,Kimberly Norris,20/10/2018,shot,gun,34.0,F,White,Darlington County,SC,False,attack,Not fleeing,True,-80.221,34.365,True,1
+2971,2971,3827,4182,Jenessa M. Cooper,17/11/2018,shot,gun,49.0,F,White,Missoula,MT,True,attack,Not fleeing,False,-114.00399999999999,46.857,True,1
+3005,3005,3880,4288,Kaley Gay,11/12/2018,shot,gun,25.0,F,White,Bibb County,GA,False,attack,Not fleeing,False,-83.762,32.756,True,1
+3006,3006,3881,4291,Tori Kaneshiro,11/12/2018,shot,gun,30.0,F,Asian,Pahoa,HI,False,attack,Not fleeing,False,-154.92,19.529,True,1
+3009,3009,3885,4296,Tameka LaShay Simpson,11/12/2018,shot,gun,27.0,F,Black,Calhoun,GA,False,attack,Not fleeing,False,-84.95100000000002,34.499,True,1
+3019,3019,3901,4302,Angel Viola Decarlo,18/12/2018,shot,gun,31.0,F,Black,Hopewell,VA,False,attack,Foot,False,-77.293,37.295,True,1
+3195,3195,4137,4566,Nina Adams,13/3/2019,shot,gun,47.0,F,Black,Greensburg,PA,True,attack,Not fleeing,False,-79.536,40.325,True,1
+3230,3230,4184,4609,Lianna Renee London,1/4/2019,shot,gun,28.0,F,White,LaFollette,TN,False,attack,Not fleeing,False,-84.117,36.38800000000001,True,1
+3298,3298,4290,4733,Elizabeth Harris,16/5/2019,shot,gun,58.0,F,White,New Boston,TX,True,attack,Not fleeing,False,-94.415,33.461999999999996,True,1
+3305,3305,4301,4723,Michael Ann Godsey,20/5/2019,shot,gun,34.0,F,White,Blackwell,OK,False,attack,Car,False,-97.288,36.812,True,1
+3321,3321,4324,4756,Crystal Danielle Ragland,30/5/2019,shot,gun,32.0,F,Black,Huntsville,AL,True,attack,Not fleeing,False,-86.60799999999998,34.709,True,1
+3423,3423,4462,5465,Kelly Danielle Brumley,16/7/2019,shot,gun,40.0,F,White,Lake Jackson,TX,False,attack,Car,False,-95.45700000000001,29.053,True,1
+3465,3465,4538,4966,Jamie Fernandez,15/8/2019,shot,gun,31.0,F,Hispanic,Denver,CO,False,attack,Foot,False,-105.038,39.739000000000004,True,1
+3562,3562,4714,5216,Claudia Nadia Rodriguez,21/10/2019,shot,gun,37.0,F,Hispanic,Henderson,NV,False,attack,Not fleeing,True,-115.119,36.159,True,1
+3599,3599,4777,5182,Tammy Pierce,11/11/2019,shot,gun,59.0,F,White,Loveland,CO,False,attack,Not fleeing,False,-105.12299999999999,40.414,True,1
+3614,3614,4804,5263,Jessica Ann Beedles,20/11/2019,shot,gun,42.0,F,White,Los Angeles,CA,False,other,Not fleeing,False,-118.665,34.18,True,1
+3647,3647,4852,5271,Francine Graham,10/12/2019,shot,gun,50.0,F,Black,Jersey City,NJ,False,attack,Not fleeing,False,-74.084,40.707,True,1
+3756,3756,5001,5436,Rebecca Angel Alexander,24/1/2020,shot,gun,35.0,F,White,Coden,AL,True,attack,Not fleeing,False,-88.169,30.464000000000002,True,1
+3840,3840,5123,5622,Jennifer Taylor,9/3/2020,shot,gun,29.0,F,White,Dinuba,CA,True,attack,Not fleeing,False,-119.37700000000001,36.548,True,1
+3864,3864,5173,5717,Deanna Marie Owsianiak,26/3/2020,shot,gun,55.0,F,White,Ormond Beach,FL,False,attack,Not fleeing,False,-81.066,29.305999999999997,True,1
+3925,3925,5286,5808,Sandra Lee Harmon,5/5/2020,shot,gun,56.0,F,White,Half Moon Bay,CA,True,attack,Not fleeing,False,-122.43,37.458,True,1
+3969,3969,5353,5875,Tracy Drowne,26/5/2020,shot,gun,42.0,F,White,Orlando,FL,False,attack,Not fleeing,False,-81.157,28.549,True,1
+4020,4020,5442,5957,Bonnie Figueroa-Ortiz,27/6/2020,shot,gun,40.0,F,White,Port Richey,FL,False,attack,Foot,False,-82.72,28.272,True,1
+4027,4027,5450,5962,Brittany S. Teichroeb,29/6/2020,shot,gun,26.0,F,White,Midland,TX,False,other,Other,False,-102.161,31.996,True,1
+4064,4064,5499,6005,Deborah White,22/7/2020,shot,gun,49.0,F,White,Largo,FL,False,attack,Foot,False,-82.714,27.916,True,1
+4100,4100,5555,6058,Lyana Gilmore,11/8/2020,shot,gun,48.0,F,Hispanic,Pueblo,CO,True,attack,Not fleeing,False,-104.641,38.281,True,1
+4157,4157,5648,6180,Andrea Churna,20/9/2020,shot,gun,39.0,F,White,Redmond,WA,False,other,Not fleeing,False,-122.12700000000001,47.68,True,1
+4179,4179,5682,6222,Crystal Renee Starling-McClinton,6/10/2020,shot,gun,48.0,F,White,Hilliard,FL,True,attack,Not fleeing,False,-81.918,30.698,True,1
+4241,4241,5793,6354,Wendy Jones,7/11/2020,shot,gun,56.0,F,White,Village of Oak Creek,AZ,False,other,Not fleeing,True,-111.775,34.785,True,1
+4261,4261,5837,6433,Brittany Nicole Yoder,21/11/2020,shot,gun,34.0,F,White,Ohatchee,AL,False,attack,Not fleeing,True,-85.946,33.799,True,1
+4309,4309,5954,6488,Betty Francois,9/1/2021,shot,gun,91.0,F,White,Victorville,CA,False,attack,Not fleeing,False,-117.29299999999999,34.536,True,1

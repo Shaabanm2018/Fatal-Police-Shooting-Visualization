@@ -1,0 +1,351 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+2,2,2,5,John Paul Quintero,3/1/2015,shot and Tasered,unarmed,23.0,M,Hispanic,Wichita,KS,False,other,Not fleeing,False,-97.281,37.695,True,1
+7,7,8,16,Autumn Steele,6/1/2015,shot,unarmed,34.0,F,White,Burlington,IA,False,other,Not fleeing,True,-91.119,40.809,True,1
+14,14,17,36,Artago Damon Howard,8/1/2015,shot,unarmed,36.0,M,Black,Strong,AR,False,attack,Not fleeing,False,-92.359,33.111,True,1
+54,54,62,352,Joshua Omar Garcia,26/1/2015,shot,unarmed,24.0,M,Hispanic,Tahoka,TX,False,other,Car,False,-101.666,33.166,True,1
+62,62,72,342,Ralph Willis,29/1/2015,shot,unarmed,42.0,M,White,Stillwater,OK,False,other,Foot,False,-97.05,36.121,True,1
+68,68,78,114,David Kassick,2/2/2015,shot and Tasered,unarmed,59.0,M,White,Hummelstown,PA,False,other,Foot,False,-76.71300000000002,40.273,True,1
+73,73,83,116,Jeremy Lett,4/2/2015,shot,unarmed,28.0,M,Black,Tallahassee,FL,False,attack,Not fleeing,False,-84.33,30.465999999999998,True,1
+76,76,86,125,Joaquin Hernandez,4/2/2015,shot,unarmed,28.0,M,Hispanic,Tempe,AZ,False,other,Not fleeing,False,-111.978,33.378,True,1
+92,92,102,138,Antonio Zambrano-Montes,10/2/2015,shot and Tasered,unarmed,35.0,M,Hispanic,Pasco,WA,True,other,Foot,False,-119.101,46.228,True,1
+96,96,107,147,Richard Carlin,13/2/2015,shot,unarmed,35.0,M,Hispanic,Reading,PA,False,other,Not fleeing,False,-75.908,40.329,True,1
+102,102,114,150,Lavall Hall,15/2/2015,shot and Tasered,unarmed,25.0,M,Black,Miami Gardens,FL,True,other,Not fleeing,False,-80.208,25.951,True,1
+107,107,119,159,Michael Ireland,17/2/2015,shot,unarmed,31.0,M,White,Springfield,MO,False,other,Foot,False,-93.319,37.225,True,1
+111,111,124,165,Ruben Villalpando,20/2/2015,shot,unarmed,31.0,M,Hispanic,Euless,TX,False,other,Not fleeing,False,-97.1,32.874,True,1
+122,122,136,371,Daniel Elrod,23/2/2015,shot and Tasered,unarmed,39.0,M,White,Omaha,NE,False,other,Not fleeing,False,-95.93299999999999,41.244,True,1
+127,127,142,183,Rodney Biggs,26/2/2015,shot,unarmed,49.0,M,White,Gulfport,MS,False,other,Not fleeing,False,-89.09200000000001,30.425,True,1
+129,129,144,180,Alexander Phillip Long,26/2/2015,shot and Tasered,unarmed,31.0,M,White,Terre Haute,IN,False,other,Not fleeing,False,-87.37899999999998,39.463,True,1
+130,130,145,185,Ernesto Javiar Canepa Diaz,27/2/2015,shot,unarmed,27.0,M,Hispanic,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.87899999999999,33.747,True,1
+132,132,147,188,Thomas Allen,28/2/2015,shot,unarmed,34.0,M,Black,St Louis,MO,False,other,Car,False,-90.23200000000001,38.598,True,1
+137,137,152,187,Deven Guilford,28/2/2015,shot and Tasered,unarmed,17.0,M,White,Roxand Township,MI,False,attack,Not fleeing,True,-84.837,42.756,True,1
+140,140,155,194,Charly Leundeu Keunang,1/3/2015,shot and Tasered,unarmed,43.0,M,Black,Los Angeles,CA,True,attack,Not fleeing,True,-118.245,34.043,True,1
+144,144,159,199,Derek Cruice,4/3/2015,shot,unarmed,26.0,M,White,Deltona,FL,False,other,Not fleeing,False,-81.25399999999998,28.886999999999997,True,1
+147,147,162,201,Sergio Alexander Navas,5/3/2015,shot,unarmed,36.0,M,Hispanic,Burbank,CA,False,other,Car,False,-118.345,34.150999999999996,True,1
+149,149,164,203,Tony Robinson,6/3/2015,shot,unarmed,19.0,M,Black,Madison,WI,False,attack,Foot,False,-89.365,43.083,True,1
+150,150,165,269,Naeschylus  Vinzant,6/3/2015,shot,unarmed,37.0,M,Black,Aurora,CO,False,undetermined,Foot,False,-104.916,39.735,True,1
+154,154,171,205,Anthony Hill,9/3/2015,shot,unarmed,27.0,M,Black,Atlanta,GA,True,other,Not fleeing,False,-84.26700000000002,33.88,True,1
+167,167,186,282,Bobby Gross,12/3/2015,shot,unarmed,35.0,M,Black,Washington,DC,True,other,Not fleeing,False,-76.983,38.882,True,1
+171,171,190,351,Antonio Perez,13/3/2015,shot,unarmed,32.0,M,Hispanic,Walnut Creek,CA,False,other,Foot,False,-118.229,33.971,True,1
+182,182,201,292,Roberto Leon,17/3/2015,shot,unarmed,22.0,M,Hispanic,Sacramento,CA,False,undetermined,Car,False,-121.50399999999999,38.681999999999995,True,1
+186,186,206,229,Brandon Jones,19/3/2015,shot,unarmed,18.0,M,Black,Cleveland,OH,False,attack,Not fleeing,False,-81.609,41.528999999999996,True,1
+189,189,209,295,Jamison  Childress,19/3/2015,shot,unarmed,20.0,M,White,Sumas,WA,True,attack,Not fleeing,False,-122.273,49.0,True,1
+226,226,248,291,Eric Harris,2/4/2015,shot,unarmed,44.0,M,Black,Tulsa,OK,False,other,Not fleeing,False,-95.94,36.184,True,1
+233,233,255,297,Walter Scott,4/4/2015,shot and Tasered,unarmed,50.0,M,Black,North Charleston,SC,False,other,Foot,False,-80.014,32.899,True,1
+258,258,282,367,Frank Shephard,15/4/2015,shot,unarmed,41.0,M,Black,Houston,TX,False,other,Car,False,-95.17299999999999,29.805999999999997,True,1
+271,271,295,393,Daniel Covarrubias,21/4/2015,shot,unarmed,37.0,M,Native Hawaiian,Lakewood,WA,True,other,Foot,False,-122.485,47.16,True,1
+274,274,299,391,William Chapman,22/4/2015,shot,unarmed,18.0,M,Black,Portsmouth,VA,False,undetermined,Not fleeing,False,-76.34,36.83,True,1
+281,281,306,409,Hector Morejon,23/4/2015,shot,unarmed,19.0,M,Hispanic,Long Beach,CA,False,other,Not fleeing,False,-118.17399999999999,33.781,True,1
+286,286,312,411,David Felix,25/4/2015,shot,unarmed,24.0,M,Black,New York,NY,True,attack,Foot,False,-73.982,40.725,True,1
+288,288,314,404,Billy Joe Patrick,26/4/2015,shot,unarmed,29.0,M,White,Bunch,OK,False,attack,Not fleeing,False,-94.772,35.745,True,1
+300,300,327,418,Fridoon Zalbeg Nehad,30/4/2015,shot,unarmed,42.0,M,Other,San Diego,CA,True,other,Not fleeing,True,-117.206,32.754,True,1
+308,308,336,429,Brendon Glenn,5/5/2015,shot,unarmed,29.0,M,Black,Venice,CA,False,attack,Not fleeing,True,-118.47200000000001,33.988,True,1
+329,329,362,457,Alfredo Rials-Torres,19/5/2015,shot,unarmed,54.0,M,Hispanic,Arlington,VA,False,attack,Not fleeing,False,-77.105,38.87300000000001,True,1
+354,354,387,491,Feras Morad,27/5/2015,shot and Tasered,unarmed,20.0,M,Other,Long Beach,CA,False,other,Not fleeing,False,-118.139,33.785,True,1
+361,361,396,500,Ebin Lamont Proctor,30/5/2015,shot,unarmed,19.0,M,White,Cottonwood,AZ,False,attack,Foot,False,-111.986,34.69,True,1
+371,371,407,513,Rudy Baca,3/6/2015,shot and Tasered,unarmed,36.0,M,Hispanic,Los Lunas,NM,False,attack,Not fleeing,False,-106.756,34.751,True,1
+382,382,420,525,Jeremy Linhart,9/6/2015,shot,unarmed,30.0,M,White,Findlay,OH,False,attack,Not fleeing,False,-83.662,41.037,True,1
+385,385,423,539,Ryan Bolinger,9/6/2015,shot,unarmed,28.0,M,White,Des Moines,IA,False,other,Car,False,-93.698,41.62300000000001,True,1
+394,394,436,550,Kris Jackson,15/6/2015,shot,unarmed,22.0,M,Black,South Lake Tahoe,CA,False,other,Foot,False,-119.95100000000001,38.951,True,1
+404,404,446,555,Adrian Simental,21/6/2015,shot,unarmed,24.0,M,Hispanic,Azusa,CA,True,other,Not fleeing,False,-117.9,34.129,True,1
+409,409,452,572,Joshua Dyer,23/6/2015,shot,unarmed,34.0,M,White,Indianapolis,IN,False,other,Car,False,-86.12,39.826,True,1
+414,414,457,567,Spencer McCain,25/6/2015,shot,unarmed,41.0,M,Black,Owings Mills,MD,True,other,Not fleeing,False,-76.806,39.411,True,1
+425,425,469,603,Victor Emanuel Larosa,2/7/2015,shot,unarmed,23.0,M,Black,Jacksonville,FL,False,attack,Foot,False,-81.626,30.3,True,1
+433,433,479,592,John Deming,5/7/2015,shot,unarmed,19.0,M,White,Pleasanton,CA,False,attack,Foot,False,-121.87200000000001,37.662,True,1
+435,435,481,605,Johnny Ray Anderson,5/7/2015,shot,unarmed,43.0,M,White,Hawaiian Gardens,CA,False,other,Not fleeing,False,-118.071,33.833,True,1
+463,463,512,631,Salvado Ellswood,12/7/2015,shot and Tasered,unarmed,36.0,M,Black,Plantation,FL,False,attack,Not fleeing,False,-80.20100000000002,26.118000000000002,True,1
+475,475,529,657,Darrius Stewart,17/7/2015,shot,unarmed,19.0,M,Black,Memphis,TN,False,attack,Foot,False,-89.874,35.05,True,1
+476,476,531,651,Albert Joseph Davis,17/7/2015,shot and Tasered,unarmed,23.0,M,Black,Orlando,FL,False,attack,Foot,False,-81.334,28.522,True,1
+480,480,535,653,Samuel DuBose,19/7/2015,shot,unarmed,43.0,M,Black,Mt. Auburn,OH,False,other,Car,True,-84.51299999999998,39.122,True,1
+483,483,538,661,Darren Billy Wilson,21/7/2015,shot,unarmed,47.0,M,White,White,GA,False,other,Not fleeing,False,-84.79899999999998,34.313,True,1
+493,493,548,670,Derek Wolfsteller,23/7/2015,shot and Tasered,unarmed,31.0,M,White,Plymouth,MN,True,attack,Not fleeing,False,-93.41,44.985,True,1
+523,523,586,711,Christian Taylor,7/8/2015,shot,unarmed,19.0,M,Black,Arlington,TX,False,other,Not fleeing,False,-97.09299999999999,32.68,True,1
+542,542,611,740,Asshams Pharoah Manley,14/8/2015,shot,unarmed,30.0,M,Black,District Heights,MD,True,attack,Foot,False,-76.916,38.865,True,1
+546,546,616,741,John Unsworth,15/8/2015,shot and Tasered,unarmed,43.0,M,White,Hanover,IN,False,attack,Not fleeing,False,-70.877,42.06399999999999,True,1
+550,550,620,749,Richard Jacquez,17/8/2015,shot,unarmed,40.0,M,Hispanic,San Jose,CA,False,other,Foot,False,-121.82799999999999,37.273,True,1
+557,557,627,755,Jeffory Ray Tevis,20/8/2015,shot and Tasered,unarmed,50.0,M,White,Tuscaloosa,AL,True,attack,Not fleeing,False,-87.493,33.207,True,1
+578,578,655,788,Felix Kumi,28/8/2015,shot,unarmed,61.0,M,Black,Mount Vernon,NY,False,other,Not fleeing,False,-73.825,40.908,True,1
+582,582,659,795,Rafael Cruz Jr,29/8/2015,shot,unarmed,29.0,M,Hispanic,Chicago,IL,False,undetermined,Car,False,-87.671,41.851000000000006,True,1
+589,589,667,1409,Freddy Centeno,3/9/2015,shot,unarmed,40.0,M,Hispanic,Fresno,CA,True,attack,Not fleeing,True,-119.764,36.735,True,1
+596,596,676,808,India Kager,5/9/2015,shot,unarmed,27.0,F,Black,Virginia Beach,VA,False,undetermined,Not fleeing,False,-76.125,36.79,True,1
+616,616,699,829,David Todd Powell,14/9/2015,shot,unarmed,28.0,M,White,Barstow,CA,True,attack,Not fleeing,False,-117.01899999999999,34.884,True,1
+633,633,719,850,Garrett Steven McKinney,21/9/2015,shot and Tasered,unarmed,21.0,M,White,Paris,TX,False,attack,Not fleeing,False,-95.632,33.657,True,1
+639,639,726,859,Keith Harrison McLeod,23/9/2015,shot,unarmed,19.0,M,Black,Reisterstown,MD,False,other,Foot,False,-76.83,39.468,True,1
+644,644,732,866,William Lemmon,25/9/2015,shot,unarmed,21.0,M,White,Akron,OH,True,undetermined,Other,False,-81.509,41.099,True,1
+652,652,741,872,Junior Prosper,28/9/2015,shot and Tasered,unarmed,31.0,M,Black,Miami,FL,False,attack,Foot,False,-92.419,45.347,True,1
+653,653,743,880,Robert  Christen,29/9/2015,shot,unarmed,37.0,M,White,Mora,MN,False,attack,Not fleeing,False,-93.296,45.872,True,1
+657,657,747,892,Matthew Dobbins,2/10/2015,shot,unarmed,29.0,M,White,Amarillo,TX,False,undetermined,Not fleeing,False,-101.883,35.056999999999995,True,1
+663,663,754,895,Omar Ali,5/10/2015,shot,unarmed,27.0,M,Other,Akron,OH,False,other,Not fleeing,False,-81.436,41.042,True,1
+685,685,783,924,Johnny Angel Rangel,16/10/2015,shot,unarmed,27.0,M,Hispanic,Valinda,CA,False,attack,Not fleeing,False,-117.916,34.031,True,1
+698,698,798,941,Ryan Christopher Rodriguez,21/10/2015,shot,unarmed,21.0,M,Hispanic,West Goshen,CA,True,attack,Not fleeing,False,-119.462,36.351,True,1
+711,711,813,956,Kobvey Igbuhay,26/10/2015,shot,unarmed,18.0,M,Other,Tampa,FL,False,attack,Foot,False,-82.516,28.03,True,1
+713,713,815,958,Anthony Ashford,28/10/2015,shot,unarmed,29.0,M,Black,Point Loma,CA,False,attack,Not fleeing,False,-117.22399999999999,32.726,True,1
+725,725,828,970,Bennie Lee Tignor,31/10/2015,shot,unarmed,56.0,M,Black,Opelika,AL,False,other,Car,False,-85.36,32.61,True,1
+730,730,833,980,Jeremy Mardis,3/11/2015,shot,unarmed,6.0,M,White,Marksville,LA,False,other,Car,True,-92.05,31.125,True,1
+734,734,837,981,Timothy Gene Smith,4/11/2015,shot,unarmed,47.0,M,White,Pacific Beach,CA,False,other,Foot,True,-117.23899999999999,32.797,True,1
+754,754,865,1012,Jamar Clark,15/11/2015,shot,unarmed,24.0,M,Black,Minneapolis,MN,False,undetermined,Not fleeing,False,-93.301,44.992,True,1
+758,758,872,1016,Derry Touchstone,17/11/2015,shot,unarmed,58.0,M,White,Arlington,GA,False,other,Not fleeing,False,-84.723,31.432,True,1
+765,765,880,1023,Nathaniel Harris Pickett,20/11/2015,shot,unarmed,29.0,M,Black,Barstow,CA,True,attack,Not fleeing,False,-117.027,34.898,True,1
+767,767,883,1026,Chris Nichols,21/11/2015,shot,unarmed,24.0,M,White,Colbert,OK,False,attack,Foot,False,-96.512,33.853,True,1
+779,779,895,1104,Andrew Thomas,26/11/2015,shot,unarmed,26.0,M,White,Chico,CA,False,other,Car,True,-121.624,39.751999999999995,True,1
+804,804,925,1067,Miguel Espinal,8/12/2015,shot,unarmed,36.0,M,Black,Yonkers,NY,False,other,Foot,False,-73.87899999999998,40.924,True,1
+810,810,933,1075,Steven Wickert,11/12/2015,shot,unarmed,36.0,M,White,Tucson,AZ,False,attack,Not fleeing,False,-110.875,32.309,True,1
+842,842,975,1118,Kevin Matthews,23/12/2015,shot,unarmed,35.0,M,Black,Dearborn,MI,True,other,Not fleeing,False,-83.194,42.351000000000006,True,1
+852,852,993,1137,Keith Childress,31/12/2015,shot,unarmed,23.0,M,Black,Las Vegas,NV,False,other,Not fleeing,True,-115.272,36.133,True,1
+872,872,1017,1165,Ciara Meyer,11/1/2016,shot,unarmed,12.0,F,White,Penn Township,PA,False,other,Not fleeing,False,-77.03399999999998,40.398,True,1
+884,884,1029,1177,Kelsey Rose Hauser,16/1/2016,shot,unarmed,25.0,F,White,El Cajon,CA,False,other,Car,False,-116.963,32.795,True,1
+888,888,1034,1188,Daniel Shaver,17/1/2016,shot,unarmed,26.0,M,White,Mesa,AZ,False,other,Not fleeing,True,-111.685,33.415,True,1
+925,925,1074,1225,Michael Brown,31/1/2016,shot and Tasered,unarmed,25.0,M,White,Saginaw,TX,False,attack,Not fleeing,False,-97.391,32.873000000000005,True,1
+933,933,1082,1237,Antronie Scott,4/2/2016,shot,unarmed,36.0,M,Black,San Antonio,TX,False,other,Not fleeing,False,-98.493,29.529,True,1
+944,944,1095,1247,David Joseph,8/2/2016,shot,unarmed,17.0,M,Black,Austin,TX,False,other,Not fleeing,False,-97.667,30.396,True,1
+945,945,1097,1251,Gustavo Najera,9/2/2016,shot,unarmed,22.0,M,Hispanic,Anaheim,CA,False,undetermined,Not fleeing,True,-117.934,33.843,True,1
+959,959,1111,1270,Calin Roquemore,13/2/2016,shot,unarmed,24.0,M,Black,Beckville,TX,False,other,Other,False,-94.465,32.26,True,1
+960,960,1112,1272,Dyzhawn L. Perkins,13/2/2016,shot,unarmed,19.0,M,Black,Arvonia,VA,False,attack,Not fleeing,False,-78.396,37.673,True,1
+993,993,1150,1318,Christopher J. Davis,24/2/2016,shot,unarmed,21.0,M,Black,East Troy,WI,False,other,Car,False,-88.385,42.79600000000001,True,1
+998,998,1156,1324,Abraham Mitchell Fryer,26/2/2016,shot,unarmed,35.0,M,White,Rapid Valley,SD,False,attack,Not fleeing,False,-103.156,44.067,True,1
+1006,1006,1164,1331,Travis Boyd Bradley,2/3/2016,shot,unarmed,36.0,M,White,Bel Air,MD,True,other,Not fleeing,False,-76.333,39.492,True,1
+1009,1009,1168,1342,Brandon Stanley,4/3/2016,shot,unarmed,30.0,M,White,East Bernstadt,KY,False,undetermined,Not fleeing,False,-84.10799999999998,37.19,True,1
+1013,1013,1172,1333,James Scott,6/3/2016,shot,unarmed,42.0,M,White,Bismarck,ND,False,other,Foot,False,-100.743,46.809,True,1
+1029,1029,1190,1357,Peter Gaines,12/3/2016,shot and Tasered,unarmed,37.0,M,Black,Houston,TX,False,other,Foot,False,-95.337,29.794,True,1
+1031,1031,1193,1358,Jose Raul Cruz,13/3/2016,shot,unarmed,16.0,M,Hispanic,Addison,TX,False,undetermined,Car,False,-96.85600000000001,32.94,True,1
+1032,1032,1194,1359,Joshua Grubb,13/3/2016,shot,unarmed,30.0,M,White,Lenoir City,TN,False,other,Car,True,-84.256,35.797,True,1
+1040,1040,1203,1367,Cristian Rene Medina,16/3/2016,shot,unarmed,23.0,M,Hispanic,Florence,CA,True,other,Not fleeing,False,-118.241,33.981,True,1
+1089,1089,1262,1438,Kevin Hicks,5/4/2016,shot,unarmed,44.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,True,-86.117,39.797,True,1
+1103,1103,1278,1456,Dion Daman,12/4/2016,shot,unarmed,40.0,M,White,Denver,CO,False,other,Car,False,-104.99,39.736999999999995,True,1
+1108,1108,1284,1463,Jeff Robertson,14/4/2016,shot and Tasered,unarmed,54.0,M,White,McPherson,KS,True,attack,Not fleeing,False,-97.574,38.376999999999995,True,1
+1113,1113,1290,1466,Eric John Wilson,17/4/2016,shot,unarmed,22.0,M,White,El Paso,TX,True,other,Not fleeing,False,-106.554,31.872,True,1
+1156,1156,1343,1524,Christian Bowman,9/5/2016,shot,unarmed,23.0,M,White,St. Martin,MS,False,attack,Not fleeing,False,-88.844,30.458000000000002,True,1
+1174,1174,1364,1547,Jeremias Cruz,19/5/2016,shot,unarmed,30.0,M,Hispanic,Las Vegas,NV,False,attack,Not fleeing,False,-115.124,36.199,True,1
+1175,1175,1365,1548,Jessica Nelson-Williams,19/5/2016,shot,unarmed,29.0,F,Black,San Francisco,CA,False,other,Car,False,-122.431,37.732,True,1
+1180,1180,1371,1553,Travis Moore,21/5/2016,shot,unarmed,38.0,M,White,Oregon City,OR,True,attack,Not fleeing,False,-122.615,45.351000000000006,True,1
+1181,1181,1373,1554,Michael Eugene Wilson Jr.,22/5/2016,shot,unarmed,27.0,M,Black,Hallandale Beach,FL,False,other,Car,True,-80.125,25.980999999999998,True,1
+1182,1182,1375,1562,Vernell Bing,22/5/2016,shot,unarmed,22.0,M,Black,Jacksonville,FL,False,other,Car,False,-81.85300000000002,30.234,True,1
+1199,1199,1396,1579,Todd Brent Burroughs,29/5/2016,shot and Tasered,unarmed,38.0,M,White,Stoneville,NC,False,other,Car,False,-79.907,36.467,True,1
+1213,1213,1413,1596,Andrew Henson,7/6/2016,shot,unarmed,25.0,M,White,Wagoner,OK,False,other,Car,True,-95.384,35.946999999999996,True,1
+1238,1238,1448,1637,Antwun Shumpert,18/6/2016,shot,unarmed,37.0,M,Black,Tupelo,MS,False,attack,Foot,False,-88.72,34.245,True,1
+1247,1247,1460,1647,Deravis Caine Rogers,22/6/2016,shot,unarmed,22.0,M,Black,Atlanta,GA,False,undetermined,Other,False,-84.37,33.811,True,1
+1255,1255,1470,1653,Dylan Noble,25/6/2016,shot,unarmed,19.0,M,White,Fresno,CA,True,other,Car,True,-119.67299999999999,36.779,True,1
+1312,1312,1548,1736,Dalvin Hollins,27/7/2016,shot,unarmed,19.0,M,Black,Tempe,AZ,True,attack,Foot,False,-111.93,33.367,True,1
+1320,1320,1557,1744,Donnell Thompson,28/7/2016,shot,unarmed,27.0,M,Black,Compton,CA,False,attack,Other,False,-118.24600000000001,33.91,True,1
+1361,1361,1605,1792,Marcos Antonio Gastelum,16/8/2016,shot,unarmed,25.0,M,Hispanic,Tucson,AZ,False,attack,Not fleeing,False,-111.161,32.18,True,1
+1364,1364,1610,1796,Daniel Kevin Harris,18/8/2016,shot,unarmed,29.0,M,White,Charlotte,NC,False,other,Car,True,-80.719,35.279,True,1
+1389,1389,1640,1827,Levonia Riggins,30/8/2016,shot,unarmed,22.0,M,Black,Tampa,FL,False,other,Not fleeing,False,-82.36399999999998,27.934,True,1
+1418,1418,1680,1882,Christian Vargas,12/9/2016,shot,unarmed,25.0,M,Hispanic,Colton,CA,False,other,Car,False,-117.311,34.071999999999996,True,1
+1423,1423,1686,1889,Jesse Beshaw,16/9/2016,shot,unarmed,29.0,M,Native Hawaiian,Winooski,VT,False,other,Foot,True,-73.191,44.492,True,1
+1425,1425,1688,1888,Terence Crutcher,16/9/2016,shot and Tasered,unarmed,40.0,M,Black,Tulsa,OK,False,other,Not fleeing,False,-95.958,36.205999999999996,True,1
+1439,1439,1704,1908,Austin M. Baier,21/9/2016,shot,unarmed,23.0,M,White,Louisville,NE,False,other,Not fleeing,False,-96.163,41.001999999999995,True,1
+1440,1440,1705,1909,Jesse Ataway,23/9/2016,shot,unarmed,41.0,M,White,Fair Oaks,CA,False,attack,Foot,False,-121.23,38.665,True,1
+1447,1447,1713,1918,Alfred Olango,27/9/2016,shot,unarmed,38.0,M,Black,El Cajon,CA,True,attack,Not fleeing,True,-116.95200000000001,32.808,True,1
+1448,1448,1715,1919,Christopher Sowell,28/9/2016,shot,unarmed,32.0,M,Black,Philadelphia,PA,False,attack,Not fleeing,False,-75.165,39.953,True,1
+1474,1474,1747,1950,Maurico Barron,10/10/2016,shot,unarmed,27.0,M,Hispanic,Irvine,CA,True,other,Not fleeing,False,-117.795,33.684,True,1
+1502,1502,1787,1996,William Clifford Cole,26/10/2016,shot and Tasered,unarmed,36.0,M,White,Bartlesville,OK,False,attack,Not fleeing,False,-95.944,36.753,True,1
+1518,1518,1807,2015,Abraham Ortiz,4/11/2016,shot,unarmed,26.0,M,Hispanic,Palm Springs,CA,False,other,Not fleeing,False,-116.546,33.818000000000005,True,1
+1523,1523,1818,2014,David Contreras,6/11/2016,shot and Tasered,unarmed,33.0,M,Hispanic,Santa Ana,CA,False,attack,Not fleeing,False,-117.90299999999999,33.727,True,1
+1527,1527,1824,2028,Kenton Kobza,8/11/2016,shot and Tasered,unarmed,19.0,M,White,Hays,KS,False,attack,Car,False,-99.318,38.887,True,1
+1552,1552,1864,2142,Carlos Valencia,25/11/2016,shot,unarmed,26.0,M,Hispanic,Tucson,AZ,False,other,Not fleeing,True,-110.973,32.201,True,1
+1560,1560,1876,2090,Alexander Chance Partain,29/11/2016,shot,unarmed,31.0,M,White,Iva,SC,False,attack,Foot,False,-82.647,34.343,True,1
+1565,1565,1885,2098,Saif Nasser Mubarek Alameri,4/12/2016,shot,unarmed,26.0,M,Asian,Hudson,OH,False,other,Foot,False,-81.393,41.26300000000001,True,1
+1577,1577,1906,2114,Francisco Serna,12/12/2016,shot,unarmed,73.0,M,Hispanic,Bakersfield,CA,False,other,Not fleeing,False,-119.09,35.301,True,1
+1607,1607,1954,2179,Chase Anthony Tuseth,31/12/2016,shot and Tasered,unarmed,33.0,M,White,Mankato,MN,False,attack,Not fleeing,False,-93.947,44.177,True,1
+1625,1625,1973,2199,William Tucker Mathis,7/1/2017,shot,unarmed,41.0,M,White,Elkridge,MD,True,attack,Not fleeing,False,-76.777,39.196,True,1
+1629,1629,1978,2205,JR Williams,9/1/2017,shot,unarmed,38.0,M,Black,Phoenix,AZ,False,other,Foot,True,-112.134,33.568000000000005,True,1
+1632,1632,1981,2223,Darrion Barnhill,10/1/2017,shot and Tasered,unarmed,23.0,M,Black,Reagan,TN,False,attack,Not fleeing,False,-88.34299999999998,35.522,False,1
+1646,1646,2001,2231,Genevive Dawes,18/1/2017,shot,unarmed,21.0,F,White,Dallas,TX,False,other,Car,True,-96.764,32.793,True,1
+1661,1661,2017,2249,Daniel D. Rogers,23/1/2017,shot,unarmed,27.0,M,White,Springfield,IL,True,attack,Not fleeing,True,-89.662,39.808,True,1
+1665,1665,2021,2247,Dakota A. Lukecart,24/1/2017,shot,unarmed,22.0,M,White,Sugar Creek,MO,False,other,Car,False,-94.42299999999999,39.114000000000004,True,1
+1669,1669,2025,2257,Jonathan David Sper,24/1/2017,shot,unarmed,30.0,M,White,Algoma Township,MI,True,attack,Not fleeing,False,-85.57,43.166000000000004,True,1
+1682,1682,2041,2275,Steve Salgado,29/1/2017,shot,unarmed,18.0,M,Hispanic,Santa Ana,CA,False,other,Foot,False,-117.87100000000001,33.742,True,1
+1694,1694,2061,2348,Peter Torres,4/2/2017,shot,unarmed,23.0,M,Hispanic,Moultrie,GA,False,other,Not fleeing,False,-83.771,31.081999999999997,True,1
+1695,1695,2062,2283,Nana Adomako,5/2/2017,shot,unarmed,45.0,M,Black,Fremont,CA,True,attack,Not fleeing,False,-121.994,37.541,True,1
+1704,1704,2075,2343,Chad Robertson,8/2/2017,shot,unarmed,25.0,M,Black,Chicago,IL,False,other,Foot,False,-87.64,41.879,True,1
+1706,1706,2078,2313,Vincent Palma,9/2/2017,shot and Tasered,unarmed,26.0,M,White,Geneva Township,OH,False,other,Not fleeing,False,-80.916,41.803999999999995,True,1
+1719,1719,2097,2337,Raynard Burton,13/2/2017,shot,unarmed,19.0,M,Black,Detroit,MI,False,attack,Other,False,-83.12899999999998,42.376999999999995,True,1
+1728,1728,2108,2359,Joshua Henry,17/2/2017,shot,unarmed,30.0,M,White,Grand Prarie,TX,True,attack,Not fleeing,True,-96.99700000000001,32.717,True,1
+1736,1736,2118,2353,Jason Fanning,20/2/2017,shot,unarmed,27.0,M,White,St. Joseph,MO,False,attack,Not fleeing,False,-94.836,39.765,True,1
+1771,1771,2159,2405,Roy Dale Evans,7/3/2017,shot,unarmed,38.0,M,White,Medina,OH,False,other,Car,False,-81.78699999999998,41.161,True,1
+1791,1791,2193,2442,Alteria Woods,19/3/2017,shot,unarmed,21.0,F,Black,Gifford,FL,False,other,Not fleeing,False,-80.421,27.675,True,1
+1806,1806,2210,2712,David Eric Ufferman,26/3/2017,shot,unarmed,56.0,M,White,Delray Beach,FL,True,attack,Not fleeing,False,-80.083,26.461,True,1
+1819,1819,2226,2479,Rogelio Vidal Landa,4/4/2017,shot,unarmed,47.0,M,Hispanic,Bakersfield,CA,False,other,Foot,False,-119.005,35.275999999999996,True,1
+1836,1836,2252,2520,Isaiah Murrietta-Golding,15/4/2017,shot,unarmed,16.0,M,Hispanic,Fresno,CA,False,other,Foot,True,-119.772,36.801,True,1
+1841,1841,2261,2525,Sariah Marie Lane,20/4/2017,shot,unarmed,17.0,F,White,Glendale,AZ,False,other,Car,False,-112.17200000000001,33.553000000000004,True,1
+1847,1847,2270,2531,Jacy Kevin McManus,24/4/2017,shot,unarmed,35.0,M,White,Wolf Creek,OR,False,attack,Not fleeing,False,-123.395,42.69600000000001,True,1
+1856,1856,2283,2538,Jordan Edwards,29/4/2017,shot,unarmed,15.0,M,Black,Balch Springs,TX,False,undetermined,Not fleeing,True,-96.615,32.711999999999996,True,1
+1877,1877,2309,2566,John Bittle,9/5/2017,shot,unarmed,39.0,M,White,Lexington,SC,False,other,Foot,False,-81.34,33.839,True,1
+1883,1883,2317,2577,Jonathan David Victor,12/5/2017,shot,unarmed,35.0,M,White,Baldwin County,AL,False,other,Not fleeing,False,-122.27600000000001,37.779,True,1
+1900,1900,2340,2596,Ricco Devante Holden,21/5/2017,shot,unarmed,24.0,M,Black,Converse,LA,False,attack,Not fleeing,False,-93.699,31.781,True,1
+1901,1901,2341,2598,Carlos Garcia Petrovich,21/5/2017,shot,unarmed,37.0,M,Hispanic,Orlando,FL,False,attack,Not fleeing,False,-81.418,28.45,True,1
+1907,1907,2347,2604,Hayden J. Stutz,24/5/2017,shot,unarmed,24.0,M,White,Canton,OH,True,attack,Not fleeing,True,-81.385,40.821999999999996,True,1
+1916,1916,2367,2626,Marc Brandon Davis,2/6/2017,shot,unarmed,34.0,M,Black,Petal,MS,False,attack,Not fleeing,False,-89.259,31.357,True,1
+1931,1931,2388,2648,David Jones,8/6/2017,shot and Tasered,unarmed,30.0,M,Black,Philadelphia,PA,False,other,Foot,False,-75.119,40.01300000000001,True,1
+1949,1949,2411,2677,Jamie Dougan,16/6/2017,shot,unarmed,24.0,F,White,Water Valley,MS,False,other,Car,False,-89.624,34.141,True,1
+1964,1964,2426,2691,Armando Garcia-Muro,22/6/2017,shot,unarmed,17.0,M,Hispanic,Palmdale,CA,False,other,Not fleeing,False,-118.11200000000001,34.582,True,1
+1973,1973,2441,2717,Aaron Bailey,29/6/2017,shot,unarmed,45.0,M,Black,Indianapolis,IN,False,other,Car,False,-86.179,39.799,True,1
+1976,1976,2446,2725,Chet Knuppel,30/6/2017,shot,unarmed,23.0,M,White,Loveland,CO,False,attack,Foot,False,-105.03,40.588,True,1
+1994,1994,2468,2748,Jonathan Coronel,5/7/2017,shot,unarmed,24.0,M,Hispanic,Vista,CA,False,undetermined,Foot,False,-117.25299999999999,33.2,True,1
+1996,1996,2471,2745,Dejuan Guillory,6/7/2017,shot,unarmed,27.0,M,Black,Mamou,LA,False,other,Not fleeing,False,-92.40700000000001,30.593000000000004,True,1
+1997,1997,2472,2751,Brian Easley,7/7/2017,shot,unarmed,33.0,M,Black,Marietta,GA,True,attack,Not fleeing,False,-84.477,33.900999999999996,True,1
+2010,2010,2496,2779,Justine Damond,15/7/2017,shot,unarmed,40.0,F,White,Minneapolis,MN,False,undetermined,Not fleeing,False,-93.318,44.851000000000006,True,1
+2021,2021,2508,2791,Farhad Jabbari,19/7/2017,shot,unarmed,38.0,M,Other,Saginaw,MI,False,attack,Not fleeing,False,-84.006,43.403,True,1
+2047,2047,2539,2817,Isaiah Tucker,31/7/2017,shot,unarmed,28.0,M,Black,Oshkosh,WI,False,attack,Car,True,-88.56,44.012,True,1
+2069,2069,2565,2850,Christopher K. Sales,7/8/2017,shot,unarmed,36.0,M,White,Blue Summit,MO,False,other,Car,False,-94.476,39.089,True,1
+2107,2107,2609,2900,Charles David Robinson,25/8/2017,shot,unarmed,47.0,M,Black,Woodville,GA,False,attack,Foot,False,-83.068,33.716,True,1
+2116,2116,2620,2911,Anthony Antonio Ford,30/8/2017,shot,unarmed,27.0,M,Black,Miami,FL,False,other,Foot,False,-80.223,25.837,True,1
+2125,2125,2630,2921,William Porubsky,3/9/2017,shot,unarmed,30.0,M,White,Akron,OH,True,attack,Not fleeing,True,-81.45,41.196999999999996,True,1
+2129,2129,2638,2932,Timothy Elam,6/9/2017,shot,unarmed,42.0,M,White,Los Angeles,CA,False,attack,Not fleeing,False,-118.24700000000001,34.05,True,1
+2143,2143,2656,2957,Jacob Dominguez,15/9/2017,shot,unarmed,32.0,M,Hispanic,San Jose,CA,False,other,Car,False,-121.84200000000001,37.39,True,1
+2172,2172,2697,2998,Micah McComas,1/10/2017,shot,unarmed,41.0,M,White,Seward,AK,False,other,Car,True,-149.437,60.12600000000001,True,1
+2179,2179,2707,3009,Brandon Lee Bohanon,5/10/2017,shot,unarmed,35.0,M,White,Hiram,GA,False,other,Not fleeing,False,-84.774,33.861999999999995,True,1
+2194,2194,2727,3030,Kristian Martinez,11/10/2017,shot,unarmed,44.0,M,Hispanic,Valdez,CO,False,attack,Foot,False,-104.70299999999999,37.126,True,1
+2208,2208,2743,3050,Dewboy Lister,19/10/2017,shot,unarmed,55.0,M,Black,Corpus Christi,TX,False,attack,Foot,True,-97.41799999999999,27.802,True,1
+2212,2212,2750,3055,Nicholas Pimentel,22/10/2017,shot,unarmed,27.0,M,Hispanic,Ceres,CA,False,other,Car,False,-121.012,37.601,True,1
+2218,2218,2757,3066,Sean Bohinski,24/10/2017,shot,unarmed,37.0,M,White,Plymouth Township,PA,False,attack,Not fleeing,False,-76.01899999999998,41.221000000000004,True,1
+2254,2254,2809,3128,Ashley Jenkins,9/11/2017,shot,unarmed,23.0,F,White,Flatwoods,KY,False,other,Car,False,-82.727,38.518,True,1
+2264,2264,2821,3135,Calvin Toney,13/11/2017,shot,unarmed,24.0,M,Black,Baton Rouge,LA,False,attack,Foot,True,-91.13600000000001,30.500999999999998,True,1
+2265,2265,2825,3139,Dustin Robert Pigeon,15/11/2017,shot,unarmed,29.0,M,Asian,Oklahoma City,OK,True,other,Not fleeing,True,-97.541,35.444,True,1
+2270,2270,2831,3145,Martin Jim,17/11/2017,shot,unarmed,25.0,M,White,Albuquerque,NM,False,other,Car,False,-106.708,35.097,True,1
+2271,2271,2832,3146,Isaac Padilla,17/11/2017,shot,unarmed,23.0,M,Hispanic,Albuquerque,NM,False,other,Car,False,-106.708,35.097,True,1
+2273,2273,2834,3167,Bijan C. Ghaisar,17/11/2017,shot,unarmed,25.0,M,White,Fairfax,VA,False,undetermined,Car,False,-77.058,38.747,True,1
+2275,2275,2836,3149,Lawrence Hawkins,18/11/2017,shot,unarmed,56.0,M,Black,Prichard,AL,False,other,Car,False,-88.102,30.735,True,1
+2295,2295,2864,3176,Keita O'Neil,1/12/2017,shot,unarmed,42.0,M,Black,San Francisco,CA,False,other,Car,True,-122.38799999999999,37.719,True,1
+2302,2302,2871,3184,Jean Pedro Pierre,6/12/2017,shot,unarmed,42.0,M,Black,Lauderdale Lakes,FL,True,attack,Not fleeing,True,-80.197,26.151999999999997,True,1
+2305,2305,2875,3188,Kyler Grabbingbear,7/12/2017,shot,unarmed,19.0,M,Native Hawaiian,Denver,CO,False,undetermined,Foot,False,-104.96600000000001,39.854,True,1
+2312,2312,2895,3215,Michael Wilson,17/12/2017,shot,unarmed,27.0,M,Black,Hallandale Beach,FL,False,other,Car,False,-80.123,25.984,True,1
+2314,2314,2907,3229,Kameron Prescott,21/12/2017,shot,unarmed,6.0,M,White,Schertz,TX,False,other,Not fleeing,False,-98.257,29.552,True,1
+2323,2323,2930,3250,Andrew Finch,27/12/2017,shot,unarmed,28.0,M,White,Wichita,KS,False,other,Not fleeing,False,-97.353,37.673,True,1
+2344,2344,2961,3282,John Bailon,6/1/2018,shot and Tasered,unarmed,40.0,M,Black,Los Lunas,NM,False,other,Car,False,-106.73299999999999,34.806,True,1
+2349,2349,2966,3277,Tyler Miller,7/1/2018,shot and Tasered,unarmed,51.0,M,White,Sedona,AZ,True,other,Not fleeing,False,-111.76100000000001,34.87,True,1
+2367,2367,2990,3318,Bailey Turner,16/1/2018,shot and Tasered,unarmed,27.0,M,White,Adams County,CO,False,attack,Not fleeing,False,-104.98700000000001,39.833,True,1
+2376,2376,3002,3329,Arther McAfee Jr.,20/1/2018,shot,unarmed,61.0,M,Black,Longview,TX,True,other,Not fleeing,False,-94.647,32.555,True,1
+2379,2379,3008,3335,Jonathan Duane Atchley,22/1/2018,shot,unarmed,37.0,M,White,Sallisaw,OK,False,other,Not fleeing,False,-94.789,35.463,True,1
+2382,2382,3015,3344,Corey Mobley,23/1/2018,shot,unarmed,38.0,M,Black,Bradenton,FL,True,other,Car,False,-82.568,27.429000000000002,True,1
+2387,2387,3020,3349,Ulises Valladares,25/1/2018,shot,unarmed,47.0,M,Hispanic,Houston,TX,False,other,Not fleeing,False,-95.29299999999999,29.82800000000001,True,1
+2399,2399,3037,3366,Ricky Leon Rusche,30/1/2018,shot,unarmed,40.0,M,White,Pink,OK,False,other,Not fleeing,False,-97.105,35.24,True,1
+2402,2402,3040,3369,James M. Burks,1/2/2018,shot,unarmed,35.0,M,White,Waverly,OH,True,attack,Foot,False,-82.964,39.054,True,1
+2409,2409,3052,3381,Alan Greenough,3/2/2018,shot,unarmed,43.0,M,White,Reading,MA,False,other,Foot,False,-71.10600000000002,42.559,True,1
+2414,2414,3057,3386,James Benny Hobbs,6/2/2018,shot,unarmed,59.0,M,White,St. Augustine,FL,False,other,Not fleeing,False,-81.318,29.906,True,1
+2427,2427,3075,3405,Ronnell Foster,13/2/2018,shot,unarmed,33.0,M,Black,Vallejo,CA,False,attack,Foot,False,-122.258,38.104,True,1
+2445,2445,3101,3441,Darion Baker,21/2/2018,shot,unarmed,22.0,M,Black,Stratford,TX,False,other,Car,False,-102.07,36.334,True,1
+2447,2447,3104,3434,Mario Dantoni Bass,23/2/2018,shot,unarmed,37.0,M,Black,Woodbridge,VA,False,other,Foot,False,-77.33,38.584,True,1
+2480,2480,3146,4252,Amelia Huron-Macias,7/3/2018,shot,unarmed,84.0,F,White,Bexar County,TX,False,other,Not fleeing,False,-98.669,29.669,True,1
+2496,2496,3170,3511,Shermichael Ezeff,14/3/2018,shot,unarmed,31.0,M,Black,East Baton Rouge,LA,True,attack,Not fleeing,False,-91.12700000000001,30.45300000000001,True,1
+2497,2497,3172,3514,Cameron Hall,15/3/2018,shot and Tasered,unarmed,27.0,M,Black,Casa Grande,AZ,False,attack,Not fleeing,False,-111.721,32.942,True,1
+2502,2502,3180,3506,Stephon Clark,18/3/2018,shot,unarmed,23.0,M,Black,Sacramento,CA,False,other,Foot,True,-121.475,38.486999999999995,True,1
+2505,2505,3184,3520,Steven Nguyen,19/3/2018,shot,unarmed,27.0,M,Asian,Denver,CO,False,other,Car,False,-104.902,39.775999999999996,True,1
+2515,2515,3196,3529,Danny Thomas,22/3/2018,shot,unarmed,35.0,M,Black,Greenspoint,TX,True,attack,Not fleeing,False,-95.4,29.951,True,1
+2519,2519,3205,3537,Nikolai Yakunin,24/3/2018,shot,unarmed,42.0,M,White,Nikolaevsk,AK,False,attack,Not fleeing,False,-151.61700000000005,59.809,True,1
+2524,2524,3211,3551,Isaac Michael Scroggie,27/3/2018,shot,unarmed,24.0,M,White,Midway,FL,True,attack,Other,True,-86.992,30.408,True,1
+2565,2565,3260,3594,Juan Markee Jones,8/4/2018,shot,unarmed,25.0,M,Black,Danville,VA,False,other,Other,True,-79.384,36.617,True,1
+2595,2595,3299,3636,James Bauduy,20/4/2018,shot,unarmed,48.0,M,Black,Orlando,FL,False,other,Not fleeing,False,-81.38,28.616,True,1
+2610,2610,3321,3650,Brandon Busher,29/4/2018,shot,unarmed,38.0,M,White,Shreveport,LA,False,attack,Foot,False,-93.745,32.516999999999996,True,1
+2645,2645,3372,3687,Cody Reynolds,14/5/2018,shot,unarmed,20.0,M,White,Royal Oak,MI,False,attack,Not fleeing,False,-83.12700000000002,42.482,True,1
+2649,2649,3376,3696,Marcus-David L. Peters,14/5/2018,shot and Tasered,unarmed,24.0,M,Black,Richmond,VA,False,attack,Car,True,-77.442,37.553000000000004,True,1
+2659,2659,3392,3720,Claudia Patricia Gomez Gonzalez,23/5/2018,shot,unarmed,20.0,F,Hispanic,Rio Bravo,TX,False,attack,Not fleeing,False,-99.48,27.364,True,1
+2660,2660,3393,3717,Dustin D. Odom,24/5/2018,shot,unarmed,30.0,M,White,Citra,FL,False,attack,Foot,True,-82.11,29.412,True,1
+2661,2661,3394,3737,Brett Luengo,24/5/2018,shot,unarmed,33.0,M,White,Cleveland,OH,True,attack,Not fleeing,False,-81.68,41.515,True,1
+2672,2672,3410,3727,Andres Estrada,1/6/2018,shot,unarmed,21.0,M,Hispanic,Dundee,FL,False,attack,Not fleeing,False,-81.612,28.026999999999997,True,1
+2674,2674,3414,3728,Julio Eduardo Hernandez Mata,3/6/2018,shot,unarmed,32.0,M,Hispanic,Chickasha,OK,False,other,Car,False,-97.936,35.053000000000004,True,1
+2684,2684,3428,3761,Michael Renfroe,8/6/2018,shot,unarmed,36.0,M,White,Madison County,MS,False,undetermined,Not fleeing,False,-90.05799999999998,32.455999999999996,True,1
+2689,2689,3433,3763,Robert Lawrence White,11/6/2018,shot,unarmed,41.0,M,Black,Silver Spring,MD,True,attack,Not fleeing,True,-77.014,39.005,True,1
+2692,2692,3436,3766,Alexandre J. Aldrich,12/6/2018,shot,unarmed,34.0,M,White,Phoenix,AZ,False,other,Not fleeing,False,-112.074,33.488,True,1
+2701,2701,3450,3846,David L. Hicks,15/6/2018,shot,unarmed,40.0,M,White,Nokomis,IL,False,other,Foot,False,-89.289,39.306999999999995,True,1
+2703,2703,3453,3783,Richard Rivera,16/6/2018,shot,unarmed,47.0,M,Hispanic,Albuquerque,NM,False,attack,Car,False,-106.62200000000001,35.075,True,1
+2708,2708,3460,3789,Antwon Rose,19/6/2018,shot,unarmed,17.0,M,Black,Pittsburgh,PA,False,undetermined,Foot,False,-79.839,40.397,True,1
+2710,2710,3462,3792,Anthony Marcell Green,20/6/2018,shot,unarmed,33.0,M,Black,Kingsland,GA,False,attack,Foot,True,-81.653,30.789,True,1
+2736,2736,3502,3825,Daniel A. Fuller,5/7/2018,shot,unarmed,26.0,M,White,Devil's Lake,ND,False,attack,Foot,True,-98.865,48.113,True,1
+2742,2742,3509,3830,Kelly Kenneth Sutton,7/7/2018,shot,unarmed,27.0,M,White,Amity,OR,False,attack,Foot,False,-123.20200000000001,45.122,True,1
+2771,2771,3546,3895,Melyda Marciela Corado,21/7/2018,shot,unarmed,27.0,F,Hispanic,Los Angeles,CA,False,other,Foot,True,-118.272,34.107,True,1
+2793,2793,3573,3897,Joseph Santos,28/7/2018,shot,unarmed,44.0,M,Hispanic,South Whitehall Township,PA,False,undetermined,Not fleeing,False,-75.53,40.576,True,1
+2856,2856,3659,4013,James Leatherwood,5/9/2018,shot,unarmed,23.0,M,Black,Hollywood,FL,False,undetermined,Not fleeing,False,-80.20100000000002,25.998,True,1
+2894,2894,3710,4073,Brian Baker,1/10/2018,shot,unarmed,33.0,M,White,Orlando,FL,True,other,Not fleeing,False,-81.377,28.526,True,1
+2920,2920,3749,4106,Charles Roundtree,17/10/2018,shot,unarmed,18.0,M,Black,San Antonio,TX,False,other,Not fleeing,False,-98.52799999999999,29.44,True,1
+2924,2924,3755,4117,Jacob Servais,18/10/2018,shot,unarmed,19.0,M,Black,Vineland,NJ,False,other,Not fleeing,False,-75.044,39.451,True,1
+2934,2934,3769,4133,Nickolas Michael Peters,23/10/2018,shot,unarmed,24.0,M,White,Alderwood Manor,WA,False,attack,Car,False,-122.23899999999999,47.824,True,1
+2945,2945,3784,4158,Jesse J. Quinton,2/11/2018,shot,unarmed,35.0,M,Black,Idaho Falls,ID,False,attack,Foot,False,-112.03200000000001,43.49800000000001,True,1
+2956,2956,3803,4171,Cody Paris Belgard,9/11/2018,shot,unarmed,30.0,M,White,Salt Lake City,UT,False,undetermined,Car,True,-111.946,40.787,True,1
+2959,2959,3806,4169,Elisha Edward Kelley,11/11/2018,shot,unarmed,52.0,M,White,Wagoner,OK,False,other,Not fleeing,False,-95.37799999999999,35.958,True,1
+3020,3020,3903,4312,Danny Washington,18/12/2018,shot,unarmed,27.0,M,Black,Franklin Township,PA,False,attack,Car,False,-75.653,40.838,True,1
+3065,3065,3970,4375,Dimas Diaz,13/1/2019,shot,unarmed,38.0,M,Hispanic,Calabasas,CA,False,other,Car,False,-118.665,34.15,True,1
+3068,3068,3976,4372,Amiliano Antonio Apodaca,14/1/2019,shot,unarmed,18.0,M,Hispanic,Pueblo,CO,False,other,Car,False,-104.713,38.366,True,1
+3075,3075,3986,4389,Shawn Joseph Billinger,16/1/2019,shot,unarmed,46.0,M,White,Fort Lupton,CO,True,undetermined,Car,True,-104.818,40.086999999999996,True,1
+3080,3080,3993,4396,Matthew Neil Tuhkanen,19/1/2019,shot,unarmed,35.0,M,White,St. Louis Park,MN,True,undetermined,Not fleeing,False,-93.374,44.95399999999999,True,1
+3084,3084,3997,4397,Horacio Ruiz-Rodriguez,21/1/2019,shot,unarmed,37.0,M,Hispanic,Las Vegas,NV,True,other,Car,False,-115.14399999999999,36.171,True,1
+3085,3085,3998,4395,Jimmy Atchison,22/1/2019,shot,unarmed,21.0,M,Black,Atlanta,GA,False,undetermined,Foot,False,-84.491,33.751999999999995,True,1
+3086,3086,3999,4405,Preston Oszust,23/1/2019,shot,unarmed,20.0,M,White,Flagstaff,AZ,False,undetermined,Foot,False,-111.681,35.188,True,1
+3089,3089,4004,4409,Katlyn Alix,24/1/2019,shot,unarmed,24.0,F,White,St. Louis,MO,False,other,Not fleeing,False,-90.25,38.564,True,1
+3090,3090,4005,4514,Christian Albarran,24/1/2019,shot,unarmed,26.0,M,Hispanic,Ehrenberg,AZ,False,other,Car,False,-114.505,33.618,True,1
+3094,3094,4011,4420,Rhogena Nicholas,28/1/2019,shot,unarmed,58.0,F,White,Houston,TX,False,attack,Not fleeing,False,-95.28200000000001,29.709,True,1
+3118,3118,4040,4449,Morgan Shane West,7/2/2019,shot,unarmed,38.0,M,White,Snyder,TX,False,undetermined,Not fleeing,False,-100.93799999999999,32.705999999999996,True,1
+3121,3121,4044,4451,Aaron Allen Przekop,8/2/2019,shot,unarmed,25.0,M,White,Bakersfield,CA,False,other,Not fleeing,False,-119.257,35.292,True,1
+3143,3143,4070,4466,Delmar Espejo,18/2/2019,shot,unarmed,20.0,M,Asian,Honolulu,HI,False,attack,Not fleeing,False,-157.857,21.307,True,1
+3167,3167,4097,4550,Maurice Arrisgado,1/3/2019,shot,unarmed,47.0,M,Asian,Honolulu,HI,False,other,Foot,False,-157.885,21.328000000000007,True,1
+3168,3168,4098,4523,Eduardo Munoz,1/3/2019,shot and Tasered,unarmed,29.0,M,Hispanic,Fairfield,TX,False,other,Not fleeing,False,-96.165,31.725,True,1
+3170,3170,4101,4541,Tyler J. Meier,2/3/2019,shot,unarmed,46.0,M,White,Fairchild,WI,False,attack,Not fleeing,False,-91.04700000000001,44.625,True,1
+3176,3176,4112,4567,Stephanie Areanda Quiroz,5/3/2019,shot,unarmed,21.0,F,Hispanic,Bakersfield,CA,False,other,Car,False,-118.95,35.354,True,1
+3196,3196,4138,4570,Henry Wayne Rivera,13/3/2019,shot,unarmed,30.0,M,Hispanic,Phoenix,AZ,False,other,Other,False,-112.102,33.45,True,1
+3212,3212,4162,4589,Kevin Bruce Mason,24/3/2019,shot,unarmed,57.0,M,Black,Baltimore,MD,False,other,Not fleeing,True,-76.669,39.349000000000004,True,1
+3224,3224,4178,4610,Andrew John Mason,30/3/2019,shot,unarmed,22.0,M,White,Watauga County,NC,False,attack,Not fleeing,False,-81.575,36.255,True,1
+3231,3231,4188,4615,Donnell James Lang,2/4/2019,shot,unarmed,48.0,M,White,Redding,CA,True,attack,Not fleeing,False,-122.335,40.595,True,1
+3235,3235,4193,4619,Thomas Verile,4/4/2019,shot,unarmed,37.0,M,White,Kalamazoo,MI,True,other,Not fleeing,False,-85.546,42.333,True,1
+3239,3239,4198,4622,Marzeus Scott,7/4/2019,shot,unarmed,35.0,M,Black,Blytheville,AR,True,attack,Foot,True,-89.916,35.89,True,1
+3249,3249,4210,4664,Marcus McVae,11/4/2019,shot,unarmed,34.0,M,Black,Boerne,TX,False,attack,Foot,False,-98.74,29.781999999999996,True,1
+3276,3276,4251,4692,Isaiah Lewis,29/4/2019,shot and Tasered,unarmed,17.0,M,Black,Edmond,OK,False,attack,Foot,False,-97.51,35.65,True,1
+3281,3281,4264,4708,Ethan Austin Murray,4/5/2019,shot,unarmed,25.0,M,White,Spokane,WA,True,other,Foot,False,-117.238,47.683,True,1
+3311,3311,4311,4743,Luke H. Patterson,23/5/2019,shot,unarmed,41.0,M,White,Montgomery,NY,False,other,Not fleeing,False,-74.222,41.506,True,1
+3325,3325,4328,4753,Jesse Sarey,31/5/2019,shot,unarmed,26.0,M,Asian,Auburn,WA,True,other,Not fleeing,False,-122.214,47.295,True,1
+3326,3326,4329,4750,Thomas Goodeyes Gay,1/6/2019,shot,unarmed,35.0,M,Native Hawaiian,Bartlesville,OK,True,undetermined,Not fleeing,False,-95.917,36.735,True,1
+3331,3331,4337,4803,Kevin Pudlik,3/6/2019,shot,unarmed,41.0,M,White,Detroit,MI,False,other,Car,False,-83.119,42.3,True,1
+3337,3337,4344,4773,Ryan Twyman,6/6/2019,shot,unarmed,24.0,M,Black,Los Angeles,CA,False,other,Car,False,-118.27,33.913000000000004,True,1
+3352,3352,4368,5449,Juan Manuel Moreno,12/6/2019,shot,unarmed,35.0,M,Hispanic,Farmers Branch,TX,False,other,Car,False,-96.926,32.896,True,1
+3378,3378,4405,4820,Paul David Rea,27/6/2019,shot,unarmed,18.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,False,-118.14399999999999,34.03,True,1
+3394,3394,4427,4979,Li Xi Wang,3/7/2019,shot,unarmed,49.0,M,Asian,Chino,CA,False,other,Not fleeing,True,-117.656,34.021,True,1
+3398,3398,4433,4849,Joshua Ortiz,5/7/2019,shot,unarmed,21.0,M,White,Oak View,CA,False,attack,Not fleeing,False,-119.3,34.4,True,1
+3412,3412,4450,4879,Derek Antonio-Sanchez,13/7/2019,shot,unarmed,35.0,M,Hispanic,Kirkland,WA,False,attack,Not fleeing,False,-122.197,47.70399999999999,True,1
+3443,3443,4497,4922,Margarita Victoria Brooks,1/8/2019,shot,unarmed,30.0,F,White,Arlington,TX,False,other,Not fleeing,False,-97.09700000000001,32.769,True,1
+3475,3475,4557,4975,Riley Eugene Peay,22/8/2019,shot,unarmed,39.0,M,White,Glennville,GA,False,attack,Not fleeing,False,-81.92399999999998,31.949,True,1
+3476,3476,4559,4980,Chad Michael Breinholt,23/8/2019,shot,unarmed,31.0,M,White,West Valley City,UT,False,other,Not fleeing,True,-111.958,40.694,True,1
+3478,3478,4562,4981,Channara Tom Pheap,26/8/2019,shot,unarmed,33.0,M,Black,Knoxville,TN,False,attack,Not fleeing,False,-83.986,36.001,True,1
+3492,3492,4595,5020,John Carras,5/9/2019,shot,unarmed,43.0,M,White,East Hartford,CT,False,attack,Not fleeing,False,-72.574,41.745,True,1
+3501,3501,4613,5042,Melvin Watkins,14/9/2019,shot,unarmed,54.0,M,Black,Baton Rouge,LA,False,undetermined,Not fleeing,False,-90.999,30.362,True,1
+3527,3527,4656,5060,Dewayne Morgan,29/9/2019,shot and Tasered,unarmed,37.0,M,White,Longview,TX,False,attack,Foot,False,-94.713,32.449,True,1
+3544,3544,4690,5099,Christopher Whitfield,14/10/2019,shot,unarmed,31.0,M,Black,Ethel,LA,True,undetermined,Foot,False,-91.124,30.838,True,1
+3548,3548,4694,5105,Cameron Ely,15/10/2019,shot,unarmed,30.0,M,White,Hope Ranch,CA,False,other,Not fleeing,False,-119.758,34.411,True,1
+3607,3607,4792,5196,Robert Sikon,16/11/2019,shot,unarmed,41.0,M,White,Alliance,OH,False,attack,Foot,False,-81.146,40.621,True,1
+3627,3627,4823,5234,Eliborio Rodriguez,30/11/2019,shot,unarmed,40.0,M,Hispanic,Eugene,OR,False,attack,Not fleeing,False,-123.09100000000001,44.091,True,1
+3632,3632,4832,5249,Michael Dean,2/12/2019,shot,unarmed,28.0,M,Black,Temple,TX,False,undetermined,Not fleeing,False,-97.337,31.061,True,1
+3651,3651,4857,5393,Matthew Jonathan Krupar,11/12/2019,shot,unarmed,31.0,M,White,League City,TX,False,attack,Not fleeing,False,-95.109,29.456,True,1
+3729,3729,4961,5363,Clando Anitok,10/1/2020,shot and Tasered,unarmed,25.0,M,Asian,Spokane,WA,False,other,Car,False,-117.42200000000001,47.72,True,1
+3759,3759,5005,5434,William Howard Green,27/1/2020,shot,unarmed,43.0,M,Black,Temple Hills,MD,False,attack,Not fleeing,False,-76.962,38.815,True,1
+3764,3764,5011,5441,Jaquyn Oneill Light,29/1/2020,shot,unarmed,20.0,M,Black,Graham,NC,False,attack,Foot,False,-79.38600000000002,36.078,True,1
+3812,3812,5075,5576,Stephen O'Brien,24/2/2020,shot,unarmed,20.0,M,White,Floresville,TX,True,other,Not fleeing,False,-98.17200000000001,29.159000000000002,True,1
+3832,3832,5112,5620,Barry Gedeus,6/3/2020,shot,unarmed,27.0,M,Black,Fort Lauderdale,FL,False,attack,Foot,False,-80.175,26.13,True,1
+3833,3833,5114,5657,Kenneth Mullins,6/3/2020,shot,unarmed,32.0,M,White,Edison,CA,False,attack,Not fleeing,False,-119.81299999999999,36.713,True,1
+3837,3837,5120,5615,Brian Marksberry,8/3/2020,shot,unarmed,31.0,M,White,Humble,TX,False,other,Foot,False,-95.27,30.009,True,1
+3839,3839,5122,5623,Aaron Tolen,8/3/2020,shot,unarmed,37.0,M,White,Wasilla,AK,False,attack,Not fleeing,False,-149.597,61.551,True,1
+3842,3842,5128,5626,Breonna Taylor,12/3/2020,shot,unarmed,26.0,F,Black,Louisville,KY,False,undetermined,Not fleeing,False,-85.81700000000002,38.148,True,1
+3844,3844,5130,5663,Donnie Sanders,12/3/2020,shot,unarmed,47.0,M,Black,Kansas City,MO,False,undetermined,Foot,False,-94.556,39.034,True,1
+3865,3865,5174,5719,John Mark Hendrick,26/3/2020,shot,unarmed,32.0,M,White,Linwood,NC,False,other,Car,False,-80.40100000000002,35.75199999999999,True,1
+3870,3870,5194,5713,Jose Soto,2/4/2020,shot,unarmed,27.0,M,Hispanic,Manchester,CT,True,other,Not fleeing,False,-72.51100000000002,41.77,True,1
+3882,3882,5213,5736,Zachary Shane Gifford,9/4/2020,shot,unarmed,39.0,M,White,Brandon,CO,False,attack,Foot,False,-102.44,38.448,True,1
+3883,3883,5215,5738,Giuseppe Particianone,10/4/2020,shot,unarmed,33.0,M,White,Philadelphia,PA,False,other,Not fleeing,False,-75.189,39.934,True,1
+3898,3898,5249,5751,Michael Ramos,24/4/2020,shot,unarmed,42.0,M,Hispanic,Austin,TX,False,undetermined,Car,True,-97.73,30.22300000000001,True,1
+3911,3911,5269,5777,Nicholas Bils,1/5/2020,shot,unarmed,36.0,M,White,San Diego,CA,True,other,Foot,False,-117.165,32.717,True,1
+3912,3912,5270,5778,Shaun Lee Fuhr,1/5/2020,shot,unarmed,24.0,M,Black,Seattle,WA,False,attack,Foot,True,-122.33200000000001,47.606,True,1
+3956,3956,5330,5824,Tyler Hays,19/5/2020,shot,unarmed,29.0,M,White,Sale Creek,TN,False,attack,Not fleeing,False,-85.035,35.383,True,1
+3962,3962,5339,5873,Maurice S. Gordon,23/5/2020,shot,unarmed,28.0,M,Black,Bass River,NJ,False,attack,Not fleeing,True,-74.445,39.591,True,1
+3966,3966,5346,5841,Dion Johnson,25/5/2020,shot,unarmed,28.0,M,Black,Phoenix,AZ,False,other,Not fleeing,True,-111.97399999999999,33.674,True,1
+3998,3998,5407,5918,Hannah R. Fizer,13/6/2020,shot,unarmed,25.0,F,White,Sedalia,MO,False,other,Not fleeing,False,-93.27,38.71,True,1
+4014,4014,5435,5948,Robert D'Lon Harris,25/6/2020,shot,unarmed,34.0,M,Black,Vinita,OK,False,undetermined,Not fleeing,False,-95.15100000000001,36.622,True,1
+4083,4083,5530,6037,David James Pruitte,4/8/2020,shot,unarmed,36.0,M,White,Port Orchard,WA,True,undetermined,Not fleeing,False,-122.663,47.527,True,1
+4086,4086,5536,6036,Jeffrey Scott Haarsma,7/8/2020,shot,unarmed,55.0,M,White,St. Petersburg,FL,True,attack,Not fleeing,False,-82.639,27.809,True,1
+4156,4156,5646,6186,Josh Sarrett,19/9/2020,shot,unarmed,32.0,M,White,Auburn,WA,True,undetermined,Not fleeing,False,-122.22200000000001,47.301,True,1
+4177,4177,5679,6221,Juan Adrian Garcia,5/10/2020,shot,unarmed,47.0,M,Hispanic,Napa,CA,False,other,Not fleeing,True,-122.271,38.258,True,1
+4185,4185,5689,6215,Anthony Michael Legato,9/10/2020,shot,unarmed,25.0,M,White,Pine County,MN,False,undetermined,Car,True,-92.88799999999999,46.105,True,1
+4202,4202,5725,6248,Marcellis Stinnette,20/10/2020,shot,unarmed,19.0,M,Black,Waukegan,IL,False,other,Car,True,-87.833,42.349,True,1
+4206,4206,5730,6334,Emmett Cocreham,20/10/2020,shot,unarmed,44.0,M,Hispanic,Phoenix,AZ,False,other,Not fleeing,True,-112.035,33.509,True,1
+4212,4212,5744,6389,David Angel Villalobos-Baldovinos,23/10/2020,shot,unarmed,30.0,M,Hispanic,San Ysidro,CA,False,attack,Not fleeing,False,-117.04700000000001,32.556,True,1
+4278,4278,5872,6410,Dylan Ray Scott,8/12/2020,shot,unarmed,27.0,M,White,Riverview,FL,True,attack,Car,True,-82.32,27.893,True,1
+4292,4292,5903,6451,William A. Riley-Jennings,20/12/2020,shot,unarmed,34.0,M,White,Anchorage,AK,False,undetermined,Car,False,-149.803,61.202,True,1
+4294,4294,5905,6434,Andre Maurice Hill,22/12/2020,shot,unarmed,47.0,M,Black,Columbus,OH,False,undetermined,Not fleeing,True,-83.042,40.025999999999996,True,1
+4298,4298,5923,6519,Jordan Crawford,28/12/2020,shot,unarmed,30.0,M,White,Phoenix,AZ,False,other,Foot,True,-112.117,33.546,True,1
+4305,4305,5947,6484,Ashli Babbitt,6/1/2021,shot,unarmed,35.0,F,White,Washington,DC,False,attack,Not fleeing,False,-77.009,38.89,True,1
+4311,4311,5956,6485,Patrick Lynn Warren,10/1/2021,shot,unarmed,52.0,M,Black,Killeen,TX,True,other,Not fleeing,True,-97.723,31.096,True,1
+4324,4324,6006,6562,Richard F. Thomas,1/2/2021,shot,unarmed,58.0,M,White,Caroline County,VA,False,undetermined,Not fleeing,False,-77.57300000000002,38.032,True,1

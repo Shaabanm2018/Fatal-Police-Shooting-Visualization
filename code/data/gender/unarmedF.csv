@@ -1,0 +1,22 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+7,7,8,16,Autumn Steele,6/1/2015,shot,unarmed,34.0,F,White,Burlington,IA,False,other,Not fleeing,True,-91.119,40.809,True,1
+596,596,676,808,India Kager,5/9/2015,shot,unarmed,27.0,F,Black,Virginia Beach,VA,False,undetermined,Not fleeing,False,-76.125,36.79,True,1
+872,872,1017,1165,Ciara Meyer,11/1/2016,shot,unarmed,12.0,F,White,Penn Township,PA,False,other,Not fleeing,False,-77.03399999999998,40.398,True,1
+884,884,1029,1177,Kelsey Rose Hauser,16/1/2016,shot,unarmed,25.0,F,White,El Cajon,CA,False,other,Car,False,-116.963,32.795,True,1
+1175,1175,1365,1548,Jessica Nelson-Williams,19/5/2016,shot,unarmed,29.0,F,Black,San Francisco,CA,False,other,Car,False,-122.431,37.732,True,1
+1646,1646,2001,2231,Genevive Dawes,18/1/2017,shot,unarmed,21.0,F,White,Dallas,TX,False,other,Car,True,-96.764,32.793,True,1
+1791,1791,2193,2442,Alteria Woods,19/3/2017,shot,unarmed,21.0,F,Black,Gifford,FL,False,other,Not fleeing,False,-80.421,27.675,True,1
+1841,1841,2261,2525,Sariah Marie Lane,20/4/2017,shot,unarmed,17.0,F,White,Glendale,AZ,False,other,Car,False,-112.17200000000001,33.553000000000004,True,1
+1949,1949,2411,2677,Jamie Dougan,16/6/2017,shot,unarmed,24.0,F,White,Water Valley,MS,False,other,Car,False,-89.624,34.141,True,1
+2010,2010,2496,2779,Justine Damond,15/7/2017,shot,unarmed,40.0,F,White,Minneapolis,MN,False,undetermined,Not fleeing,False,-93.318,44.851000000000006,True,1
+2254,2254,2809,3128,Ashley Jenkins,9/11/2017,shot,unarmed,23.0,F,White,Flatwoods,KY,False,other,Car,False,-82.727,38.518,True,1
+2480,2480,3146,4252,Amelia Huron-Macias,7/3/2018,shot,unarmed,84.0,F,White,Bexar County,TX,False,other,Not fleeing,False,-98.669,29.669,True,1
+2659,2659,3392,3720,Claudia Patricia Gomez Gonzalez,23/5/2018,shot,unarmed,20.0,F,Hispanic,Rio Bravo,TX,False,attack,Not fleeing,False,-99.48,27.364,True,1
+2771,2771,3546,3895,Melyda Marciela Corado,21/7/2018,shot,unarmed,27.0,F,Hispanic,Los Angeles,CA,False,other,Foot,True,-118.272,34.107,True,1
+3089,3089,4004,4409,Katlyn Alix,24/1/2019,shot,unarmed,24.0,F,White,St. Louis,MO,False,other,Not fleeing,False,-90.25,38.564,True,1
+3094,3094,4011,4420,Rhogena Nicholas,28/1/2019,shot,unarmed,58.0,F,White,Houston,TX,False,attack,Not fleeing,False,-95.28200000000001,29.709,True,1
+3176,3176,4112,4567,Stephanie Areanda Quiroz,5/3/2019,shot,unarmed,21.0,F,Hispanic,Bakersfield,CA,False,other,Car,False,-118.95,35.354,True,1
+3443,3443,4497,4922,Margarita Victoria Brooks,1/8/2019,shot,unarmed,30.0,F,White,Arlington,TX,False,other,Not fleeing,False,-97.09700000000001,32.769,True,1
+3842,3842,5128,5626,Breonna Taylor,12/3/2020,shot,unarmed,26.0,F,Black,Louisville,KY,False,undetermined,Not fleeing,False,-85.81700000000002,38.148,True,1
+3998,3998,5407,5918,Hannah R. Fizer,13/6/2020,shot,unarmed,25.0,F,White,Sedalia,MO,False,other,Not fleeing,False,-93.27,38.71,True,1
+4305,4305,5947,6484,Ashli Babbitt,6/1/2021,shot,unarmed,35.0,F,White,Washington,DC,False,attack,Not fleeing,False,-77.009,38.89,True,1

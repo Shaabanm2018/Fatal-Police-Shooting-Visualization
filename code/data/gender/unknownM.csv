@@ -1,0 +1,58 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+669,669,764,906,Anthony Aguilar,10/10/2015,shot and Tasered,unknown weapon,35.0,M,Hispanic,Lisle,IL,False,undetermined,Not fleeing,False,-88.09299999999998,41.805,True,1
+753,753,864,1009,Shane Whitehead,15/11/2015,shot,unknown weapon,16.0,M,Black,Germantown,PA,False,attack,Not fleeing,False,-75.179,40.028,True,1
+761,761,875,1017,Cornelius Brown,18/11/2015,shot,unknown weapon,25.0,M,Black,Opa-Locka,FL,False,other,Not fleeing,False,-80.252,25.897,True,1
+858,858,999,1142,Eric John Senegal,4/1/2016,shot,unknown weapon,27.0,M,Black,Ragley,LA,False,undetermined,Not fleeing,False,-93.21,30.494,True,1
+1122,1122,1300,1481,Jackie Lee Kirkham,20/4/2016,shot,unknown weapon,52.0,M,White,Perryville,AR,False,other,Not fleeing,False,-92.795,35.016999999999996,True,1
+1413,1413,1673,1876,Travis Ell,9/9/2016,shot,unknown weapon,64.0,M,White,Auburn,WA,True,other,Not fleeing,False,-122.21,47.317,True,1
+1432,1432,1696,1902,Jeremy Ray Swenson,19/9/2016,shot,unknown weapon,30.0,M,White,Logan Canyon,UT,True,other,Not fleeing,False,-111.094,39.321,True,1
+1436,1436,1700,1903,Michael Goodale,20/9/2016,shot,unknown weapon,23.0,M,White,Mashantucket,CT,False,other,Not fleeing,False,-71.96,41.474,True,1
+1459,1459,1727,1924,Donte T. Jones,2/10/2016,shot,unknown weapon,36.0,M,Black,Markham,IL,False,other,Not fleeing,False,-87.667,41.593999999999994,True,1
+1492,1492,1777,1986,Nathaniel B. Dorough,22/10/2016,shot,unknown weapon,21.0,M,White,Westover,AL,True,other,Not fleeing,False,-86.565,33.357,True,1
+1618,1618,1966,2193,Richard A. Jackson,4/1/2017,shot,unknown weapon,45.0,M,White,English,IN,False,attack,Car,False,-86.46799999999998,38.341,True,1
+1724,1724,2103,2345,Mauro Garnica,15/2/2017,shot,unknown weapon,55.0,M,Hispanic,Newman,CA,False,attack,Not fleeing,False,-121.01299999999999,37.32,True,1
+2121,2121,2625,2915,Roger Helgerson,1/9/2017,shot,unknown weapon,45.0,M,White,Mount Hope,WI,False,other,Foot,False,-90.931,43.028999999999996,True,1
+2139,2139,2649,2945,Thomas Addison,11/9/2017,shot,unknown weapon,25.0,M,Native Hawaiian,Great Falls,MT,False,other,Foot,False,-111.25399999999999,47.515,True,1
+2285,2285,2849,3166,Steve Steenhard,24/11/2017,shot,unknown weapon,51.0,M,White,Yuma,AZ,False,undetermined,Not fleeing,False,-114.66799999999999,32.702,True,1
+2365,2365,2988,3306,Victor M. Reyes,16/1/2018,shot,unknown weapon,30.0,M,Hispanic,Bedford,TX,False,other,Not fleeing,False,-97.154,32.828,True,1
+2377,2377,3005,3332,Ilkka O. Hiironen,21/1/2018,shot,unknown weapon,35.0,M,White,Ebey Island,WA,True,other,Not fleeing,False,-122.162,47.978,True,1
+2383,2383,3016,3350,Shane McVey,23/1/2018,shot,unknown weapon,54.0,M,White,Idaho Falls,ID,False,other,Foot,False,-112.03399999999999,43.488,True,1
+2384,2384,3017,3346,Humberto Vera-Munoz,24/1/2018,shot,unknown weapon,27.0,M,Hispanic,Sparks,NV,False,other,Foot,False,-119.76100000000001,39.545,True,1
+2460,2460,3121,3466,Joel Jacobo,1/3/2018,shot,unknown weapon,29.0,M,Hispanic,Tucson,AZ,False,other,Not fleeing,False,-110.98299999999999,32.177,True,1
+2461,2461,3122,3453,Jose D. Gomez Burgos,2/3/2018,shot,unknown weapon,29.0,M,Hispanic,Bristol Township,PA,False,other,Not fleeing,False,-74.84100000000002,40.137,True,1
+2466,2466,3127,3465,James Vaughn,2/3/2018,shot,unknown weapon,49.0,M,Black,Clarksville,TX,False,attack,Not fleeing,True,-95.052,33.614000000000004,True,1
+2517,2517,3201,3541,Kevin Hall,23/3/2018,shot,unknown weapon,40.0,M,White,Genesee Township,MI,False,other,Car,False,-83.63600000000002,43.051,True,1
+2525,2525,3212,3552,Evan Bashir,27/3/2018,shot,unknown weapon,29.0,M,White,Nampa,ID,False,undetermined,Not fleeing,False,-116.54299999999999,43.611000000000004,True,1
+2642,2642,3367,3686,Willie Rogers Marable,13/5/2018,shot,unknown weapon,28.0,M,Black,Portsmouth,VA,False,other,Not fleeing,False,-76.367,36.815,True,1
+2688,2688,3432,3759,Brandon Vieweg,10/6/2018,shot,unknown weapon,34.0,M,White,Westminister,CO,False,other,Foot,False,-105.084,39.863,True,1
+2724,2724,3485,3813,Rodney Lee Hunter,29/6/2018,shot,unknown weapon,27.0,M,Black,Pomona,CA,False,undetermined,Car,False,-117.81200000000001,34.046,True,1
+2757,2757,3529,3864,Isaiah Hayes,17/7/2018,shot,unknown weapon,25.0,M,White,Altoona,IA,False,other,Car,False,-93.46600000000001,41.655,True,1
+2775,2775,3550,3957,Juan Garcia,22/7/2018,shot,unknown weapon,38.0,M,Hispanic,Riverside,CA,False,other,Not fleeing,False,-117.325,33.983000000000004,True,1
+2843,2843,3645,3999,Sebastian Siney Chamale,28/8/2018,shot,unknown weapon,37.0,M,Hispanic,Tarboro,NC,False,other,Not fleeing,False,-77.572,35.927,True,1
+2869,2869,3680,4037,Bruce Smith,16/9/2018,shot,unknown weapon,25.0,M,White,Manitowoc,WI,False,other,Not fleeing,False,-87.691,44.081,True,1
+2931,2931,3765,4123,William David Williamson,22/10/2018,shot,unknown weapon,61.0,M,White,Newport,TN,False,attack,Not fleeing,False,-83.182,36.073,True,1
+2936,2936,3773,4135,Lloyd Gerald Napouk,27/10/2018,shot,unknown weapon,44.0,M,Asian,Las Vegas,NV,True,other,Not fleeing,True,-115.215,36.05,True,1
+2955,2955,3801,4168,Travis Jordan,9/11/2018,shot,unknown weapon,36.0,M,Black,Minneapolis,MN,True,undetermined,Not fleeing,True,-93.304,45.022,True,1
+2965,2965,3815,4175,Timothy Leon,13/11/2018,shot,unknown weapon,24.0,M,Black,Phoenix,AZ,False,attack,Car,False,-112.20299999999999,33.524,True,1
+2987,2987,3856,4222,Adrian Bunker,29/11/2018,shot,unknown weapon,37.0,M,White,Old Town,ME,False,undetermined,Not fleeing,False,-68.676,44.92100000000001,True,1
+2996,2996,3871,4281,Jesus Lainez,7/12/2018,shot,unknown weapon,51.0,M,Hispanic,Fort Pierce,FL,False,attack,Not fleeing,False,-80.336,27.447,True,1
+3098,3098,4015,4426,Nekiylo Dawayne Graves,28/1/2019,shot,unknown weapon,27.0,M,Black,Mercury,NV,False,other,Car,False,-116.046,37.177,True,1
+3104,3104,4022,4512,Anthony Patrick Pellissier,30/1/2019,shot,unknown weapon,52.0,M,White,Midland,TX,False,attack,Not fleeing,False,-102.23299999999999,31.909000000000002,True,1
+3188,3188,4129,4555,Sokhom Hon,10/3/2019,shot,unknown weapon,31.0,M,Asian,San Bernardino,CA,True,attack,Not fleeing,False,-117.28200000000001,34.106,True,1
+3303,3303,4297,4727,Esteban Martinez,19/5/2019,shot,unknown weapon,59.0,M,Hispanic,Huron,CA,False,attack,Not fleeing,False,-120.103,36.2,True,1
+3316,3316,4316,5439,Hamid Ould-Rouis,24/5/2019,shot,unknown weapon,59.0,M,Other,Fort Lauderdale,FL,False,other,Other,False,-80.17699999999998,26.135,True,1
+3350,3350,4364,4787,Jimmy De Odell,11/6/2019,shot,unknown weapon,61.0,M,White,Hopkins County,TX,False,other,Not fleeing,False,-95.46,33.063,True,1
+3356,3356,4374,4793,Ty'Rese West,15/6/2019,shot,unknown weapon,18.0,M,Black,Racine,WI,False,other,Other,False,-87.794,42.7,True,1
+3472,3472,4551,4978,James Crowe,21/8/2019,shot,unknown weapon,27.0,M,White,Nicholasville,KY,False,undetermined,Not fleeing,False,-84.575,37.869,True,1
+3671,3671,4884,5298,Jason Elliot Waterhouse,19/12/2019,shot,unknown weapon,47.0,M,White,Lakewood,CO,True,attack,Not fleeing,False,-105.14200000000001,39.751999999999995,True,1
+3682,3682,4897,5327,Kenneth Collins,22/12/2019,shot,unknown weapon,46.0,M,Black,Hattiesburg,MS,False,other,Other,False,-89.37799999999999,31.320999999999998,True,1
+3693,3693,4913,5316,A.B. Carr,28/12/2019,shot,unknown weapon,31.0,M,White,Elizabethton,TN,False,attack,Not fleeing,False,-82.214,36.347,True,1
+3694,3694,4914,5319,Heriberto Rodriguez,28/12/2019,shot,unknown weapon,27.0,M,Hispanic,Bakersfield,CA,False,attack,Not fleeing,False,-118.985,35.395,True,1
+3741,3741,4980,5406,Dustin Alexander Nealis,19/1/2020,shot,unknown weapon,43.0,M,White,Sebring,FL,False,undetermined,Not fleeing,False,-81.51,27.42,True,1
+3872,3872,5197,5716,Carl Manning,5/4/2020,shot,unknown weapon,62.0,M,White,Manchester,NH,False,other,Not fleeing,False,-71.398,42.981,True,1
+3937,3937,5305,5797,Jonathan Carter,9/5/2020,shot,unknown weapon,27.0,M,White,Calypso,NC,False,other,Not fleeing,False,-78.102,35.152,True,1
+3955,3955,5329,5820,Wilbon Cleveland Woodard,19/5/2020,shot,unknown weapon,69.0,M,Black,Tallahassee,FL,False,other,Not fleeing,False,-84.3,30.476999999999997,True,1
+4180,4180,5683,6394,Douglas Sanchez,6/10/2020,shot,unknown weapon,54.0,M,Hispanic,Sterling,CO,False,other,Foot,False,-103.22,40.622,True,1
+4224,4224,5771,6361,Nick Burgos,1/11/2020,shot,unknown weapon,38.0,M,Hispanic,West Carson,CA,True,attack,Not fleeing,False,-118.29299999999999,33.828,True,1
+4257,4257,5828,6321,Pedro Martinez,18/11/2020,shot,unknown weapon,66.0,M,Hispanic,Tyler,TX,False,other,Not fleeing,False,-95.285,32.336999999999996,True,1
+4325,4325,6008,6561,Joshua Crites,2/2/2021,shot,unknown weapon,19.0,M,White,East Peoria,IL,False,attack,Car,False,-89.535,40.676,True,1

@@ -1,0 +1,40 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+45,45,51,100,Kristiana Coignard,22/1/2015,shot and Tasered,knife,17.0,F,White,Longview,TX,True,other,Not fleeing,False,-94.74600000000001,32.495,True,1
+56,56,64,111,Tiffany Terry,27/1/2015,shot,knife,39.0,F,White,Omaha,NE,True,attack,Not fleeing,False,-95.99,41.243,True,1
+110,110,123,163,Janisha Fonville,18/2/2015,shot,knife,20.0,F,Black,Charlotte,NC,True,other,Not fleeing,False,-80.819,35.25,True,1
+133,133,148,189,Jessica Uribe,28/2/2015,shot,knife,28.0,F,Hispanic,Tucson,AZ,False,other,Not fleeing,False,-110.99,32.23,True,1
+152,152,168,204,Monique Jenee Deckard,8/3/2015,shot,knife,43.0,F,Black,Anaheim,CA,True,other,Not fleeing,True,-117.94,33.819,True,1
+211,211,231,245,Meagan Hockaday,27/3/2015,shot,knife,26.0,F,Black,Oxnard,CA,False,other,Not fleeing,False,-119.18299999999999,34.228,True,1
+336,336,369,486,Nikki Jo Burtsfield,20/5/2015,shot and Tasered,knife,39.0,F,White,Gillette,WY,False,other,Car,False,-105.45,44.302,True,1
+539,539,608,732,Redel Jones,12/8/2015,shot and Tasered,knife,30.0,F,Black,Los Angeles,CA,False,other,Not fleeing,False,-118.34299999999999,34.009,True,1
+648,648,737,871,Norma Angelica Guzman,27/9/2015,shot,knife,37.0,F,Hispanic,Los Angeles,CA,True,other,Not fleeing,True,-118.259,34.025,True,1
+656,656,746,890,Phyllis Ilene Jepsen,2/10/2015,shot,knife,55.0,F,White,Aloha,OR,True,other,Not fleeing,False,-122.86200000000001,45.493,True,1
+1191,1191,1388,1581,Tonnia Reshelle Jarvis,26/5/2016,shot,knife,48.0,F,White,Sneads,FL,False,other,Not fleeing,False,-84.941,30.708000000000002,True,1
+1279,1279,1506,1695,Melissa Ventura,5/7/2016,shot,knife,24.0,F,Hispanic,Yuma,AZ,False,other,Not fleeing,False,-114.667,32.713,True,1
+1470,1470,1742,1956,Kim Jackson,8/10/2016,shot,knife,53.0,F,White,Modesto,CA,False,attack,Not fleeing,False,-120.96799999999999,37.665,True,1
+1597,1597,1936,2163,Miriam Ann Savino,24/12/2016,shot,knife,53.0,F,White,Lake Wales,FL,False,other,Not fleeing,False,-81.568,28.006,True,1
+1641,1641,1993,2217,Sinuon Pream,15/1/2017,shot and Tasered,knife,37.0,F,Asian,Long Beach,CA,True,other,Not fleeing,False,-118.12100000000001,33.775,True,1
+1713,1713,2087,2326,Michelle Robey,10/2/2017,shot and Tasered,knife,55.0,F,White,Chicago,IL,True,attack,Not fleeing,False,-87.689,41.952,True,1
+1745,1745,2127,2372,Morgan London Rankins,22/2/2017,shot,knife,30.0,F,Black,Austin,TX,True,other,Car,False,-97.816,30.197,True,1
+1953,1953,2415,2672,Charleena Lyles,18/6/2017,shot,knife,30.0,F,Black,Seattle,WA,True,other,Not fleeing,False,-122.262,47.678000000000004,True,1
+2037,2037,2525,2807,Susan Teel,26/7/2017,shot,knife,62.0,F,White,Vero Beach,FL,True,attack,Not fleeing,False,-80.45,27.615,True,1
+2097,2097,2598,2887,Kiwi Herring,22/8/2017,shot,knife,30.0,F,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.26799999999999,38.663000000000004,True,1
+2243,2243,2797,3109,Pamela Webber,6/11/2017,shot,knife,54.0,F,White,Lynchburg,VA,True,other,Not fleeing,False,-79.14399999999998,37.391,True,1
+2482,2482,3152,3485,Alkeeta Allena Walker,9/3/2018,shot,knife,32.0,F,White,Tarpon Springs,FL,False,other,Not fleeing,False,-82.765,28.15,True,1
+2490,2490,3160,3487,Decynthia Clements,12/3/2018,shot,knife,34.0,F,Black,Elgin,IL,True,other,Car,True,-88.28299999999999,42.066,True,1
+2606,2606,3317,3649,Shukri Ali Said,28/4/2018,shot,knife,36.0,F,Black,Johns Creek,GA,True,other,Not fleeing,False,-84.176,34.048,True,1
+2670,2670,3408,3725,Katherine Brazeau,31/5/2018,shot,knife,46.0,F,White,Fullerton,CA,True,other,Not fleeing,False,-117.898,33.874,True,1
+2748,2748,3519,3852,Laura Mae Bond,11/7/2018,shot,knife,45.0,F,White,Willis,TX,False,other,Not fleeing,False,-95.541,30.461,True,1
+2872,2872,3683,4039,Susan Muller,17/9/2018,shot,knife,54.0,F,White,Maspeth,NY,True,attack,Not fleeing,True,-73.896,40.734,True,1
+3018,3018,3898,4321,April Webster,16/12/2018,shot,knife,47.0,F,Black,Darlington County,SC,True,other,Not fleeing,False,-79.891,34.321,True,1
+3182,3182,4121,4554,Beth Plant,9/3/2019,shot,knife,51.0,F,White,Cheatham County,TN,False,attack,Not fleeing,False,-87.102,36.185,True,1
+3277,3277,4253,4690,April Robertson,30/4/2019,shot,knife,45.0,F,White,Welcome,NC,False,other,Not fleeing,False,-80.253,35.912,True,1
+3431,3431,4473,4889,Elisha Lucero,21/7/2019,shot,knife,28.0,F,Hispanic,Albuquerque,NM,True,other,Not fleeing,False,-106.65799999999999,35.027,True,1
+3546,3546,4692,5103,Bonny Thomas,14/10/2019,shot,knife,54.0,F,White,Athens,GA,False,attack,Not fleeing,True,-83.43799999999997,33.964,True,1
+3836,3836,5119,5614,Desiree Nicole Garza,8/3/2020,shot,knife,29.0,F,Hispanic,Torrance,CA,False,other,Not fleeing,False,-118.335,33.866,True,1
+3849,3849,5143,5625,Catherine Gomez,15/3/2020,shot,knife,25.0,F,Hispanic,Long Beach,CA,False,attack,Not fleeing,False,-118.161,33.765,True,1
+3885,3885,5218,5740,Leah Baker,11/4/2020,shot,knife,29.0,F,White,Jacksonville,FL,True,other,Not fleeing,True,-81.676,30.365,True,1
+3978,3978,5369,5844,Heba Momtaz Al-Azhari,29/5/2020,shot,knife,22.0,F,Other,Temple Terrace,FL,True,attack,Not fleeing,False,-82.39399999999998,28.05,True,1
+3986,3986,5384,5898,Mary Lawrence,3/6/2020,shot,knife,39.0,F,White,Poteau,OK,False,other,Not fleeing,False,-94.618,35.049,True,1
+4079,4079,5525,6018,Adrean Stephenson,2/8/2020,shot and Tasered,knife,63.0,F,White,Sarasota,FL,True,other,Not fleeing,False,-82.488,27.303,True,1
+4160,4160,5652,6190,Julia Anne Moss,21/9/2020,shot and Tasered,knife,40.0,F,White,Athens,GA,True,other,Not fleeing,True,-83.406,33.91,True,1

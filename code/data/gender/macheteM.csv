@@ -1,0 +1,40 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+175,175,194,210,Troy Ray Boyd,15/3/2015,shot,machete,27.0,M,White,Ruth,MS,False,other,Not fleeing,False,-90.303,31.326,True,1
+191,191,211,308,Richard White,20/3/2015,shot,machete,63.0,M,Black,New Orleans,LA,True,attack,Not fleeing,False,-90.265,29.993000000000002,True,1
+251,251,275,357,Richard Dale Weaver,12/4/2015,shot,machete,83.0,M,White,Oklahoma City,OK,True,other,Not fleeing,False,-97.34,35.404,True,1
+255,255,279,364,Christopher Grant Finley,14/4/2015,shot,machete,31.0,M,White,Jonesboro,AR,True,attack,Not fleeing,False,-90.71799999999999,35.834,True,1
+285,285,311,408,Brandon Lawrence,25/4/2015,shot,machete,25.0,M,White,Victoria,TX,True,other,Not fleeing,True,-97.001,28.878,True,1
+665,665,757,897,Amado Lago,7/10/2015,shot,machete,46.0,M,Hispanic,West Palm Beach,FL,False,attack,Not fleeing,False,-80.109,26.66800000000001,True,1
+673,673,768,907,Robert Humberto Medellin,11/10/2015,shot,machete,43.0,M,Hispanic,West Odessa,TX,False,other,Car,False,-102.44200000000001,31.866999999999997,True,1
+826,826,955,1098,Douglas Yon,17/12/2015,shot,machete,25.0,M,White,Kent,OH,True,other,Not fleeing,False,-81.34,41.163000000000004,True,1
+954,954,1106,1263,Mohamed Barry,11/2/2016,shot,machete,30.0,M,Black,Columbus,OH,False,attack,Car,False,-82.86399999999998,40.064,True,1
+990,990,1145,1310,Baltazar Ramos,23/2/2016,shot and Tasered,machete,39.0,M,Hispanic,Houston,TX,True,attack,Not fleeing,False,-95.316,29.713,True,1
+1134,1134,1314,1494,Cin Lam Mung,27/4/2016,shot,machete,34.0,M,Asian,Atlanta,GA,False,other,Not fleeing,False,-84.26799999999999,33.854,True,1
+1464,1464,1733,1937,Brandon Simmons,5/10/2016,shot,machete,28.0,M,White,Boulder,CO,True,other,Not fleeing,False,-105.264,40.010999999999996,True,1
+1535,1535,1840,2050,Jose George Anthony Franco,16/11/2016,shot,machete,37.0,M,Hispanic,Whittier,CA,False,other,Not fleeing,False,-118.03299999999999,33.975,True,1
+1540,1540,1845,2056,Samson Fleurant,18/11/2016,shot and Tasered,machete,25.0,M,Black,Port St. Lucie,FL,True,other,Not fleeing,False,-80.365,27.311,True,1
+1796,1796,2200,2449,William Stokes,23/3/2017,shot,machete,51.0,M,Black,Des Moines,WA,True,other,Not fleeing,False,-122.31,47.393,True,1
+1948,1948,2410,2676,Sergio Valdovinos,16/6/2017,shot,machete,32.0,M,Hispanic,Madera,CA,True,other,Not fleeing,False,-120.05799999999999,36.978,True,1
+2054,2054,2548,2833,Jeffrey Barboa,2/8/2017,shot,machete,45.0,M,Hispanic,Richmond,CA,False,attack,Car,False,-122.324,37.988,True,1
+2077,2077,2576,2861,Carmen William Rongione,13/8/2017,shot,machete,41.0,M,White,Cosby,TN,False,attack,Foot,False,-83.251,35.857,True,1
+2224,2224,2765,3074,Jerry Richardson,27/10/2017,shot,machete,46.0,M,Black,Indiantown,FL,True,other,Not fleeing,False,-80.486,27.024,True,1
+2300,2300,2869,3182,Mario Sanabria,5/12/2017,shot,machete,69.0,M,Hispanic,Bronx,NY,False,other,Not fleeing,False,-73.92,40.808,True,1
+2317,2317,2915,3240,Evilio Gomez,24/12/2017,shot,machete,46.0,M,Hispanic,Progreso,TX,False,other,Not fleeing,False,-97.949,26.112,True,1
+2423,2423,3070,3399,Sidney T. Richardson,10/2/2018,shot and Tasered,machete,48.0,M,Black,Tampa,FL,True,other,Not fleeing,False,-82.439,28.045,True,1
+2454,2454,3114,3443,Orbel Nazarians,26/2/2018,shot and Tasered,machete,22.0,M,White,Los Angeles,CA,True,other,Not fleeing,True,-118.45700000000001,34.235,True,1
+2459,2459,3120,3451,Timothy M. Gray,1/3/2018,shot,machete,40.0,M,Black,Henrico,VA,False,other,Car,False,-77.52199999999998,37.608000000000004,True,1
+2538,2538,3227,3567,Jason Birt,31/3/2018,shot,machete,27.0,M,White,Guthrie,OK,False,attack,Not fleeing,False,-97.416,35.882,True,1
+2575,2575,3274,3613,Chad Eric Montgomery,11/4/2018,shot,machete,39.0,M,White,Sparta,NC,False,other,Not fleeing,True,-81.12,36.506,True,1
+2617,2617,3335,3664,Anthony Trujillo,3/5/2018,shot,machete,26.0,M,Hispanic,Orosi,CA,True,attack,Not fleeing,False,-119.296,36.548,True,1
+2776,2776,3552,3881,Rosalio Hernandez Ortega,23/7/2018,shot,machete,33.0,M,Hispanic,Burlington,NC,True,other,Not fleeing,False,-73.18,44.457,True,1
+3031,3031,3921,4338,Shane Lyons,28/12/2018,shot,machete,35.0,M,Black,Port Arthur,TX,False,other,Not fleeing,False,-93.95700000000001,29.875,True,1
+3034,3034,3924,4339,Warren Jay Beaubien,30/12/2018,shot,machete,49.0,M,White,Llano,TX,False,other,Not fleeing,False,-98.675,30.756,True,1
+3146,3146,4073,4498,Emanuel David Joshua Oates,19/2/2019,shot,machete,24.0,M,Black,Baltimore,MD,False,other,Not fleeing,False,-76.779,39.361999999999995,True,1
+3175,3175,4109,4547,Shamikle Jackson,4/3/2019,shot,machete,22.0,M,Black,Aurora,CO,False,other,Not fleeing,True,-104.876,39.749,True,1
+3461,3461,4523,4933,Jason Xavier Salas,9/8/2019,shot,machete,52.0,M,Hispanic,Garland,TX,False,attack,Not fleeing,False,-96.57700000000001,32.848,True,1
+3542,3542,4685,5095,Fernando Mora,12/10/2019,shot,machete,57.0,M,Hispanic,North Port,FL,False,attack,Not fleeing,False,-82.262,27.054000000000002,True,1
+3744,3744,4983,5391,Jonathan David Messare,20/1/2020,shot,machete,41.0,M,White,Sedona,AZ,True,other,Not fleeing,False,-111.766,34.857,True,1
+3776,3776,5027,5563,Dominique Antwon Anderson,4/2/2020,shot,machete,26.0,M,Black,Home Garden,CA,True,attack,Not fleeing,False,-119.635,36.299,True,1
+3851,3851,5147,5637,Juanito Ovalle,16/3/2020,shot,machete,58.0,M,Hispanic,San Antonio,TX,False,other,Not fleeing,False,-98.50399999999999,29.414,True,1
+4034,4034,5459,5974,Axel Perez,4/7/2020,shot,machete,17.0,M,Hispanic,Jacksonville,FL,True,other,Not fleeing,False,-81.815,30.255,True,1
+4191,4191,5699,6239,Yoel Arnaldo Mejia Santel,14/10/2020,shot,machete,28.0,M,Hispanic,Frostproof,FL,True,other,Not fleeing,False,-81.531,27.746,True,1

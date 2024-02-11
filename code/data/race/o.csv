@@ -1,0 +1,40 @@
+,Unnamed: 0,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count,ageGroup
+33,38,68,Zaki Shinwary,16/1/2015,shot and Tasered,knife,48.0,M,Other,Fremont,CA,False,other,Not fleeing,False,-122.06,37.588,True,1,41 to 45
+300,327,418,Fridoon Zalbeg Nehad,30/4/2015,shot,unarmed,42.0,M,Other,San Diego,CA,True,other,Not fleeing,True,-117.206,32.754,True,1,36 to 40
+304,332,428,Nadir Soofi,3/5/2015,shot,gun,34.0,M,Other,Garland,TX,False,attack,Not fleeing,False,-96.642,32.958,True,1,26 to 30
+320,353,449,Bruce Zalonka,12/5/2015,shot and Tasered,gun,46.0,M,Other,Honolulu,HI,False,attack,Not fleeing,False,-157.862,21.31,True,1,41 to 45
+354,387,491,Feras Morad,27/5/2015,shot and Tasered,unarmed,20.0,M,Other,Long Beach,CA,False,other,Not fleeing,False,-118.139,33.785,True,1,16 to 20
+470,523,649,Mohammad Youssef Abdulazeez,16/7/2015,shot,gun,24.0,M,Other,Chattanooga,TN,True,attack,Not fleeing,False,-85.245,35.096,True,1,16 to 20
+637,724,857,Robert Berger,23/9/2015,shot,knife,48.0,M,Other,Salt Lake City,UT,False,attack,Not fleeing,False,-111.884,40.742,True,1,41 to 45
+663,754,895,Omar Ali,5/10/2015,shot,unarmed,27.0,M,Other,Akron,OH,False,other,Not fleeing,False,-81.436,41.042,True,1,21 to 25
+711,813,956,Kobvey Igbuhay,26/10/2015,shot,unarmed,18.0,M,Other,Tampa,FL,False,attack,Foot,False,-82.516,28.03,True,1,11 to 15
+733,836,979,Faisal Mohammad,4/11/2015,shot,knife,18.0,M,Other,Merced,CA,False,attack,Foot,False,-120.425,37.365,True,1,11 to 15
+790,909,1050,Tashfeen Malik,2/12/2015,shot,gun,27.0,F,Other,San Bernardino,CA,False,attack,Car,False,-117.29,34.108000000000004,True,1,21 to 25
+791,910,1051,Syed Farook,2/12/2015,shot,gun,28.0,M,Other,San Bernardino,CA,False,attack,Car,False,-117.248,34.077,True,1,21 to 25
+817,943,1084,Nephi  Leiataua,13/12/2015,shot,knife,30.0,M,Other,Thurston County,WA,False,attack,Not fleeing,False,-122.762,47.002,True,1,26 to 30
+946,1098,1256,Scottie Yanagawa,9/2/2016,shot,gun,29.0,M,Other,Hilo,HI,False,attack,Not fleeing,False,-155.066,19.696,True,1,21 to 25
+951,1103,1260,Anthony Bertoni,10/2/2016,shot,gun,56.0,M,Other,Henderson County,TX,True,attack,Not fleeing,False,-96.182,32.282,True,1,51 to 55
+1153,1340,1529,Derek J. Sam,7/5/2016,shot and Tasered,knife,29.0,M,Other,Presque Isle,ME,False,other,Not fleeing,False,-68.014,46.68600000000001,True,1,21 to 25
+1212,1412,1597,Kalyp Allen Rapoza,6/6/2016,shot,knife,25.0,M,Other,Hilo,HI,False,other,Not fleeing,False,-155.066,19.685,True,1,21 to 25
+1225,1429,1608,Omar Mateen,12/6/2016,shot,gun,29.0,M,Other,Orlando,FL,True,attack,Not fleeing,True,-81.377,28.52,True,1,21 to 25
+1233,1438,1624,Mohammad Moghaddam,14/6/2016,shot,gun,54.0,M,Other,Amarillo,TX,False,attack,Not fleeing,False,-101.863,35.17,True,1,46 to 50
+1303,1536,1724,BJ Medeiros,21/7/2016,shot,gun,36.0,M,Other,Hilo,HI,True,attack,Not fleeing,False,-154.958,19.616,True,1,31 to 35
+1429,1693,1898,Dahir Adan,17/9/2016,shot,knife,22.0,M,Other,St. Cloud,MN,False,attack,Not fleeing,False,-94.21,45.556,True,1,16 to 20
+1556,1870,2083,Abdul Razak Ali Artan,28/11/2016,shot,knife,18.0,M,Other,Columbus,OH,False,attack,Not fleeing,False,-83.01,39.99800000000001,True,1,11 to 15
+1633,1983,2210,Hafez Abousamra,11/1/2017,shot,gun,41.0,M,Other,Lake Elsinore,CA,False,attack,Other,False,-117.283,33.681999999999995,True,1,36 to 40
+1934,2392,2654,Isaiah Obet,10/6/2017,shot,knife,25.0,M,Other,Auburn,WA,False,other,Car,False,-122.224,47.288,True,1,21 to 25
+2021,2508,2791,Farhad Jabbari,19/7/2017,shot,unarmed,38.0,M,Other,Saginaw,MI,False,attack,Not fleeing,False,-84.006,43.403,True,1,31 to 35
+2154,2672,2973,Austin Dunsmore,21/9/2017,shot,undetermined,25.0,M,Other,Denver,CO,False,other,Car,False,-105.109,39.569,True,1,21 to 25
+2155,2675,2977,Dillan Tabares,22/9/2017,shot,gun,27.0,M,Other,Huntington Beach,CA,True,attack,Not fleeing,False,-118.024,33.73,True,1,21 to 25
+2766,3540,3944,Justin Waiki,20/7/2018,shot,gun,33.0,M,Other,Puna,HI,False,attack,Car,False,-154.951,19.498,True,1,26 to 30
+2912,3738,4099,Ashley Elisna Grammer,12/10/2018,shot,vehicle,26.0,F,Other,Puna,HI,False,attack,Not fleeing,False,-154.873,19.551,True,1,21 to 25
+3101,4019,4423,Siatu'u Tauai,29/1/2019,shot,vehicle,51.0,M,Other,Kalihi,HI,False,attack,Car,False,-157.864,21.332,True,1,46 to 50
+3150,4077,4472,Kasim Kahrim,22/2/2019,shot,gun,36.0,M,Other,Boston,MA,False,attack,Car,False,-71.072,42.32899999999999,True,1,31 to 35
+3304,4299,4742,Ronnie Churches,19/5/2019,shot,gun,45.0,M,Other,Miami Gardens,FL,False,attack,Not fleeing,False,-80.241,25.962,True,1,41 to 45
+3316,4316,5439,Hamid Ould-Rouis,24/5/2019,shot,unknown weapon,59.0,M,Other,Fort Lauderdale,FL,False,other,Other,False,-80.17699999999998,26.135,True,1,51 to 55
+3390,4420,4838,Isak Abdirahman Aden,2/7/2019,shot,gun,23.0,M,Other,Eagan,MN,False,other,Foot,True,-93.206,44.823,True,1,16 to 20
+3663,4871,5276,Mohammad Jamal Isaifan,15/12/2019,shot,gun,40.0,M,Other,Akron,OH,True,other,Foot,False,-81.467,41.096,True,1,36 to 40
+3665,4873,5291,Dustin Spencer,16/12/2019,shot,gun,34.0,M,Other,Kalihi,HI,False,attack,Foot,False,-157.882,21.335,True,1,26 to 30
+3706,4932,5403,Gerardo Antonio Conchas-Bustas,1/1/2020,shot,knife,20.0,M,Other,Denver,CO,False,attack,Not fleeing,True,-105.03,39.7,True,1,16 to 20
+3829,5108,5613,Ajay Kamil Ayseli,5/3/2020,shot,knife,31.0,M,Other,Henrico,VA,False,attack,Not fleeing,False,-77.616,37.622,True,1,26 to 30
+3978,5369,5844,Heba Momtaz Al-Azhari,29/5/2020,shot,knife,22.0,F,Other,Temple Terrace,FL,True,attack,Not fleeing,False,-82.39399999999998,28.05,True,1,16 to 20

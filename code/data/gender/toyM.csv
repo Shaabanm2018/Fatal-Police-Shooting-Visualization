@@ -1,0 +1,162 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+3,3,3,8,Matthew Hoffman,4/1/2015,shot,toy weapon,32.0,M,White,San Francisco,CA,True,attack,Not fleeing,False,-122.42200000000001,37.76300000000001,True,1
+8,8,9,17,Leslie Sapp III,6/1/2015,shot,toy weapon,47.0,M,Black,Knoxville,PA,False,attack,Not fleeing,False,-79.991,40.413000000000004,True,1
+44,44,50,99,Tiano Meton,22/1/2015,shot,toy weapon,25.0,M,Black,Sierra Blanca,TX,False,attack,Car,False,-105.02799999999999,31.08,True,1
+79,79,89,128,Paul Alfred Eugene Johnson,5/2/2015,shot,toy weapon,59.0,M,White,Chino,CA,False,other,Car,False,-117.65,33.953,True,1
+81,81,91,532,John  Sawyer,7/2/2015,shot,toy weapon,26.0,M,White,Calimesa,CA,False,attack,Not fleeing,False,-117.057,33.994,True,1
+94,94,104,142,Fletcher Ray Stewart,11/2/2015,shot,toy weapon,46.0,M,White,Dadeville,AL,True,attack,Foot,True,-85.72399999999998,32.864000000000004,True,1
+105,105,117,158,Cody Evans,16/2/2015,shot,toy weapon,24.0,M,White,Provo,UT,True,attack,Not fleeing,False,-111.624,40.103,True,1
+109,109,121,161,Douglas Sparks,17/2/2015,shot,toy weapon,30.0,M,White,Tewksbury,MA,False,attack,Foot,False,-71.28399999999998,42.614,True,1
+164,164,182,281,Ryan Dean Burgess,11/3/2015,shot,toy weapon,31.0,M,White,Kingman,AZ,True,attack,Not fleeing,False,-114.02600000000001,35.204,True,1
+216,216,236,258,Adrian Hernandez,27/3/2015,shot,toy weapon,23.0,M,Hispanic,Bakersfield,CA,False,attack,Car,False,-119.00299999999999,35.396,True,1
+221,221,243,261,Benjamin Quezada,31/3/2015,shot,toy weapon,21.0,M,Hispanic,Baytown,TX,False,attack,Not fleeing,False,-94.971,29.733,True,1
+259,259,283,368,Mark W. Adair,15/4/2015,shot,toy weapon,51.0,M,White,Columbia,MO,False,attack,Car,True,-92.32600000000001,38.948,True,1
+261,261,285,374,Ernesto Flores,15/4/2015,shot,toy weapon,52.0,M,Hispanic,Montclair,CA,True,attack,Not fleeing,False,-117.721,34.051,True,1
+279,279,304,392,Andrew Valadez,23/4/2015,shot,toy weapon,26.0,M,White,Sylmar,CA,True,attack,Not fleeing,False,-118.43799999999999,34.323,True,1
+307,307,335,431,Roark Cook,4/5/2015,shot,toy weapon,36.0,M,White,Kennewick,WA,True,attack,Not fleeing,False,-119.16799999999999,46.202,True,1
+324,324,357,462,Matt Coates,15/5/2015,shot,toy weapon,42.0,M,White,Sacramento,CA,True,attack,Not fleeing,False,-121.434,38.552,True,1
+342,342,375,472,Michael Lowery,22/5/2015,shot,toy weapon,40.0,M,White,Somerset,PA,False,attack,Not fleeing,False,-79.075,40.033,True,1
+352,352,385,481,Garrett  Sandeno,27/5/2015,shot,toy weapon,24.0,M,White,Edmond,OK,True,attack,Not fleeing,False,-97.455,35.634,True,1
+362,362,397,501,Alexander Tirado Rivera,30/5/2015,shot,toy weapon,39.0,M,Hispanic,Nashville,TN,False,attack,Not fleeing,False,-86.709,36.126,True,1
+363,363,399,504,James Bushey,31/5/2015,shot,toy weapon,47.0,M,White,Palestine,TX,False,attack,Not fleeing,True,-95.616,31.734,True,1
+419,419,462,577,Alan  Bellew,28/6/2015,shot,toy weapon,29.0,M,White,Portland,OR,False,attack,Not fleeing,False,-122.536,45.536,True,1
+423,423,467,588,Douglas Buckley,2/7/2015,shot,toy weapon,45.0,M,White,Brockton,MA,True,attack,Not fleeing,False,-71.014,42.053000000000004,True,1
+436,436,482,594,Richard Munroe,5/7/2015,shot and Tasered,toy weapon,25.0,M,White,Austin,TX,True,attack,Not fleeing,False,-97.70200000000001,30.38,True,1
+491,491,546,672,Robbie Lee Edison,23/7/2015,shot,toy weapon,47.0,M,White,Douglas,WY,False,attack,Not fleeing,False,-105.39,42.72,True,1
+494,494,549,674,Seth Raines,24/7/2015,shot,toy weapon,44.0,M,White,Studio City,CA,False,attack,Not fleeing,False,-118.398,34.143,True,1
+497,497,553,678,Bryan Keith  Day,25/7/2015,shot,toy weapon,36.0,M,Black,Las Vegas,NV,False,attack,Not fleeing,False,-115.10600000000001,36.159,True,1
+501,501,558,682,Jean Paul Falgout,27/7/2015,shot,toy weapon,45.0,M,White,Houma,LA,True,attack,Car,False,-90.62799999999999,29.541999999999998,True,1
+514,514,575,700,Shawn Ruble,3/8/2015,shot,toy weapon,35.0,M,White,Muncie,IN,True,attack,Not fleeing,False,-85.37799999999999,40.176,True,1
+524,524,588,713,Aaron Marchese,7/8/2015,shot,toy weapon,30.0,M,White,Fresno,CA,True,attack,Not fleeing,False,-119.898,36.808,True,1
+566,566,639,771,Julian Hoffman,23/8/2015,shot,toy weapon,21.0,M,White,Brick Township,NJ,False,attack,Not fleeing,False,-74.138,40.099000000000004,True,1
+573,573,646,776,Steven Dodd,26/8/2015,shot,toy weapon,22.0,M,White,Hendersonville,TN,True,attack,Not fleeing,False,-86.594,36.266999999999996,True,1
+594,594,673,805,La'vante Trevon Biggs,5/9/2015,shot,toy weapon,21.0,M,Black,Durham,NC,True,attack,Not fleeing,False,-78.882,35.984,True,1
+651,651,740,873,Alberto Hernandez,28/9/2015,shot,toy weapon,59.0,M,Hispanic,San Ysidro,CA,False,attack,Not fleeing,True,-117.066,32.562,True,1
+681,681,779,920,Michael J. Brennan,15/10/2015,shot,toy weapon,31.0,M,White,Parma,OH,False,attack,Car,False,-81.71,41.42100000000001,True,1
+688,688,787,929,Gino Paredes,17/10/2015,shot,toy weapon,22.0,M,Hispanic,Modesto,CA,False,attack,Not fleeing,False,-120.92,37.667,True,1
+692,692,792,935,Roger D.  Hall,20/10/2015,shot,toy weapon,30.0,M,White,Louisville,KY,False,attack,Not fleeing,False,-85.57799999999997,38.227,True,1
+693,693,793,936,Lamontez Jones,20/10/2015,shot,toy weapon,39.0,M,Black,San Diego,CA,False,attack,Not fleeing,False,-117.15899999999999,32.714,True,1
+745,745,853,1161,Dana Bruce Ott,10/11/2015,shot,toy weapon,63.0,M,White,Colorado Springs,CO,True,attack,Not fleeing,False,-104.87799999999999,38.909,True,1
+750,750,859,1005,Michael Joseph Bartkiewicz,13/11/2015,shot,toy weapon,52.0,M,White,Gibson County,TN,False,attack,Not fleeing,False,-88.874,35.957,True,1
+752,752,863,1003,Richard Perkins,15/11/2015,shot,toy weapon,39.0,M,Black,Oakland,CA,False,attack,Not fleeing,False,-122.166,37.754,True,1
+773,773,889,1031,Michael Kirvelay,24/11/2015,shot,toy weapon,45.0,M,White,Columbia Heights,MN,False,other,Not fleeing,False,-93.25200000000001,45.041000000000004,True,1
+775,775,891,1032,Thomas Joseph Mceniry,24/11/2015,shot and Tasered,toy weapon,32.0,M,White,Las Vegas,NV,True,attack,Foot,True,-115.137,36.122,True,1
+829,829,959,1102,Robert L. Martinez,18/12/2015,shot,toy weapon,58.0,M,Hispanic,Taos,NM,True,attack,Not fleeing,False,-105.573,36.407,True,1
+850,850,988,1131,Corey Jason Achstein,28/12/2015,shot,toy weapon,28.0,M,White,Suffolk,VA,False,attack,Not fleeing,True,-76.596,36.727,True,1
+864,864,1007,1150,Charles Hollstein,6/1/2016,shot,toy weapon,38.0,M,White,Zion,IL,True,other,Foot,False,-87.834,42.456,True,1
+870,870,1015,1163,Robert Tenbrink,11/1/2016,shot,toy weapon,45.0,M,White,Cincinnati,OH,True,attack,Foot,False,-84.585,39.118,True,1
+881,881,1026,1172,Alfred Longoria,16/1/2016,shot,toy weapon,34.0,M,Hispanic,Hollywood Hills,CA,False,other,Foot,False,-118.35799999999999,34.104,True,1
+883,883,1028,1176,Adam Karjalainen,16/1/2016,shot,toy weapon,44.0,M,White,Beaverton,OR,False,other,Not fleeing,False,-122.82600000000001,45.44600000000001,True,1
+892,892,1038,1182,Eric Provost,18/1/2016,shot,toy weapon,28.0,M,White,Orlando,FL,False,other,Not fleeing,False,-81.3,28.469,True,1
+902,902,1049,1200,Michael Lamar Robinson,23/1/2016,shot,toy weapon,43.0,M,White,Clanton,AL,False,other,Not fleeing,True,-86.652,32.852,True,1
+909,909,1056,1208,Thongsavanh Vandarack,27/1/2016,shot,toy weapon,40.0,M,Asian,Lenoir City,TN,True,other,Not fleeing,False,-84.23100000000002,35.816,True,1
+926,926,1075,1219,Peter John,1/2/2016,shot,toy weapon,36.0,M,Black,Washington,DC,False,attack,Foot,False,-76.925,38.894,True,1
+935,935,1084,1243,Thomas Hirko,4/2/2016,shot,toy weapon,54.0,M,White,Perry Township,OH,False,attack,Not fleeing,False,-81.179,41.729,True,1
+969,969,1122,1281,Paul Gaston,17/2/2016,shot,toy weapon,37.0,M,Black,Cincinnati,OH,False,other,Other,False,-84.605,39.155,True,1
+987,987,1141,1304,Rouven Loch,22/2/2016,shot,toy weapon,22.0,M,White,Fairborn,OH,False,other,Not fleeing,False,-84.01100000000002,39.836999999999996,True,1
+997,997,1155,1322,Kionte Desean Spencer,26/2/2016,shot,toy weapon,18.0,M,Black,Roanoke,VA,True,other,Not fleeing,False,-79.995,37.241,True,1
+1019,1019,1179,1347,Jeffrey Glen Casale,8/3/2016,shot,toy weapon,27.0,M,White,Tampa,FL,True,attack,Not fleeing,False,-82.462,28.084,True,1
+1020,1020,1180,1349,Wesley Sheppard,10/3/2016,shot,toy weapon,37.0,M,White,Biloxi,MS,False,other,Not fleeing,False,-88.885,30.396,True,1
+1021,1021,1181,1351,Arteair Porter Jr.,10/3/2016,shot,toy weapon,22.0,M,Black,Reno,NV,True,attack,Foot,False,-119.86200000000001,39.678000000000004,True,1
+1054,1054,1219,1394,Robert Dentmond,20/3/2016,shot,toy weapon,16.0,M,Black,Gainesville,FL,True,other,Not fleeing,False,-82.405,29.641,True,1
+1055,1055,1220,1396,Dylan Pape,21/3/2016,shot,toy weapon,25.0,M,White,Stamford,CT,True,attack,Not fleeing,False,-73.528,41.114,True,1
+1062,1062,1229,1405,Dominique Silva,24/3/2016,shot,toy weapon,24.0,M,Black,Pawtucket,RI,False,attack,Foot,False,-71.369,41.89100000000001,True,1
+1143,1143,1326,1502,Charlin Charles,1/5/2016,shot,toy weapon,25.0,M,Black,Orlando,FL,False,attack,Not fleeing,False,-81.402,28.535999999999998,True,1
+1154,1154,1341,1522,Lionel Gibson,8/5/2016,shot,toy weapon,21.0,M,Black,Long Beach,CA,False,other,Not fleeing,False,-118.191,33.795,True,1
+1159,1159,1347,1844,Arthur R. Williams,9/5/2016,shot,toy weapon,33.0,M,Black,El Paso,TX,False,other,Not fleeing,False,-106.41799999999999,31.929000000000002,True,1
+1237,1237,1446,1633,William Thomas Hennessey,18/6/2016,shot,toy weapon,34.0,M,White,Huntsville,AL,False,attack,Not fleeing,True,-86.62700000000002,34.736,True,1
+1242,1242,1453,1640,Lane Lesko,21/6/2016,shot,toy weapon,19.0,M,White,Peterborough,NH,True,attack,Car,False,-71.917,42.922,True,1
+1259,1259,1478,1665,Michael Disbrowe,27/6/2016,shot,toy weapon,28.0,M,White,Boone,IA,True,attack,Not fleeing,False,-93.896,42.058,True,1
+1260,1260,1479,1666,Sherman Evans,27/6/2016,shot,toy weapon,63.0,M,Black,Washington,DC,True,attack,Not fleeing,True,-77.006,38.94300000000001,True,1
+1263,1263,1482,1669,Raymond Hutson,27/6/2016,shot,toy weapon,25.0,M,White,Frederica,DE,False,other,Car,False,-75.46600000000002,39.009,True,1
+1292,1292,1523,1709,Richard G. Dinneny,13/7/2016,shot,toy weapon,56.0,M,White,Middletown,NY,True,other,Not fleeing,False,-74.428,41.428000000000004,True,1
+1359,1359,1603,1790,Larry Eugene Kurtley,16/8/2016,shot,toy weapon,53.0,M,White,Apache Junction,AZ,False,other,Not fleeing,False,-111.54700000000001,33.43,True,1
+1371,1371,1618,1806,Kole B. Knight,19/8/2016,shot,toy weapon,31.0,M,White,New London,WI,True,attack,Not fleeing,True,-88.735,44.38399999999999,True,1
+1383,1383,1632,1820,Angel Torres Jr.,27/8/2016,shot,toy weapon,26.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.18299999999999,33.482,True,1
+1411,1411,1671,1873,Jose Torres,8/9/2016,shot,toy weapon,38.0,M,Hispanic,Delhi,CA,False,attack,Not fleeing,False,-120.781,37.422,True,1
+1415,1415,1675,1877,Dennis Claude Stanley,10/9/2016,shot,toy weapon,69.0,M,White,Montcalm,WV,True,other,Not fleeing,True,-81.248,37.354,True,1
+1419,1419,1681,1883,Tyre King,14/9/2016,shot,toy weapon,13.0,M,Black,Columbus,OH,False,other,Foot,False,-82.98700000000002,39.963,True,1
+1427,1427,1691,1895,Robert Young,17/9/2016,shot,toy weapon,45.0,M,White,Huntsville,AL,False,attack,Other,True,-86.54,34.659,True,1
+1458,1458,1726,1922,Daniel Perez,2/10/2016,shot,toy weapon,16.0,M,Hispanic,Los Angeles,CA,True,attack,Not fleeing,True,-118.25,34.0,True,1
+1468,1468,1739,1953,Thomas Jeffery Burns,7/10/2016,shot,toy weapon,49.0,M,White,Benton,AR,False,other,Not fleeing,False,-92.57,34.582,True,1
+1493,1493,1778,1984,Kristofer Daniel Youngquist,23/10/2016,shot,toy weapon,45.0,M,White,Peterson,MN,False,attack,Not fleeing,False,-91.835,43.786,True,1
+1497,1497,1782,1990,Roy Lee Richards,25/10/2016,shot,toy weapon,46.0,M,Black,Little Rock,AR,False,other,Not fleeing,False,-92.265,34.741,True,1
+1498,1498,1783,1991,Brandon Jones,25/10/2016,shot,toy weapon,25.0,M,White,Elkton,MD,True,attack,Not fleeing,False,-75.821,39.599000000000004,True,1
+1627,1627,1976,2203,Gilbert Zambronio-Lovato,7/1/2017,shot,toy weapon,38.0,M,Hispanic,Albuquerque,NM,False,other,Not fleeing,False,-106.604,35.124,True,1
+1680,1680,2038,2706,Matthew Zank,28/1/2017,shot,toy weapon,48.0,M,White,Eau Claire,WI,True,attack,Not fleeing,False,-91.508,44.788999999999994,True,1
+1685,1685,2049,2282,Kris Kristl,2/2/2017,shot,toy weapon,26.0,M,White,Geneva,WI,False,other,Not fleeing,False,-88.521,42.643,True,1
+1697,1697,2065,2305,Jerome Allen,6/2/2017,shot,toy weapon,22.0,M,Black,Jacksonville,FL,False,attack,Not fleeing,False,-81.67699999999998,30.343000000000004,True,1
+1705,1705,2076,2316,Quanice Derrick Hayes,9/2/2017,shot,toy weapon,17.0,M,Black,Portland,OR,False,undetermined,Foot,False,-122.57799999999999,45.536,True,1
+1731,1731,2112,2351,Chance David Baker,18/2/2017,shot,toy weapon,22.0,M,Black,Portland,ME,True,other,Not fleeing,False,-70.28,43.653,True,1
+1734,1734,2115,2358,Sergio Reyes,19/2/2017,shot,toy weapon,18.0,M,Hispanic,New York,NY,False,attack,Foot,False,-73.92,40.702,True,1
+1753,1753,2136,2383,Lorenzo Antoine Cruz,25/2/2017,shot,toy weapon,23.0,M,Black,Rocklin,CA,True,attack,Foot,False,-121.258,38.827,True,1
+1765,1765,2150,2397,Michael Cisneros,2/3/2017,shot,toy weapon,27.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.069,33.451,True,1
+1769,1769,2154,2403,Dave Phoenix,3/3/2017,shot,toy weapon,25.0,M,Native Hawaiian,Lemoore,CA,False,attack,Not fleeing,False,-119.76299999999999,36.232,True,1
+1822,1822,2231,2484,Christopher Wade,6/4/2017,shot,toy weapon,39.0,M,Black,Westerville,OH,True,attack,Not fleeing,False,-82.947,40.115,True,1
+1869,1869,2299,2557,Jacob Peterson,6/5/2017,shot,toy weapon,15.0,M,White,San Diego,CA,True,attack,Not fleeing,True,-117.226,32.957,True,1
+1879,1879,2311,2617,Ian Thomas Little,9/5/2017,shot,toy weapon,36.0,M,White,Brighton Township,MI,True,attack,Not fleeing,False,-83.755,42.536,True,1
+1897,1897,2337,2599,Shannon Edward Estill,20/5/2017,shot,toy weapon,58.0,M,White,Pleasanton,CA,True,attack,Not fleeing,True,-121.85,37.663000000000004,True,1
+1909,1909,2352,2616,Joseph Zimmerman,26/5/2017,shot,toy weapon,34.0,M,White,Tucson,AZ,True,attack,Not fleeing,False,-110.956,32.149,True,1
+1957,1957,2419,2684,David Pacas,20/6/2017,shot,toy weapon,36.0,M,Hispanic,South Gate,CA,False,attack,Other,False,-118.205,33.963,True,1
+1974,1974,2442,2720,Marco Cardoza,29/6/2017,shot,toy weapon,41.0,M,Hispanic,Burbank,CA,False,attack,Not fleeing,False,-118.322,34.19,True,1
+2026,2026,2514,2795,Walter Lynde,23/7/2017,shot,toy weapon,49.0,M,White,Spencer,MA,False,attack,Car,False,-72.025,42.288999999999994,True,1
+2034,2034,2522,2805,Aries Clark,25/7/2017,shot,toy weapon,16.0,M,Black,Marion,AR,False,attack,Not fleeing,False,-90.199,35.226,True,1
+2060,2060,2556,2838,Jeremy Gabrial,4/8/2017,shot,toy weapon,31.0,M,White,Lauderdale County,MS,True,attack,Not fleeing,True,-88.594,32.283,True,1
+2080,2080,2579,2864,Steven James Young,14/8/2017,shot,toy weapon,45.0,M,White,Colorado Springs,CO,False,attack,Foot,False,-104.771,38.836,True,1
+2092,2092,2593,2884,Jeffrey Jacobs,21/8/2017,shot,toy weapon,42.0,M,White,Morganton,NC,False,attack,Not fleeing,False,-81.842,35.665,True,1
+2120,2120,2624,2914,Michael Battles,1/9/2017,shot,toy weapon,32.0,M,White,Poultney,VT,True,attack,Not fleeing,False,-73.181,43.552,True,1
+2141,2141,2651,2947,Vincent Edward Hernandez Jr,11/9/2017,shot,toy weapon,39.0,M,Hispanic,Bassett,CA,False,attack,Not fleeing,False,-117.977,34.063,True,1
+2313,2313,2903,3222,Robert Edwards,20/12/2017,shot,toy weapon,33.0,M,White,Miami Township,OH,True,other,Not fleeing,False,-84.245,39.593,True,1
+2389,2389,3022,3353,Steven Hutchins,25/1/2018,shot,toy weapon,27.0,M,White,Buford,GA,True,attack,Not fleeing,False,-84.03,34.106,True,1
+2420,2420,3067,3397,Steven Tyler Reed,10/2/2018,shot,toy weapon,25.0,M,White,Columbus,OH,False,undetermined,Foot,False,-83.089,39.952,True,1
+2448,2448,3105,3435,Douglas Kemp,23/2/2018,shot,toy weapon,58.0,M,White,Evansville,IN,False,other,Not fleeing,False,-87.501,37.955,True,1
+2469,2469,3133,3461,David Willoughby,5/3/2018,shot,toy weapon,33.0,M,White,Carroll County,GA,False,attack,Not fleeing,False,-85.009,33.715,True,1
+2537,2537,3226,3568,Timothy Breckenridge,30/3/2018,shot,toy weapon,42.0,M,White,Atwater,CA,False,other,Not fleeing,False,-120.626,37.353,True,1
+2564,2564,3259,3593,Carlos Roman Urias,8/4/2018,shot,toy weapon,24.0,M,Hispanic,Cathedral City,CA,False,attack,Not fleeing,False,-116.465,33.805,True,1
+2570,2570,3267,3600,Shawn Michael Hubbard,10/4/2018,shot,toy weapon,44.0,M,White,Billings,MT,False,other,Not fleeing,False,-108.554,45.784,True,1
+2586,2586,3287,4263,Petrica Peter Muntean,14/4/2018,shot,toy weapon,24.0,M,White,Anaheim,CA,True,attack,Not fleeing,True,-117.934,33.852,True,1
+2632,2632,3355,3679,Phillip Cameron Gibson,8/5/2018,shot,toy weapon,37.0,M,White,Glade Spring,VA,False,other,Other,False,-81.781,36.769,True,1
+2668,2668,3405,3733,Zane Anthony James,29/5/2018,shot,toy weapon,19.0,M,White,Cottonwood Heights,UT,False,other,Foot,False,-111.82799999999999,40.63,True,1
+2696,2696,3442,3848,Dillan Shane Ezell,13/6/2018,shot,toy weapon,21.0,M,White,Eustis,FL,True,attack,Not fleeing,False,-81.685,28.84,True,1
+2740,2740,3506,3972,John James Corrigan,5/7/2018,shot,toy weapon,38.0,M,White,Calaveras County,CA,True,attack,Not fleeing,False,-120.613,38.19,True,1
+2749,2749,3520,3853,Salome Ramirez,11/7/2018,shot,toy weapon,34.0,M,Hispanic,Los Banos,CA,False,other,Not fleeing,False,-120.845,37.062,True,1
+2764,2764,3538,3877,Ruben Maya,20/7/2018,shot,toy weapon,37.0,M,Hispanic,Fresno,CA,False,attack,Not fleeing,False,-119.829,36.755,True,1
+2772,2772,3547,3947,Eliuth Penaloza Nava,21/7/2018,shot,toy weapon,50.0,M,Hispanic,Anaheim,CA,True,other,Foot,False,-117.925,33.828,True,1
+2788,2788,3567,3901,Sergio Acosta,26/7/2018,shot,toy weapon,24.0,M,Hispanic,Redondo Beach,CA,False,undetermined,Not fleeing,False,-118.366,33.878,True,1
+2801,2801,3585,3925,Landon Christopher Wooten,2/8/2018,shot,toy weapon,18.0,M,White,Apopka,FL,False,attack,Not fleeing,False,-81.543,28.624000000000002,True,1
+2831,2831,3627,3978,Christopher Alexander Okamoto,19/8/2018,shot,toy weapon,21.0,M,Black,Bakersfield,CA,False,other,Not fleeing,False,-119.053,35.329,True,1
+2836,2836,3636,3989,James Clay,24/8/2018,shot,toy weapon,20.0,M,Black,Cincinnati,OH,False,attack,Not fleeing,True,-84.484,39.126999999999995,True,1
+2859,2859,3662,4017,Darell Richards,6/9/2018,shot,toy weapon,19.0,M,Black,Sacramento,CA,False,attack,Foot,False,-121.492,38.562,True,1
+2900,2900,3721,4077,Nicholas Salisbury,7/10/2018,shot,toy weapon,36.0,M,White,Auburn,CA,True,attack,Not fleeing,False,-121.10700000000001,38.938,True,1
+2925,2925,3756,4161,Mahlon Edward Summerour,18/10/2018,shot,toy weapon,63.0,M,Black,Monroe,GA,True,attack,Not fleeing,False,-83.711,33.804,True,1
+2943,2943,3782,4145,"Jose Centeno, Jr.",31/10/2018,shot,toy weapon,17.0,M,Hispanic,Houston,TX,False,attack,Car,True,-95.53,30.026999999999997,True,1
+2988,2988,3863,4269,Anthony Ray Borden-Cortez,4/12/2018,shot,toy weapon,18.0,M,Hispanic,Ogden,UT,False,attack,Not fleeing,True,-111.995,41.245,True,1
+3012,3012,3888,4299,Dylan Parker Thomas,12/12/2018,shot,toy weapon,18.0,M,White,Jacksonville,FL,False,attack,Not fleeing,False,-81.657,30.429000000000002,True,1
+3050,3050,3944,4507,John Richard Camacho,4/1/2019,shot,toy weapon,27.0,M,White,San Marcos,TX,False,other,Car,False,-97.955,29.874000000000002,True,1
+3064,3064,3969,4382,Christopher A. Schmitt,12/1/2019,shot,toy weapon,58.0,M,White,Dearborn County,IN,True,attack,Not fleeing,False,-85.056,39.247,True,1
+3097,3097,4014,4424,David Michael Bosiljevac,28/1/2019,shot,toy weapon,55.0,M,White,Wichita,KS,False,attack,Not fleeing,False,-97.316,37.632,True,1
+3274,3274,4248,4693,Alejandro Hernandez,29/4/2019,shot,toy weapon,26.0,M,Hispanic,Phoenix,AZ,False,attack,Foot,False,-112.134,33.459,True,1
+3365,3365,4386,4799,DeWayne Watkins,18/6/2019,shot,toy weapon,74.0,M,Black,Syracuse,NY,False,attack,Not fleeing,False,-76.148,43.01600000000001,True,1
+3419,3419,4457,4876,Michael Anthony Brand,15/7/2019,shot,toy weapon,43.0,M,White,Salt Lake City,UT,True,other,Not fleeing,True,-111.906,40.757,True,1
+3424,3424,4463,4875,Stephen Murray,17/7/2019,shot,toy weapon,52.0,M,Black,Modesto,CA,False,attack,Not fleeing,True,-121.01,37.633,True,1
+3473,3473,4554,4972,Roger Schafer,22/8/2019,shot,toy weapon,57.0,M,White,Albuquerque,NM,False,attack,Not fleeing,False,-106.529,35.079,True,1
+3495,3495,4600,5016,Bennie Branch,8/9/2019,shot,toy weapon,24.0,M,Black,Tacoma,WA,False,undetermined,Foot,False,-122.40899999999999,47.233000000000004,True,1
+3500,3500,4612,5039,Nicholas Walker,14/9/2019,shot,toy weapon,31.0,M,Black,Arlington,TX,True,attack,Not fleeing,True,-97.103,32.694,True,1
+3524,3524,4652,5061,David Page,29/9/2019,shot,toy weapon,20.0,M,White,Monument,CO,True,attack,Not fleeing,False,-104.868,39.092,True,1
+3579,3579,4746,5161,Francis Calonge,31/10/2019,shot,toy weapon,33.0,M,White,San Jose,CA,True,attack,Not fleeing,True,-121.85,37.365,True,1
+3618,3618,4808,5210,Estevon Cruz,23/11/2019,shot,toy weapon,24.0,M,Hispanic,Pueblo,CO,False,attack,Not fleeing,False,-104.649,38.256,True,1
+3656,3656,4862,5286,Anthony Tovar,12/12/2019,shot,toy weapon,43.0,M,White,Renton,WA,False,other,Not fleeing,False,-122.186,47.452,True,1
+3707,3707,4933,5342,Gabriel Strickland,1/1/2020,shot and Tasered,toy weapon,25.0,M,White,Grass Valley,CA,True,attack,Not fleeing,False,-121.061,39.219,True,1
+3769,3769,5016,5457,Keith Dutree Collins,30/1/2020,shot,toy weapon,52.0,M,Black,Raleigh,NC,True,attack,Foot,True,-78.707,35.861,True,1
+3827,3827,5101,5600,Cody Hodges,2/3/2020,shot,toy weapon,34.0,M,White,Keithville,LA,True,attack,Not fleeing,False,-93.83,32.333,True,1
+3845,3845,5133,5654,Rosario Angel Alvarado,13/3/2020,shot,toy weapon,41.0,M,Hispanic,Chandler,AZ,False,attack,Not fleeing,False,-111.836,33.305,True,1
+3896,3896,5246,5917,Joshua Johnson,22/4/2020,shot,toy weapon,35.0,M,Black,Houston,TX,False,attack,Foot,False,-95.51899999999999,29.638,True,1
+3942,3942,5312,5827,Rayshard Scales,14/5/2020,shot,toy weapon,30.0,M,Black,Houston,TX,True,attack,Not fleeing,False,-95.366,29.684,True,1
+4000,4000,5409,5922,Anthony Angel Armenta,13/6/2020,shot,toy weapon,21.0,M,Hispanic,San Bernardino,CA,False,attack,Not fleeing,False,-117.25,34.117,True,1
+4040,4040,5470,5987,Richard Lewis Price,9/7/2020,shot,toy weapon,49.0,M,Black,San Diego,CA,True,attack,Not fleeing,True,-117.094,32.756,True,1
+4053,4053,5485,5996,Timothy O'Shea,14/7/2020,shot,toy weapon,24.0,M,White,Morris Township,NJ,True,attack,Not fleeing,False,-74.487,40.821999999999996,True,1
+4058,4058,5492,6001,Malcolm Comeaux,17/7/2020,shot,toy weapon,24.0,M,Black,Houston,TX,False,other,Not fleeing,False,-95.333,29.656999999999996,True,1
+4067,4067,5503,6015,Chester Jenkins,24/7/2020,shot,toy weapon,61.0,M,Black,Stockton,CA,False,attack,Not fleeing,True,-121.228,37.999,True,1
+4214,4214,5750,6253,Paul Sarver,25/10/2020,shot,toy weapon,53.0,M,White,Phoenix,AZ,False,attack,Not fleeing,False,-112.119,33.734,True,1
+4295,4295,5908,6445,Joseph Tanner Casten,23/12/2020,shot,toy weapon,19.0,M,White,Joliet,IL,False,other,Not fleeing,False,-88.06200000000004,41.521,True,1
+4310,4310,5955,6489,Matthew Oxendine,9/1/2021,shot,toy weapon,46.0,M,White,Pembroke,NC,False,attack,Not fleeing,False,-79.158,34.705,True,1

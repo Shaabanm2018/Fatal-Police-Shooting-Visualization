@@ -1,0 +1,15 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+391,391,430,553,Shelly Haendiges,12/6/2015,shot,toy weapon,17.0,F,White,Kokomo,IN,True,attack,Not fleeing,False,-86.165,40.469,True,1
+869,869,1013,1159,Christine A. Lucas,10/1/2016,shot,toy weapon,45.0,F,White,Rising Sun,MD,True,attack,Not fleeing,False,-75.959,39.718,True,1
+1047,1047,1212,1382,India Beaty,19/3/2016,shot,toy weapon,25.0,F,Black,Norfolk,VA,False,attack,Not fleeing,False,-76.191,36.927,True,1
+1482,1482,1762,1966,Micah Dsheigh Jester,16/10/2016,shot,toy weapon,26.0,F,White,Austin,TX,True,attack,Not fleeing,False,-97.789,30.198,True,1
+1499,1499,1784,1992,Chelsea M. Porter,25/10/2016,shot,toy weapon,25.0,F,White,Elkton,MD,False,attack,Not fleeing,False,-75.821,39.599000000000004,True,1
+1574,1574,1903,2123,Amber Lewis,11/12/2016,shot,toy weapon,44.0,F,White,Bullhead City,AZ,True,attack,Not fleeing,False,-114.59299999999999,35.109,True,1
+1786,1786,2187,2439,Nancy Jane Lewellyn,17/3/2017,shot,toy weapon,59.0,F,White,Lakeland,TN,True,attack,Not fleeing,False,-89.728,35.211999999999996,True,1
+2848,2848,3650,4006,Vanessa Marquez,30/8/2018,shot,toy weapon,49.0,F,Hispanic,Pasadena,CA,True,other,Not fleeing,True,-118.15299999999999,34.114000000000004,True,1
+2940,2940,3779,4139,Ida Christy Stiles,29/10/2018,shot,toy weapon,42.0,F,White,Jackson,GA,True,attack,Not fleeing,False,-84.027,33.174,True,1
+3208,3208,4157,4591,Hannah Westall,20/3/2019,shot,toy weapon,26.0,F,White,San Antonio,TX,True,attack,Not fleeing,False,-98.572,29.551,True,1
+3393,3393,4426,4857,Christine Soto Venegas,3/7/2019,shot,toy weapon,38.0,F,Hispanic,El Paso,TX,False,attack,Not fleeing,False,-106.429,31.77,True,1
+3397,3397,4432,4848,Hannah Williams,5/7/2019,shot,toy weapon,17.0,F,White,Anaheim,CA,True,attack,Not fleeing,True,-117.913,33.854,True,1
+3559,3559,4711,5117,Amber Lea Dewitt,20/10/2019,shot,toy weapon,33.0,F,White,Boise,ID,True,attack,Not fleeing,True,-116.234,43.638999999999996,True,1
+3687,3687,4904,5328,Lori Jean Canada,25/12/2019,shot,toy weapon,59.0,F,White,Ocala,FL,True,attack,Not fleeing,False,-82.251,29.180999999999997,True,1

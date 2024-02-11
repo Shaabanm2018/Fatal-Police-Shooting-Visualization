@@ -1,0 +1,70 @@
+,Unnamed: 0,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count,ageGroup
+0,0,3,Tim Elliot,2/1/2015,shot,gun,53.0,M,Asian,Shelton,WA,True,attack,Not fleeing,False,-123.122,47.247,True,1,46 to 50
+138,153,195,Hung Trieu,1/3/2015,shot,gun,35.0,M,Asian,Houston,TX,False,attack,Not fleeing,False,-95.622,29.704,True,1,31 to 35
+145,160,249,Carl Lao,4/3/2015,shot,gun,28.0,M,Asian,Stockton,CA,False,attack,Not fleeing,False,-121.286,37.948,True,1,21 to 25
+242,265,359,Joseph Jeremy Weber,8/4/2015,shot,knife,28.0,M,Asian,Sunnyvale,CA,True,other,Not fleeing,False,-121.995,37.404,True,1,21 to 25
+278,303,397,Lue Vang,22/4/2015,shot,gun,39.0,M,Asian,Eldorado Springs,CO,False,attack,Not fleeing,False,-105.257,39.938,True,1,31 to 35
+309,337,430,Thong Kien Ma,5/5/2015,shot,knife,32.0,M,Asian,South El Monte,CA,False,attack,Not fleeing,False,-118.044,34.054,True,1,26 to 30
+424,468,601,Ton Nguyen,2/7/2015,shot,knife,60.0,M,Asian,San Diego,CA,False,other,Not fleeing,False,-117.164,32.99,True,1,56 to 60
+603,685,879,William Chau,9/9/2015,shot,knife,59.0,M,Asian,El Monte,CA,False,attack,Not fleeing,False,-118.029,34.079,True,1,51 to 55
+604,686,817,Tian Ma,10/9/2015,shot,knife,31.0,M,Asian,Potsdam,NY,False,attack,Not fleeing,False,-74.992,44.668,True,1,26 to 30
+671,766,900,Kevin Lau,11/10/2015,shot,gun,44.0,M,Asian,Lakes Charles,LA,False,attack,Not fleeing,False,-93.229,30.174,True,1,36 to 40
+822,948,1092,Mharloun Verdejo  Saycon,14/12/2015,shot,knife,39.0,M,Asian,Long Beach,CA,False,other,Not fleeing,False,-118.189,33.803000000000004,True,1,31 to 35
+909,1056,1208,Thongsavanh Vandarack,27/1/2016,shot,toy weapon,40.0,M,Asian,Lenoir City,TN,True,other,Not fleeing,False,-84.23100000000002,35.816,True,1,36 to 40
+1043,1206,1370,Map Kong,17/3/2016,shot,gun,38.0,M,Asian,Burnsville,MN,True,other,Not fleeing,True,-93.318,44.776,True,1,31 to 35
+1044,1207,1372,Sunny Chin,17/3/2016,shot,gun,53.0,M,Asian,Tampa,FL,False,attack,Not fleeing,False,-82.499,27.889,True,1,46 to 50
+1118,1296,1474,Sylasone Ackhavong,19/4/2016,shot,gun,41.0,M,Asian,Charlotte,NC,True,attack,Not fleeing,False,-80.936,35.246,True,1,36 to 40
+1134,1314,1494,Cin Lam Mung,27/4/2016,shot,machete,34.0,M,Asian,Atlanta,GA,False,other,Not fleeing,False,-84.26799999999999,33.854,True,1,26 to 30
+1142,1325,1508,Marion Habana,30/4/2016,shot,knife,28.0,M,Asian,Los Angeles,CA,False,other,Not fleeing,True,-118.472,34.228,True,1,21 to 25
+1264,1483,1670,Barry Prak,28/6/2016,shot,knife,27.0,M,Asian,Long Beach,CA,False,other,Foot,False,-117.783,33.542,True,1,21 to 25
+1265,1484,1671,Walden Dang,28/6/2016,shot,knife,61.0,M,Asian,Honolulu,HI,False,attack,Not fleeing,False,-157.842,21.303,True,1,56 to 60
+1325,1563,1752,Limichael Shine,31/7/2016,shot,knife,18.0,M,Asian,Manchester,NJ,True,other,Not fleeing,True,-74.293,40.043,True,1,11 to 15
+1507,1793,2002,Jun Wang,28/10/2016,shot,knife,45.0,M,Asian,North Royalton,OH,True,attack,Not fleeing,False,-81.767,41.326,True,1,41 to 45
+1541,1850,2054,Luke Smith,19/11/2016,shot and Tasered,knife,15.0,M,Asian,Watsonville,CA,False,other,Foot,True,-121.791,36.971,True,1,11 to 15
+1565,1885,2098,Saif Nasser Mubarek Alameri,4/12/2016,shot,unarmed,26.0,M,Asian,Hudson,OH,False,other,Foot,False,-81.393,41.26300000000001,True,1,21 to 25
+1641,1993,2217,Sinuon Pream,15/1/2017,shot and Tasered,knife,37.0,F,Asian,Long Beach,CA,True,other,Not fleeing,False,-118.121,33.775,True,1,31 to 35
+1826,2236,2495,Jeffrey Lynn Curry,7/4/2017,shot,gun,33.0,M,Asian,Kyle,SD,False,attack,Car,False,-102.177,43.425,True,1,26 to 30
+1917,2368,2627,Naway Willy,2/6/2017,shot,gun,18.0,M,Asian,Tulsa,OK,False,attack,Foot,False,-95.861,36.151,True,1,11 to 15
+1980,2450,2733,Jeremy Holmes,1/7/2017,shot,knife,19.0,M,Asian,Fort Collins,CO,True,other,Not fleeing,True,-105.087,40.567,True,1,11 to 15
+2181,2709,3015,Phumee Lee,5/10/2017,shot,gun,28.0,M,Asian,St. Paul,MN,False,attack,Not fleeing,True,-93.056,44.964,True,1,21 to 25
+2237,2788,3093,Nyung Kyee,4/11/2017,shot,knife,56.0,M,Asian,Clarksville,AR,False,attack,Not fleeing,False,-93.485,35.47,True,1,51 to 55
+2265,2825,3139,Dustin Robert Pigeon,15/11/2017,shot,unarmed,29.0,M,Asian,Oklahoma City,OK,True,other,Not fleeing,True,-97.541,35.444,True,1,21 to 25
+2306,2878,3193,Vernchoy Saechao,8/12/2017,shot,gun,22.0,M,Asian,Redding,CA,False,attack,Not fleeing,False,-122.326,40.567,True,1,16 to 20
+2337,2952,3293,Andy Vo,5/1/2018,shot,gun,35.0,M,Asian,Long Beach,CA,False,other,Not fleeing,False,-118.143,33.803000000000004,True,1,31 to 35
+2353,2972,3300,Thompson Nguyen,9/1/2018,shot,ax,27.0,M,Asian,San Jose,CA,True,other,Not fleeing,True,-121.745,37.22,True,1,21 to 25
+2484,3154,4253,Hieu Than,9/3/2018,shot,knife,38.0,M,Asian,Arlington,TX,False,attack,Not fleeing,False,-97.14,32.652,True,1,31 to 35
+2505,3184,3520,Steven Nguyen,19/3/2018,shot,unarmed,27.0,M,Asian,Denver,CO,False,other,Car,False,-104.902,39.776,True,1,21 to 25
+2512,3193,3534,Jehad Eid,21/3/2018,shot,gun,21.0,M,Asian,San Francisco,CA,False,attack,Not fleeing,False,-122.44,37.716,True,1,16 to 20
+2555,3249,3587,Nathaniel Prasad,5/4/2018,shot,gun,18.0,M,Asian,Fremont,CA,False,attack,Foot,False,-122.024,37.56800000000001,True,1,11 to 15
+2559,3254,3589,Antonio Aquino,6/4/2018,shot,gun,34.0,M,Asian,Las Vegas,NV,False,attack,Not fleeing,False,-115.041,36.167,True,1,26 to 30
+2673,3411,3731,Renie Cablay,1/6/2018,shot,knife,55.0,M,Asian,Honolulu,HI,True,attack,Not fleeing,False,-158.005,21.391,True,1,51 to 55
+2729,3493,3817,Larry San Nicolas,1/7/2018,shot,sword,60.0,M,Asian,Grandview,MO,False,other,Not fleeing,False,-94.524,38.855,True,1,56 to 60
+2737,3503,3826,Raad Fakhri Salman,5/7/2018,shot,knife,62.0,M,Asian,Louisville,KY,False,other,Not fleeing,False,-85.762,38.174,True,1,56 to 60
+2790,3569,3962,Gavalynn Mahuka,26/7/2018,shot,gun,53.0,M,Asian,Nanakuli,HI,True,attack,Not fleeing,False,-158.137,21.389,True,1,46 to 50
+2936,3773,4135,Lloyd Gerald Napouk,27/10/2018,shot,unknown weapon,44.0,M,Asian,Las Vegas,NV,True,other,Not fleeing,True,-115.215,36.05,True,1,36 to 40
+2954,3796,4163,Anovath Troy Kongvongxay,5/11/2018,shot,ax,48.0,M,Asian,Camp Croft,SC,True,attack,Not fleeing,False,-81.87,34.882,True,1,41 to 45
+2962,3810,4179,Andrew Kana,12/11/2018,shot,gun,36.0,M,Asian,Catoosa,OK,False,other,Not fleeing,False,-95.636,36.163,True,1,31 to 35
+3006,3881,4291,Tori Kaneshiro,11/12/2018,shot,gun,30.0,F,Asian,Pahoa,HI,False,attack,Not fleeing,False,-154.92,19.529,True,1,26 to 30
+3036,3927,4332,Iosia Faletogo,31/12/2018,shot,gun,36.0,M,Asian,Seattle,WA,False,attack,Foot,True,-122.345,47.699,True,1,31 to 35
+3056,3955,5409,Nil Houer,6/1/2019,shot,gun,38.0,M,Asian,Houston,TX,False,other,Not fleeing,False,-95.496,29.935,True,1,31 to 35
+3129,4054,4461,Phayvanh Inthavong,11/2/2019,shot,gun,32.0,M,Asian,Redding,CA,False,attack,Foot,False,-122.346,40.543,True,1,26 to 30
+3140,4066,4478,Nam Quang Le,16/2/2019,shot,gun,34.0,M,Asian,Clinton,MS,False,attack,Not fleeing,False,-90.319,32.352,True,1,26 to 30
+3143,4070,4466,Delmar Espejo,18/2/2019,shot,unarmed,20.0,M,Asian,Honolulu,HI,False,attack,Not fleeing,False,-157.857,21.307,True,1,16 to 20
+3145,4072,4473,Clayton Joseph,19/2/2019,shot,knife,16.0,M,Asian,Vancouver,WA,False,attack,Not fleeing,False,-122.561,45.612,True,1,11 to 15
+3167,4097,4550,Maurice Arrisgado,1/3/2019,shot,unarmed,47.0,M,Asian,Honolulu,HI,False,other,Foot,False,-157.885,21.328000000000007,True,1,41 to 45
+3188,4129,4555,Sokhom Hon,10/3/2019,shot,unknown weapon,31.0,M,Asian,San Bernardino,CA,True,attack,Not fleeing,False,-117.282,34.106,True,1,26 to 30
+3252,4215,4663,Luc Ciel,12/4/2019,shot,knife,54.0,M,Asian,Richmond,CA,False,attack,Not fleeing,False,-122.331,37.945,True,1,46 to 50
+3325,4328,4753,Jesse Sarey,31/5/2019,shot,unarmed,26.0,M,Asian,Auburn,WA,True,other,Not fleeing,False,-122.214,47.295,True,1,21 to 25
+3388,4417,4835,Aaron Hong,1/7/2019,shot,knife,23.0,M,Asian,Athens,GA,True,attack,Not fleeing,True,-83.399,33.914,True,1,16 to 20
+3394,4427,4979,Li Xi Wang,3/7/2019,shot,unarmed,49.0,M,Asian,Chino,CA,False,other,Not fleeing,True,-117.656,34.021,True,1,41 to 45
+3441,4494,4923,Mauris Nishanga DeSilva,31/7/2019,shot and Tasered,knife,46.0,M,Asian,Austin,TX,True,other,Not fleeing,False,-97.754,30.269,True,1,41 to 45
+3570,4731,5131,Nan Zhao,26/10/2019,shot,gun,45.0,M,Asian,Athens,GA,False,attack,Foot,True,-83.324,33.936,True,1,41 to 45
+3589,4762,5169,Michael Lee Nguyen,5/11/2019,shot,gun,32.0,M,Asian,Leon,WI,False,other,Not fleeing,False,-90.82,43.856,True,1,26 to 30
+3662,4870,5275,Chiasher Fong Vue,15/12/2019,shot,gun,52.0,M,Asian,Minneapolis,MN,False,attack,Not fleeing,True,-93.313,45.012,True,1,46 to 50
+3729,4961,5363,Clando Anitok,10/1/2020,shot and Tasered,unarmed,25.0,M,Asian,Spokane,WA,False,other,Car,False,-117.422,47.72,True,1,21 to 25
+3748,4989,5387,Sok Chin Son,21/1/2020,shot and Tasered,knife,60.0,M,Asian,Lacey,WA,False,attack,Not fleeing,False,-122.768,47.038,True,1,56 to 60
+3798,5056,5536,Daelyn Polu,15/2/2020,shot,gun,16.0,M,Asian,Anchorage,AK,False,attack,Not fleeing,False,-149.889,61.217,True,1,11 to 15
+3800,5058,5533,Kerry Michael Bounsom,16/2/2020,shot,gun,33.0,M,Asian,Long Beach,CA,False,attack,Foot,False,-118.181,33.793,True,1,26 to 30
+3902,5257,5766,De Quang Tran,26/4/2020,shot,gun,26.0,M,Asian,La Plata,MD,False,attack,Not fleeing,False,-76.965,38.501,True,1,21 to 25
+3945,5317,5830,Thuc Pham,15/5/2020,shot,gun,42.0,M,Asian,San Leandro,CA,False,attack,Not fleeing,False,-122.101,37.69300000000001,True,1,36 to 40
+4200,5718,6247,Tutuila Pine Koonwaiyou,18/10/2020,shot,gun,37.0,M,Asian,Tooele,UT,False,other,Not fleeing,False,-112.298,40.531,True,1,31 to 35

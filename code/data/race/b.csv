@@ -1,0 +1,1170 @@
+,Unnamed: 0,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count,ageGroup
+8,9,17,Leslie Sapp III,6/1/2015,shot,toy weapon,47.0,M,Black,Knoxville,PA,False,attack,Not fleeing,False,-79.991,40.413,True,1,41 to 45
+10,11,21,Ron Sneed,7/1/2015,shot,gun,31.0,M,Black,Freeport,TX,False,attack,Not fleeing,False,-95.369,28.955,True,1,26 to 30
+11,12,22,Hashim Hanif Ibn Abdul-Rasheed,7/1/2015,shot,knife,41.0,M,Black,Columbus,OH,True,other,Not fleeing,False,-82.885,39.999,True,1,36 to 40
+13,14,27,Omarr Julian Maximillian Jackson,7/1/2015,shot,gun,37.0,M,Black,New Orleans,LA,False,attack,Foot,True,-90.012,30.022,True,1,31 to 35
+14,17,36,Artago Damon Howard,8/1/2015,shot,unarmed,36.0,M,Black,Strong,AR,False,attack,Not fleeing,False,-92.359,33.111,True,1,31 to 35
+23,28,51,Mario Jordan,14/1/2015,shot,gun,34.0,M,Black,Chesapeake,VA,True,attack,Not fleeing,False,-76.348,36.783,True,1,26 to 30
+27,32,56,Donte Sowell,15/1/2015,shot,gun,27.0,M,Black,Indianapolis,IN,False,attack,Foot,False,-85.991,39.826,True,1,21 to 25
+28,33,57,Kavonda Earl Payton,15/1/2015,shot,gun,39.0,M,Black,Aurora,CO,False,attack,Not fleeing,False,-104.772,39.726,True,1,31 to 35
+34,39,74,Terence Walker,17/1/2015,shot,gun,21.0,M,Black,Muskogee,OK,False,attack,Foot,True,-95.394,35.766,True,1,16 to 20
+42,48,90,Isaac Holmes,21/1/2015,shot,gun,19.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.25,38.665,True,1,11 to 15
+44,50,99,Tiano Meton,22/1/2015,shot,toy weapon,25.0,M,Black,Sierra Blanca,TX,False,attack,Car,False,-105.028,31.08,True,1,21 to 25
+49,56,107,Darin Hutchins,24/1/2015,shot,knife,26.0,M,Black,Baltimore,MD,True,other,Not fleeing,False,-76.648,39.284,True,1,21 to 25
+58,67,350,Jermonte Fletcher,27/1/2015,shot,gun,33.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,-82.99700000000001,39.879,True,1,26 to 30
+65,75,339,Edward Donnell Bright,31/1/2015,shot and Tasered,knife,54.0,M,Black,Randallstown,MD,True,other,Not fleeing,False,-76.821,39.38,True,1,46 to 50
+69,79,117,Ledarius D. Williams,3/2/2015,shot,gun,23.0,M,Black,St. Louis,MO,False,attack,Foot,False,-90.21,38.75,True,1,16 to 20
+70,80,118,Yuvette Henderson,3/2/2015,shot,gun,38.0,F,Black,Emeryville,CA,False,attack,Car,False,-122.284,37.827,True,1,31 to 35
+71,81,119,Dewayne Deshawn Ward,3/2/2015,shot,knife,29.0,M,Black,Antioch,CA,True,other,Not fleeing,False,-121.818,37.999,True,1,21 to 25
+73,83,116,Jeremy Lett,4/2/2015,shot,unarmed,28.0,M,Black,Tallahassee,FL,False,attack,Not fleeing,False,-84.33,30.466,True,1,21 to 25
+77,87,126,Jimmy Ray Robinson Jr.,4/2/2015,shot,gun,51.0,M,Black,Lorena,TX,False,attack,Car,False,-97.208,31.397,True,1,46 to 50
+78,88,127,Markell Atkins,4/2/2015,shot,knife,36.0,M,Black,Memphis,TN,False,other,Not fleeing,False,-89.932,35.164,True,1,31 to 35
+80,90,129,Herbert Hill,6/2/2015,shot,gun,25.0,M,Black,Oklahoma City,OK,False,attack,Not fleeing,False,-97.515,35.404,True,1,21 to 25
+82,92,554,James Allen,7/2/2015,shot,gun,74.0,M,Black,Gastonia,NC,False,attack,Not fleeing,False,-81.227,35.266,True,1,66 to 70
+89,99,137,Desmond Luster,9/2/2015,shot,gun,45.0,M,Black,Dallas,TX,False,attack,Not fleeing,False,-96.751,32.655,True,1,41 to 45
+90,100,139,Anthony Bess,10/2/2015,shot,gun,49.0,M,Black,Whitehaven,TN,False,attack,Not fleeing,False,-90.054,35.025,True,1,41 to 45
+93,103,141,Phillip Watkins,11/2/2015,shot,knife,23.0,M,Black,San Jose,CA,True,other,Not fleeing,False,-121.876,37.316,True,1,16 to 20
+102,114,150,Lavall Hall,15/2/2015,shot and Tasered,unarmed,25.0,M,Black,Miami Gardens,FL,True,other,Not fleeing,False,-80.208,25.951,True,1,21 to 25
+110,123,163,Janisha Fonville,18/2/2015,shot,knife,20.0,F,Black,Charlotte,NC,True,other,Not fleeing,False,-80.819,35.25,True,1,16 to 20
+112,125,166,Stanley Lamar Grant,20/2/2015,shot,gun,38.0,M,Black,Homewood,AL,False,attack,Not fleeing,False,-86.824,33.482,True,1,31 to 35
+113,126,255,Douglas Harris,20/2/2015,shot,gun,77.0,M,Black,Birmingham,AL,True,attack,Not fleeing,False,-86.72399999999998,33.564,True,1,71 to 75
+120,134,176,A'Donte Washington,23/2/2015,shot,gun,16.0,M,Black,Millbrook,AL,False,attack,Not fleeing,False,-86.36200000000002,32.53,True,1,11 to 15
+132,147,188,Thomas Allen,28/2/2015,shot,unarmed,34.0,M,Black,St Louis,MO,False,other,Car,False,-90.232,38.598,True,1,26 to 30
+134,149,190,Cornelius J. Parker,28/2/2015,shot,gun,28.0,M,Black,Columbia,MO,False,attack,Car,False,-92.294,38.946,True,1,21 to 25
+135,150,191,Ian Sherrod,28/2/2015,shot,gun,40.0,M,Black,Tarboro,NC,True,attack,Car,False,-77.548,35.918,True,1,36 to 40
+140,155,194,Charly Leundeu Keunang,1/3/2015,shot and Tasered,unarmed,43.0,M,Black,Los Angeles,CA,True,attack,Not fleeing,True,-118.245,34.043,True,1,36 to 40
+141,156,196,Shaquille Barrow,2/3/2015,shot,gun,20.0,M,Black,Joilet,IL,False,other,Foot,False,-88.074,41.522,True,1,16 to 20
+142,157,197,Fednel Rhinvil,3/3/2015,shot,gun,25.0,M,Black,Salisbury,MD,False,attack,Not fleeing,False,-75.609,38.38,True,1,21 to 25
+146,161,200,Tyrone Ryerson Lawrence,5/3/2015,shot,knife,45.0,M,Black,Milwaukee,WI,True,other,Not fleeing,False,-87.904,42.968,True,1,41 to 45
+149,164,203,Tony Robinson,6/3/2015,shot,unarmed,19.0,M,Black,Madison,WI,False,attack,Foot,False,-89.365,43.083,True,1,11 to 15
+150,165,269,Naeschylus  Vinzant,6/3/2015,shot,unarmed,37.0,M,Black,Aurora,CO,False,undetermined,Foot,False,-104.916,39.735,True,1,31 to 35
+152,168,204,Monique Jenee Deckard,8/3/2015,shot,knife,43.0,F,Black,Anaheim,CA,True,other,Not fleeing,True,-117.94,33.819,True,1,36 to 40
+154,171,205,Anthony Hill,9/3/2015,shot,unarmed,27.0,M,Black,Atlanta,GA,True,other,Not fleeing,False,-84.26700000000002,33.88,True,1,21 to 25
+157,174,276,Cedrick Lamont Bishop,9/3/2015,shot,gun,30.0,M,Black,Cocoa,FL,False,attack,Not fleeing,False,-80.749,28.351,True,1,26 to 30
+158,175,206,Theodore Johnson,10/3/2015,shot,gun,64.0,M,Black,Cleveland,OH,False,attack,Not fleeing,True,-81.641,41.45,True,1,56 to 60
+159,176,278,Jamie Croom,10/3/2015,shot,gun,31.0,M,Black,Baton Rouge,LA,False,attack,Not fleeing,False,-91.169,30.536,True,1,26 to 30
+167,186,282,Bobby Gross,12/3/2015,shot,unarmed,35.0,M,Black,Washington,DC,True,other,Not fleeing,False,-76.983,38.882,True,1,31 to 35
+186,206,229,Brandon Jones,19/3/2015,shot,unarmed,18.0,M,Black,Cleveland,OH,False,attack,Not fleeing,False,-81.609,41.529,True,1,11 to 15
+188,208,265,Kendre Alston,19/3/2015,shot,gun,16.0,M,Black,Jacksonville,FL,False,attack,Car,False,-81.68,30.379,True,1,11 to 15
+191,211,308,Richard White,20/3/2015,shot,machete,63.0,M,Black,New Orleans,LA,True,attack,Not fleeing,False,-90.265,29.993,True,1,56 to 60
+200,220,234,Denzel Brown,22/3/2015,shot and Tasered,undetermined,21.0,M,Black,Islip,NY,False,attack,Car,False,-73.238,40.74,True,1,16 to 20
+201,221,237,Devin Gates,23/3/2015,shot,gun,24.0,M,Black,Santa Clara,CA,False,attack,Not fleeing,False,-121.959,37.361,True,1,16 to 20
+202,222,238,Walter J. Brown III,24/3/2015,shot,gun,29.0,M,Black,Portsmouth,VA,True,attack,Car,False,-76.37,36.819,True,1,21 to 25
+205,225,239,Nicholas Thomas,25/3/2015,shot,undetermined,23.0,M,Black,Smyrna,GA,False,other,Car,True,-84.477,33.866,True,1,16 to 20
+206,226,240,Jeremy Lorenza Kelly,25/3/2015,shot,gun,27.0,M,Black,Johnsonville,SC,False,attack,Foot,False,-79.462,33.819,True,1,21 to 25
+211,231,245,Meagan Hockaday,27/3/2015,shot,knife,26.0,F,Black,Oxnard,CA,False,other,Not fleeing,False,-119.183,34.228,True,1,21 to 25
+213,233,254,Angelo West,27/3/2015,shot,gun,41.0,M,Black,Boston,MA,False,attack,Not fleeing,False,-71.089,42.313,True,1,36 to 40
+215,235,257,Jamalis Hall,27/3/2015,shot,knife,39.0,M,Black,Fort Pierce,FL,False,other,Not fleeing,False,-80.328,27.435,True,1,31 to 35
+218,238,252,Byron Herbert,29/3/2015,shot,gun,29.0,M,Black,Elizabethtown,KY,False,attack,Not fleeing,False,-85.889,37.735,True,1,21 to 25
+222,244,263,Mya Hall,31/3/2015,shot,vehicle,27.0,F,Black,Fort Meade,MD,False,other,Car,False,-76.77,39.115,True,1,21 to 25
+223,245,267,Robert Washington,1/4/2015,shot,gun,37.0,M,Black,Hawthorne,CA,False,attack,Not fleeing,False,-118.337,33.902,True,1,31 to 35
+225,247,286,Darrin Langford,2/4/2015,shot,gun,32.0,M,Black,Rock Island,IL,False,attack,Foot,False,-90.582,41.5,True,1,26 to 30
+226,248,291,Eric Harris,2/4/2015,shot,unarmed,44.0,M,Black,Tulsa,OK,False,other,Not fleeing,False,-95.94,36.184,True,1,36 to 40
+230,252,296,Justus Howell,4/4/2015,shot,gun,17.0,M,Black,Zion,IL,False,attack,Foot,False,-87.845,42.452,True,1,11 to 15
+231,253,300,Paul Anderson,4/4/2015,shot,gun,31.0,M,Black,Orange,CA,False,attack,Not fleeing,True,-117.852,33.836,True,1,26 to 30
+233,255,297,Walter Scott,4/4/2015,shot and Tasered,unarmed,50.0,M,Black,North Charleston,SC,False,other,Foot,False,-80.014,32.899,True,1,46 to 50
+237,259,318,Desmond Willis,6/4/2015,shot,gun,25.0,M,Black,Harvey,LA,False,attack,Foot,False,-90.04799999999999,29.877,True,1,21 to 25
+244,267,333,Don Smith,9/4/2015,shot,gun,29.0,M,Black,Monon,IN,False,attack,Car,False,-86.87899999999998,40.879,True,1,21 to 25
+250,274,355,Mack Long,12/4/2015,shot,gun,36.0,M,Black,Indianapolis,IN,False,attack,Foot,True,-86.109,39.813,True,1,31 to 35
+254,278,363,Colby Robinson,14/4/2015,shot,undetermined,26.0,M,Black,DeSoto,TX,False,undetermined,Foot,False,-96.823,32.662,True,1,21 to 25
+256,280,365,Tevin Barkley,15/4/2015,shot,gun,22.0,M,Black,Miami,FL,False,undetermined,Foot,False,-80.212,25.844,True,1,16 to 20
+257,281,366,Dante Noble,15/4/2015,shot,knife,41.0,M,Black,Spartanburg,SC,False,attack,Not fleeing,False,-81.91199999999998,34.904,True,1,36 to 40
+258,282,367,Frank Shephard,15/4/2015,shot,unarmed,41.0,M,Black,Houston,TX,False,other,Car,False,-95.173,29.806,True,1,36 to 40
+263,287,380,Jeffrey Kemp,17/4/2015,shot,gun,18.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.572,41.761,True,1,11 to 15
+265,289,382,Thaddeus McCarroll,17/4/2015,shot,knife,23.0,M,Black,Jennings,MO,True,other,Not fleeing,True,-90.244,38.724,True,1,16 to 20
+274,299,391,William Chapman,22/4/2015,shot,unarmed,18.0,M,Black,Portsmouth,VA,False,undetermined,Not fleeing,False,-76.34,36.83,True,1,11 to 15
+277,302,396,Reginald McGregor,22/4/2015,shot,gun,31.0,M,Black,Fort Worth,TX,False,attack,Foot,False,-97.304,32.769,True,1,26 to 30
+284,310,412,Todd Jamal Dye,24/4/2015,shot,gun,20.0,M,Black,Trinidad,CO,False,attack,Foot,True,-104.493,37.176,True,1,16 to 20
+286,312,411,David Felix,25/4/2015,shot,unarmed,24.0,M,Black,New York,NY,True,attack,Foot,False,-73.982,40.725,True,1,16 to 20
+292,319,417,Jared Johnson,28/4/2015,shot,gun,21.0,M,Black,New Orleans,LA,False,attack,Not fleeing,True,-89.96600000000002,30.019,True,1,16 to 20
+297,324,421,Alexia Christian,29/4/2015,shot,gun,25.0,F,Black,Atlanta,GA,False,attack,Not fleeing,False,-84.39,33.751999999999995,True,1,21 to 25
+298,325,422,Jeffrey Adkins,29/4/2015,shot,gun,53.0,M,Black,Emporia,VA,True,attack,Not fleeing,False,-77.502,36.611,True,1,46 to 50
+303,331,427,Elton Simpson,3/5/2015,shot,gun,30.0,M,Black,Garland,TX,False,attack,Not fleeing,False,-96.642,32.958,True,1,26 to 30
+308,336,429,Brendon Glenn,5/5/2015,shot,unarmed,29.0,M,Black,Venice,CA,False,attack,Not fleeing,True,-118.472,33.988,True,1,21 to 25
+315,345,451,Dedrick Marshall,8/5/2015,shot,gun,48.0,M,Black,Harvey,LA,False,attack,Not fleeing,False,-90.072,29.86,True,1,41 to 45
+318,351,441,D'Angelo Stallworth,12/5/2015,shot,gun,28.0,M,Black,Jacksonville,FL,False,other,Foot,False,-81.73899999999998,30.213,True,1,21 to 25
+325,358,463,Ronell Wade,16/5/2015,shot,gun,45.0,M,Black,Harvey,IL,False,attack,Foot,False,-87.634,41.603,True,1,41 to 45
+332,365,466,Anthony Gomez,20/5/2015,shot,gun,29.0,M,Black,Lancaster,PA,False,attack,Not fleeing,False,-76.3,40.042,True,1,21 to 25
+333,366,468,Chrislon Talbott,20/5/2015,shot,gun,38.0,M,Black,Owensboro,KY,False,attack,Not fleeing,False,-87.12299999999998,37.724,True,1,31 to 35
+334,367,489,Marcus Wheeler,20/5/2015,shot,gun,26.0,M,Black,Omaha,NE,False,attack,Not fleeing,False,-95.957,41.324,True,1,21 to 25
+338,371,483,Javoris Washington,21/5/2015,shot,knife,29.0,M,Black,Ft. Lauderdale,FL,False,attack,Not fleeing,False,-80.184,26.107,True,1,21 to 25
+341,374,487,Jerome Caldwell,21/5/2015,shot,gun,32.0,M,Black,Charleston,SC,False,attack,Not fleeing,False,-79.938,32.778,True,1,26 to 30
+345,378,529,Caso Jackson,23/5/2015,shot,gun,25.0,M,Black,Detroit,MI,True,attack,Not fleeing,False,-83.18700000000003,42.386,True,1,21 to 25
+347,380,476,Anthony Briggs,25/5/2015,shot,knife,36.0,M,Black,Huntsville,AL,True,attack,Not fleeing,False,-86.564,34.614000000000004,True,1,31 to 35
+348,381,477,Dalton Branch,26/5/2015,shot,gun,51.0,M,Black,Queens,NY,False,attack,Not fleeing,False,-73.889,40.657,True,1,46 to 50
+356,390,490,James Strong,28/5/2015,shot,gun,32.0,M,Black,Northglenn,CO,False,attack,Not fleeing,False,-104.976,39.894,True,1,26 to 30
+357,391,493,Kenneth Dothard,28/5/2015,shot,gun,40.0,M,Black,Carrollton,GA,False,attack,Not fleeing,False,-85.04899999999998,33.59,True,1,36 to 40
+358,393,497,Kevin Allen,29/5/2015,shot,knife,36.0,M,Black,Lyndhurst,NJ,False,other,Not fleeing,False,-74.125,40.812,True,1,31 to 35
+365,401,507,Usaamah Rahim,2/6/2015,shot,knife,26.0,M,Black,Roslindale,MA,False,other,Not fleeing,False,-71.14,42.276,True,1,21 to 25
+377,414,515,Demouria Hogg,6/6/2015,shot and Tasered,gun,30.0,M,Black,Oakland,CA,False,attack,Not fleeing,True,-122.243,37.809,True,1,26 to 30
+384,422,538,QuanDavier Hicks,9/6/2015,shot,gun,22.0,M,Black,Cincinnati,OH,False,attack,Not fleeing,False,-84.546,39.164,True,1,16 to 20
+386,424,540,Isiah Hampton,10/6/2015,shot,gun,19.0,M,Black,Bronx,NY,False,attack,Not fleeing,False,-73.896,40.856,True,1,11 to 15
+387,425,541,Charles Ziegler,11/6/2015,shot,gun,40.0,M,Black,Pompano Beach,FL,False,attack,Not fleeing,False,-80.105,26.276,True,1,36 to 40
+388,427,543,Fritz Severe,11/6/2015,shot,undetermined,46.0,M,Black,Miami,FL,False,other,Not fleeing,False,-80.2,25.787,True,1,41 to 45
+394,436,550,Kris Jackson,15/6/2015,shot,unarmed,22.0,M,Black,South Lake Tahoe,CA,False,other,Foot,False,-119.951,38.951,True,1,16 to 20
+401,443,560,Trepierre Hummons,19/6/2015,shot,gun,21.0,M,Black,Cincinnati,OH,True,attack,Not fleeing,False,-84.39399999999998,39.156,True,1,16 to 20
+403,445,582,Alfontish Cockerham,20/6/2015,shot,gun,23.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.573,41.76600000000001,True,1,16 to 20
+408,451,576,Tyrone Harris,22/6/2015,shot,gun,20.0,M,Black,Pittsburgh,PA,False,attack,Car,False,-80.005,40.409,True,1,16 to 20
+413,456,569,Damien A. Harrell,24/6/2015,shot,gun,26.0,M,Black,York County,VA,False,attack,Not fleeing,True,-76.517,37.179,True,1,21 to 25
+414,457,567,Spencer McCain,25/6/2015,shot,unarmed,41.0,M,Black,Owings Mills,MD,True,other,Not fleeing,False,-76.806,39.411,True,1,36 to 40
+425,469,603,Victor Emanuel Larosa,2/7/2015,shot,unarmed,23.0,M,Black,Jacksonville,FL,False,attack,Foot,False,-81.626,30.3,True,1,16 to 20
+429,475,591,Robert Elando Malone,4/7/2015,shot,gun,42.0,M,Black,Oklahoma City,OK,False,attack,Foot,False,-97.444,35.414,True,1,36 to 40
+431,477,596,Kawanza Beaty,4/7/2015,shot,gun,23.0,M,Black,Newport News,VA,False,attack,Foot,False,-76.4,36.984,True,1,16 to 20
+439,485,619,Jason Hendley,6/7/2015,shot,knife,29.0,M,Black,Los Angeles,CA,False,attack,Not fleeing,False,-118.406,34.322,True,1,21 to 25
+441,488,608,Marcellus Jamarcus Burley,7/7/2015,shot,gun,18.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.519,29.595,True,1,11 to 15
+445,493,616,Tremaine Dantzler,7/7/2015,shot,knife,37.0,M,Black,Atlantic City,NJ,False,attack,Foot,False,-74.428,39.369,True,1,31 to 35
+451,500,624,Martice Milliner,9/7/2015,shot,gun,27.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.60799999999998,41.75899999999999,True,1,21 to 25
+453,502,634,Javon Hawkins,9/7/2015,shot,sword,21.0,M,Black,Kansas City,MO,False,other,Not fleeing,False,-94.565,39.001,True,1,16 to 20
+456,505,630,Freddie Blue,10/7/2015,shot,gun,20.0,M,Black,Covington,GA,False,attack,Not fleeing,False,-83.97,33.576,True,1,16 to 20
+457,506,1152,Eugene McSwain,10/7/2015,shot,gun,25.0,M,Black,Chicago,IL,False,attack,Not fleeing,False,-87.60799999999998,41.702,True,1,21 to 25
+463,512,631,Salvado Ellswood,12/7/2015,shot and Tasered,unarmed,36.0,M,Black,Plantation,FL,False,attack,Not fleeing,False,-80.20100000000002,26.118,True,1,31 to 35
+464,513,629,Frederick Farmer,13/7/2015,shot,gun,20.0,M,Black,Stone Mountain,GA,False,attack,Not fleeing,False,-84.212,33.823,True,1,16 to 20
+466,517,639,Chacarion Avant,14/7/2015,shot,gun,20.0,M,Black,Mascotte,FL,False,attack,Not fleeing,False,-81.916,28.579,True,1,16 to 20
+468,521,647,Edward Foster III,16/7/2015,shot,gun,35.0,M,Black,Homestead,FL,False,attack,Not fleeing,False,-80.493,25.462,True,1,31 to 35
+475,529,657,Darrius Stewart,17/7/2015,shot,unarmed,19.0,M,Black,Memphis,TN,False,attack,Foot,False,-89.874,35.05,True,1,11 to 15
+476,531,651,Albert Joseph Davis,17/7/2015,shot and Tasered,unarmed,23.0,M,Black,Orlando,FL,False,attack,Foot,False,-81.334,28.522,True,1,16 to 20
+480,535,653,Samuel DuBose,19/7/2015,shot,unarmed,43.0,M,Black,Mt. Auburn,OH,False,other,Car,True,-84.51299999999998,39.122,True,1,36 to 40
+487,542,669,Devon Guisherd,22/7/2015,shot,gun,27.0,M,Black,Philadelphia,PA,False,attack,Not fleeing,False,-74.986,40.097,True,1,21 to 25
+488,543,667,Andre Dontrell Williams,22/7/2015,shot and Tasered,knife,26.0,M,Black,Oklahoma City,OK,False,other,Other,False,-97.489,35.495,True,1,21 to 25
+489,544,668,Dontae L. Martin,23/7/2015,shot,gun,34.0,M,Black,Dayton,OH,False,attack,Not fleeing,False,-84.214,39.804,True,1,26 to 30
+497,553,678,Bryan Keith  Day,25/7/2015,shot,toy weapon,36.0,M,Black,Las Vegas,NV,False,attack,Not fleeing,False,-115.106,36.159,True,1,31 to 35
+498,554,685,Earl Jackson,25/7/2015,shot,gun,59.0,M,Black,Micanopy,FL,False,attack,Not fleeing,False,-82.28,29.505,True,1,51 to 55
+499,555,679,Khari Westly,26/7/2015,shot,gun,33.0,M,Black,Shreveport,LA,False,attack,Not fleeing,False,-93.789,32.482,True,1,26 to 30
+511,572,697,Antonio Clements,3/8/2015,shot,gun,49.0,M,Black,Oakland,CA,False,attack,Not fleeing,False,-122.269,37.827,True,1,41 to 45
+518,580,705,Raymond Hodge,5/8/2015,shot,gun,39.0,M,Black,Maui,HI,False,attack,Not fleeing,False,-156.483,20.894,True,1,31 to 35
+519,581,706,Keshawn Dominique Hargrove,5/8/2015,shot,gun,20.0,M,Black,Richmond,VA,False,attack,Foot,False,-77.467,37.548,True,1,16 to 20
+522,585,737,Charles Bertram,6/8/2015,shot,gun,22.0,M,Black,El Paso,TX,False,attack,Car,False,-106.444,31.813,True,1,16 to 20
+523,586,711,Christian Taylor,7/8/2015,shot,unarmed,19.0,M,Black,Arlington,TX,False,other,Not fleeing,False,-97.093,32.68,True,1,11 to 15
+525,590,720,Tsombe Clark,7/8/2015,shot,gun,25.0,M,Black,Greenville,NC,False,attack,Not fleeing,False,-77.37,35.584,True,1,21 to 25
+526,591,721,Derrick Lee Hunt,7/8/2015,shot,knife,28.0,M,Black,Long Beach,CA,False,attack,Not fleeing,False,-118.156,33.875,True,1,21 to 25
+527,592,716,Roderick Burr,8/8/2015,shot,gun,33.0,M,Black,Brookshire,TX,False,attack,Not fleeing,False,-95.944,29.789,True,1,26 to 30
+528,593,719,Shamir Terrel Palmer,8/8/2015,shot,gun,24.0,M,Black,Summerville,SC,False,attack,Car,False,-80.247,32.981,True,1,16 to 20
+535,604,731,Nathaniel Wilks,12/8/2015,shot,gun,27.0,M,Black,Oakland,CA,False,attack,Car,True,-122.271,37.804,True,1,21 to 25
+537,606,735,Reginald Marshall,12/8/2015,shot,gun,27.0,M,Black,Toledo,OH,False,attack,Car,False,-83.51299999999998,41.632,True,1,21 to 25
+539,608,732,Redel Jones,12/8/2015,shot and Tasered,knife,30.0,F,Black,Los Angeles,CA,False,other,Not fleeing,False,-118.343,34.009,True,1,26 to 30
+540,609,738,Garland Tyree,14/8/2015,shot,gun,38.0,M,Black,Staten Island,NY,False,attack,Not fleeing,False,-74.161,40.63,True,1,31 to 35
+542,611,740,Asshams Pharoah Manley,14/8/2015,shot,unarmed,30.0,M,Black,District Heights,MD,True,attack,Foot,False,-76.916,38.865,True,1,26 to 30
+543,613,742,Allen Matthew Baker,15/8/2015,shot,gun,23.0,M,Black,Sunnyvale,CA,False,attack,Not fleeing,False,-122.027,37.395,True,1,16 to 20
+544,614,743,Benjamin Peter Ashley,15/8/2015,shot,gun,34.0,M,Black,Inyokern,CA,True,attack,Not fleeing,False,-117.87,35.702,True,1,26 to 30
+549,619,748,Frederick Roy,17/8/2015,shot,gun,35.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.313,29.799,True,1,31 to 35
+551,621,751,Mansur Ball-Bey,19/8/2015,shot,gun,18.0,M,Black,St. Louis,MO,False,attack,Foot,False,-90.256,38.658,True,1,11 to 15
+552,622,752,Deviere Ernel Ransom,19/8/2015,shot,gun,24.0,M,Black,Bloomfield Township,MI,False,attack,Car,False,-83.265,42.604,True,1,16 to 20
+562,635,763,Thaddeus Faison,22/8/2015,shot and Tasered,gun,39.0,M,Black,Troy,NY,False,attack,Foot,False,-73.707,42.723,True,1,31 to 35
+567,640,772,Bobby Troledge Norris,23/8/2015,shot,gun,53.0,M,Black,Archdale,NC,False,attack,Not fleeing,False,-79.928,35.896,True,1,46 to 50
+569,642,773,Curtis Smith,25/8/2015,shot,knife,34.0,M,Black,West Chester,PA,False,attack,Not fleeing,False,-75.608,39.958,True,1,26 to 30
+578,655,788,Felix Kumi,28/8/2015,shot,unarmed,61.0,M,Black,Mount Vernon,NY,False,other,Not fleeing,False,-73.825,40.908,True,1,56 to 60
+580,657,787,James Marcus Brown,29/8/2015,shot,gun,25.0,M,Black,North Las Vegas,NV,False,attack,Foot,False,-115.125,36.22,True,1,21 to 25
+594,673,805,La'vante Trevon Biggs,5/9/2015,shot,toy weapon,21.0,M,Black,Durham,NC,True,attack,Not fleeing,False,-78.882,35.984,True,1,16 to 20
+595,675,807,Angelo Delano Perry,5/9/2015,shot,gun,35.0,M,Black,Virginia Beach,VA,False,attack,Not fleeing,False,-76.125,36.79,True,1,31 to 35
+596,676,808,India Kager,5/9/2015,shot,unarmed,27.0,F,Black,Virginia Beach,VA,False,undetermined,Not fleeing,False,-76.125,36.79,True,1,21 to 25
+598,678,810,Mohamed Ibrahim,6/9/2015,shot,gun,28.0,M,Black,Shreveport,LA,True,attack,Car,False,-93.727,32.485,True,1,21 to 25
+605,688,819,Brandon Foy,10/9/2015,shot,gun,29.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,False,-86.28,39.836,True,1,21 to 25
+613,696,825,Clifford Butler,13/9/2015,shot,gun,67.0,M,Black,McAlester,OK,True,attack,Not fleeing,False,-95.77,34.933,True,1,61 to 65
+615,698,828,Joseph Thompson Johnson-Shanks,14/9/2015,shot,gun,25.0,M,Black,Princeton,KY,False,attack,Car,False,-87.88,36.969,True,1,21 to 25
+620,704,837,Bobby R. Anderson,15/9/2015,shot,gun,27.0,M,Black,Alexandria,LA,False,other,Not fleeing,False,-92.445,31.268,True,1,21 to 25
+634,720,853,Dante Osborne,22/9/2015,shot,gun,32.0,M,Black,Oakland,CA,False,attack,Car,False,-119.207,36.295,True,1,26 to 30
+639,726,859,Keith Harrison McLeod,23/9/2015,shot,unarmed,19.0,M,Black,Reisterstown,MD,False,other,Foot,False,-76.83,39.468,True,1,11 to 15
+641,728,862,Jeremy McDole,23/9/2015,shot,gun,28.0,M,Black,Wilmington,DE,True,undetermined,Not fleeing,False,-75.57300000000002,39.745,True,1,21 to 25
+646,735,869,Anthony McKinney,26/9/2015,shot,knife,46.0,M,Black,Baton Rouge,LA,False,attack,Not fleeing,False,-91.125,30.507,True,1,41 to 45
+652,741,872,Junior Prosper,28/9/2015,shot and Tasered,unarmed,31.0,M,Black,Miami,FL,False,attack,Foot,False,-92.419,45.347,True,1,26 to 30
+654,744,876,Brandon Lamar Johnson,30/9/2015,shot,gun,28.0,M,Black,Beckley,WV,False,attack,Car,False,-81.214,37.826,True,1,21 to 25
+660,751,891,Jeffery McCallum,4/10/2015,shot,gun,31.0,M,Black,Chicago,IL,False,attack,Not fleeing,False,-87.713,41.867,True,1,26 to 30
+664,755,957,Charles A. Pettit,5/10/2015,shot,gun,18.0,M,Black,Midwest City,OK,False,attack,Not fleeing,False,-97.413,35.45,True,1,11 to 15
+666,758,898,Gary Carmona Boitano,9/10/2015,shot,knife,19.0,M,Black,Columbia,MD,False,other,Not fleeing,False,-76.88,39.195,True,1,11 to 15
+672,767,901,Bernard Brandon Powers,11/10/2015,shot,gun,23.0,M,Black,Taylors,SC,False,attack,Not fleeing,False,-82.30799999999998,34.949,True,1,16 to 20
+677,775,918,Leslie Portis,14/10/2015,shot,gun,57.0,M,Black,Monroeville,AL,False,attack,Not fleeing,False,-86.955,31.434,True,1,51 to 55
+679,777,917,Kaleb Alexander,15/10/2015,shot,gun,25.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,-82.86399999999998,39.922,True,1,21 to 25
+684,782,923,Martin  Ryans Jr.,15/10/2015,shot,gun,20.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.465,29.849,True,1,16 to 20
+686,785,927,Ricky Javenta Ball,16/10/2015,shot,undetermined,33.0,M,Black,Columbus,MS,False,undetermined,Foot,True,-88.41,33.511,True,1,26 to 30
+689,788,930,Dequan Williams,17/10/2015,shot and Tasered,knife,28.0,M,Black,York,PA,True,other,Not fleeing,False,-76.749,39.973,True,1,21 to 25
+690,789,931,Corey Jones,18/10/2015,shot,gun,31.0,M,Black,Palm Beach Gardens,FL,False,undetermined,Not fleeing,False,-80.082,26.758000000000006,True,1,26 to 30
+693,793,936,Lamontez Jones,20/10/2015,shot,toy weapon,39.0,M,Black,San Diego,CA,False,attack,Not fleeing,False,-117.159,32.714,True,1,31 to 35
+700,800,943,Lawrence Green,22/10/2015,shot,knife,38.0,M,Black,Shreveport,LA,False,attack,Not fleeing,False,-93.746,32.518,True,1,31 to 35
+701,801,945,Adriene Jamarr Ludd,22/10/2015,shot,gun,36.0,M,Black,Carmichael,CA,False,attack,Car,False,-121.337,38.639,True,1,31 to 35
+704,804,948,Rolly Thomas,24/10/2015,shot,gun,34.0,M,Black,Cape Coral,FL,False,attack,Not fleeing,True,-81.943,26.739,True,1,26 to 30
+705,805,950,Dominic Hutchinson,24/10/2015,shot,undetermined,30.0,M,Black,Cathedral City,CA,False,undetermined,Not fleeing,False,-116.464,33.809,True,1,26 to 30
+710,812,955,Marquesha McMillan,26/10/2015,shot,gun,21.0,F,Black,Washington,DC,False,attack,Not fleeing,False,-77.027,38.983,True,1,16 to 20
+712,814,960,Tyrie Cuyler,27/10/2015,shot,gun,25.0,M,Black,Savannah,GA,False,attack,Not fleeing,True,-81.111,32.061,True,1,21 to 25
+713,815,958,Anthony Ashford,28/10/2015,shot,unarmed,29.0,M,Black,Point Loma,CA,False,attack,Not fleeing,False,-117.224,32.726,True,1,21 to 25
+715,817,961,Jerry Michael Graham Jr.,28/10/2015,shot,gun,34.0,M,Black,Jacksonville,FL,False,attack,Not fleeing,False,-81.566,30.318,True,1,26 to 30
+720,823,968,Tony Berry,30/10/2015,shot,gun,25.0,M,Black,Houston,TX,False,other,Foot,False,-95.489,29.976,True,1,21 to 25
+722,825,2867,Brian Crawford,30/10/2015,shot,gun,24.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.495,29.984,True,1,16 to 20
+725,828,970,Bennie Lee Tignor,31/10/2015,shot,unarmed,56.0,M,Black,Opelika,AL,False,other,Car,False,-85.36,32.61,True,1,51 to 55
+729,832,975,James Covington,2/11/2015,shot,gun,62.0,M,Black,Washington,DC,False,attack,Car,False,-76.968,38.855,True,1,56 to 60
+732,835,978,John Allen,4/11/2015,shot,gun,57.0,M,Black,Houston,TX,False,attack,Car,False,-95.356,29.733,True,1,51 to 55
+748,857,1000,Ryan Quinn Martin,11/11/2015,shot,gun,32.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.67699999999998,39.343,True,1,26 to 30
+749,858,1002,Moises Nero,12/11/2015,shot,knife,42.0,M,Black,Sunnyvale,CA,False,other,Not fleeing,False,-122.053,37.384,True,1,36 to 40
+752,863,1003,Richard Perkins,15/11/2015,shot,toy weapon,39.0,M,Black,Oakland,CA,False,attack,Not fleeing,False,-122.166,37.754,True,1,31 to 35
+753,864,1009,Shane Whitehead,15/11/2015,shot,unknown weapon,16.0,M,Black,Germantown,PA,False,attack,Not fleeing,False,-75.179,40.028,True,1,11 to 15
+754,865,1012,Jamar Clark,15/11/2015,shot,unarmed,24.0,M,Black,Minneapolis,MN,False,undetermined,Not fleeing,False,-93.301,44.992,True,1,16 to 20
+756,869,1010,Yohans Leon,17/11/2015,shot,gun,28.0,M,Black,Miami,FL,True,attack,Foot,False,-80.39699999999998,25.576,True,1,21 to 25
+757,870,1011,Demetrius Bryant,17/11/2015,shot,gun,21.0,M,Black,Cayce,SC,False,attack,Not fleeing,False,-81.05199999999998,33.976,True,1,16 to 20
+761,875,1017,Cornelius Brown,18/11/2015,shot,unknown weapon,25.0,M,Black,Opa-Locka,FL,False,other,Not fleeing,False,-80.252,25.897,True,1,21 to 25
+762,876,1019,Marcus Meridy,18/11/2015,shot,gun,44.0,M,Black,Benton Township,MI,False,attack,Not fleeing,False,-86.411,42.09,True,1,36 to 40
+763,878,1021,Steve Dormil,19/11/2015,shot,knife,27.0,M,Black,Fort Pierce,FL,False,attack,Not fleeing,False,-80.352,27.438,True,1,21 to 25
+764,879,1022,Darick Napper,19/11/2015,shot,knife,34.0,M,Black,Washington,DC,False,other,Not fleeing,False,-76.92399999999998,38.895,True,1,26 to 30
+765,880,1023,Nathaniel Harris Pickett,20/11/2015,shot,unarmed,29.0,M,Black,Barstow,CA,True,attack,Not fleeing,False,-117.027,34.898,True,1,21 to 25
+774,890,1033,Freddy Baez,24/11/2015,shot,gun,24.0,M,Black,Camden,NJ,False,attack,Not fleeing,False,-75.097,39.903,True,1,16 to 20
+785,904,1044,Darius Smith,30/11/2015,shot,gun,18.0,M,Black,Atlanta,GA,False,attack,Foot,False,-84.387,33.779,True,1,11 to 15
+792,911,1052,Mario Woods,2/12/2015,shot,knife,26.0,M,Black,San Francisco,CA,False,other,Not fleeing,False,-122.397,37.721,True,1,21 to 25
+796,915,1057,Raymone M. Davis,4/12/2015,shot,gun,21.0,M,Black,Mount Washington,PA,False,attack,Not fleeing,False,-80.007,40.43,True,1,16 to 20
+802,923,1064,Carlumandarlo Zaramo,6/12/2015,shot,gun,46.0,M,Black,Richmond Heights,OH,True,attack,Not fleeing,False,-81.498,41.541,True,1,41 to 45
+804,925,1067,Miguel Espinal,8/12/2015,shot,unarmed,36.0,M,Black,Yonkers,NY,False,other,Foot,False,-73.87899999999998,40.924,True,1,31 to 35
+805,926,1068,Derek Stokes,8/12/2015,shot,gun,33.0,M,Black,Cleveland,OH,False,attack,Not fleeing,False,-81.735,41.486,True,1,26 to 30
+808,930,1072,Charles Edward Rosemond,10/12/2015,shot,gun,55.0,M,Black,Taylors,SC,False,attack,Not fleeing,False,-82.28399999999998,34.917,True,1,51 to 55
+811,934,1076,Christopher Goodlow,12/12/2015,shot,knife,25.0,M,Black,Indianapolis,IN,True,attack,Not fleeing,False,-86.02799999999998,39.827,True,1,21 to 25
+812,936,1079,Nicholas Robertson,12/12/2015,shot,gun,28.0,M,Black,Lynwood,CA,False,attack,Not fleeing,False,-118.209,33.917,True,1,21 to 25
+819,945,1085,Calvin McKinnis,14/12/2015,shot,gun,33.0,M,Black,New Orleans,LA,False,attack,Not fleeing,True,-89.905,30.038,True,1,26 to 30
+831,962,1106,Leroy Browning,20/12/2015,shot,gun,30.0,M,Black,Palmdale,CA,False,attack,Not fleeing,False,-118.045,34.572,True,1,26 to 30
+834,965,1109,Bobby Daniels,21/12/2015,shot,gun,48.0,M,Black,Douglasville,GA,False,attack,Not fleeing,False,-84.70700000000002,33.755,True,1,41 to 45
+837,969,1113,Chan Leith,21/12/2015,shot,gun,25.0,M,Black,Aurora,CO,False,attack,Not fleeing,False,-104.885,39.733,True,1,21 to 25
+842,975,1118,Kevin Matthews,23/12/2015,shot,unarmed,35.0,M,Black,Dearborn,MI,True,other,Not fleeing,False,-83.194,42.351000000000006,True,1,31 to 35
+843,978,1126,Terrozza Tyree Griffin,24/12/2015,shot,gun,24.0,M,Black,Lansing,MI,False,attack,Not fleeing,False,-84.57799999999997,42.673,True,1,16 to 20
+852,993,1137,Keith Childress,31/12/2015,shot,unarmed,23.0,M,Black,Las Vegas,NV,False,other,Not fleeing,True,-115.272,36.133,True,1,16 to 20
+857,998,1140,Germonta Wallace,3/1/2016,shot,gun,30.0,M,Black,Charlotte,NC,False,attack,Not fleeing,False,-80.885,35.218,True,1,26 to 30
+858,999,1142,Eric John Senegal,4/1/2016,shot,unknown weapon,27.0,M,Black,Ragley,LA,False,undetermined,Not fleeing,False,-93.21,30.494,True,1,21 to 25
+859,1000,1144,Rodney Turner,4/1/2016,shot,gun,22.0,M,Black,Oklahoma City,OK,False,attack,Foot,True,-97.52,35.512,True,1,16 to 20
+861,1003,1147,Carlton Antonio Murphy,5/1/2016,shot,gun,33.0,M,Black,Charlotte,NC,False,attack,Not fleeing,False,-80.913,35.242,True,1,26 to 30
+880,1025,1196,Rakeem Bentley,15/1/2016,shot,gun,24.0,M,Black,Southfield,MI,False,attack,Not fleeing,False,-83.277,42.484,True,1,16 to 20
+885,1031,1181,Henry Bennett,16/1/2016,shot,gun,19.0,M,Black,Belle Glade,FL,False,attack,Foot,False,-80.67699999999998,26.683000000000003,True,1,11 to 15
+886,1032,1170,Crayton West,17/1/2016,shot,gun,52.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.244,38.593,True,1,46 to 50
+898,1045,1191,Timothy Albert,20/1/2016,shot,gun,40.0,M,Black,Port Barre,LA,False,attack,Not fleeing,False,-91.948,30.544,True,1,36 to 40
+901,1048,1201,Cedric Norris,21/1/2016,shot,gun,39.0,M,Black,Eufaula,OK,True,attack,Car,False,-95.582,35.287,True,1,31 to 35
+906,1053,1205,Johnathan Bratcher,27/1/2016,shot,gun,32.0,M,Black,Memphis,TN,False,attack,Other,True,-90.03299999999999,35.108000000000004,True,1,26 to 30
+910,1057,1209,Janet Wilson,27/1/2016,shot,vehicle,31.0,F,Black,Dearborn,MI,True,other,Car,False,-83.208,42.322,True,1,26 to 30
+915,1062,1215,Christopher Kalonji,28/1/2016,shot,gun,19.0,M,Black,Clackamas County,OR,True,other,Not fleeing,False,-122.625,45.409,True,1,11 to 15
+916,1063,1216,Randolph McClain,29/1/2016,shot,gun,33.0,M,Black,Lynn,MA,False,attack,Other,False,-70.949,42.465,True,1,26 to 30
+917,1064,1218,Christopher Michael Dew,29/1/2016,shot,gun,29.0,M,Black,Irving,TX,False,other,Not fleeing,False,-97.006,32.835,True,1,21 to 25
+919,1066,1221,Charles M. Smith,30/1/2016,shot,gun,29.0,M,Black,Chicago,IL,False,attack,Not fleeing,False,-87.666,41.761,True,1,21 to 25
+924,1073,1220,Bruce Kelley,31/1/2016,shot and Tasered,knife,37.0,M,Black,Wilkinsburg,PA,True,attack,Not fleeing,False,-79.882,40.442,True,1,31 to 35
+926,1075,1219,Peter John,1/2/2016,shot,toy weapon,36.0,M,Black,Washington,DC,False,attack,Foot,False,-76.925,38.894,True,1,31 to 35
+933,1082,1237,Antronie Scott,4/2/2016,shot,unarmed,36.0,M,Black,San Antonio,TX,False,other,Not fleeing,False,-98.493,29.529,True,1,31 to 35
+941,1091,1239,Marese V. Collins,7/2/2016,shot,gun,23.0,M,Black,Columbus,OH,False,other,Other,False,-83.056,39.945,True,1,16 to 20
+943,1094,1245,Shalamar Longer,8/2/2016,shot,gun,33.0,M,Black,Chester,PA,False,attack,Car,False,-75.402,39.836,True,1,26 to 30
+944,1095,1247,David Joseph,8/2/2016,shot,unarmed,17.0,M,Black,Austin,TX,False,other,Not fleeing,False,-97.667,30.396,True,1,11 to 15
+954,1106,1263,Mohamed Barry,11/2/2016,shot,machete,30.0,M,Black,Columbus,OH,False,attack,Car,False,-82.86399999999998,40.064,True,1,26 to 30
+955,1107,1262,Peter Fanfan,12/2/2016,shot,gun,29.0,M,Black,Boston,MA,True,attack,Not fleeing,False,-71.078,42.308,True,1,21 to 25
+957,1109,1276,Sahlah Ridgeway,12/2/2016,shot,gun,32.0,F,Black,Syracuse,NY,True,other,Not fleeing,False,-76.14399999999998,43.069,True,1,26 to 30
+958,1110,1266,Calvin Smith,13/2/2016,shot,gun,22.0,M,Black,Baton Rouge,LA,True,attack,Car,True,-91.133,30.468000000000004,True,1,16 to 20
+959,1111,1270,Calin Roquemore,13/2/2016,shot,unarmed,24.0,M,Black,Beckville,TX,False,other,Other,False,-94.465,32.26,True,1,16 to 20
+960,1112,1272,Dyzhawn L. Perkins,13/2/2016,shot,unarmed,19.0,M,Black,Arvonia,VA,False,attack,Not fleeing,False,-78.396,37.673,True,1,11 to 15
+961,1113,1268,Ali Eisa Abdalla Yahia,13/2/2016,shot and Tasered,gun,29.0,M,Black,Urbandale,IA,False,attack,Not fleeing,True,-93.7,41.649,True,1,21 to 25
+969,1122,1281,Paul Gaston,17/2/2016,shot,toy weapon,37.0,M,Black,Cincinnati,OH,False,other,Other,False,-84.605,39.155,True,1,31 to 35
+978,1131,1296,Marcos Perea,20/2/2016,shot,gun,41.0,M,Black,Lakewood,WA,False,attack,Car,False,-122.559,47.12,True,1,36 to 40
+980,1133,1289,Che Taylor,21/2/2016,shot,undetermined,46.0,M,Black,Seattle,WA,False,other,Not fleeing,False,-122.306,47.691,True,1,41 to 45
+982,1135,1292,Kisha Michael,21/2/2016,shot,gun,31.0,F,Black,Inglewood,CA,False,other,Not fleeing,False,-118.362,33.962,True,1,26 to 30
+983,1136,1293,Marquintan Sandlin,21/2/2016,shot,undetermined,32.0,M,Black,Inglewood,CA,False,other,Not fleeing,False,-118.362,33.962,True,1,26 to 30
+993,1150,1318,Christopher J. Davis,24/2/2016,shot,unarmed,21.0,M,Black,East Troy,WI,False,other,Car,False,-88.385,42.79600000000001,True,1,16 to 20
+996,1154,1320,Cedric Ford,25/2/2016,shot,gun,38.0,M,Black,Hesston,KS,True,attack,Not fleeing,False,-97.425,38.136,True,1,31 to 35
+997,1155,1322,Kionte Desean Spencer,26/2/2016,shot,toy weapon,18.0,M,Black,Roanoke,VA,True,other,Not fleeing,False,-79.995,37.241,True,1,11 to 15
+1002,1160,1327,Akiel Denkins,29/2/2016,shot,gun,24.0,M,Black,Raleigh,NC,False,attack,Foot,False,-78.633,35.766,True,1,16 to 20
+1021,1181,1351,Arteair Porter Jr.,10/3/2016,shot,toy weapon,22.0,M,Black,Reno,NV,True,attack,Foot,False,-119.862,39.678,True,1,16 to 20
+1024,1185,1350,Tyre Privott,11/3/2016,shot,gun,25.0,M,Black,Norfolk,VA,False,attack,Not fleeing,True,-76.244,36.93,True,1,21 to 25
+1029,1190,1357,Peter Gaines,12/3/2016,shot and Tasered,unarmed,37.0,M,Black,Houston,TX,False,other,Foot,False,-95.337,29.794,True,1,31 to 35
+1030,1191,1365,Marco Loud,12/3/2016,shot and Tasered,Taser,20.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.488,29.994,True,1,16 to 20
+1034,1196,1361,Keith Montgomery Jr.,13/3/2016,shot,gun,24.0,M,Black,Chester,PA,False,attack,Not fleeing,False,-75.368,39.845,True,1,16 to 20
+1035,1198,1379,Jacai Colson,13/3/2016,shot,gun,28.0,M,Black,Landover,MD,False,other,Not fleeing,False,-76.875,38.918,True,1,21 to 25
+1036,1199,1364,Lamar Harris,14/3/2016,shot,gun,29.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.71799999999998,41.871,True,1,21 to 25
+1045,1209,1377,Christopher Nelms,17/3/2016,shot,gun,30.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.424,29.99,True,1,26 to 30
+1047,1212,1382,India Beaty,19/3/2016,shot,toy weapon,25.0,F,Black,Norfolk,VA,False,attack,Not fleeing,False,-76.191,36.927,True,1,21 to 25
+1049,1214,1388,Thurman Reynolds,19/3/2016,shot,gun,21.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.79299999999998,41.992,True,1,16 to 20
+1054,1219,1394,Robert Dentmond,20/3/2016,shot,toy weapon,16.0,M,Black,Gainesville,FL,True,other,Not fleeing,False,-82.405,29.641,True,1,11 to 15
+1060,1227,1403,Alexio Allen,23/3/2016,shot,gun,30.0,M,Black,Raleigh,TN,True,attack,Not fleeing,False,-89.95,35.228,True,1,26 to 30
+1062,1229,1405,Dominique Silva,24/3/2016,shot,toy weapon,24.0,M,Black,Pawtucket,RI,False,attack,Foot,False,-71.369,41.89100000000001,True,1,16 to 20
+1065,1233,1415,Jermon Seals,24/3/2016,shot,gun,22.0,M,Black,Blue Springs,MO,False,attack,Not fleeing,False,-94.272,39.037,True,1,16 to 20
+1071,1241,1418,Deriante Deon Miller,27/3/2016,shot,gun,18.0,M,Black,Kinston,NC,False,other,Not fleeing,False,-77.634,35.331,True,1,11 to 15
+1078,1249,1424,Kimani Johnson,31/3/2016,shot,gun,18.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.61,39.309,True,1,11 to 15
+1079,1250,1425,Matthew Vincent Wood,31/3/2016,shot,gun,43.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.61,39.309,True,1,36 to 40
+1080,1251,1426,James Brown III,31/3/2016,shot,gun,34.0,M,Black,Richmond,VA,False,attack,Not fleeing,False,-77.411,37.534,True,1,26 to 30
+1081,1252,1846,James Craig Simpson,31/3/2016,shot,gun,31.0,M,Black,Las Vegas,NV,False,attack,Foot,True,-115.296,36.328,True,1,26 to 30
+1083,1255,1432,Cameron Gover,2/4/2016,shot,gun,30.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,False,-86.235,39.824,True,1,26 to 30
+1089,1262,1438,Kevin Hicks,5/4/2016,shot,unarmed,44.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,True,-86.117,39.797,True,1,36 to 40
+1091,1264,1441,Laronda Sweatt,6/4/2016,shot,ax,40.0,F,Black,Gallatin,TN,False,attack,Not fleeing,True,-86.436,36.37,True,1,36 to 40
+1094,1268,1444,Dazion Flenaugh,8/4/2016,shot,knife,40.0,M,Black,Sacramento,CA,True,other,Foot,False,-121.44,38.482,True,1,36 to 40
+1095,1270,1448,Lamont Gulley,8/4/2016,shot,knife,43.0,M,Black,Kentwood,MI,False,other,Not fleeing,True,-85.60700000000001,42.897,True,1,36 to 40
+1096,1271,1447,Diahlo Grant,9/4/2016,shot,gun,27.0,M,Black,New Brunswick,NJ,False,attack,Foot,False,-74.468,40.487,True,1,21 to 25
+1097,1272,1453,Quron Williams,9/4/2016,shot,gun,19.0,M,Black,Philadelphia,PA,False,attack,Foot,False,-75.143,40.04,True,1,11 to 15
+1102,1277,1455,Pierre Loury,11/4/2016,shot,gun,16.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.711,41.867,True,1,11 to 15
+1105,1281,1459,Rodney Watts,13/4/2016,shot,undetermined,35.0,M,Black,Stockton,CA,False,attack,Not fleeing,False,-121.295,38.024,True,1,31 to 35
+1112,1289,1464,Kisha Arrone,17/4/2016,shot,gun,35.0,F,Black,Dayton,OH,False,other,Car,False,-84.243,39.742,True,1,31 to 35
+1114,1291,1467,Richard Bard Jr.,17/4/2016,shot,gun,31.0,M,Black,Vineland,NJ,False,attack,Foot,False,-75.02199999999998,39.481,True,1,26 to 30
+1115,1292,1470,George Tillman,17/4/2016,shot,gun,32.0,M,Black,New York,NY,False,attack,Foot,False,-73.805,40.679,True,1,26 to 30
+1116,1294,1475,Rico Don Rae Johnson,18/4/2016,shot,gun,28.0,M,Black,Greenbelt,MD,False,attack,Not fleeing,False,-76.90100000000002,39.004,True,1,21 to 25
+1117,1295,1479,Demetrius Dorsey,18/4/2016,shot,gun,18.0,M,Black,Mableton,GA,False,attack,Not fleeing,False,-84.564,33.798,True,1,11 to 15
+1119,1297,1477,Jorevis Scruggs,19/4/2016,shot,gun,15.0,M,Black,St. Louis,MO,False,attack,Other,False,-90.219,38.654,True,1,11 to 15
+1131,1311,1491,Joshua Brooks,26/4/2016,shot,gun,26.0,M,Black,Chesapeake,VA,True,attack,Not fleeing,True,-76.233,36.817,True,1,21 to 25
+1137,1317,1498,Kendar del Rosario,28/4/2016,shot,knife,37.0,M,Black,Miami,FL,False,attack,Not fleeing,False,-80.206,25.776,True,1,31 to 35
+1143,1326,1502,Charlin Charles,1/5/2016,shot,toy weapon,25.0,M,Black,Orlando,FL,False,attack,Not fleeing,False,-81.402,28.536,True,1,21 to 25
+1145,1328,1842,Reginald Darnell Dogan,2/5/2016,shot,gun,52.0,M,Black,Greenville,SC,False,attack,Not fleeing,False,-82.336,34.902,True,1,46 to 50
+1149,1335,1517,Burt Johnson,5/5/2016,shot,gun,38.0,M,Black,Milwaukee,WI,False,attack,Foot,True,-88.006,43.13399999999999,True,1,31 to 35
+1150,1336,1518,Deresha Armstrong,5/5/2016,shot,gun,26.0,F,Black,Orlando,FL,False,attack,Not fleeing,False,-81.442,28.551,True,1,21 to 25
+1152,1339,1525,Alton Fitzgerald Witchard,7/5/2016,shot,gun,37.0,M,Black,St. Petersburg,FL,False,attack,Other,False,-82.663,27.75,True,1,31 to 35
+1154,1341,1522,Lionel Gibson,8/5/2016,shot,toy weapon,21.0,M,Black,Long Beach,CA,False,other,Not fleeing,False,-118.191,33.795,True,1,16 to 20
+1155,1342,1520,Jaffort Smith,9/5/2016,shot,gun,33.0,M,Black,St. Paul,MN,False,attack,Not fleeing,False,-93.096,44.964,True,1,26 to 30
+1159,1347,1844,Arthur R. Williams,9/5/2016,shot,toy weapon,33.0,M,Black,El Paso,TX,False,other,Not fleeing,False,-106.418,31.929,True,1,26 to 30
+1160,1348,1532,Arthur DaRosa,10/5/2016,shot,knife,28.0,M,Black,Taunton,MA,True,attack,Not fleeing,False,-71.051,41.863,True,1,21 to 25
+1162,1351,1534,Sean Ryan Mondragon,11/5/2016,shot,gun,24.0,M,Black,Greeley,CO,False,attack,Car,False,-104.691,40.385,True,1,16 to 20
+1169,1359,1542,Jabril Robinson,16/5/2016,shot,gun,23.0,M,Black,Riverdale,GA,False,attack,Foot,False,-84.449,33.58,True,1,16 to 20
+1175,1365,1548,Jessica Nelson-Williams,19/5/2016,shot,unarmed,29.0,F,Black,San Francisco,CA,False,other,Car,False,-122.431,37.732,True,1,21 to 25
+1178,1368,1551,Kentrill William Carraway,19/5/2016,shot,gun,22.0,M,Black,Miami,FL,False,other,Not fleeing,False,-80.23,25.844,True,1,16 to 20
+1179,1369,1559,Joshua Beebee,20/5/2016,shot,knife,31.0,M,Black,Omaha,NE,False,other,Foot,True,-96.173,41.292,True,1,26 to 30
+1181,1373,1554,Michael Eugene Wilson Jr.,22/5/2016,shot,unarmed,27.0,M,Black,Hallandale Beach,FL,False,other,Car,True,-80.125,25.981,True,1,21 to 25
+1182,1375,1562,Vernell Bing,22/5/2016,shot,unarmed,22.0,M,Black,Jacksonville,FL,False,other,Car,False,-81.85300000000002,30.234,True,1,16 to 20
+1190,1386,1571,Devonte Gates,26/5/2016,shot,undetermined,21.0,M,Black,Washington Park,IL,False,undetermined,Foot,False,-90.097,38.632,True,1,16 to 20
+1194,1391,1576,Dennis Hudson,28/5/2016,shot,gun,50.0,M,Black,Eastaboga,AL,False,attack,Not fleeing,False,-86.01899999999998,33.607,True,1,46 to 50
+1201,1398,1575,Osee Calix,30/5/2016,shot,gun,33.0,M,Black,Tucson,AZ,False,attack,Not fleeing,False,-110.901,32.24,True,1,26 to 30
+1204,1403,1588,Willie Demetrius James,2/6/2016,shot,knife,43.0,M,Black,Norfolk,VA,True,other,Not fleeing,True,-76.282,36.848,True,1,36 to 40
+1205,1404,1589,Rodney Rodriguez Smith,2/6/2016,shot,gun,18.0,M,Black,Charlotte,NC,False,other,Not fleeing,True,-80.757,35.291,True,1,11 to 15
+1211,1411,1595,Henry Green,6/6/2016,shot,gun,23.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,-82.977,40.009,True,1,16 to 20
+1215,1415,1601,Willis N. Walker,7/6/2016,shot,gun,49.0,M,Black,Norman,VA,False,other,Not fleeing,False,-78.657,37.432,True,1,41 to 45
+1219,1420,1606,John Michael Brisco,9/6/2016,shot,gun,52.0,M,Black,Port Arthur,TX,False,other,Foot,False,-93.986,29.955,True,1,46 to 50
+1223,1426,1838,Keith Bursey,10/6/2016,shot,gun,31.0,M,Black,Los Angeles,CA,False,attack,Not fleeing,False,-118.333,33.989000000000004,True,1,26 to 30
+1224,1427,1612,Lyndarius Cortez Witherspoon,11/6/2016,shot,gun,27.0,M,Black,Tupelo,MS,False,attack,Car,False,-88.73700000000002,34.251999999999995,True,1,21 to 25
+1227,1431,1617,John Williams,12/6/2016,shot,gun,61.0,M,Black,Hiseville,KY,False,attack,Car,False,-85.821,37.095,True,1,56 to 60
+1229,1433,1620,Michael Moore,13/6/2016,shot,gun,18.0,M,Black,Mobile,AL,False,other,Not fleeing,False,-88.096,30.706,True,1,11 to 15
+1238,1448,1637,Antwun Shumpert,18/6/2016,shot,unarmed,37.0,M,Black,Tupelo,MS,False,attack,Foot,False,-88.72,34.245,True,1,31 to 35
+1239,1449,1631,Rashaun Lloyd,19/6/2016,shot,gun,25.0,M,Black,New York,NY,False,attack,Not fleeing,False,-73.866,40.817,True,1,21 to 25
+1240,1451,1632,Raufeal M. Bostick,20/6/2016,shot,gun,23.0,M,Black,Hardeeville,SC,False,attack,Not fleeing,False,-81.082,32.283,True,1,16 to 20
+1246,1459,1646,Quencezola Maurice Splunge,22/6/2016,shot,gun,44.0,M,Black,Walls,MS,False,attack,Foot,False,-90.096,34.962,True,1,36 to 40
+1247,1460,1647,Deravis Caine Rogers,22/6/2016,shot,unarmed,22.0,M,Black,Atlanta,GA,False,undetermined,Other,False,-84.37,33.811,True,1,16 to 20
+1249,1462,1648,Jay Anderson,23/6/2016,shot,gun,25.0,M,Black,Wauwatosa,WI,False,other,Not fleeing,True,-88.038,43.101000000000006,True,1,21 to 25
+1250,1465,1650,Ismael Miranda,24/6/2016,shot,gun,36.0,M,Black,Paterson,NJ,False,attack,Not fleeing,False,-74.164,40.911,True,1,31 to 35
+1258,1477,1663,Donte L. Johnson,26/6/2016,shot,gun,30.0,M,Black,Dolton,IL,False,attack,Not fleeing,False,-87.581,41.622,True,1,26 to 30
+1260,1479,1666,Sherman Evans,27/6/2016,shot,toy weapon,63.0,M,Black,Washington,DC,True,attack,Not fleeing,True,-77.006,38.94300000000001,True,1,56 to 60
+1267,1487,1674,Lafayette Evans,29/6/2016,shot,gun,37.0,M,Black,Fort Madison,IA,False,attack,Foot,False,-91.372,40.626,True,1,31 to 35
+1277,1502,1683,Sidney Washington,4/7/2016,shot,gun,21.0,M,Black,Washington,DC,False,attack,Not fleeing,False,-76.932,38.909,True,1,16 to 20
+1280,1507,1680,Alton Sterling,5/7/2016,shot and Tasered,undetermined,37.0,M,Black,Baton Rouge,LA,False,undetermined,Not fleeing,True,-91.14,30.468000000000004,True,1,31 to 35
+1281,1508,1694,Philando Castile,6/7/2016,shot,gun,32.0,M,Black,Falcon Heights,MN,False,other,Not fleeing,True,-93.17,44.992,True,1,26 to 30
+1283,1512,1699,Earnest Fells,7/7/2016,shot,gun,63.0,M,Black,Selma,AL,False,attack,Not fleeing,True,-87.03299999999999,32.411,True,1,56 to 60
+1285,1514,1701,Andre Johnson,9/7/2016,shot,gun,40.0,M,Black,Broken Bow,OK,False,attack,Car,False,-94.731,34.036,True,1,36 to 40
+1286,1515,1702,Alva Burnett Braziel,10/7/2016,shot,gun,38.0,M,Black,Houston,TX,False,other,Not fleeing,True,-95.353,29.689,True,1,31 to 35
+1287,1516,1703,Joseph Mann,11/7/2016,shot,knife,50.0,M,Black,Sacramento,CA,True,other,Not fleeing,True,-121.461,38.605,True,1,46 to 50
+1288,1517,1704,Jason Brooks,11/7/2016,shot,gun,41.0,M,Black,East St. Louis,IL,False,attack,Not fleeing,False,-90.141,38.62,True,1,36 to 40
+1290,1519,1706,Orville Edwards,11/7/2016,shot,gun,39.0,M,Black,New York,NY,False,attack,Foot,False,-73.984,40.591,True,1,31 to 35
+1293,1524,1710,Dayten Ernest Harper,14/7/2016,shot,gun,33.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.654,39.302,True,1,26 to 30
+1299,1530,1717,Jermaine Johnson,17/7/2016,shot,gun,42.0,M,Black,New York,NY,False,attack,Not fleeing,False,-73.938,40.718,True,1,36 to 40
+1302,1535,1723,Derek Love,21/7/2016,shot,gun,50.0,M,Black,Chicago,IL,False,attack,Not fleeing,False,-87.62,41.858,True,1,46 to 50
+1304,1538,1726,Austin Jerry Lee Howard,23/7/2016,shot,knife,49.0,M,Black,Milwaukee,WI,False,attack,Not fleeing,True,-87.917,43.06399999999999,True,1,41 to 45
+1305,1539,1727,Bernard Wells,23/7/2016,shot,gun,31.0,M,Black,Chino,CA,False,attack,Foot,False,-117.689,34.033,True,1,26 to 30
+1308,1543,1731,Jeff Cornell Tyson,25/7/2016,shot,gun,32.0,M,Black,Indianapolis,IN,False,attack,Car,False,-86.113,39.765,True,1,26 to 30
+1309,1544,1732,Richard Risher,25/7/2016,shot,gun,18.0,M,Black,Los Angeles,CA,False,attack,Foot,False,-118.249,33.935,True,1,11 to 15
+1311,1547,1735,Devon Martes,27/7/2016,shot,gun,17.0,M,Black,Metairie,LA,False,attack,Foot,False,-90.175,29.999,True,1,11 to 15
+1312,1548,1736,Dalvin Hollins,27/7/2016,shot,unarmed,19.0,M,Black,Tempe,AZ,True,attack,Foot,False,-111.93,33.367,True,1,11 to 15
+1318,1554,1741,Jeffrey Smith,28/7/2016,shot,undetermined,47.0,M,Black,La Quinta,CA,False,other,Car,False,-116.269,33.697,True,1,41 to 45
+1320,1557,1744,Donnell Thompson,28/7/2016,shot,unarmed,27.0,M,Black,Compton,CA,False,attack,Other,False,-118.246,33.91,True,1,21 to 25
+1326,1564,1750,Korryn Gaines,1/8/2016,shot,gun,23.0,F,Black,Randallstown,MD,False,attack,Not fleeing,False,-76.814,39.37,True,1,16 to 20
+1331,1570,1758,DeMarco Newman,2/8/2016,shot,gun,43.0,M,Black,Palm Bay,FL,True,attack,Not fleeing,False,-80.589,28.034,True,1,36 to 40
+1337,1577,1767,Jamarion Rashad Robinson,5/8/2016,shot,gun,26.0,M,Black,East Point,GA,True,attack,Not fleeing,False,-84.491,33.644,True,1,21 to 25
+1339,1580,1763,Jawari Porter,7/8/2016,shot,knife,25.0,M,Black,Cincinnati,OH,True,attack,Not fleeing,False,-84.51,39.102,True,1,21 to 25
+1340,1581,1764,Earl Pinckney,7/8/2016,shot,knife,20.0,M,Black,Harrisburg,PA,True,other,Not fleeing,False,-76.899,40.282,True,1,16 to 20
+1341,1582,1766,Darnell Wicker,8/8/2016,shot,knife,57.0,M,Black,Louisville,KY,False,other,Not fleeing,True,-85.84100000000002,38.198,True,1,51 to 55
+1353,1595,1780,Sylville Smith,13/8/2016,shot,gun,23.0,M,Black,Milwaukee,WI,False,other,Foot,True,-87.96700000000001,43.075,True,1,16 to 20
+1360,1604,1791,Colby Friday,16/8/2016,shot,gun,30.0,M,Black,Stockton,CA,False,other,Foot,True,-121.252,37.987,True,1,26 to 30
+1362,1606,1795,Kenney Watkins,16/8/2016,shot,gun,18.0,M,Black,Los Angeles,CA,False,other,Foot,False,-118.281,33.945,True,1,11 to 15
+1376,1623,1802,Kelley Brandon Forte,22/8/2016,shot,knife,34.0,M,Black,Hamilton,OH,False,attack,Not fleeing,False,-84.551,39.397,True,1,26 to 30
+1381,1628,1816,Donta Taylor,25/8/2016,shot,gun,31.0,M,Black,Compton,CA,False,attack,Foot,False,-118.24,33.899,True,1,26 to 30
+1386,1636,1823,Jaqwan Julius Terry,29/8/2016,shot,gun,24.0,M,Black,Raleigh,NC,False,attack,Foot,False,-78.592,35.78,True,1,16 to 20
+1389,1640,1827,Levonia Riggins,30/8/2016,shot,unarmed,22.0,M,Black,Tampa,FL,False,other,Not fleeing,False,-82.36399999999998,27.934,True,1,16 to 20
+1396,1653,1856,Michael Thompson,2/9/2016,shot,gun,38.0,M,Black,St. Louis,MO,False,attack,Other,False,-90.232,38.722,True,1,31 to 35
+1397,1654,1854,Jerome Damon,3/9/2016,shot,undetermined,25.0,M,Black,Atlantic City,NJ,False,undetermined,Foot,False,-74.436,39.356,True,1,21 to 25
+1401,1660,1851,Moses Ruben,5/9/2016,shot,gun,36.0,M,Black,Ellis County,TX,False,attack,Car,False,-96.632,32.343,True,1,31 to 35
+1407,1667,1867,Robert Lee Brown,7/9/2016,shot,knife,55.0,M,Black,Albany,GA,False,attack,Not fleeing,False,-84.162,31.569000000000006,True,1,51 to 55
+1409,1669,1871,Sadiq Bishara-Abaker Idris,7/9/2016,shot,gun,25.0,M,Black,Wyoming,MI,False,attack,Not fleeing,False,-85.647,42.90600000000001,True,1,21 to 25
+1414,1674,1879,Gregory Frazier,9/9/2016,shot,knife,55.0,M,Black,Pompano Beach,FL,False,other,Not fleeing,False,-80.127,26.245,True,1,51 to 55
+1417,1679,1881,Markell Bivins,12/9/2016,shot,knife,25.0,M,Black,Cedar Rapids,IA,False,attack,Not fleeing,False,-91.715,41.99100000000001,True,1,21 to 25
+1419,1681,1883,Tyre King,14/9/2016,shot,toy weapon,13.0,M,Black,Columbus,OH,False,other,Foot,False,-82.98700000000002,39.963,True,1,Lesser than 10
+1425,1688,1888,Terence Crutcher,16/9/2016,shot and Tasered,unarmed,40.0,M,Black,Tulsa,OK,False,other,Not fleeing,False,-95.958,36.206,True,1,36 to 40
+1426,1690,1894,Nicholas Glenn,17/9/2016,shot,gun,25.0,M,Black,Philadelphia,PA,False,attack,Foot,False,-75.217,39.957,True,1,21 to 25
+1430,1694,1891,Philip Hasan,18/9/2016,shot,gun,61.0,M,Black,Akron,OH,False,other,Not fleeing,False,-81.563,41.042,True,1,56 to 60
+1447,1713,1918,Alfred Olango,27/9/2016,shot,unarmed,38.0,M,Black,El Cajon,CA,True,attack,Not fleeing,True,-116.952,32.808,True,1,31 to 35
+1448,1715,1919,Christopher Sowell,28/9/2016,shot,unarmed,32.0,M,Black,Philadelphia,PA,False,attack,Not fleeing,False,-75.165,39.953,True,1,26 to 30
+1451,1719,1927,George Richards-Meyers,30/9/2016,shot,undetermined,18.0,M,Black,Newark,NJ,False,undetermined,Not fleeing,False,-74.184,40.767,True,1,11 to 15
+1452,1720,1928,Douglas Marrickus Rainey,30/9/2016,shot,gun,32.0,M,Black,Campobello,SC,False,attack,Foot,False,-82.21600000000002,35.113,True,1,26 to 30
+1454,1722,1930,Najier Salaam,30/9/2016,shot,undetermined,18.0,M,Black,Newark,NJ,False,undetermined,Not fleeing,False,-74.184,40.767,True,1,11 to 15
+1455,1723,1931,Jacquarius M. Robinson,30/9/2016,shot,gun,20.0,M,Black,Columbus,OH,False,other,Foot,False,-82.848,39.951,True,1,16 to 20
+1457,1725,1925,Carnell Snell,1/10/2016,shot,gun,18.0,M,Black,Los Angeles,CA,False,undetermined,Foot,True,-118.307,33.939,True,1,11 to 15
+1459,1727,1924,Donte T. Jones,2/10/2016,shot,unknown weapon,36.0,M,Black,Markham,IL,False,other,Not fleeing,False,-87.667,41.594,True,1,31 to 35
+1472,1744,1943,Deric J. Brown,9/10/2016,shot,gun,41.0,M,Black,Syracuse,NY,False,attack,Not fleeing,False,-76.132,43.045,True,1,36 to 40
+1477,1753,1960,Kirk Figueroa,12/10/2016,shot,gun,33.0,M,Black,Boston,MA,False,attack,Not fleeing,False,-71.005,42.389,True,1,26 to 30
+1486,1767,1972,Darius Wimberly,18/10/2016,shot,gun,28.0,M,Black,Benton Harbor,MI,False,attack,Not fleeing,True,-86.45299999999997,42.102,True,1,21 to 25
+1495,1780,1987,Demetrius Mac Moore,23/10/2016,shot,gun,40.0,M,Black,Colorado Springs,CO,False,attack,Not fleeing,False,-104.794,38.837,True,1,36 to 40
+1496,1781,1989,Aaron Marquis Ballard,24/10/2016,shot,gun,19.0,M,Black,North St. Louis,MO,False,attack,Car,False,-90.229,38.673,True,1,11 to 15
+1497,1782,1990,Roy Lee Richards,25/10/2016,shot,toy weapon,46.0,M,Black,Little Rock,AR,False,other,Not fleeing,False,-92.265,34.741,True,1,41 to 45
+1501,1786,1994,Malcolm Loren Hickson,26/10/2016,shot,gun,25.0,M,Black,Carrollton,TX,False,other,Not fleeing,False,-96.919,32.984,True,1,21 to 25
+1506,1792,2001,Jason King,28/10/2016,shot,gun,38.0,M,Black,Sacramento,CA,True,attack,Not fleeing,False,-121.355,38.659,True,1,31 to 35
+1508,1794,1999,Terrence Coleman,30/10/2016,shot,knife,31.0,M,Black,Boston,MA,True,other,Not fleeing,False,-71.068,42.344,True,1,26 to 30
+1510,1798,2006,Michelle Lee Shirley,31/10/2016,shot,vehicle,39.0,F,Black,Torrance,CA,True,attack,Car,False,-118.316,33.819,True,1,31 to 35
+1516,1804,2011,Ferguson Laurent,3/11/2016,shot,gun,23.0,M,Black,Salisbury,NC,False,attack,Not fleeing,False,-80.458,35.668,True,1,16 to 20
+1524,1820,2026,Darryl Chisholm,7/11/2016,shot,gun,31.0,M,Black,Philadelphia,PA,False,attack,Other,False,-75.145,39.999,True,1,26 to 30
+1537,1842,2057,Dontrell Montrese Carter,18/11/2016,shot,gun,25.0,M,Black,Ludowici,GA,False,attack,Not fleeing,False,-81.742,31.708,True,1,21 to 25
+1538,1843,2059,Darius Jones,18/11/2016,shot,gun,26.0,M,Black,Chicago,IL,False,attack,Not fleeing,False,-87.67399999999998,41.769,True,1,21 to 25
+1540,1845,2056,Samson Fleurant,18/11/2016,shot and Tasered,machete,25.0,M,Black,Port St. Lucie,FL,True,other,Not fleeing,False,-80.365,27.311,True,1,21 to 25
+1544,1853,2060,George Bush III,21/11/2016,shot,gun,19.0,M,Black,St. Louis,MO,False,attack,Foot,False,-90.299,38.607,True,1,11 to 15
+1547,1857,2067,Frank Nathaniel Clark,22/11/2016,shot,gun,34.0,M,Black,Durham,NC,False,attack,Not fleeing,False,-78.89,35.973,True,1,26 to 30
+1548,1858,2068,Talif Scudder,22/11/2016,shot,gun,23.0,M,Black,Newark,NJ,False,attack,Not fleeing,False,-74.22800000000002,40.739,True,1,16 to 20
+1550,1860,2073,Kajuan Raye,23/11/2016,shot,gun,19.0,M,Black,Chicago,IL,False,other,Foot,True,-87.666,41.776,True,1,11 to 15
+1551,1863,2078,Jerome Chris Harmon,25/11/2016,shot,gun,23.0,M,Black,Hattiesburg,MS,False,attack,Other,False,-89.266,31.278,True,1,16 to 20
+1554,1867,2081,Richard Grimes,27/11/2016,shot,gun,33.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.741,41.878,True,1,26 to 30
+1555,1868,2082,Terrell Walker,27/11/2016,shot,gun,48.0,M,Black,Baton Rouge,LA,False,attack,Not fleeing,False,-91.086,30.395,True,1,41 to 45
+1561,1877,2092,David K. Crosby-Dowdy,30/11/2016,shot,gun,25.0,M,Black,Kansas City,MO,False,other,Not fleeing,False,-94.526,39.103,True,1,21 to 25
+1562,1878,2091,"Bruce Randall ""Zeus"" Johnson",1/12/2016,shot,gun,38.0,M,Black,Tacoma,WA,False,attack,Not fleeing,False,-122.419,47.21,True,1,31 to 35
+1566,1886,2101,Norman Gary,4/12/2016,shot,gun,29.0,M,Black,Elkhart,IN,False,attack,Car,False,-85.96,41.668,True,1,21 to 25
+1570,1891,2109,Redrick Jevon Batiste,7/12/2016,shot,gun,37.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.396,29.94,True,1,31 to 35
+1571,1894,2107,Mark Anthony Hicks,7/12/2016,shot and Tasered,knife,31.0,M,Black,Fayetteville,NC,False,other,Not fleeing,True,-78.987,35.089,True,1,26 to 30
+1579,1908,2125,Kenneth Robledo,12/12/2016,shot,gun,28.0,M,Black,Philadelphia,PA,False,attack,Not fleeing,False,-75.079,40.042,True,1,21 to 25
+1580,1909,2126,Lavar Montray Douglas,13/12/2016,shot,gun,18.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.657,39.312,True,1,11 to 15
+1581,1910,2128,Earl Labon Eubanks,13/12/2016,shot and Tasered,gun,32.0,M,Black,Hampton,GA,True,other,Not fleeing,False,-84.28299999999999,33.386,True,1,26 to 30
+1586,1916,2133,Ryan Joseph,18/12/2016,shot,undetermined,20.0,M,Black,Los Angeles,CA,False,undetermined,Foot,False,-118.309,33.985,True,1,16 to 20
+1593,1930,2157,Anthony Lovell Eddington,21/12/2016,shot,gun,24.0,M,Black,Coalinga,CA,False,attack,Not fleeing,False,-120.371,36.145,True,1,16 to 20
+1594,1931,2150,Terrence Thomas,22/12/2016,shot,gun,19.0,M,Black,Capitol Heights,MD,False,attack,Not fleeing,False,-76.937,38.867,True,1,11 to 15
+1596,1935,2158,Daquan Antonio Westbrook,24/12/2016,shot,gun,18.0,M,Black,Charlotte,NC,False,undetermined,Not fleeing,False,-80.851,35.352,True,1,11 to 15
+1598,1939,2159,Gerald Hall,25/12/2016,shot,knife,29.0,M,Black,Washington,DC,False,other,Not fleeing,True,-76.96300000000002,38.931,True,1,21 to 25
+1605,1949,2176,Jamal Rollins,30/12/2016,shot,gun,21.0,M,Black,Miami,FL,False,other,Car,False,-80.35600000000002,25.605,True,1,16 to 20
+1609,1956,2178,Trevon Johnson,1/1/2017,shot,knife,17.0,M,Black,Villa Park,IL,True,other,Not fleeing,False,-87.978,41.856,True,1,11 to 15
+1612,1960,2180,James E. Lewis,1/1/2017,shot and Tasered,gun,44.0,M,Black,Springfield,MO,True,attack,Foot,False,-93.275,37.222,True,1,36 to 40
+1614,1962,2189,James Owens,3/1/2017,shot and Tasered,knife,63.0,M,Black,Brooklyn,NY,True,other,Not fleeing,False,-73.89699999999998,40.643,True,1,56 to 60
+1616,1964,2191,Ruben Randolph,4/1/2017,shot,gun,51.0,M,Black,Pomona,CA,False,attack,Foot,False,-117.737,34.069,True,1,46 to 50
+1622,1970,2200,Jamal Parks,6/1/2017,shot,gun,32.0,M,Black,Deerfield,IL,False,attack,Other,False,-87.845,42.17100000000001,True,1,26 to 30
+1629,1978,2205,JR Williams,9/1/2017,shot,unarmed,38.0,M,Black,Phoenix,AZ,False,other,Foot,True,-112.134,33.568000000000005,True,1,31 to 35
+1630,1979,2206,Davion Henderson,9/1/2017,shot,gun,21.0,M,Black,St. Louis,MO,False,attack,Car,False,-90.25,38.656,True,1,16 to 20
+1632,1981,2223,Darrion Barnhill,10/1/2017,shot and Tasered,unarmed,23.0,M,Black,Reagan,TN,False,attack,Not fleeing,False,-88.34299999999998,35.522,False,1,16 to 20
+1640,1992,2219,Herbert Johnson,15/1/2017,shot,gun,34.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.709,41.88,True,1,26 to 30
+1647,2003,2243,Marquis Thomas,18/1/2017,shot,gun,19.0,M,Black,Gary,IN,False,attack,Car,False,-87.32799999999997,41.542,True,1,11 to 15
+1654,2010,2237,Ronnie Lee Shorter,21/1/2017,shot,gun,44.0,M,Black,Greenville,MS,False,attack,Not fleeing,False,-91.05,33.384,True,1,36 to 40
+1657,2013,2234,Christopher Thompkins,22/1/2017,shot,gun,57.0,M,Black,Pittsburgh,PA,False,attack,Not fleeing,False,-79.91,40.459,True,1,51 to 55
+1663,2019,2253,Armond Brown,23/1/2017,shot and Tasered,knife,25.0,M,Black,Kenner,LA,True,other,Not fleeing,False,-90.243,29.972,True,1,21 to 25
+1666,2022,2254,Arties Manning,24/1/2017,shot,gun,26.0,M,Black,New Orleans,LA,False,attack,Car,True,-89.97399999999998,30.05,True,1,21 to 25
+1672,2029,2261,Kevin Darnell Washington,25/1/2017,shot,gun,54.0,M,Black,Southaven,MS,False,attack,Not fleeing,False,-89.99700000000001,34.99,True,1,46 to 50
+1676,2033,2267,Deaundre Phillips,26/1/2017,shot,gun,24.0,M,Black,Atlanta,GA,False,other,Car,True,-84.49799999999998,33.792,True,1,16 to 20
+1679,2037,2274,Mi'Chance Dunlap-Gittens,28/1/2017,shot,gun,17.0,M,Black,Des Moines,WA,False,attack,Not fleeing,False,-122.296,47.408,True,1,11 to 15
+1683,2042,2269,Marvin Washington,30/1/2017,shot,gun,50.0,M,Black,Kiowa,OK,False,other,Not fleeing,False,-95.899,34.723,True,1,46 to 50
+1692,2059,2288,Johnnie J. Harris,4/2/2017,shot,gun,68.0,M,Black,Kansas City,MO,False,attack,Not fleeing,False,-94.569,38.983,True,1,61 to 65
+1695,2062,2283,Nana Adomako,5/2/2017,shot,unarmed,45.0,M,Black,Fremont,CA,True,attack,Not fleeing,False,-121.994,37.541,True,1,41 to 45
+1696,2063,2286,Shelly Porter,5/2/2017,shot,gun,41.0,M,Black,Englewood,OH,True,attack,Not fleeing,True,-84.28,39.86,True,1,36 to 40
+1697,2065,2305,Jerome Allen,6/2/2017,shot,toy weapon,22.0,M,Black,Jacksonville,FL,False,attack,Not fleeing,False,-81.67699999999998,30.343000000000004,True,1,16 to 20
+1698,2066,2306,Cole Wooley,6/2/2017,shot,gun,50.0,M,Black,Commerce City,CO,True,attack,Not fleeing,False,-104.911,39.804,True,1,46 to 50
+1701,2069,2310,Curtis Jamal Deal,7/2/2017,shot,gun,18.0,M,Black,Baltimore,MD,False,other,Other,True,-76.64699999999998,39.287,True,1,11 to 15
+1704,2075,2343,Chad Robertson,8/2/2017,shot,unarmed,25.0,M,Black,Chicago,IL,False,other,Foot,False,-87.64,41.879,True,1,21 to 25
+1705,2076,2316,Quanice Derrick Hayes,9/2/2017,shot,toy weapon,17.0,M,Black,Portland,OR,False,undetermined,Foot,False,-122.578,45.536,True,1,11 to 15
+1709,2081,2322,Jocques Scott Clemmons,10/2/2017,shot,gun,31.0,M,Black,Nashville,TN,False,other,Foot,False,-86.76,36.168,True,1,26 to 30
+1711,2085,2331,Carlos Keith Blackman,10/2/2017,shot,gun,25.0,M,Black,Greensboro,NC,False,attack,Other,True,-79.867,36.037,True,1,21 to 25
+1712,2086,2332,Darryl L. Fuqua,10/2/2017,shot,gun,23.0,M,Black,Bridgeton,NJ,False,undetermined,Foot,False,-75.229,39.419,True,1,16 to 20
+1715,2090,2321,Alonzo E. Ashley,11/2/2017,shot,gun,27.0,M,Black,Kansas City,MO,False,attack,Not fleeing,False,-94.507,38.918,True,1,21 to 25
+1716,2093,2329,Willard Eugene Scott,12/2/2017,shot,gun,31.0,M,Black,Durham,NC,False,other,Other,False,-78.906,36.022,True,1,26 to 30
+1719,2097,2337,Raynard Burton,13/2/2017,shot,unarmed,19.0,M,Black,Detroit,MI,False,attack,Other,False,-83.12899999999998,42.377,True,1,11 to 15
+1722,2101,2342,Kenneth Lee Bailey,15/2/2017,shot,gun,24.0,M,Black,Durham,NC,False,attack,Foot,False,-78.878,36.027,True,1,16 to 20
+1725,2104,2346,Kadeem Torres,16/2/2017,shot,gun,17.0,M,Black,Brooklyn,NY,False,attack,Foot,False,-73.876,40.673,True,1,11 to 15
+1727,2106,2350,Jimmy Briggs,16/2/2017,shot,gun,21.0,M,Black,Gardena,CA,False,attack,Foot,False,-118.297,33.903,True,1,16 to 20
+1731,2112,2351,Chance David Baker,18/2/2017,shot,toy weapon,22.0,M,Black,Portland,ME,True,other,Not fleeing,False,-70.28,43.653,True,1,16 to 20
+1732,2113,2352,Keo Crockett,18/2/2017,shot,gun,46.0,M,Black,Efland,NC,False,attack,Not fleeing,False,-79.219,36.132,True,1,41 to 45
+1733,2114,2356,Christopher Carter,19/2/2017,shot,knife,27.0,M,Black,Kent,OH,False,attack,Not fleeing,False,-81.387,41.16,True,1,21 to 25
+1739,2121,2365,Don Clark,21/2/2017,shot,gun,63.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.232,38.583,True,1,56 to 60
+1743,2125,2369,Medger Blake,22/2/2017,shot,knife,41.0,M,Black,Conroe,TX,False,attack,Not fleeing,False,-95.493,30.245,True,1,36 to 40
+1745,2127,2372,Morgan London Rankins,22/2/2017,shot,knife,30.0,F,Black,Austin,TX,True,other,Car,False,-97.816,30.197,True,1,26 to 30
+1749,2132,2377,Timothy Lionel Williams,23/2/2017,shot,gun,47.0,M,Black,Washington,DC,False,attack,Foot,True,-76.984,38.902,True,1,41 to 45
+1753,2136,2383,Lorenzo Antoine Cruz,25/2/2017,shot,toy weapon,23.0,M,Black,Rocklin,CA,True,attack,Foot,False,-121.258,38.827,True,1,16 to 20
+1760,2144,2393,Earl Riley,28/2/2017,shot,gun,25.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.538,29.651,True,1,21 to 25
+1761,2145,2394,Christopher Redding,28/2/2017,shot,gun,20.0,M,Black,Orlando,FL,False,attack,Foot,False,-81.411,28.489,True,1,16 to 20
+1763,2147,2392,Epthen Lamont Johnson,1/3/2017,shot,knife,40.0,M,Black,Lufkin,TX,False,attack,Not fleeing,True,-94.728,31.356,True,1,36 to 40
+1780,2179,2418,Cordale Quinn Handy,15/3/2017,shot,gun,29.0,M,Black,St. Paul,MN,False,other,Not fleeing,False,-93.067,44.96100000000001,True,1,21 to 25
+1781,2181,2429,Frederick Ricardo Brown,16/3/2017,shot,gun,34.0,M,Black,Warren,MI,False,attack,Not fleeing,False,-83.006,42.5,True,1,26 to 30
+1782,2182,2431,Jermaine Claybrooks,16/3/2017,shot,gun,32.0,M,Black,Milwaukee,WI,False,other,Not fleeing,True,-87.934,43.106,True,1,26 to 30
+1784,2185,2432,Patrick Earl Gatson,16/3/2017,shot and Tasered,gun,32.0,M,Black,Fayetteville,NC,False,attack,Not fleeing,False,-78.875,35.066,True,1,26 to 30
+1787,2188,2440,Desmond Phillips,17/3/2017,shot and Tasered,knife,25.0,M,Black,Chico,CA,True,other,Not fleeing,False,-121.845,39.725,True,1,21 to 25
+1791,2193,2442,Alteria Woods,19/3/2017,shot,unarmed,21.0,F,Black,Gifford,FL,False,other,Not fleeing,False,-80.421,27.675,True,1,16 to 20
+1795,2198,2450,Don Johnson,22/3/2017,shot,gun,27.0,M,Black,Crowley,LA,False,attack,Not fleeing,False,-92.356,30.209,True,1,21 to 25
+1796,2200,2449,William Stokes,23/3/2017,shot,machete,51.0,M,Black,Des Moines,WA,True,other,Not fleeing,False,-122.31,47.393,True,1,46 to 50
+1797,2201,2451,Eddie Davis,23/3/2017,shot,knife,42.0,M,Black,Sheridan,AR,False,attack,Car,False,-92.239,34.318000000000005,True,1,36 to 40
+1799,2203,2452,Reno Joseph Owens,24/3/2017,shot,knife,39.0,M,Black,Baltimore,MD,True,other,Not fleeing,True,-76.646,39.302,True,1,31 to 35
+1815,2219,2470,Leroy Brown,29/3/2017,shot,undetermined,28.0,M,Black,New Castle,DE,False,other,Car,False,-75.567,39.678,True,1,21 to 25
+1817,2223,2475,Marcus Williams,1/4/2017,shot,gun,34.0,M,Black,Cantonment,FL,False,attack,Foot,False,-87.292,30.558000000000003,True,1,26 to 30
+1822,2231,2484,Christopher Wade,6/4/2017,shot,toy weapon,39.0,M,Black,Westerville,OH,True,attack,Not fleeing,False,-82.947,40.115,True,1,31 to 35
+1825,2235,2488,Kenneth Francis,6/4/2017,shot,gun,37.0,M,Black,Newark,NJ,False,attack,Not fleeing,False,-74.202,40.716,True,1,31 to 35
+1830,2242,2496,Zelalem Eshetu Ewnetu,12/4/2017,shot,gun,28.0,M,Black,Los Angeles,CA,False,other,Not fleeing,False,-118.247,33.954,True,1,21 to 25
+1838,2256,2514,Keith Price,19/4/2017,shot,gun,21.0,M,Black,Wilmington,DE,False,attack,Other,True,-75.545,39.872,True,1,16 to 20
+1846,2269,2527,Kendell Wilson,24/4/2017,shot,gun,16.0,M,Black,Houston,TX,False,other,Foot,True,-95.645,29.878,True,1,11 to 15
+1848,2272,2528,Hakim McNair,25/4/2017,shot,gun,23.0,M,Black,Newark,NJ,False,other,Car,False,-74.209,40.744,True,1,16 to 20
+1849,2275,2533,Gavin Williams,25/4/2017,shot and Tasered,knife,27.0,M,Black,Lizella,GA,False,other,Not fleeing,False,-83.78299999999999,32.803000000000004,True,1,21 to 25
+1851,2278,2530,Selwyn Aubrey Hall,26/4/2017,shot and Tasered,Taser,57.0,M,Black,Jacksonville,FL,False,other,Not fleeing,False,-81.649,30.356,True,1,51 to 55
+1852,2279,2535,Burgon Sealy,27/4/2017,shot,gun,26.0,M,Black,Middletown,DE,False,attack,Not fleeing,False,-75.71600000000002,39.45,True,1,21 to 25
+1854,2281,2542,Avery Richard,28/4/2017,shot,gun,32.0,M,Black,Atlanta,GA,False,attack,Not fleeing,False,-84.46700000000001,33.751999999999995,True,1,26 to 30
+1856,2283,2538,Jordan Edwards,29/4/2017,shot,unarmed,15.0,M,Black,Balch Springs,TX,False,undetermined,Not fleeing,True,-96.615,32.712,True,1,11 to 15
+1857,2285,2543,Caleb Jackson,29/4/2017,shot,gun,35.0,M,Black,Newport News,VA,False,attack,Not fleeing,False,-76.434,37.002,True,1,31 to 35
+1860,2289,2545,James Edward Ray,30/4/2017,shot,gun,46.0,M,Black,Detroit,MI,False,attack,Not fleeing,False,-83.18700000000003,42.358,True,1,41 to 45
+1863,2292,2549,Rodney Henderson,2/5/2017,shot and Tasered,knife,48.0,M,Black,Irving,TX,False,attack,Not fleeing,False,-96.977,32.8,True,1,41 to 45
+1865,2295,2554,Malik Carey,3/5/2017,shot,gun,18.0,M,Black,Grand Rapids,MI,False,attack,Not fleeing,True,-85.63600000000002,42.934,True,1,11 to 15
+1870,2300,2558,Cedric Jamal Mifflin,7/5/2017,shot,undetermined,27.0,M,Black,Phenix City,AL,False,undetermined,Other,True,-85.01,32.471,True,1,21 to 25
+1873,2303,2562,Landon Nobles,7/5/2017,shot,gun,24.0,M,Black,Austin,TX,False,attack,Foot,False,-97.739,30.267,True,1,16 to 20
+1875,2307,2564,Terry Percy Campbell,9/5/2017,shot,gun,25.0,M,Black,Jacksonville,FL,True,attack,Not fleeing,False,-81.51899999999998,30.322,True,1,21 to 25
+1880,2312,2570,Terrell Kyreem Johnson,10/5/2017,shot,knife,24.0,M,Black,Portland,OR,True,other,Foot,False,-122.569,45.468,True,1,16 to 20
+1881,2313,2571,Robin White,10/5/2017,shot,gun,50.0,F,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.257,38.566,True,1,46 to 50
+1885,2319,2574,Ronald Singletary,12/5/2017,shot and Tasered,knife,51.0,M,Black,Philadelphia,PA,False,other,Not fleeing,False,-75.219,39.942,True,1,46 to 50
+1889,2324,2581,Jonie Block,15/5/2017,shot,gun,27.0,F,Black,Phoenix,AZ,False,other,Not fleeing,False,-112.076,33.462,True,1,21 to 25
+1890,2325,2582,Jaison Fitzgerald,15/5/2017,shot,gun,29.0,M,Black,Richmond,VA,False,other,Not fleeing,False,-77.44,37.472,True,1,21 to 25
+1898,2338,2594,Jimmie Montel Sanders,21/5/2017,shot,gun,33.0,M,Black,Appleton,WI,False,attack,Not fleeing,False,-88.414,44.262,True,1,26 to 30
+1900,2340,2596,Ricco Devante Holden,21/5/2017,shot,unarmed,24.0,M,Black,Converse,LA,False,attack,Not fleeing,False,-93.699,31.781,True,1,16 to 20
+1910,2356,2610,Shaquian Tyrone Johnson,28/5/2017,shot,gun,22.0,M,Black,Cary,NC,False,attack,Not fleeing,False,-78.844,35.8,True,1,16 to 20
+1915,2366,2624,Charles Darnell Baker,2/6/2017,shot,gun,29.0,M,Black,Abbeville,AL,False,attack,Not fleeing,False,-85.281,31.573,True,1,21 to 25
+1916,2367,2626,Marc Brandon Davis,2/6/2017,shot,unarmed,34.0,M,Black,Petal,MS,False,attack,Not fleeing,False,-89.259,31.357,True,1,26 to 30
+1918,2369,2628,Corsean Lewis,2/6/2017,shot,gun,17.0,M,Black,Chicago,IL,False,attack,Not fleeing,False,-87.624,41.76,True,1,11 to 15
+1931,2388,2648,David Jones,8/6/2017,shot and Tasered,unarmed,30.0,M,Black,Philadelphia,PA,False,other,Foot,False,-75.119,40.01300000000001,True,1,26 to 30
+1933,2391,2651,Joshua Barre,9/6/2017,shot and Tasered,knife,29.0,M,Black,Tulsa,OK,True,other,Not fleeing,False,-95.993,36.22,True,1,21 to 25
+1942,2402,2664,Jordan Frazier,13/6/2017,shot,gun,35.0,M,Black,Baton Rouge,LA,False,other,Not fleeing,False,-91.152,30.44,True,1,31 to 35
+1943,2403,2665,Chazz Brown,13/6/2017,shot,gun,33.0,M,Black,St Louis,MO,False,attack,Not fleeing,False,-90.216,38.596,True,1,26 to 30
+1953,2415,2672,Charleena Lyles,18/6/2017,shot,knife,30.0,F,Black,Seattle,WA,True,other,Not fleeing,False,-122.262,47.678,True,1,26 to 30
+1968,2433,2692,Lawrence Heyward Jr.,25/6/2017,shot,gun,56.0,M,Black,North Charleston,SC,False,undetermined,Foot,False,-80.042,32.955,True,1,51 to 55
+1969,2434,2695,Deveonte Johnson,25/6/2017,shot,gun,24.0,M,Black,Oklahoma City,OK,False,attack,Not fleeing,True,-97.516,35.45,True,1,16 to 20
+1973,2441,2717,Aaron Bailey,29/6/2017,shot,unarmed,45.0,M,Black,Indianapolis,IN,False,other,Car,False,-86.179,39.799,True,1,41 to 45
+1979,2449,2730,Quintec Locke,1/7/2017,shot,gun,37.0,M,Black,Lawndale,IL,False,other,Not fleeing,True,-87.734,41.851000000000006,True,1,31 to 35
+1987,2458,2739,Dana Dubose,4/7/2017,shot,knife,36.0,M,Black,Vandalia,OH,False,attack,Not fleeing,False,-84.191,39.891,True,1,31 to 35
+1991,2463,2927,Zepp Crouchet,4/7/2017,shot,gun,42.0,M,Black,Antioch,CA,False,other,Car,False,-121.788,38.009,True,1,36 to 40
+1996,2471,2745,Dejuan Guillory,6/7/2017,shot,unarmed,27.0,M,Black,Mamou,LA,False,other,Not fleeing,False,-92.407,30.593000000000004,True,1,21 to 25
+1997,2472,2751,Brian Easley,7/7/2017,shot,unarmed,33.0,M,Black,Marietta,GA,True,attack,Not fleeing,False,-84.477,33.901,True,1,26 to 30
+1998,2476,2758,Cardell Vance III,8/7/2017,shot,knife,23.0,M,Black,Crescent City,FL,True,other,Not fleeing,False,-81.531,29.448,True,1,16 to 20
+2002,2481,2761,Edward Taylor,9/7/2017,shot,gun,54.0,M,Black,Akron,OH,False,attack,Not fleeing,False,-81.569,41.122,True,1,46 to 50
+2004,2487,2769,Antonio Garcia Jr.,11/7/2017,shot,knife,47.0,M,Black,Leavenworth,KS,False,undetermined,Not fleeing,False,-94.91,39.302,True,1,41 to 45
+2011,2497,2780,Vaughn Shaw,15/7/2017,shot,gun,23.0,M,Black,Moreno Valley,CA,True,other,Not fleeing,False,-117.273,33.936,True,1,16 to 20
+2013,2499,2782,India N. Nelson,17/7/2017,shot,gun,25.0,F,Black,Norfolk,VA,False,attack,Not fleeing,False,-76.315,36.944,True,1,21 to 25
+2023,2510,2793,Isaiah Perkins,20/7/2017,shot,gun,27.0,M,Black,St. Louis,MO,False,attack,Car,False,-90.26,38.701,True,1,21 to 25
+2034,2522,2805,Aries Clark,25/7/2017,shot,toy weapon,16.0,M,Black,Marion,AR,False,attack,Not fleeing,False,-90.199,35.226,True,1,11 to 15
+2043,2535,2822,Rodney E. Jacobs,28/7/2017,shot,gun,31.0,M,Black,Kansas City,MO,False,attack,Not fleeing,False,-94.552,39.046,True,1,26 to 30
+2045,2537,2930,Jashod Arthur Carter,29/7/2017,shot,gun,29.0,M,Black,Norco,CA,False,attack,Car,False,-117.571,33.902,True,1,21 to 25
+2046,2538,2815,Dwayne Jeune,31/7/2017,shot,knife,32.0,M,Black,Brooklyn,NY,True,attack,Not fleeing,False,-73.96300000000002,40.634,True,1,26 to 30
+2047,2539,2817,Isaiah Tucker,31/7/2017,shot,unarmed,28.0,M,Black,Oshkosh,WI,False,attack,Car,True,-88.56,44.012,True,1,21 to 25
+2053,2547,2829,Preston Thornton,2/8/2017,shot,gun,29.0,M,Black,Coushatta,LA,True,attack,Not fleeing,False,-93.329,32.001999999999995,True,1,21 to 25
+2055,2549,2834,Quintas Harris,2/8/2017,shot,gun,27.0,M,Black,Atlanta,GA,True,attack,Not fleeing,False,-84.256,33.761,True,1,21 to 25
+2057,2552,3060,Kemonte Cobbs,3/8/2017,shot,gun,15.0,M,Black,Gary,IN,False,attack,Foot,False,-87.40100000000002,41.583,True,1,11 to 15
+2066,2562,2842,Danatae Franklin,6/8/2017,shot,gun,28.0,M,Black,Kansas City,MO,False,attack,Foot,False,-94.553,39.063,True,1,21 to 25
+2071,2567,2852,Darreon Neal,8/8/2017,shot,gun,17.0,M,Black,Dalton,IL,False,other,Other,False,-87.587,41.659,True,1,11 to 15
+2073,2572,2857,Tyrease Carlyle,11/8/2017,shot,gun,31.0,M,Black,Philadelphia,PA,True,other,Not fleeing,False,-75.163,39.91,True,1,26 to 30
+2078,2577,2862,Patrick Harmon,13/8/2017,shot,knife,50.0,M,Black,Salt Lake City,UT,False,other,Foot,True,-111.888,40.747,True,1,46 to 50
+2079,2578,2863,Hussein Hassan,13/8/2017,shot,sword,46.0,M,Black,Kennewick,WA,True,attack,Not fleeing,False,-119.138,46.212,True,1,41 to 45
+2082,2581,2866,Herbert Gilbert,15/8/2017,shot,undetermined,37.0,M,Black,Thomasville,GA,False,undetermined,Not fleeing,True,-83.979,30.826,True,1,31 to 35
+2083,2582,2872,Kenneth Lewis,16/8/2017,shot,gun,34.0,M,Black,Los Angeles,CA,False,undetermined,Foot,False,-118.253,33.929,True,1,26 to 30
+2088,2588,2881,Derrick Rashard Brabham,18/8/2017,shot,gun,25.0,M,Black,Jacksonville,FL,False,attack,Not fleeing,False,-81.73100000000002,30.238000000000003,True,1,21 to 25
+2091,2591,2877,Keshawn Wilson,20/8/2017,shot,gun,32.0,M,Black,Brick,NJ,False,attack,Not fleeing,False,-74.098,40.067,True,1,26 to 30
+2095,2596,2888,Nathaniel Richmond,21/8/2017,shot,gun,51.0,M,Black,Steubenville,OH,False,attack,Not fleeing,False,-80.61399999999998,40.36,True,1,46 to 50
+2097,2598,2887,Kiwi Herring,22/8/2017,shot,knife,30.0,F,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.268,38.663,True,1,26 to 30
+2104,2606,2898,Scott Mayfield,24/8/2017,shot,gun,24.0,M,Black,Orange,NJ,False,other,Foot,False,-74.23,40.772,True,1,16 to 20
+2107,2609,2900,Charles David Robinson,25/8/2017,shot,unarmed,47.0,M,Black,Woodville,GA,False,attack,Foot,False,-83.068,33.716,True,1,41 to 45
+2108,2610,2901,Michael Malik Kawon Lee,26/8/2017,shot,gun,18.0,M,Black,Pine Bluff,AR,False,attack,Foot,True,-91.988,34.25,True,1,11 to 15
+2113,2615,2906,William Matthew Holmes,28/8/2017,shot,undetermined,24.0,M,Black,Newton,KS,True,attack,Car,True,-97.323,38.047,True,1,16 to 20
+2116,2620,2911,Anthony Antonio Ford,30/8/2017,shot,unarmed,27.0,M,Black,Miami,FL,False,other,Foot,False,-80.223,25.837,True,1,21 to 25
+2123,2628,2919,Antwon Springer,3/9/2017,shot,gun,37.0,M,Black,Milwaukee,WI,False,attack,Not fleeing,False,-87.961,43.097,True,1,31 to 35
+2130,2639,2933,Miguel Richards,6/9/2017,shot,knife,31.0,M,Black,New York,NY,True,other,Not fleeing,True,-73.834,40.88800000000001,True,1,26 to 30
+2131,2640,2944,Eric Dwan Arnold,7/9/2017,shot,gun,41.0,M,Black,Sacramento,CA,False,attack,Car,False,-121.47,38.528,True,1,36 to 40
+2134,2643,2940,Ervin Eugene Sweat Jr.,9/9/2017,shot,gun,26.0,M,Black,Arcata,CA,False,attack,Not fleeing,False,-124.087,40.869,True,1,21 to 25
+2145,2659,2961,Brian Ziro,17/9/2017,shot,gun,21.0,M,Black,West Milford,WV,False,attack,Foot,False,-80.404,39.201,True,1,16 to 20
+2150,2668,2968,Eddie Russell Jr.,20/9/2017,shot,gun,25.0,M,Black,Peoria,IL,True,other,Not fleeing,False,-89.63600000000002,40.724,True,1,21 to 25
+2151,2669,2969,Haraesheo Rice,20/9/2017,shot,gun,31.0,M,Black,Huntsville,AL,True,attack,Not fleeing,False,-86.615,34.803000000000004,True,1,26 to 30
+2157,2680,2975,Damien Murray,24/9/2017,shot,gun,39.0,M,Black,San Francisco,CA,False,other,Not fleeing,True,-122.413,37.796,True,1,31 to 35
+2159,2682,2976,Anthony Robinson,25/9/2017,shot,gun,32.0,M,Black,Palmetto,FL,False,attack,Foot,False,-82.566,27.536,True,1,26 to 30
+2164,2687,2987,Demilo Trayuon Hodge,27/9/2017,shot,gun,45.0,M,Black,Emeryville,CA,False,attack,Car,False,-122.297,37.84,True,1,41 to 45
+2169,2693,2993,Tyrell Dewayne Pinkston,30/9/2017,shot,gun,28.0,M,Black,Palatka,FL,False,other,Not fleeing,False,-81.669,29.648000000000003,True,1,21 to 25
+2170,2695,2995,"Marquis ""Bubba"" Jones",1/10/2017,shot,gun,27.0,M,Black,West Burlington,IA,False,other,Other,True,-91.107,40.805,True,1,21 to 25
+2176,2704,3012,Sandy Guardiola,4/10/2017,shot,gun,48.0,F,Black,Canandaigua,NY,False,attack,Not fleeing,False,-77.26899999999998,42.87600000000001,True,1,41 to 45
+2177,2705,3013,Jomekia Minter,4/10/2017,shot,gun,37.0,M,Black,Thomas County,GA,False,attack,Not fleeing,False,-83.977,30.886,True,1,31 to 35
+2190,2721,3007,Corey Boykin,8/10/2017,shot,gun,24.0,M,Black,Louisville,KY,False,other,Not fleeing,True,-85.705,38.158,True,1,16 to 20
+2191,2722,3008,Cariann Hithon,8/10/2017,shot,vehicle,22.0,F,Black,Miami,FL,False,attack,Car,False,-80.132,25.783,True,1,16 to 20
+2195,2728,3029,John Robert Payne,12/10/2017,shot,gun,35.0,M,Black,Homewood,AL,True,attack,Foot,False,-86.829,33.445,True,1,31 to 35
+2198,2731,3037,J.C. Hawkins,13/10/2017,shot,gun,42.0,M,Black,Charlottesville,VA,False,attack,Foot,False,-78.455,38.024,True,1,36 to 40
+2200,2734,3034,Eric Garrison,16/10/2017,shot,gun,20.0,M,Black,Baltimore,MD,False,other,Foot,True,-76.558,39.357,True,1,16 to 20
+2208,2743,3050,Dewboy Lister,19/10/2017,shot,unarmed,55.0,M,Black,Corpus Christi,TX,False,attack,Foot,True,-97.418,27.802,True,1,51 to 55
+2210,2745,3048,Jamarco McShann,20/10/2017,shot,gun,23.0,M,Black,Moraine,OH,True,attack,Not fleeing,False,-84.251,39.698,True,1,16 to 20
+2220,2760,3068,Timothy Earl Jackson,25/10/2017,shot,gun,33.0,M,Black,St. Petersburg,FL,False,attack,Not fleeing,False,-82.699,27.75,True,1,26 to 30
+2221,2761,3070,Antonio Levison,25/10/2017,shot,gun,33.0,M,Black,Cleveland,OH,False,attack,Foot,False,-81.623,41.536,True,1,26 to 30
+2224,2765,3074,Jerry Richardson,27/10/2017,shot,machete,46.0,M,Black,Indiantown,FL,True,other,Not fleeing,False,-80.486,27.024,True,1,41 to 45
+2226,2769,3078,Eric Higgs,29/10/2017,shot,gun,46.0,M,Black,Tate County,MS,False,attack,Car,False,-89.92399999999998,34.515,True,1,41 to 45
+2231,2775,3082,Luvelle Kennon,31/10/2017,shot,undetermined,27.0,M,Black,Riverside,CA,False,other,Not fleeing,False,-117.343,33.938,True,1,21 to 25
+2233,2777,3086,Vincent Hall,31/10/2017,shot,gun,22.0,M,Black,Arlington,TX,False,attack,Not fleeing,False,-97.176,32.661,True,1,16 to 20
+2238,2789,3096,Raymond Davis,4/11/2017,shot,gun,24.0,M,Black,Columbus,MS,False,other,Not fleeing,True,-88.40700000000002,33.496,True,1,16 to 20
+2240,2793,3103,Augustus Joshua Crawford,4/11/2017,shot,gun,20.0,M,Black,Bakersfield,CA,False,undetermined,Foot,False,-119.021,35.325,True,1,16 to 20
+2246,2800,3110,Jarrett Varnado,7/11/2017,shot,gun,35.0,M,Black,Las Vegas,NV,False,attack,Not fleeing,False,-115.252,36.115,True,1,31 to 35
+2251,2805,3118,Paul Jones,9/11/2017,shot,gun,25.0,M,Black,Salisbury,NC,False,attack,Car,False,-80.499,35.666,True,1,21 to 25
+2256,2811,3126,Thomas Aikens,10/11/2017,shot,knife,43.0,M,Black,Phoenix,AZ,False,attack,Not fleeing,False,-112.078,33.463,True,1,36 to 40
+2258,2813,3130,John Bazemore III,10/11/2017,shot,gun,25.0,M,Black,Denver,CO,False,other,Foot,False,-104.995,39.74800000000001,True,1,21 to 25
+2261,2817,3123,Phillip Pitts,11/11/2017,shot,gun,41.0,M,Black,Las Vegas,NV,False,attack,Not fleeing,False,-115.146,36.007,True,1,36 to 40
+2263,2820,3134,Cornell Lockhart,13/11/2017,shot,knife,67.0,M,Black,Tremont,NY,True,attack,Not fleeing,True,-73.892,40.847,True,1,61 to 65
+2264,2821,3135,Calvin Toney,13/11/2017,shot,unarmed,24.0,M,Black,Baton Rouge,LA,False,attack,Foot,True,-91.136,30.501,True,1,16 to 20
+2269,2830,3207,Chester Randolph Ward,16/11/2017,shot,gun,68.0,M,Black,Cedar Lake,TX,False,attack,Not fleeing,False,-95.754,29.637,True,1,61 to 65
+2272,2833,3152,Shady Bell,17/11/2017,shot,gun,46.0,M,Black,West Monroe,LA,False,attack,Not fleeing,False,-92.157,32.503,True,1,41 to 45
+2275,2836,3149,Lawrence Hawkins,18/11/2017,shot,unarmed,56.0,M,Black,Prichard,AL,False,other,Car,False,-88.102,30.735,True,1,51 to 55
+2282,2846,3163,Jackie Germaine Ragland,23/11/2017,shot,gun,32.0,M,Black,Pell City,AL,False,attack,Not fleeing,False,-86.271,33.568000000000005,True,1,26 to 30
+2293,2861,3172,Rufus Cedric Baker,30/11/2017,shot,gun,32.0,M,Black,Hendersonville,NC,False,other,Foot,False,-82.43799999999997,35.34900000000001,True,1,26 to 30
+2295,2864,3176,Keita O'Neil,1/12/2017,shot,unarmed,42.0,M,Black,San Francisco,CA,False,other,Car,True,-122.388,37.719,True,1,36 to 40
+2301,2870,3183,Johnnie D. Carter,5/12/2017,shot,gun,24.0,M,Black,Bassett,VA,False,attack,Not fleeing,False,-79.997,36.791,True,1,16 to 20
+2302,2871,3184,Jean Pedro Pierre,6/12/2017,shot,unarmed,42.0,M,Black,Lauderdale Lakes,FL,True,attack,Not fleeing,True,-80.197,26.152,True,1,36 to 40
+2312,2895,3215,Michael Wilson,17/12/2017,shot,unarmed,27.0,M,Black,Hallandale Beach,FL,False,other,Car,False,-80.123,25.984,True,1,21 to 25
+2319,2924,3244,Jesse Scarsbrook,26/12/2017,shot,gun,28.0,M,Black,Lawrence,IN,False,attack,Car,False,-86.014,39.843,True,1,21 to 25
+2325,2934,3256,Corey Bailey,28/12/2017,shot,gun,30.0,M,Black,Elkhart,IN,False,attack,Car,False,-85.979,41.67,True,1,26 to 30
+2332,2947,3286,Shaleem Tindle,3/1/2018,shot,gun,28.0,M,Black,Oakland,CA,False,attack,Not fleeing,False,-122.296,37.806,True,1,21 to 25
+2336,2951,3283,Ledarren D. Mixon,5/1/2018,shot,gun,28.0,M,Black,Whitehall,OH,False,attack,Not fleeing,False,-82.854,39.958,True,1,21 to 25
+2338,2954,3271,Charles Smith Jr.,6/1/2018,shot,gun,17.0,M,Black,Little Rock,AR,False,attack,Not fleeing,False,-92.266,34.806,True,1,11 to 15
+2344,2961,3282,John Bailon,6/1/2018,shot and Tasered,unarmed,40.0,M,Black,Los Lunas,NM,False,other,Car,False,-106.733,34.806,True,1,36 to 40
+2345,2962,3269,Trayvon Mitchell,7/1/2018,shot,gun,38.0,M,Black,Lauderhill,FL,False,other,Foot,False,-80.20100000000002,26.13,True,1,31 to 35
+2347,2964,3276,Richard R. Towler,7/1/2018,shot,gun,54.0,M,Black,Danville,VA,False,attack,Not fleeing,False,-79.365,36.587,True,1,46 to 50
+2351,2970,4208,Travis Griffin,8/1/2018,shot,gun,20.0,M,Black,Kansas City,MO,False,attack,Foot,False,-94.568,39.017,True,1,16 to 20
+2354,2973,3301,Shalun Dique Smith,10/1/2018,shot,vehicle,21.0,M,Black,Palmdale,CA,False,other,Car,False,-118.043,34.565,True,1,16 to 20
+2357,2978,3313,Terry Amons,12/1/2018,shot,gun,43.0,M,Black,Pittsburg,CA,False,other,Not fleeing,False,-121.894,38.005,True,1,36 to 40
+2360,2981,3316,Amanuel Dagebo,12/1/2018,shot,gun,22.0,M,Black,Columbus,OH,False,other,Not fleeing,False,-82.85799999999998,39.929,True,1,16 to 20
+2368,2992,3320,Jihad Merrick,17/1/2018,shot,gun,29.0,M,Black,Nashua,IA,True,attack,Car,False,-92.549,42.949,True,1,21 to 25
+2369,2993,3321,Brian Gregory,17/1/2018,shot,gun,34.0,M,Black,Memphis,TN,False,other,Car,False,-90.024,35.17,True,1,26 to 30
+2370,2994,3322,Donte D. Shannon,17/1/2018,shot,gun,26.0,M,Black,Racine,WI,False,attack,Foot,False,-87.786,42.716,True,1,21 to 25
+2371,2997,3324,Kevin Sturgis,18/1/2018,shot,gun,31.0,M,Black,Harrisburg,PA,False,attack,Not fleeing,False,-76.862,40.265,True,1,26 to 30
+2376,3002,3329,Arther McAfee Jr.,20/1/2018,shot,unarmed,61.0,M,Black,Longview,TX,True,other,Not fleeing,False,-94.647,32.555,True,1,56 to 60
+2382,3015,3344,Corey Mobley,23/1/2018,shot,unarmed,38.0,M,Black,Bradenton,FL,True,other,Car,False,-82.568,27.429,True,1,31 to 35
+2392,3028,3359,Crystalline Barnes,27/1/2018,shot,vehicle,21.0,F,Black,Jackson,MS,False,attack,Car,False,-90.153,32.384,True,1,16 to 20
+2395,3031,3355,Billy Lewis Rucker,28/1/2018,shot,gun,33.0,M,Black,Baltimore,MD,False,attack,Foot,True,-76.669,39.278,True,1,26 to 30
+2398,3035,3365,Michael Hansford,29/1/2018,shot,knife,52.0,M,Black,Bronx,NY,False,other,Foot,True,-73.887,40.847,True,1,46 to 50
+2403,3042,3371,Daniel O. El,1/2/2018,shot,gun,32.0,M,Black,Peoria,IL,False,attack,Foot,False,-89.617,40.675,True,1,26 to 30
+2405,3044,3373,Anthony Joe Williams,1/2/2018,shot,gun,37.0,M,Black,Houston,TX,False,attack,Foot,False,-95.459,29.723000000000006,True,1,31 to 35
+2407,3046,3375,Brett Dontae Bush,1/2/2018,shot,knife,28.0,M,Black,Clayton,GA,False,other,Other,False,-83.389,34.88,True,1,21 to 25
+2411,3054,3382,Anthony Jacob Weber,4/2/2018,shot,gun,16.0,M,Black,Los Angeles,CA,False,other,Foot,False,-118.296,33.939,True,1,11 to 15
+2417,3064,3394,Tierre Guthrie,9/2/2018,shot,gun,39.0,M,Black,Locust Grove,GA,False,attack,Not fleeing,False,-84.11,33.333,True,1,31 to 35
+2418,3065,3395,David Darden,9/2/2018,shot,vehicle,36.0,M,Black,Atlanta,GA,False,other,Car,False,-84.395,33.731,True,1,31 to 35
+2423,3070,3399,Sidney T. Richardson,10/2/2018,shot and Tasered,machete,48.0,M,Black,Tampa,FL,True,other,Not fleeing,False,-82.439,28.045,True,1,41 to 45
+2425,3072,3400,Mark Daniels,11/2/2018,shot,gun,39.0,M,Black,Pittsburgh,PA,False,attack,Foot,False,-79.888,40.455,True,1,31 to 35
+2427,3075,3405,Ronnell Foster,13/2/2018,shot,unarmed,33.0,M,Black,Vallejo,CA,False,attack,Foot,False,-122.258,38.104,True,1,26 to 30
+2428,3079,3413,Jimmy Terry,14/2/2018,shot,knife,30.0,M,Black,Merrillville,IN,True,attack,Not fleeing,False,-87.34899999999998,41.486,True,1,26 to 30
+2435,3088,3422,Lamar Green,17/2/2018,shot,gun,28.0,M,Black,Inwood,WV,False,attack,Not fleeing,False,-78.038,39.366,True,1,21 to 25
+2439,3095,3412,Lawrence Shaw,19/2/2018,shot,knife,45.0,M,Black,Denton,TX,False,other,Foot,True,-97.096,33.196,True,1,41 to 45
+2440,3096,3427,Glenn Tyndell,21/2/2018,shot,gun,37.0,M,Black,Fort Washington,MD,False,attack,Car,False,-76.993,38.756,True,1,31 to 35
+2441,3097,3428,Lonnie Smith,21/2/2018,shot,gun,21.0,M,Black,Montgomery,AL,False,attack,Foot,False,-86.33,32.366,True,1,16 to 20
+2443,3099,3430,Edward Hallinan,21/2/2018,shot,gun,39.0,M,Black,Phoenix,AZ,False,attack,Car,False,-112.134,33.48,True,1,31 to 35
+2444,3100,3440,Lee Edward Bonner,21/2/2018,shot,gun,37.0,M,Black,Jackson,MS,False,attack,Foot,False,-90.206,32.302,True,1,31 to 35
+2445,3101,3441,Darion Baker,21/2/2018,shot,unarmed,22.0,M,Black,Stratford,TX,False,other,Car,False,-102.07,36.334,True,1,16 to 20
+2447,3104,3434,Mario Dantoni Bass,23/2/2018,shot,unarmed,37.0,M,Black,Woodbridge,VA,False,other,Foot,False,-77.33,38.584,True,1,31 to 35
+2449,3107,3442,Haydon Taylor,25/2/2018,shot,knife,25.0,M,Black,Oklahoma City,OK,False,attack,Not fleeing,False,-97.558,35.61,True,1,21 to 25
+2453,3113,3446,William Watson,26/2/2018,shot,gun,40.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.208,38.752,True,1,36 to 40
+2455,3115,3447,Marlon Smith,27/2/2018,shot,gun,29.0,M,Black,Dallas,TX,False,attack,Not fleeing,False,-96.656,32.738,True,1,21 to 25
+2458,3118,3450,Qawi A. Muhammad,28/2/2018,shot,gun,48.0,M,Black,Orlando,FL,False,attack,Not fleeing,False,-81.37899999999998,28.54,True,1,41 to 45
+2459,3120,3451,Timothy M. Gray,1/3/2018,shot,machete,40.0,M,Black,Henrico,VA,False,other,Car,False,-77.52199999999998,37.608,True,1,36 to 40
+2466,3127,3465,James Vaughn,2/3/2018,shot,unknown weapon,49.0,M,Black,Clarksville,TX,False,attack,Not fleeing,True,-95.052,33.614000000000004,True,1,41 to 45
+2467,3130,3467,Marvin McMillian,3/3/2018,shot,gun,41.0,M,Black,Gulfport,MS,False,attack,Not fleeing,False,-89.039,30.4,True,1,36 to 40
+2478,3144,3481,James E. Waters,6/3/2018,shot,gun,37.0,M,Black,Clinton,MO,True,attack,Not fleeing,False,-93.78,38.368,True,1,31 to 35
+2481,3148,3483,Jamil Harvey,8/3/2018,shot,gun,29.0,M,Black,Spotsylvania,VA,False,attack,Other,False,-111.676,40.057,True,1,21 to 25
+2485,3155,3488,Daniel Stacey Reynolds,10/3/2018,shot,gun,20.0,M,Black,Hillsboro,OR,True,attack,Not fleeing,False,-122.926,45.505,True,1,16 to 20
+2490,3160,3487,Decynthia Clements,12/3/2018,shot,knife,34.0,F,Black,Elgin,IL,True,other,Car,True,-88.28299999999999,42.066,True,1,26 to 30
+2496,3170,3511,Shermichael Ezeff,14/3/2018,shot,unarmed,31.0,M,Black,East Baton Rouge,LA,True,attack,Not fleeing,False,-91.127,30.453000000000007,True,1,26 to 30
+2497,3172,3514,Cameron Hall,15/3/2018,shot and Tasered,unarmed,27.0,M,Black,Casa Grande,AZ,False,attack,Not fleeing,False,-111.721,32.942,True,1,21 to 25
+2498,3173,3507,James Alfonso Vaughn,16/3/2018,shot,gun,49.0,M,Black,Clarksville,TN,False,attack,Not fleeing,False,-87.27,36.571,True,1,41 to 45
+2502,3180,3506,Stephon Clark,18/3/2018,shot,unarmed,23.0,M,Black,Sacramento,CA,False,other,Foot,True,-121.475,38.487,True,1,16 to 20
+2506,3185,3515,Jermaine Massey,19/3/2018,shot and Tasered,knife,35.0,M,Black,Greenville,SC,False,other,Not fleeing,True,-82.411,34.87,True,1,31 to 35
+2515,3196,3529,Danny Thomas,22/3/2018,shot,unarmed,35.0,M,Black,Greenspoint,TX,True,attack,Not fleeing,False,-95.4,29.951,True,1,31 to 35
+2533,3222,3556,Rodney Toler,29/3/2018,shot,gun,39.0,M,Black,Charleston,WV,True,attack,Car,False,-81.657,38.367,True,1,31 to 35
+2536,3225,3560,Edward Van McCrae,30/3/2018,shot,gun,60.0,M,Black,Winston-Salem,NC,False,other,Not fleeing,False,-80.217,36.118,True,1,56 to 60
+2540,3230,3562,Bobby Hinton,1/4/2018,shot,gun,60.0,M,Black,New Llano,LA,False,attack,Not fleeing,False,-93.283,31.114,True,1,56 to 60
+2542,3232,3564,Timothy Wyatt,1/4/2018,shot,gun,41.0,M,Black,Tampa,FL,False,attack,Car,False,-82.443,27.976,True,1,36 to 40
+2543,3233,3565,Brian Bellamy,1/4/2018,shot,knife,41.0,M,Black,Greenville,NC,False,other,Not fleeing,False,-77.432,35.554,True,1,36 to 40
+2544,3234,3566,Christopher Hall,1/4/2018,shot,gun,34.0,M,Black,Jackson,MI,True,attack,Not fleeing,False,-84.405,42.24,True,1,26 to 30
+2547,3239,3574,Deshawn Antonio Carswell,4/4/2018,shot,knife,27.0,M,Black,Okmulgee,OK,True,other,Not fleeing,False,-95.973,35.625,True,1,21 to 25
+2553,3247,3583,Terrance Eppenger,5/4/2018,shot,knife,27.0,M,Black,South Bend,IN,False,other,Not fleeing,False,-86.279,41.672,True,1,21 to 25
+2554,3248,3586,Diante Yarber,5/4/2018,shot,vehicle,26.0,M,Black,Barstow,CA,False,attack,Not fleeing,False,-116.994,34.885,True,1,21 to 25
+2565,3260,3594,Juan Markee Jones,8/4/2018,shot,unarmed,25.0,M,Black,Danville,VA,False,other,Other,True,-79.384,36.617,True,1,21 to 25
+2571,3269,3602,Grechario Mack,10/4/2018,shot,knife,30.0,M,Black,Baldwin Hills,CA,True,other,Foot,False,-118.339,34.01,True,1,26 to 30
+2573,3272,3606,Kenneth Ross,11/4/2018,shot,gun,25.0,M,Black,Gardena,CA,False,attack,Not fleeing,False,-118.318,33.916,True,1,21 to 25
+2578,3278,3610,Rumondale Jones,12/4/2018,shot,knife,39.0,M,Black,Helena-West Helena,AR,False,attack,Not fleeing,False,-90.636,34.545,True,1,31 to 35
+2579,3279,3611,Steven Brooks,12/4/2018,shot,gun,45.0,M,Black,Washington,PA,False,attack,Other,False,-80.197,40.163,True,1,41 to 45
+2583,3284,3618,Andre Lavance Rippy,14/4/2018,shot,gun,39.0,M,Black,Phoenix,AZ,False,attack,Other,False,-112.089,33.48,True,1,31 to 35
+2591,3295,3628,Dytadious Mobley,18/4/2018,shot,gun,31.0,M,Black,Fort Lauderdale,FL,False,attack,Not fleeing,False,-80.154,26.136,True,1,26 to 30
+2593,3297,3630,David Teneyuque,18/4/2018,shot,gun,48.0,M,Black,Pavilion Township,MI,False,attack,Not fleeing,False,-85.49600000000002,42.245,True,1,41 to 45
+2595,3299,3636,James Bauduy,20/4/2018,shot,unarmed,48.0,M,Black,Orlando,FL,False,other,Not fleeing,False,-81.38,28.616,True,1,41 to 45
+2597,3302,3633,Terrence Carlton,21/4/2018,shot,gun,25.0,M,Black,Memphis,TN,False,other,Foot,False,-89.86399999999998,35.177,True,1,21 to 25
+2602,3310,3643,Isaac Jackson,25/4/2018,shot,knife,42.0,M,Black,Louisville,KY,False,attack,Not fleeing,False,-85.816,38.269,True,1,36 to 40
+2604,3313,4265,Carlos Deone High,25/4/2018,shot,gun,37.0,M,Black,Grand Prairie,TX,False,attack,Not fleeing,False,-97.037,32.691,True,1,31 to 35
+2606,3317,3649,Shukri Ali Said,28/4/2018,shot,knife,36.0,F,Black,Johns Creek,GA,True,other,Not fleeing,False,-84.176,34.048,True,1,31 to 35
+2613,3325,4268,Abadi Gebregziber,30/4/2018,shot,knife,64.0,M,Black,Columbus,OH,False,other,Not fleeing,False,-82.963,40.05,True,1,56 to 60
+2615,3333,3662,Timothy Raye Mayfield,2/5/2018,shot,gun,67.0,M,Black,Dallas,TX,False,attack,Not fleeing,False,-96.679,32.806999999999995,True,1,61 to 65
+2616,3334,3663,Damion Collier,2/5/2018,shot,gun,24.0,M,Black,Columbus,GA,False,attack,Car,False,-84.98,32.496,True,1,16 to 20
+2624,3345,3669,Terence Leslie,6/5/2018,shot,Taser,32.0,M,Black,East Point,GA,False,attack,Car,False,-84.485,33.652,True,1,26 to 30
+2634,3357,3682,Elliott Reed,9/5/2018,shot,gun,33.0,M,Black,Jackson,MS,False,attack,Not fleeing,False,-90.244,32.254,True,1,26 to 30
+2642,3367,3686,Willie Rogers Marable,13/5/2018,shot,unknown weapon,28.0,M,Black,Portsmouth,VA,False,other,Not fleeing,False,-76.367,36.815,True,1,21 to 25
+2644,3371,3685,Anthony Trice,14/5/2018,shot,gun,24.0,M,Black,Clinton,MD,False,attack,Not fleeing,False,-76.882,38.769,True,1,16 to 20
+2649,3376,3696,Marcus-David L. Peters,14/5/2018,shot and Tasered,unarmed,24.0,M,Black,Richmond,VA,False,attack,Car,True,-77.442,37.553,True,1,16 to 20
+2669,3407,3734,Juvan Simon,30/5/2018,shot,gun,23.0,M,Black,Florida City,FL,False,undetermined,Not fleeing,False,-80.48,25.461,True,1,16 to 20
+2671,3409,3726,Jerick Rasheem Gray,31/5/2018,shot,knife,42.0,M,Black,Thomasville,NC,False,attack,Car,False,-80.07600000000002,35.908,True,1,36 to 40
+2682,3426,3850,Raymon Truitt,7/6/2018,shot,gun,28.0,M,Black,Gary,IN,False,attack,Not fleeing,False,-87.346,41.593,True,1,21 to 25
+2686,3430,3760,LaShanda Anderson,9/6/2018,shot,vehicle,36.0,F,Black,Deptford,NJ,False,other,Car,False,-75.097,39.838,True,1,31 to 35
+2689,3433,3763,Robert Lawrence White,11/6/2018,shot,unarmed,41.0,M,Black,Silver Spring,MD,True,attack,Not fleeing,True,-77.014,39.005,True,1,36 to 40
+2691,3435,3764,DeNathe M. Guilliford,12/6/2018,shot,gun,34.0,M,Black,Danville,IL,False,attack,Car,False,-87.64200000000002,40.142,True,1,26 to 30
+2693,3437,3767,Marqueese Alston,12/6/2018,shot,gun,22.0,M,Black,Washington,DC,False,attack,Not fleeing,False,-77.006,38.877,True,1,16 to 20
+2698,3446,3776,Timothy Mosley,14/6/2018,shot,gun,33.0,M,Black,Kansas City,MO,False,attack,Not fleeing,False,-94.586,39.1,True,1,26 to 30
+2702,3452,3782,Dwayne Clyburn,16/6/2018,shot,knife,37.0,M,Black,Warwick,NY,False,other,Not fleeing,False,-74.36,41.25899999999999,True,1,31 to 35
+2704,3456,3785,Tahaji Wells,17/6/2018,shot,gun,33.0,M,Black,Trenton,NJ,False,attack,Not fleeing,False,-74.753,40.209,True,1,26 to 30
+2707,3459,3788,Jonathan Buckley,19/6/2018,shot,gun,20.0,M,Black,Stone Mountain,GA,False,attack,Not fleeing,False,-84.196,33.754,True,1,16 to 20
+2708,3460,3789,Antwon Rose,19/6/2018,shot,unarmed,17.0,M,Black,Pittsburgh,PA,False,undetermined,Foot,False,-79.839,40.397,True,1,11 to 15
+2710,3462,3792,Anthony Marcell Green,20/6/2018,shot,unarmed,33.0,M,Black,Kingsland,GA,False,attack,Foot,True,-81.653,30.789,True,1,26 to 30
+2712,3466,3842,Timothy Deal,22/6/2018,shot,knife,32.0,M,Black,Atlantic City,NJ,False,attack,Not fleeing,True,-74.435,39.368,True,1,26 to 30
+2715,3470,3796,Thurman Blevins,23/6/2018,shot,gun,30.0,M,Black,Minneapolis,MN,False,attack,Foot,True,-93.289,45.042,True,1,26 to 30
+2716,3471,3797,Detandel Pickens Devon,23/6/2018,shot,knife,25.0,M,Black,Monroe,LA,False,attack,Not fleeing,False,-92.097,32.492,True,1,21 to 25
+2724,3485,3813,Rodney Lee Hunter,29/6/2018,shot,unknown weapon,27.0,M,Black,Pomona,CA,False,undetermined,Car,False,-117.812,34.046,True,1,21 to 25
+2725,3487,3818,Chukwumankpam Mbegbu,29/6/2018,shot,gun,19.0,M,Black,Phoenix,AZ,False,attack,Not fleeing,False,-112.145,33.514,True,1,11 to 15
+2732,3496,3930,Lemuel Bunn,3/7/2018,shot,knife,40.0,M,Black,Fayetteville,NC,False,attack,Not fleeing,False,-78.971,35.045,True,1,36 to 40
+2733,3497,3970,Terrell Eason,3/7/2018,shot,gun,33.0,M,Black,Chicago,IL,False,other,Foot,True,-87.743,41.886,True,1,26 to 30
+2741,3507,3828,Charles Webb,6/7/2018,shot,gun,43.0,M,Black,Overland Park,KS,False,attack,Not fleeing,False,-94.696,38.986,True,1,36 to 40
+2753,3524,3857,Harith Augustus,14/7/2018,shot,gun,37.0,M,Black,Chicago,IL,False,other,Foot,True,-87.57600000000002,41.76600000000001,True,1,31 to 35
+2754,3525,3858,Jethro Benjamin,14/7/2018,shot,gun,68.0,M,Black,Florence,SC,False,attack,Not fleeing,False,-79.835,34.187,True,1,61 to 65
+2780,3556,3886,Devaughdre Delsha Rogers,24/7/2018,shot,gun,19.0,M,Black,Starke,FL,False,other,Car,False,-82.109,29.951,True,1,11 to 15
+2783,3559,3893,DMario Perkins,25/7/2018,shot,gun,29.0,M,Black,Memphis,TN,True,attack,Not fleeing,True,-90.06,35.055,True,1,21 to 25
+2785,3563,3888,Daniel Hambrick,26/7/2018,shot,gun,25.0,M,Black,Nashville,TN,False,other,Foot,True,-86.8,36.161,True,1,21 to 25
+2792,3572,3896,Lamar C. Richardson,28/7/2018,shot,gun,25.0,M,Black,Toledo,OH,False,other,Foot,True,-83.542,41.683,True,1,21 to 25
+2797,3580,3907,David Edward Hall,1/8/2018,shot,gun,27.0,M,Black,Oxon Hill,MD,False,other,Foot,False,-76.99,38.803,True,1,21 to 25
+2800,3583,3911,Tramaine Marquese Poole,1/8/2018,shot,gun,41.0,M,Black,Sussex County,VA,False,attack,Car,False,-77.459,37.918,True,1,36 to 40
+2802,3586,3919,Danny Lee,3/8/2018,shot,gun,34.0,M,Black,Pine Bluff,AR,False,attack,Not fleeing,False,-92.031,34.246,True,1,26 to 30
+2809,3596,3912,Spurgeon Daniels,6/8/2018,shot,knife,62.0,M,Black,Las Vegas,NV,True,attack,Not fleeing,True,-115.17,36.183,True,1,56 to 60
+2810,3598,3928,Ricardo Giddings,6/8/2018,shot,gun,59.0,M,Black,Philadelphia,PA,False,attack,Not fleeing,False,-75.164,40.025,True,1,51 to 55
+2815,3606,3940,Stephen L. Caldwell,8/8/2018,shot,knife,54.0,M,Black,Omaha,NE,False,attack,Not fleeing,False,-95.94,41.272,True,1,46 to 50
+2816,3607,3935,Charles Meadows,9/8/2018,shot,gun,48.0,M,Black,Philadelphia,PA,False,attack,Foot,False,-75.179,39.927,True,1,41 to 45
+2818,3609,3950,Gregory Campfield,9/8/2018,shot,gun,40.0,M,Black,Landover,MD,False,other,Foot,False,-76.87100000000002,38.913,True,1,36 to 40
+2819,3610,3951,Montae Shackleford,9/8/2018,shot,gun,28.0,M,Black,Columbus,OH,False,attack,Foot,False,-82.999,40.065,True,1,21 to 25
+2822,3615,3956,Anthony Makai Hutchinson,12/8/2018,shot,gun,40.0,M,Black,Waynesboro,VA,False,attack,Car,False,-78.889,38.06800000000001,True,1,36 to 40
+2823,3616,3953,Christopher Anthony Stone,13/8/2018,shot,gun,32.0,M,Black,Oklahoma City,OK,False,attack,Foot,False,-97.601,35.435,True,1,26 to 30
+2824,3617,3964,Mario Hobson,13/8/2018,shot,gun,48.0,M,Black,Milwaukee,WI,True,other,Not fleeing,True,-87.92399999999998,43.021,True,1,41 to 45
+2827,3622,3974,Adrian Herron,16/8/2018,shot,knife,30.0,M,Black,Wasilla,AK,False,attack,Not fleeing,False,-149.439,61.581,True,1,26 to 30
+2831,3627,3978,Christopher Alexander Okamoto,19/8/2018,shot,toy weapon,21.0,M,Black,Bakersfield,CA,False,other,Not fleeing,False,-119.053,35.329,True,1,16 to 20
+2832,3629,3981,Jeremiah Perdue,19/8/2018,shot,gun,33.0,M,Black,Atlanta,GA,False,attack,Not fleeing,False,-84.40799999999999,33.727,True,1,26 to 30
+2833,3631,3985,Jeffrey Dennis,20/8/2018,shot,vehicle,36.0,M,Black,Philadelphia,PA,False,attack,Car,False,-75.041,40.032,True,1,31 to 35
+2836,3636,3989,James Clay,24/8/2018,shot,toy weapon,20.0,M,Black,Cincinnati,OH,False,attack,Not fleeing,True,-84.484,39.127,True,1,16 to 20
+2846,3648,4001,Jalon Johnson,29/8/2018,shot,vehicle,17.0,M,Black,Houston,TX,False,attack,Car,False,-95.271,29.784,True,1,11 to 15
+2852,3654,4011,Oshae Terry,1/9/2018,shot,vehicle,24.0,M,Black,Arlington,TX,False,attack,Car,False,-97.149,32.7,True,1,16 to 20
+2854,3657,4009,Aaron Demonta Fleming,3/9/2018,shot,gun,21.0,M,Black,Covington,GA,False,attack,Foot,False,-83.833,33.613,True,1,16 to 20
+2856,3659,4013,James Leatherwood,5/9/2018,shot,unarmed,23.0,M,Black,Hollywood,FL,False,undetermined,Not fleeing,False,-80.20100000000002,25.998,True,1,16 to 20
+2859,3662,4017,Darell Richards,6/9/2018,shot,toy weapon,19.0,M,Black,Sacramento,CA,False,attack,Foot,False,-121.492,38.562,True,1,11 to 15
+2862,3671,4029,Thomas Watkins,12/9/2018,shot,gun,38.0,M,Black,Gary,IN,False,attack,Not fleeing,False,-87.288,41.599,True,1,31 to 35
+2863,3673,4030,Detric Driver,14/9/2018,shot,gun,46.0,M,Black,Detroit,MI,False,attack,Not fleeing,True,-83.236,42.362,True,1,41 to 45
+2870,3681,4043,Jerry Foster,16/9/2018,shot,gun,31.0,M,Black,Shreveport,LA,False,attack,Not fleeing,False,-93.793,32.485,True,1,26 to 30
+2879,3690,4053,Nathaniel Sassafras,23/9/2018,shot,gun,29.0,M,Black,Baltimore,MD,False,attack,Not fleeing,True,-76.63,39.291,True,1,21 to 25
+2882,3695,4055,Dravious Burch,25/9/2018,shot,gun,34.0,M,Black,Orlando,FL,False,other,Not fleeing,False,-81.41199999999998,28.493,True,1,26 to 30
+2884,3697,4065,Paul Braswell,26/9/2018,shot,vehicle,29.0,M,Black,Newark,NJ,False,attack,Car,False,-74.209,40.707,True,1,21 to 25
+2887,3701,4069,Datwan Keyo Lewis,27/9/2018,shot,gun,41.0,M,Black,Palatka,FL,False,other,Not fleeing,False,-81.67,29.648000000000003,True,1,36 to 40
+2896,3712,4074,LaJuana Philips,2/10/2018,shot,vehicle,36.0,F,Black,Victorville,CA,False,attack,Not fleeing,False,-117.307,34.522,True,1,31 to 35
+2897,3713,4071,Toby Bailey,3/10/2018,shot,gun,38.0,M,Black,Bartlett,TN,True,attack,Not fleeing,False,-89.887,35.206,True,1,31 to 35
+2898,3717,4156,Sershawn Martez Dillon,5/10/2018,shot,gun,31.0,M,Black,Nashville,TN,False,attack,Not fleeing,False,-86.823,36.199,True,1,26 to 30
+2907,3729,4086,Terrell Blake,10/10/2018,shot,gun,39.0,M,Black,Rochester,NY,False,attack,Car,False,-77.58,43.173,True,1,31 to 35
+2910,3733,4125,Alonzo L. Smith,10/10/2018,shot,gun,31.0,M,Black,Milwaukee,WI,False,attack,Not fleeing,True,-88.038,43.13399999999999,True,1,26 to 30
+2911,3737,4098,Samuel Morris,12/10/2018,shot,knife,27.0,M,Black,Fort Smith,AR,False,other,Not fleeing,False,-94.374,35.407,True,1,21 to 25
+2916,3743,4101,Eric Jamar Lupain Stromer,14/10/2018,shot,gun,22.0,M,Black,Jeffersonville,OH,False,attack,Not fleeing,False,-83.542,39.652,True,1,16 to 20
+2919,3748,4105,Keyshon Parham,17/10/2018,shot,gun,19.0,M,Black,Memphis,TN,False,attack,Foot,False,-89.884,35.078,True,1,11 to 15
+2920,3749,4106,Charles Roundtree,17/10/2018,shot,unarmed,18.0,M,Black,San Antonio,TX,False,other,Not fleeing,False,-98.528,29.44,True,1,11 to 15
+2924,3755,4117,Jacob Servais,18/10/2018,shot,unarmed,19.0,M,Black,Vineland,NJ,False,other,Not fleeing,False,-75.044,39.451,True,1,11 to 15
+2925,3756,4161,Mahlon Edward Summerour,18/10/2018,shot,toy weapon,63.0,M,Black,Monroe,GA,True,attack,Not fleeing,False,-83.711,33.804,True,1,56 to 60
+2926,3757,4116,"Neico Crooks, Jr",19/10/2018,shot,vehicle,21.0,M,Black,Miami,FL,False,attack,Car,False,-80.203,25.948,True,1,16 to 20
+2937,3774,4140,Christopher Carroll,27/10/2018,shot,gun,30.0,M,Black,Houston,TX,True,attack,Not fleeing,False,-95.177,30.055,True,1,26 to 30
+2938,3775,4134,Albert Ramon Dorsey,29/10/2018,shot,Taser,30.0,M,Black,Hollywood,CA,False,other,Not fleeing,True,-118.327,34.098,True,1,26 to 30
+2939,3778,4138,Derrick Alexander Sellman,29/10/2018,shot,vehicle,28.0,M,Black,Parkville,MD,False,attack,Car,False,-76.565,39.37300000000001,True,1,21 to 25
+2942,3781,4144,Tony Bernard Smith,31/10/2018,shot,gun,24.0,M,Black,Jacksonville,FL,False,other,Foot,False,-81.686,30.372,True,1,16 to 20
+2945,3784,4158,Jesse J. Quinton,2/11/2018,shot,unarmed,35.0,M,Black,Idaho Falls,ID,False,attack,Foot,False,-112.032,43.49800000000001,True,1,31 to 35
+2947,3787,4150,Laudemer Arboleda,3/11/2018,shot,vehicle,33.0,M,Black,Danville,CA,True,other,Not fleeing,True,-121.999,37.823,True,1,26 to 30
+2948,3789,4148,Theoddeus Gray,4/11/2018,shot,gun,29.0,M,Black,St. Clair Shores,MI,False,attack,Foot,False,-82.898,42.496,True,1,21 to 25
+2955,3801,4168,Travis Jordan,9/11/2018,shot,unknown weapon,36.0,M,Black,Minneapolis,MN,True,undetermined,Not fleeing,True,-93.304,45.022,True,1,31 to 35
+2958,3805,4167,Patrick Bryant,10/11/2018,shot,gun,41.0,M,Black,Clarksdale,MS,False,attack,Not fleeing,False,-90.572,34.207,True,1,36 to 40
+2960,3807,4172,Jemel Roberson,11/11/2018,shot,gun,26.0,M,Black,Robbins,IL,False,other,Not fleeing,False,-87.69200000000002,41.649,True,1,21 to 25
+2965,3815,4175,Timothy Leon,13/11/2018,shot,unknown weapon,24.0,M,Black,Phoenix,AZ,False,attack,Car,False,-112.203,33.524,True,1,16 to 20
+2967,3817,4174,Olajuwon Murphy,14/11/2018,shot,gun,22.0,M,Black,Wythe County,VA,False,attack,Not fleeing,False,-80.949,36.95,True,1,16 to 20
+2969,3821,4186,Allen Fanning,15/11/2018,shot,gun,18.0,M,Black,Centennial,CO,False,other,Not fleeing,False,-104.876,39.595,True,1,11 to 15
+2970,3823,4189,"Jack Fields, Jr.",15/11/2018,shot,knife,25.0,M,Black,Augusta,GA,True,attack,Not fleeing,False,-82.083,33.48,True,1,21 to 25
+2972,3828,4185,Rio Antwuan Thomas,17/11/2018,shot,vehicle,27.0,M,Black,Fort Pierce,FL,False,attack,Car,False,-80.39699999999998,27.417,True,1,21 to 25
+2975,3833,4237,Roderick McDaniel,20/11/2018,shot,vehicle,33.0,M,Black,Magnolia,AR,False,attack,Not fleeing,False,-93.232,33.257,True,1,26 to 30
+2979,3840,4199,Emantic Fitzgerald Bradford,22/11/2018,shot,gun,21.0,M,Black,Hoover,AL,False,other,Not fleeing,False,-86.811,33.376999999999995,True,1,16 to 20
+2981,3844,4225,Martez Webb,23/11/2018,shot,gun,23.0,M,Black,Detroit,MI,False,attack,Not fleeing,False,-83.124,42.337,True,1,16 to 20
+2984,3849,4210,Jarmane Logan,27/11/2018,shot,vehicle,35.0,M,Black,Topeka,KS,False,attack,Car,False,-95.661,39.072,True,1,31 to 35
+2992,3867,4279,Anthony M. Edwards,5/12/2018,shot,knife,33.0,M,Black,Richmond,VA,False,attack,Not fleeing,False,-77.46600000000002,37.548,True,1,26 to 30
+2993,3868,4275,Dimaggio McNelly,6/12/2018,shot,gun,53.0,M,Black,Henry County,GA,True,attack,Not fleeing,False,-84.17,33.456,True,1,46 to 50
+2997,3872,4315,Julius Ervin Tate,7/12/2018,shot,gun,16.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,-82.96700000000001,39.973,True,1,11 to 15
+2999,3874,4282,Joshua Boyd,9/12/2018,shot,gun,24.0,M,Black,Savannah,GA,False,attack,Not fleeing,False,-81.2,32.04,True,1,16 to 20
+3000,3875,4283,Christopher Deandre Mitchell,9/12/2018,shot,gun,23.0,M,Black,Torrance,CA,False,undetermined,Not fleeing,False,-118.311,33.83,True,1,16 to 20
+3008,3883,4293,Marcus Neal,11/12/2018,shot,knife,47.0,M,Black,Buffalo,NY,True,attack,Foot,False,-78.891,42.94600000000001,True,1,41 to 45
+3009,3885,4296,Tameka LaShay Simpson,11/12/2018,shot,gun,27.0,F,Black,Calhoun,GA,False,attack,Not fleeing,False,-84.95100000000002,34.499,True,1,21 to 25
+3010,3886,4297,Demario Bass,12/12/2018,shot,vehicle,29.0,M,Black,St. Louis,MO,False,attack,Car,False,-90.263,38.702,True,1,21 to 25
+3015,3891,4317,Andre Horton,13/12/2018,shot,gun,42.0,M,Black,Memphis,TN,True,attack,Not fleeing,False,-89.93,35.203,True,1,36 to 40
+3018,3898,4321,April Webster,16/12/2018,shot,knife,47.0,F,Black,Darlington County,SC,True,other,Not fleeing,False,-79.891,34.321,True,1,41 to 45
+3019,3901,4302,Angel Viola Decarlo,18/12/2018,shot,gun,31.0,F,Black,Hopewell,VA,False,attack,Foot,False,-77.293,37.295,True,1,26 to 30
+3020,3903,4312,Danny Washington,18/12/2018,shot,unarmed,27.0,M,Black,Franklin Township,PA,False,attack,Car,False,-75.653,40.838,True,1,21 to 25
+3027,3916,4322,Michael Jerome Taylor,26/12/2018,shot,vehicle,17.0,M,Black,Lakeland,FL,False,attack,Car,False,-81.95,28.039,True,1,11 to 15
+3029,3918,4328,Wayne Falana,26/12/2018,shot,gun,35.0,M,Black,Clearwater,FL,True,attack,Not fleeing,False,-82.779,27.965,True,1,31 to 35
+3031,3921,4338,Shane Lyons,28/12/2018,shot,machete,35.0,M,Black,Port Arthur,TX,False,other,Not fleeing,False,-93.957,29.875,True,1,31 to 35
+3040,3932,4504,Brandon Lovell Webster,1/1/2019,shot,vehicle,28.0,M,Black,Shallotte,NC,False,other,Car,False,-78.368,33.979,True,1,21 to 25
+3041,3933,4342,Matthew Burroughs,2/1/2019,shot,vehicle,35.0,M,Black,Niles,OH,False,attack,Foot,False,-80.75399999999998,41.18899999999999,True,1,31 to 35
+3042,3934,4343,Abdoulaye Thiam,2/1/2019,shot,knife,20.0,M,Black,Whitehaven,TN,False,other,Not fleeing,True,-90.02,35.047,True,1,16 to 20
+3046,3940,4350,Jae Wesley Hardy,3/1/2019,shot,gun,27.0,M,Black,Millbrook,AL,False,other,Car,False,-86.39200000000002,32.466,True,1,21 to 25
+3048,3942,4367,Zonell Williams,4/1/2019,shot,gun,33.0,M,Black,Treme,LA,True,attack,Not fleeing,True,-90.079,29.968000000000004,True,1,26 to 30
+3051,3945,4508,Lawrence Thompson III,4/1/2019,shot,gun,32.0,M,Black,Houston,TX,True,attack,Not fleeing,False,-95.4,29.827,True,1,26 to 30
+3055,3954,4353,Andre C. Gladen,6/1/2019,shot and Tasered,knife,36.0,M,Black,Portland,OR,True,other,Not fleeing,False,-122.564,45.511,True,1,31 to 35
+3059,3961,4368,Johnny Lee Burney,10/1/2019,shot,gun,70.0,M,Black,Eclectic,AL,False,other,Not fleeing,False,-86.1,32.677,True,1,66 to 70
+3060,3963,4366,Juston Landry,11/1/2019,shot,gun,26.0,M,Black,Lake Charles,LA,False,other,Other,False,-93.183,30.274,True,1,21 to 25
+3061,3964,4379,Treshun Symone Miller,11/1/2019,shot,gun,20.0,M,Black,Arlington,TX,False,attack,Foot,False,-97.132,32.75,True,1,16 to 20
+3063,3966,4390,Jacob Michael Harris,11/1/2019,shot,gun,19.0,M,Black,Phoenix,AZ,False,other,Not fleeing,False,-112.255,33.509,True,1,11 to 15
+3067,3974,4370,Jahmal Derrick Stewart,14/1/2019,shot,gun,45.0,M,Black,Linda,CA,False,attack,Not fleeing,False,-121.554,39.128,True,1,41 to 45
+3069,3978,4517,Nathaniel Holland,14/1/2019,shot,knife,38.0,M,Black,Vacaville,CA,False,attack,Foot,False,-121.98,38.354,True,1,31 to 35
+3071,3980,4519,William Owens,14/1/2019,shot,gun,39.0,M,Black,Logan Township,NJ,False,attack,Not fleeing,False,-75.377,39.779,True,1,31 to 35
+3073,3984,4402,D'ettrick Griffin,15/1/2019,shot,vehicle,18.0,M,Black,Atlanta,GA,False,other,Car,False,-84.404,33.744,True,1,11 to 15
+3074,3985,4516,Quency Chavez Floyd,15/1/2019,shot,gun,22.0,M,Black,St. Louis,MO,False,attack,Foot,False,-90.261,38.679,True,1,16 to 20
+3078,3991,4502,Mikyas Mehary Tegegne,16/1/2019,shot,gun,31.0,M,Black,Silver Spring,MD,False,other,Foot,False,-77.031,38.995,True,1,26 to 30
+3085,3998,4395,Jimmy Atchison,22/1/2019,shot,unarmed,21.0,M,Black,Atlanta,GA,False,undetermined,Foot,False,-84.491,33.751999999999995,True,1,16 to 20
+3096,4013,4422,Gregory Griffin,28/1/2019,shot,gun,46.0,M,Black,Newark,NJ,False,other,Car,True,-74.189,40.732,True,1,41 to 45
+3098,4015,4426,Nekiylo Dawayne Graves,28/1/2019,shot,unknown weapon,27.0,M,Black,Mercury,NV,False,other,Car,False,-116.046,37.177,True,1,21 to 25
+3107,4026,4438,Johnny Weeks,2/2/2019,shot,gun,68.0,M,Black,Buford,GA,False,attack,Not fleeing,False,-84.02799999999998,34.081,True,1,61 to 65
+3108,4027,4481,Isaiah Thomas,2/2/2019,shot,knife,40.0,M,Black,Stockton,CA,False,attack,Not fleeing,False,-121.354,38.01300000000001,True,1,36 to 40
+3112,4031,4437,Corey Johnson,4/2/2019,shot,gun,44.0,M,Black,Farmville,VA,False,attack,Not fleeing,False,-78.385,37.32,True,1,36 to 40
+3113,4032,4436,Anthony Dewayne Childs,5/2/2019,shot,gun,31.0,M,Black,Shreveport,LA,True,attack,Foot,False,-93.81,32.456,True,1,26 to 30
+3114,4035,4482,Allon Jones,6/2/2019,shot,gun,43.0,M,Black,Walter Hill,TN,True,attack,Not fleeing,False,-86.382,36.008,True,1,36 to 40
+3122,4046,4441,Willie Bo McCoy,9/2/2019,shot,gun,21.0,M,Black,Vallejo,CA,False,other,Not fleeing,True,-122.222,38.134,True,1,16 to 20
+3127,4051,4445,Willie Jermaine Robinson,10/2/2019,shot,gun,34.0,M,Black,Greenville County,SC,True,attack,Not fleeing,True,-82.41799999999998,34.803000000000004,True,1,26 to 30
+3128,4053,4457,Ty'rell Pounds,11/2/2019,shot,gun,24.0,M,Black,Crestwood,KY,False,attack,Car,False,-85.49,38.348,True,1,16 to 20
+3130,4055,4458,Alex Johnson,12/2/2019,shot,knife,58.0,M,Black,Defiance,OH,False,other,Not fleeing,False,-84.35,41.276,True,1,51 to 55
+3131,4056,4459,Christopher Brimsey,12/2/2019,shot,gun,20.0,M,Black,Cinco Ranch,TX,False,attack,Car,False,-95.756,29.734,True,1,16 to 20
+3132,4057,4460,Patrick Reed,12/2/2019,shot,gun,19.0,M,Black,Cinco Ranch,TX,False,attack,Car,False,-95.756,29.734,True,1,11 to 15
+3138,4064,4476,Gary Marin,15/2/2019,shot,gun,45.0,M,Black,Aurora,IL,False,attack,Not fleeing,False,-88.331,41.753,True,1,41 to 45
+3139,4065,4470,Michael Elam,16/2/2019,shot,gun,17.0,M,Black,Chicago,IL,False,other,Car,False,-87.626,41.854,True,1,11 to 15
+3142,4069,4475,Reginald Romero Bursey,17/2/2019,shot,gun,32.0,M,Black,New Orleans,LA,False,attack,Not fleeing,False,-90.091,29.962,True,1,26 to 30
+3144,4071,4469,Pierre Woods,18/2/2019,shot,gun,31.0,M,Black,Pelehatchie,MS,True,attack,Not fleeing,False,-89.789,32.32,True,1,26 to 30
+3146,4073,4498,Emanuel David Joshua Oates,19/2/2019,shot,machete,24.0,M,Black,Baltimore,MD,False,other,Not fleeing,False,-76.779,39.362,True,1,16 to 20
+3147,4074,4474,Kyron Marcell Sands,20/2/2019,shot,gun,39.0,M,Black,Norwich,CT,True,attack,Car,False,-72.195,41.705,True,1,31 to 35
+3149,4076,4471,Bradley Blackshire,22/2/2019,shot,vehicle,30.0,M,Black,Little Rock,AR,False,attack,Car,True,-92.356,34.742,True,1,26 to 30
+3152,4079,4493,Neico Crooks,22/2/2019,shot,vehicle,21.0,M,Black,Miami Gardens,FL,False,attack,Car,False,-80.204,25.948,True,1,16 to 20
+3164,4092,4495,James Scott Reed,27/2/2019,shot,gun,40.0,M,Black,Killeen,TX,False,attack,Not fleeing,False,-97.74,31.114,True,1,36 to 40
+3172,4105,4526,Luke Anthony Swann,4/3/2019,shot,gun,36.0,M,Black,Des Moines,IA,False,attack,Foot,False,-93.602,41.565,True,1,31 to 35
+3175,4109,4547,Shamikle Jackson,4/3/2019,shot,machete,22.0,M,Black,Aurora,CO,False,other,Not fleeing,True,-104.876,39.749,True,1,16 to 20
+3178,4115,4537,Antonio Joseph Valentine,5/3/2019,shot and Tasered,gun,32.0,M,Black,Jacksonville,FL,False,other,Not fleeing,False,-81.579,30.313,True,1,26 to 30
+3179,4116,4678,Donqaule Maurice Gray,6/3/2019,shot,gun,25.0,M,Black,Morgantown,WV,False,attack,Foot,False,-79.95100000000002,39.63800000000001,True,1,21 to 25
+3185,4126,4677,Rodney Lassiter,9/3/2019,shot,gun,30.0,M,Black,Monahans,TX,True,attack,Not fleeing,False,-102.893,31.6,True,1,26 to 30
+3192,4133,4561,Latasha Nicole Walton,12/3/2019,shot,vehicle,32.0,F,Black,Miami,FL,False,other,Not fleeing,False,-80.21300000000002,25.921,True,1,26 to 30
+3195,4137,4566,Nina Adams,13/3/2019,shot,gun,47.0,F,Black,Greensburg,PA,True,attack,Not fleeing,False,-79.536,40.325,True,1,41 to 45
+3203,4151,4586,Thomas Johnson,19/3/2019,shot,gun,22.0,M,Black,Bastrop,LA,False,undetermined,Foot,False,-91.937,32.782,True,1,16 to 20
+3206,4155,4581,Osaze Osagie,20/3/2019,shot,knife,29.0,M,Black,State College,PA,True,attack,Not fleeing,False,-77.848,40.786,True,1,21 to 25
+3209,4159,4585,Daishawn Brown,21/3/2019,shot,gun,19.0,M,Black,Modesto,CA,False,undetermined,Car,False,-121.022,37.664,True,1,11 to 15
+3211,4161,4595,Derek Smith,22/3/2019,shot,knife,22.0,M,Black,Walterboro,SC,False,other,Not fleeing,False,-80.65100000000002,32.899,True,1,16 to 20
+3212,4162,4589,Kevin Bruce Mason,24/3/2019,shot,unarmed,57.0,M,Black,Baltimore,MD,False,other,Not fleeing,True,-76.669,39.349,True,1,51 to 55
+3214,4164,4587,Danquirs Napoleon Franklin,25/3/2019,shot,gun,27.0,M,Black,Charlotte,NC,True,other,Not fleeing,True,-80.872,35.33,True,1,21 to 25
+3216,4167,4657,Kaylon Robinson,25/3/2019,shot,gun,18.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.242,38.566,True,1,11 to 15
+3220,4172,4604,Chris Joseph,27/3/2019,shot,vehicle,38.0,M,Black,Terrytown,LA,False,attack,Not fleeing,False,-90.04,29.926,True,1,31 to 35
+3221,4173,4605,Daviri Robertson,27/3/2019,shot,vehicle,39.0,M,Black,Terrytown,LA,False,attack,Car,False,-90.04,29.926,True,1,31 to 35
+3222,4174,4671,Brian Leslie Statler,27/3/2019,shot,sword,30.0,M,Black,Inglewood,CA,False,other,Not fleeing,False,-118.352,33.96,True,1,26 to 30
+3225,4179,4669,Ondrae Levado Hutchinson,30/3/2019,shot and Tasered,gun,30.0,M,Black,Durham,NC,False,attack,Foot,True,-78.822,36.025,True,1,26 to 30
+3228,4182,4612,Oscar Cain,31/3/2019,shot,gun,31.0,M,Black,Atlanta,GA,False,other,Foot,False,-84.40700000000002,33.684,True,1,26 to 30
+3238,4197,4621,Anthony Orlando Bowers,7/4/2019,shot,gun,24.0,M,Black,Greeneville,TN,False,attack,Not fleeing,False,-82.81299999999997,36.169,True,1,16 to 20
+3239,4198,4622,Marzeus Scott,7/4/2019,shot,unarmed,35.0,M,Black,Blytheville,AR,True,attack,Foot,True,-89.916,35.89,True,1,31 to 35
+3241,4200,4631,Harold Vincent Robinson,8/4/2019,shot,gun,37.0,M,Black,Salt Lake City,UT,False,attack,Car,False,-111.887,40.7,True,1,31 to 35
+3244,4204,4645,Trivenskey O. Odom,10/4/2019,shot,gun,27.0,M,Black,Shreveport,LA,False,attack,Car,False,-93.797,32.475,True,1,21 to 25
+3248,4209,4662,Demetrious Brooks,11/4/2019,shot,gun,34.0,M,Black,St. Louis,MO,False,attack,Foot,False,-90.238,38.595,True,1,26 to 30
+3249,4210,4664,Marcus McVae,11/4/2019,shot,unarmed,34.0,M,Black,Boerne,TX,False,attack,Foot,False,-98.74,29.782,True,1,26 to 30
+3254,4217,4634,Kawaski Trawick,14/4/2019,shot,knife,32.0,M,Black,New York,NY,True,other,Not fleeing,True,-73.944,40.712,True,1,26 to 30
+3260,4226,4642,Akeen Brown,17/4/2019,shot,gun,34.0,M,Black,Flint,MI,False,attack,Not fleeing,False,-83.4,42.324,True,1,26 to 30
+3276,4251,4692,Isaiah Lewis,29/4/2019,shot and Tasered,unarmed,17.0,M,Black,Edmond,OK,False,attack,Foot,False,-97.51,35.65,True,1,11 to 15
+3288,4274,4702,Ryan Smith,9/5/2019,shot,knife,31.0,M,Black,Seattle,WA,True,attack,Not fleeing,True,-122.331,47.603,True,1,26 to 30
+3290,4276,4734,Derrec Jamal Shaw,10/5/2019,shot,gun,25.0,M,Black,Tulsa,OK,True,attack,Foot,True,-95.993,36.09,True,1,21 to 25
+3291,4277,4713,Sharell Brown,11/5/2019,shot,gun,26.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.71799999999998,41.862,True,1,21 to 25
+3293,4282,4718,Malik Ali Gresham,13/5/2019,shot,knife,36.0,M,Black,Gardena,CA,False,attack,Not fleeing,True,-118.305,33.902,True,1,31 to 35
+3294,4283,4719,Pamela Shantay Turner,13/5/2019,shot,Taser,45.0,F,Black,Baytown,TX,False,attack,Not fleeing,False,-94.98,29.745,True,1,41 to 45
+3297,4288,5418,Djuantez Anthony Mitchell,15/5/2019,shot,vehicle,30.0,M,Black,Louisville,KY,False,attack,Car,False,-85.58,38.188,True,1,26 to 30
+3300,4293,5007,Daniel Warren,17/5/2019,shot,gun,36.0,M,Black,Pasadena,CA,False,attack,Not fleeing,True,-118.155,34.172,True,1,31 to 35
+3307,4303,4726,Enosa Strickland,20/5/2019,shot,knife,26.0,M,Black,Auburn,WA,False,attack,Not fleeing,False,-122.214,47.243,True,1,21 to 25
+3318,4320,4745,Nakia Smith,27/5/2019,shot,gun,41.0,M,Black,Joliet,IL,False,attack,Not fleeing,False,-88.046,41.548,True,1,36 to 40
+3319,4321,4746,Curtis Stagger,28/5/2019,shot,gun,21.0,M,Black,Chicago,IL,False,other,Not fleeing,False,-87.575,41.74800000000001,True,1,16 to 20
+3321,4324,4756,Crystal Danielle Ragland,30/5/2019,shot,gun,32.0,F,Black,Huntsville,AL,True,attack,Not fleeing,False,-86.60799999999998,34.709,True,1,26 to 30
+3328,4331,4752,Marcus Boles,1/6/2019,shot,knife,35.0,M,Black,Shreveport,LA,False,attack,Not fleeing,False,-93.745,32.519,True,1,31 to 35
+3337,4344,4773,Ryan Twyman,6/6/2019,shot,unarmed,24.0,M,Black,Los Angeles,CA,False,other,Car,False,-118.27,33.913000000000004,True,1,16 to 20
+3338,4346,4775,Edtwon Stamps,6/6/2019,shot,gun,27.0,M,Black,Los Angeles,CA,False,other,Not fleeing,False,-118.2,33.931999999999995,True,1,21 to 25
+3340,4350,4830,Rodnell Cotton,6/6/2019,shot,gun,26.0,M,Black,St. Louis,MO,False,attack,Foot,False,-90.23,38.64,True,1,21 to 25
+3343,4353,4769,Bryan Bernard Wallace,8/6/2019,shot,gun,39.0,M,Black,Clearwater,FL,False,other,Not fleeing,False,-82.792,27.978,True,1,31 to 35
+3345,4355,4768,JaQuavion Slaton,9/6/2019,shot,gun,20.0,M,Black,Fort Worth,TX,False,other,Foot,False,-97.241,32.709,True,1,16 to 20
+3348,4361,4779,Brent Durbin-Daniel,10/6/2019,shot,gun,19.0,M,Black,Lawton,OK,True,other,Car,False,-98.469,34.621,True,1,11 to 15
+3349,4362,4777,Jaquan Derrick Diijon Thompson,11/6/2019,shot,knife,27.0,M,Black,Porteau,OK,False,attack,Not fleeing,False,-94.629,35.078,True,1,21 to 25
+3351,4367,4780,Brandon Webber,12/6/2019,shot,vehicle,20.0,M,Black,Memphis,TN,False,attack,Foot,False,-89.994,35.24,True,1,16 to 20
+3353,4369,4782,Marquis Weems,13/6/2019,shot,vehicle,17.0,M,Black,Rockville,MD,False,attack,Car,False,-77.107,39.053,True,1,11 to 15
+3354,4370,4784,Tramon Savage,13/6/2019,shot,vehicle,22.0,M,Black,Jacksonville,AR,False,attack,Car,False,-92.127,34.865,True,1,16 to 20
+3356,4374,4793,Ty'Rese West,15/6/2019,shot,unknown weapon,18.0,M,Black,Racine,WI,False,other,Other,False,-87.794,42.7,True,1,11 to 15
+3357,4375,4794,Jamarcus Dejun Moore,15/6/2019,shot,gun,28.0,M,Black,Birmingham,AL,False,attack,Car,False,-87.001,33.456,True,1,21 to 25
+3359,4378,4786,Eric Jack Logan,16/6/2019,shot,knife,53.0,M,Black,South Bend,IN,False,attack,Not fleeing,False,-86.256,41.676,True,1,46 to 50
+3365,4386,4799,DeWayne Watkins,18/6/2019,shot,toy weapon,74.0,M,Black,Syracuse,NY,False,attack,Not fleeing,False,-76.148,43.01600000000001,True,1,66 to 70
+3369,4393,4808,Jaymil Ellerbe,24/6/2019,shot,gun,19.0,M,Black,Boston,MA,False,attack,Car,True,-71.063,42.295,True,1,11 to 15
+3370,4394,4812,Bradley Rundle,24/6/2019,shot,gun,61.0,M,Black,Englewood,FL,False,attack,Not fleeing,False,-82.29799999999999,26.942,True,1,56 to 60
+3375,4401,4814,Marvin Green,27/6/2019,shot,gun,50.0,M,Black,Springfield,FL,False,attack,Not fleeing,False,-85.611,30.153,True,1,46 to 50
+3381,4408,4824,Gene Pool,28/6/2019,shot,gun,37.0,M,Black,Pueblo,CO,False,other,Car,False,-104.574,38.288,True,1,31 to 35
+3389,4418,4836,Ben Fields,1/7/2019,shot,knife,67.0,M,Black,Port St. Lucie,FL,False,other,Not fleeing,False,-80.402,27.25,True,1,61 to 65
+3391,4422,4841,Isaiah Robinson,2/7/2019,shot,gun,39.0,M,Black,Elyria,OH,False,attack,Car,False,-82.09700000000002,41.346,True,1,31 to 35
+3400,4435,4846,Kareem Omar Morgan,6/7/2019,shot,gun,43.0,M,Black,Rosedale,MD,False,attack,Other,False,-76.516,39.31800000000001,True,1,36 to 40
+3402,4437,4844,Tymar Crawford,7/7/2019,shot,gun,28.0,M,Black,Pensacola,FL,False,attack,Car,False,-87.228,30.424,True,1,21 to 25
+3406,4442,4860,Sean Rambert,9/7/2019,shot,gun,23.0,M,Black,Greenville,NC,False,attack,Not fleeing,False,-77.431,35.584,True,1,16 to 20
+3407,4445,4861,Darrell Allen,10/7/2019,shot,knife,32.0,M,Black,Adelanto,CA,False,attack,Foot,False,-117.425,34.58,True,1,26 to 30
+3414,4452,5460,Jamahl Smith,13/7/2019,shot,knife,46.0,M,Black,Orange,NJ,False,other,Foot,False,-74.23,40.76,True,1,41 to 45
+3415,4453,4870,Blige Sean Christopher Cypress,14/7/2019,shot,gun,22.0,M,Black,Hollywood,FL,False,attack,Car,False,-80.115,26.03,True,1,16 to 20
+3416,4454,4877,Onaje Dickinson,14/7/2019,shot,gun,20.0,M,Black,Penn Hills,PA,False,attack,Foot,False,-79.863,40.461,True,1,16 to 20
+3417,4455,5461,Dijon D. Watkins,14/7/2019,shot,gun,30.0,M,Black,Dallas,TX,False,attack,Not fleeing,False,-96.717,32.713,True,1,26 to 30
+3418,4456,4869,Ashanti Pinkney,15/7/2019,shot,gun,49.0,M,Black,Baltimore,MD,False,attack,Not fleeing,True,-76.618,39.313,True,1,41 to 45
+3424,4463,4875,Stephen Murray,17/7/2019,shot,toy weapon,52.0,M,Black,Modesto,CA,False,attack,Not fleeing,True,-121.01,37.633,True,1,46 to 50
+3426,4465,4883,Roderick Wilson,17/7/2019,shot,gun,35.0,M,Black,Birmingham,AL,False,attack,Foot,False,-86.81,33.519,True,1,31 to 35
+3428,4469,4880,Leo Brooks,18/7/2019,shot,gun,23.0,M,Black,Metairie,LA,False,other,Not fleeing,False,-90.153,29.984,True,1,16 to 20
+3429,4470,5466,Makeyvion Devonte Cannon,18/7/2019,shot,gun,19.0,M,Black,Fort Worth,TX,False,attack,Not fleeing,True,-97.454,32.732,True,1,11 to 15
+3432,4474,5468,Hashim Jibiri Wilson,21/7/2019,shot,gun,28.0,M,Black,Tacoma,WA,False,attack,Not fleeing,False,-122.438,47.221,True,1,21 to 25
+3434,4478,4887,Omari Thompson,23/7/2019,shot,gun,31.0,M,Black,Ross Township,PA,False,attack,Not fleeing,False,-80.005,40.524,True,1,26 to 30
+3442,4495,4917,Jamaal Simpson,1/8/2019,shot,gun,21.0,M,Black,Los Angeles,CA,False,attack,Foot,False,-118.331,33.975,True,1,16 to 20
+3446,4502,4911,Mario Benjamin,2/8/2019,shot,gun,34.0,M,Black,Minneapolis,MN,False,attack,Not fleeing,True,-93.294,45.004,True,1,26 to 30
+3447,4503,4913,Deshon Downing,2/8/2019,shot,gun,45.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,False,-86.007,39.833,True,1,41 to 45
+3448,4504,4912,De'Von Bailey,3/8/2019,shot,gun,19.0,M,Black,Colorado Springs,CO,False,other,Foot,True,-104.771,38.816,True,1,11 to 15
+3453,4512,4914,James Lee Kirkwood,5/8/2019,shot,knife,49.0,M,Black,Memphis,TN,False,attack,Foot,False,-90.04899999999998,35.142,True,1,41 to 45
+3456,4515,4953,Kaizen Crossen,5/8/2019,shot,gun,39.0,M,Black,Irvington,NJ,False,attack,Not fleeing,False,-74.221,40.736,True,1,31 to 35
+3459,4519,4928,Detravian Allison,7/8/2019,shot,gun,18.0,M,Black,Longview,TX,False,attack,Not fleeing,False,-94.808,32.533,True,1,11 to 15
+3460,4520,4930,Toussaint Diamon Sims,8/8/2019,shot,gun,27.0,M,Black,Moss Point,MS,False,attack,Foot,True,-88.51899999999998,30.402,True,1,21 to 25
+3463,4532,4940,Jerry Orlando Weaver,13/8/2019,shot,gun,51.0,M,Black,Clinton,TN,True,attack,Not fleeing,False,-84.14399999999998,36.104,True,1,46 to 50
+3464,4534,4943,Charles Roy Pearson,13/8/2019,shot,gun,51.0,M,Black,Kansas City,KS,False,attack,Not fleeing,False,-94.834,39.124,True,1,46 to 50
+3466,4541,4956,Rashad Cunningham,17/8/2019,shot,gun,25.0,M,Black,Gary,IN,False,undetermined,Not fleeing,False,-87.32,41.577,True,1,21 to 25
+3468,4544,4963,Schaston Theodore Lamarr Hodge,17/8/2019,shot,gun,27.0,M,Black,Dallas,TX,False,attack,Car,True,-96.749,32.774,True,1,21 to 25
+3471,4550,4976,Amari Malone,21/8/2019,shot,gun,18.0,M,Black,Fort Worth,TX,False,attack,Foot,True,-97.229,32.766,True,1,11 to 15
+3474,4556,4974,Michael Tuck,22/8/2019,shot,Taser,29.0,M,Black,Dayton,OH,False,attack,Foot,False,-84.23899999999998,39.752,True,1,21 to 25
+3478,4562,4981,Channara Tom Pheap,26/8/2019,shot,unarmed,33.0,M,Black,Knoxville,TN,False,attack,Not fleeing,False,-83.986,36.001,True,1,26 to 30
+3479,4566,5473,Keith Carter,27/8/2019,shot,gun,52.0,M,Black,Baton Rouge,LA,True,attack,Car,False,-91.15,30.495,True,1,46 to 50
+3481,4575,4994,Terry Tillman,31/8/2019,shot,gun,23.0,M,Black,St. Louis,MO,False,other,Foot,False,-90.347,38.63800000000001,True,1,16 to 20
+3491,4593,5008,Cortez Shepherd,5/9/2019,shot,gun,28.0,M,Black,St. Louis,MO,False,attack,Not fleeing,False,-90.241,38.65,True,1,21 to 25
+3493,4596,5018,Vondarrow Dewayne Fisher,6/9/2019,shot,gun,42.0,M,Black,Glendora,CA,False,other,Foot,False,-117.877,34.129,True,1,36 to 40
+3495,4600,5016,Bennie Branch,8/9/2019,shot,toy weapon,24.0,M,Black,Tacoma,WA,False,undetermined,Foot,False,-122.409,47.233,True,1,16 to 20
+3496,4601,5024,Quentin Broadus,9/9/2019,shot,gun,27.0,M,Black,Oklahoma City,OK,False,attack,Other,True,-97.621,35.595,True,1,21 to 25
+3498,4604,5022,Bobby Ray Duckworth,10/9/2019,shot,knife,26.0,M,Black,Wellington,UT,True,other,Not fleeing,True,-110.719,39.541,True,1,21 to 25
+3500,4612,5039,Nicholas Walker,14/9/2019,shot,toy weapon,31.0,M,Black,Arlington,TX,True,attack,Not fleeing,True,-97.103,32.694,True,1,26 to 30
+3501,4613,5042,Melvin Watkins,14/9/2019,shot,unarmed,54.0,M,Black,Baton Rouge,LA,False,undetermined,Not fleeing,False,-90.999,30.362,True,1,46 to 50
+3504,4617,5037,Ronald Davis,15/9/2019,shot,knife,31.0,M,Black,St. Paul,MN,False,attack,Not fleeing,True,-93.152,44.959,True,1,26 to 30
+3505,4619,5035,Eric Carter,16/9/2019,shot,gun,53.0,M,Black,Washington,DC,False,attack,Not fleeing,False,-76.975,38.849,True,1,46 to 50
+3508,4626,5248,Gregory Edwards,17/9/2019,shot and Tasered,gun,39.0,M,Black,New York,NY,False,attack,Foot,True,-74.083,40.618,True,1,31 to 35
+3511,4629,5489,Willie Hudson,18/9/2019,shot,gun,33.0,M,Black,Memphis,TN,False,attack,Not fleeing,False,-90.024,35.075,True,1,26 to 30
+3512,4630,5488,Shawn Stevens,18/9/2019,shot and Tasered,knife,49.0,M,Black,Wilkinsburg,PA,False,attack,Not fleeing,False,-79.882,40.442,True,1,41 to 45
+3521,4646,5052,Leonard Shand,26/9/2019,shot,knife,49.0,M,Black,Hyattsville,MD,False,attack,Not fleeing,False,-76.954,38.971,True,1,41 to 45
+3523,4650,5063,Jamaal Ramone Taylor,28/9/2019,shot,knife,31.0,M,Black,Baltimore,MD,False,attack,Foot,False,-76.655,39.49800000000001,True,1,26 to 30
+3525,4654,5064,Antonio Williams,29/9/2019,shot,gun,27.0,M,Black,New York,NY,False,attack,Not fleeing,True,-73.846,40.885,True,1,21 to 25
+3531,4664,5082,Michael John,3/10/2019,shot,gun,24.0,M,Black,Oklahoma City,OK,False,attack,Not fleeing,True,-97.521,35.593,True,1,16 to 20
+3533,4670,5088,Maurice Holley,6/10/2019,shot,gun,55.0,M,Black,Sacramento,CA,False,other,Not fleeing,True,-121.172,38.303,True,1,51 to 55
+3541,4684,5094,Sawandi Asad Toussaint,12/10/2019,shot,gun,21.0,M,Black,El Monte,CA,False,attack,Foot,False,-118.042,34.072,True,1,16 to 20
+3544,4690,5099,Christopher Whitfield,14/10/2019,shot,unarmed,31.0,M,Black,Ethel,LA,True,undetermined,Foot,False,-91.124,30.838,True,1,26 to 30
+3545,4691,5101,Victor Jarvis,14/10/2019,shot,gun,61.0,M,Black,High Point,NC,False,attack,Not fleeing,False,-79.985,36.036,True,1,56 to 60
+3549,4695,5106,Nasheem Prioleau,15/10/2019,shot,gun,30.0,M,Black,New York,NY,False,attack,Not fleeing,False,-73.99,40.684,True,1,26 to 30
+3551,4697,5220,Akinyia Malik Jerome Gray,15/10/2019,shot,gun,26.0,M,Black,Stone Mountain,GA,False,attack,Not fleeing,False,-84.146,33.805,True,1,21 to 25
+3553,4699,5108,Lazzeri James Frazier,16/10/2019,shot,gun,21.0,M,Black,Sherman Oaks,CA,False,other,Not fleeing,False,-118.457,34.172,True,1,16 to 20
+3554,4700,5109,Allan Feliz,17/10/2019,shot,vehicle,31.0,M,Black,New York,NY,False,attack,Not fleeing,False,-73.878,40.882,True,1,26 to 30
+3555,4702,5113,Christopher DeQuan Crosby,17/10/2019,shot,gun,34.0,M,Black,Warren,AR,False,attack,Car,False,-92.065,33.613,True,1,26 to 30
+3558,4710,5116,Steven Day,20/10/2019,shot,gun,30.0,M,Black,St. Louis,MO,False,attack,Car,False,-90.193,38.646,True,1,26 to 30
+3564,4720,5139,Victor Hernandez,23/10/2019,shot,gun,29.0,M,Black,New York,NY,False,attack,Not fleeing,True,-73.947,40.816,True,1,21 to 25
+3566,4722,5141,Delfon Kinney,23/10/2019,shot,gun,44.0,M,Black,Long Beach,CA,False,attack,Not fleeing,True,-118.171,33.875,True,1,36 to 40
+3574,4736,5130,Earnest Easterling,27/10/2019,shot,gun,25.0,M,Black,Carmichael,CA,False,attack,Not fleeing,False,-121.33,38.622,True,1,21 to 25
+3575,4737,5127,Dana Sherrod Fletcher,27/10/2019,shot and Tasered,gun,39.0,M,Black,Madison,AL,False,attack,Not fleeing,True,-86.751,34.754,True,1,31 to 35
+3576,4740,5146,John Feggins,30/10/2019,shot,gun,24.0,M,Black,Baltimore,MD,False,attack,Not fleeing,True,-76.611,39.371,True,1,16 to 20
+3585,4755,5154,Michael Austin,3/11/2019,shot,gun,32.0,M,Black,Phoenix,AZ,False,attack,Not fleeing,False,-112.021,33.4,True,1,26 to 30
+3587,4760,5167,Maurice Brown,5/11/2019,shot,gun,48.0,M,Black,East Cleveland,OH,False,attack,Not fleeing,True,-81.586,41.521,True,1,41 to 45
+3591,4764,5164,Eddie Ray Maxwell,6/11/2019,shot,gun,37.0,M,Black,Tahlequah,OK,False,attack,Not fleeing,False,-94.967,35.89,True,1,31 to 35
+3592,4767,5170,Treva Smutherman,6/11/2019,shot,gun,31.0,M,Black,Fayetteville,NC,False,attack,Not fleeing,False,-78.934,35.032,True,1,26 to 30
+3601,4782,5195,Roy McAllister,13/11/2019,shot,gun,27.0,M,Black,Wilson,NC,False,attack,Foot,False,-77.91199999999998,35.72,True,1,21 to 25
+3604,4787,5190,Treon McCoy,15/11/2019,shot,gun,33.0,M,Black,Charlotte,NC,False,attack,Not fleeing,False,-80.842,35.225,True,1,26 to 30
+3605,4789,5193,Mark Sheppard,15/11/2019,shot,gun,27.0,M,Black,Cleveland,OH,False,other,Foot,False,-81.584,41.459,True,1,21 to 25
+3608,4793,5194,Dante Redmond Jones,18/11/2019,shot,gun,28.0,M,Black,Franklin County,WA,False,attack,Car,False,-119.177,46.664,True,1,21 to 25
+3610,4799,5483,Christopher Terrell Willis,19/11/2019,shot,gun,32.0,M,Black,Des Plaines,IL,False,attack,Not fleeing,False,-87.895,42.024,True,1,26 to 30
+3616,4806,5225,Lance Edward Smith,22/11/2019,shot,gun,37.0,M,Black,Elizabethtown,NC,False,attack,Not fleeing,False,-78.61,34.631,True,1,31 to 35
+3617,4807,5209,Ariane Lamont McCree,23/11/2019,shot,gun,28.0,M,Black,Chester,SC,False,attack,Foot,True,-81.219,34.71,True,1,21 to 25
+3622,4814,5484,Micduff Lamarco Robinson,27/11/2019,shot,sword,40.0,M,Black,Mansfield,OH,False,other,Not fleeing,False,-82.531,40.751,True,1,36 to 40
+3624,4816,5240,Derrick Everett,28/11/2019,shot,gun,30.0,M,Black,Tampa,FL,False,attack,Other,False,-82.459,28.014,True,1,26 to 30
+3628,4825,5229,Jimmie Phillips,1/12/2019,shot,gun,68.0,M,Black,Morrow,GA,False,attack,Not fleeing,False,-84.296,33.582,True,1,61 to 65
+3631,4830,5230,Jerric Harris,2/12/2019,shot,gun,21.0,M,Black,Daytona Beach,FL,False,attack,Foot,True,-81.06,29.214,True,1,16 to 20
+3632,4832,5249,Michael Dean,2/12/2019,shot,unarmed,28.0,M,Black,Temple,TX,False,undetermined,Not fleeing,False,-97.337,31.061,True,1,21 to 25
+3634,4835,5250,Cameron Lamb,3/12/2019,shot,gun,26.0,M,Black,Kansas City,MO,False,other,Not fleeing,False,-94.545,39.062,True,1,21 to 25
+3635,4836,5257,Miguel Russo,3/12/2019,shot,gun,31.0,M,Black,Syracuse,NY,False,attack,Not fleeing,True,-76.173,43.039,True,1,26 to 30
+3636,4837,5255,Alvern Donnell Walker,5/12/2019,shot,gun,58.0,M,Black,Avon,CO,False,attack,Car,False,-106.523,39.637,True,1,51 to 55
+3637,4838,5256,Demetrius Williams,5/12/2019,shot,vehicle,31.0,M,Black,Marshall,TX,False,attack,Foot,False,-94.386,32.538000000000004,True,1,26 to 30
+3638,4839,5260,Lamar Alexander,5/12/2019,shot,gun,41.0,M,Black,Miramar,FL,False,attack,Car,False,-80.311,25.979,True,1,36 to 40
+3639,4840,5261,Ronnie Jerome Hill,5/12/2019,shot,gun,41.0,M,Black,Miramar,FL,False,attack,Car,False,-80.311,25.979,True,1,36 to 40
+3641,4843,5254,Dominick Matt,6/12/2019,shot,gun,17.0,M,Black,Bentonville,AR,False,other,Not fleeing,False,-94.254,36.34,True,1,11 to 15
+3645,4847,5262,Antonio Nichols,9/12/2019,shot,gun,47.0,M,Black,St. Helena Parish,LA,False,other,Not fleeing,False,-90.677,30.802,True,1,41 to 45
+3646,4851,5270,Montay Steven Penning,10/12/2019,shot,gun,23.0,M,Black,Beloit,WI,False,other,Car,False,-89.025,42.523,True,1,16 to 20
+3647,4852,5271,Francine Graham,10/12/2019,shot,gun,50.0,F,Black,Jersey City,NJ,False,attack,Not fleeing,False,-74.084,40.707,True,1,46 to 50
+3648,4853,5272,David N. Anderson,10/12/2019,shot,gun,47.0,M,Black,Jersey City,NJ,False,attack,Not fleeing,False,-74.084,40.707,True,1,41 to 45
+3652,4858,5280,Cortez Bufford,12/12/2019,shot,gun,24.0,M,Black,St. Louis,MO,False,other,Foot,False,-90.246,38.564,True,1,16 to 20
+3654,4860,5282,Taveonte Art Emmanuel,12/12/2019,shot,gun,34.0,M,Black,Anaheim,CA,False,other,Not fleeing,True,-117.903,33.838,True,1,26 to 30
+3657,4863,5297,Romello Barnes,12/12/2019,shot,knife,22.0,M,Black,Tampa,FL,False,attack,Not fleeing,False,-82.402,28.021,True,1,16 to 20
+3659,4867,5278,Louis Patrick Veal,14/12/2019,shot,gun,65.0,M,Black,Redford Township,MI,False,attack,Not fleeing,False,-83.29700000000003,42.394,True,1,61 to 65
+3672,4885,5309,Kentrey Marquis Witherspoon,19/12/2019,shot,gun,28.0,M,Black,Lenoir,NC,False,attack,Foot,False,-81.505,35.86,True,1,21 to 25
+3674,4887,5306,Emanuel Johnson,19/12/2019,shot and Tasered,gun,21.0,M,Black,Brentwood,NY,False,attack,Foot,False,-73.238,40.783,True,1,16 to 20
+3676,4889,5308,Steven DeWayne Haizlip,20/12/2019,shot,gun,61.0,M,Black,Winston-Salem,NC,False,attack,Not fleeing,False,-80.214,36.093,True,1,56 to 60
+3677,4890,5299,Mohamed Ahemed Al-Hashemi,20/12/2019,shot and Tasered,Taser,25.0,M,Black,Tempe,AZ,False,attack,Not fleeing,False,-111.926,33.434,True,1,21 to 25
+3681,4895,5300,Romir Talley,22/12/2019,shot,gun,24.0,M,Black,Wilkinsburg,PA,False,attack,Foot,False,-79.882,40.442,True,1,16 to 20
+3682,4897,5327,Kenneth Collins,22/12/2019,shot,unknown weapon,46.0,M,Black,Hattiesburg,MS,False,other,Other,False,-89.37799999999999,31.321,True,1,41 to 45
+3686,4902,5331,Elray Barber,24/12/2019,shot,gun,60.0,M,Black,Oklahoma City,OK,False,attack,Car,False,-97.477,35.491,True,1,56 to 60
+3688,4905,5330,Deangelo Rashad Martin,25/12/2019,shot,vehicle,23.0,M,Black,Atlanta,GA,False,attack,Car,False,-84.509,33.632,True,1,16 to 20
+3700,4925,5333,Frederick Perkins,31/12/2019,shot,vehicle,37.0,M,Black,Chesterfield,MO,False,attack,Car,False,-90.661,38.677,True,1,31 to 35
+3701,4927,5358,Malik Williams,31/12/2019,shot,gun,23.0,M,Black,Federal Way,WA,False,attack,Not fleeing,False,-122.316,47.322,True,1,16 to 20
+3702,4928,5359,Terry Hudson,31/12/2019,shot,gun,57.0,M,Black,Omaha,NE,False,attack,Not fleeing,True,-95.947,41.292,True,1,51 to 55
+3710,4936,5349,Jamari Daiwon Tarver,2/1/2020,shot,vehicle,26.0,M,Black,North Las Vegas,NV,False,attack,Car,True,-115.188,36.24,True,1,21 to 25
+3714,4940,5341,Tyree Davis,4/1/2020,shot and Tasered,knife,25.0,M,Black,Chicago,IL,False,other,Not fleeing,False,-87.561,41.752,True,1,21 to 25
+3716,4942,5335,Kwamae Jones,5/1/2020,shot,gun,17.0,M,Black,Jacksonville,FL,False,attack,Car,False,-81.687,30.372,True,1,11 to 15
+3717,4943,5336,Brandon D. Roberts,5/1/2020,shot,knife,27.0,M,Black,Milford,DE,True,other,Not fleeing,False,-75.438,38.917,True,1,21 to 25
+3719,4945,5352,Miciah Lee,5/1/2020,shot,gun,18.0,M,Black,Sparks,NV,True,other,Car,False,-119.762,39.556,True,1,11 to 15
+3726,4955,5362,Earl Facey,9/1/2020,shot,gun,37.0,M,Black,New York,NY,False,attack,Foot,True,-73.984,40.726,True,1,31 to 35
+3727,4958,5571,Claude Fain,9/1/2020,shot,gun,47.0,M,Black,Philadelphia,PA,True,attack,Not fleeing,False,-75.082,40.01300000000001,True,1,41 to 45
+3732,4968,5371,Keenan McCain,13/1/2020,shot,gun,29.0,M,Black,Gary,IN,False,attack,Not fleeing,False,-87.368,41.597,True,1,21 to 25
+3735,4971,5378,Renard Antonio Daniels,15/1/2020,shot,knife,55.0,M,Black,Cocoa,FL,False,attack,Not fleeing,True,-80.743,28.359,True,1,51 to 55
+3739,4978,5377,Murbarak Soulemane,16/1/2020,shot and Tasered,knife,19.0,M,Black,West Haven,CT,False,other,Car,True,-72.953,41.277,True,1,11 to 15
+3740,4979,5376,Samuel David Mallard,17/1/2020,shot,undetermined,19.0,M,Black,Powder Springs,GA,False,undetermined,Car,False,-84.70100000000002,33.921,True,1,11 to 15
+3746,4986,5407,Reginald Leon Boston,21/1/2020,shot,gun,20.0,M,Black,Jacksonville,FL,False,other,Foot,False,-81.658,30.443,True,1,16 to 20
+3751,4993,5429,Deandre Lee Seaborough-Patterson,23/1/2020,shot,gun,22.0,M,Black,Savannah,GA,False,other,Foot,False,-81.089,32.056999999999995,True,1,16 to 20
+3752,4997,5506,Andrew Smyrna,23/1/2020,shot,vehicle,32.0,M,Black,Atlanta,GA,False,attack,Car,False,-84.344,33.75,True,1,26 to 30
+3753,4998,5507,Michael Rivera,23/1/2020,shot,vehicle,32.0,M,Black,Bloomingdale,NJ,False,attack,Car,False,-74.331,41.006,True,1,26 to 30
+3757,5002,5425,D'ovion Semaj Perkins,25/1/2020,shot,gun,19.0,M,Black,Aurora,CO,False,other,Car,False,-104.791,39.754,True,1,11 to 15
+3758,5003,5426,Joshua James Brown,25/1/2020,shot,gun,34.0,M,Black,Columbus,OH,False,other,Foot,False,-83.02600000000002,39.989,True,1,26 to 30
+3759,5005,5434,William Howard Green,27/1/2020,shot,unarmed,43.0,M,Black,Temple Hills,MD,False,attack,Not fleeing,False,-76.962,38.815,True,1,36 to 40
+3764,5011,5441,Jaquyn Oneill Light,29/1/2020,shot,unarmed,20.0,M,Black,Graham,NC,False,attack,Foot,False,-79.38600000000002,36.078,True,1,16 to 20
+3768,5015,5456,Abdirahman Salad,30/1/2020,shot,gun,15.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,-82.913,39.972,True,1,11 to 15
+3769,5016,5457,Keith Dutree Collins,30/1/2020,shot,toy weapon,52.0,M,Black,Raleigh,NC,True,attack,Foot,True,-78.707,35.861,True,1,46 to 50
+3770,5018,5493,Leonard Parker,1/2/2020,shot,vehicle,53.0,M,Black,Gulfport,MS,False,other,Not fleeing,False,-89.054,30.383000000000006,True,1,46 to 50
+3772,5020,5566,Ronnell Mouzon,1/2/2020,shot,gun,41.0,M,Black,Fort Myers,FL,False,attack,Not fleeing,False,-81.862,26.615,True,1,36 to 40
+3773,5021,5495,Alvin Cole,2/2/2020,shot,gun,17.0,M,Black,Wauwatosa,WI,False,attack,Foot,False,-88.045,43.06399999999999,True,1,11 to 15
+3774,5024,5494,Marc Dominic Neal,3/2/2020,shot,gun,56.0,M,Black,Millcreek,UT,False,other,Not fleeing,False,-111.82,40.696,True,1,51 to 55
+3776,5027,5563,Dominique Antwon Anderson,4/2/2020,shot,machete,26.0,M,Black,Home Garden,CA,True,attack,Not fleeing,False,-119.635,36.299,True,1,21 to 25
+3785,5040,5521,Jeremy Grayson,9/2/2020,shot,gun,31.0,M,Black,Chicago,IL,False,attack,Foot,False,-87.669,41.947,True,1,26 to 30
+3787,5042,5527,Bobby Gibbs,10/2/2020,shot,gun,40.0,M,Black,Forrest City,AR,False,attack,Not fleeing,False,-90.795,35.03,True,1,36 to 40
+3805,5063,5531,Kevin Adolphe,18/2/2020,shot,gun,23.0,M,Black,Orlando,FL,False,other,Foot,False,-81.459,28.496,True,1,16 to 20
+3807,5065,5556,Joseph Jewell,20/2/2020,shot,gun,17.0,M,Black,Columbus,OH,False,attack,Not fleeing,False,-82.995,40.089,True,1,11 to 15
+3813,5076,5573,Kenneth Sashington,25/2/2020,shot,gun,38.0,M,Black,Tuscumbia,AL,False,attack,Foot,False,-87.694,34.727,True,1,31 to 35
+3814,5077,5589,SanJuan Migayle Thomas,25/2/2020,shot,gun,39.0,M,Black,Shreveport,LA,False,attack,Not fleeing,False,-93.764,32.437,True,1,31 to 35
+3815,5078,5590,Matthew Felix,25/2/2020,shot,vehicle,19.0,M,Black,New York,NY,False,attack,Car,False,-73.743,40.696,True,1,11 to 15
+3819,5084,5593,Justin Lee Stackhouse,26/2/2020,shot,vehicle,30.0,M,Black,Bradenton,FL,False,attack,Car,False,-82.616,27.462,True,1,26 to 30
+3830,5109,5656,Elijah Jamaal Brewer,5/3/2020,shot,gun,25.0,M,Black,Pittsburgh,PA,False,attack,Not fleeing,False,-80.003,40.453,True,1,21 to 25
+3831,5111,5619,Tyler M. Jones,6/3/2020,shot,gun,24.0,M,Black,Fairfield,OH,False,other,Not fleeing,False,-84.525,39.329,True,1,16 to 20
+3832,5112,5620,Barry Gedeus,6/3/2020,shot,unarmed,27.0,M,Black,Fort Lauderdale,FL,False,attack,Foot,False,-80.175,26.13,True,1,21 to 25
+3842,5128,5626,Breonna Taylor,12/3/2020,shot,unarmed,26.0,F,Black,Louisville,KY,False,undetermined,Not fleeing,False,-85.81700000000002,38.148,True,1,21 to 25
+3844,5130,5663,Donnie Sanders,12/3/2020,shot,unarmed,47.0,M,Black,Kansas City,MO,False,undetermined,Foot,False,-94.556,39.034,True,1,41 to 45
+3850,5146,5636,Darwin Foy,16/3/2020,shot,gun,35.0,M,Black,Webster City,IA,False,attack,Not fleeing,False,-93.821,42.468,True,1,31 to 35
+3853,5152,5711,William Simpkins,17/3/2020,shot,gun,39.0,M,Black,Atlanta,GA,True,attack,Foot,False,-84.376,33.789,True,1,31 to 35
+3855,5155,5652,Lebarron Ballard,18/3/2020,shot and Tasered,knife,28.0,M,Black,Abilene,TX,False,attack,Foot,False,-99.753,32.453,True,1,21 to 25
+3857,5161,5649,Alvin Lamont Baum,20/3/2020,shot,gun,23.0,M,Black,Virginia Beach,VA,False,attack,Not fleeing,False,-75.979,36.863,True,1,16 to 20
+3866,5182,5698,Etonne Tanzymore,30/3/2020,shot,gun,38.0,M,Black,Baltimore,MD,False,attack,Not fleeing,True,-76.587,39.288,True,1,31 to 35
+3878,5208,5731,Dewayne Curtis Lafond,7/4/2020,shot,gun,45.0,M,Black,Refugio,TX,False,attack,Not fleeing,False,-97.274,28.307,True,1,41 to 45
+3880,5210,5733,Joshua Dariandre Ruffin,8/4/2020,shot,gun,17.0,M,Black,Columbia,SC,False,other,Foot,False,-81.043,34.047,True,1,11 to 15
+3884,5217,5739,Jonathan Lee Adams,11/4/2020,shot,gun,31.0,M,Black,Pottstown,PA,False,attack,Not fleeing,False,-75.664,40.249,True,1,26 to 30
+3888,5229,5748,Goldie Bellinger,15/4/2020,shot,gun,39.0,M,Black,Augusta,GA,True,attack,Not fleeing,False,-82.046,33.514,True,1,31 to 35
+3889,5233,5749,Jasman Washington,16/4/2020,shot,vehicle,31.0,M,Black,Lubbock,TX,False,attack,Car,False,-101.822,33.657,True,1,26 to 30
+3892,5240,5761,Virgill Thrope,19/4/2020,shot,gun,28.0,M,Black,Colorado Springs,CO,False,attack,Not fleeing,False,-104.813,38.785,True,1,21 to 25
+3893,5241,5756,Chase Rosa,21/4/2020,shot,gun,24.0,M,Black,Las Vegas,NV,False,attack,Car,True,-115.153,36.121,True,1,16 to 20
+3895,5243,5759,Elmer L. Mack,22/4/2020,shot,gun,40.0,M,Black,Florence,SC,False,attack,Not fleeing,False,-79.74600000000002,34.219,True,1,36 to 40
+3896,5246,5917,Joshua Johnson,22/4/2020,shot,toy weapon,35.0,M,Black,Houston,TX,False,attack,Foot,False,-95.519,29.638,True,1,31 to 35
+3908,5265,5787,Malcolm Xavier Ray Williams,29/4/2020,shot,gun,27.0,M,Black,Jeffersonville,IN,False,attack,Not fleeing,False,-85.708,38.304,True,1,21 to 25
+3910,5268,5776,William Debose,1/5/2020,shot,gun,21.0,M,Black,Denver,CO,False,other,Other,True,-104.949,39.74,True,1,16 to 20
+3912,5270,5778,Shaun Lee Fuhr,1/5/2020,shot,unarmed,24.0,M,Black,Seattle,WA,False,attack,Foot,True,-122.332,47.606,True,1,16 to 20
+3913,5272,5780,Brent Martin,1/5/2020,shot,gun,32.0,M,Black,Little Rock,AR,False,other,Not fleeing,False,-92.378,34.736999999999995,True,1,26 to 30
+3914,5273,5781,Said Joquin,1/5/2020,shot,gun,26.0,M,Black,Lakewood,WA,False,attack,Not fleeing,False,-122.522,47.176,True,1,21 to 25
+3923,5284,5814,Demontre Bruner,4/5/2020,shot,gun,21.0,M,Black,Muskogee,OK,False,attack,Foot,False,-95.387,35.74800000000001,True,1,16 to 20
+3924,5285,5807,Qavon Webb,5/5/2020,shot,gun,23.0,M,Black,Webster Groves,MO,False,attack,Not fleeing,False,-90.353,38.583,True,1,16 to 20
+3927,5291,5790,Dreasjon Reed,6/5/2020,shot,gun,21.0,M,Black,Indianapolis,IN,False,attack,Car,True,-86.20200000000001,39.868,True,1,16 to 20
+3932,5297,5872,McHale Rose,7/5/2020,shot,gun,19.0,M,Black,Indianapolis,IN,False,attack,Not fleeing,False,-86.199,39.902,True,1,11 to 15
+3935,5302,5792,Finan H. Berhe,9/5/2020,shot,knife,30.0,M,Black,Silver Spring,MD,False,other,Not fleeing,True,-76.979,39.043,True,1,26 to 30
+3941,5311,5835,David Tylek Atkinson,13/5/2020,shot,gun,24.0,M,Black,Raleigh,NC,False,attack,Foot,False,-78.587,35.79,True,1,16 to 20
+3942,5312,5827,Rayshard Scales,14/5/2020,shot,toy weapon,30.0,M,Black,Houston,TX,True,attack,Not fleeing,False,-95.366,29.684,True,1,26 to 30
+3948,5320,5823,Robert Johnson,16/5/2020,shot,gun,29.0,M,Black,Essex,MD,False,other,Not fleeing,True,-76.44,39.31,True,1,21 to 25
+3950,5322,5828,Randy Roszell Lewis,16/5/2020,shot,knife,38.0,M,Black,Houston,TX,True,attack,Not fleeing,True,-95.528,29.671,True,1,31 to 35
+3955,5329,5820,Wilbon Cleveland Woodard,19/5/2020,shot,unknown weapon,69.0,M,Black,Tallahassee,FL,False,other,Not fleeing,False,-84.3,30.477,True,1,61 to 65
+3957,5331,5816,Terry Caver,19/5/2020,shot and Tasered,knife,57.0,M,Black,Seattle,WA,False,undetermined,Foot,True,-122.352,47.614,True,1,51 to 55
+3958,5334,5894,Tobby Wiggins,20/5/2020,shot,gun,45.0,M,Black,Atmore,AL,False,other,Foot,False,-87.494,31.024,True,1,41 to 45
+3960,5337,5892,Willie Lee Quarles,21/5/2020,shot,gun,60.0,M,Black,Greenwood,SC,False,attack,Not fleeing,False,-82.146,34.198,True,1,56 to 60
+3962,5339,5873,Maurice S. Gordon,23/5/2020,shot,unarmed,28.0,M,Black,Bass River,NJ,False,attack,Not fleeing,True,-74.445,39.591,True,1,21 to 25
+3966,5346,5841,Dion Johnson,25/5/2020,shot,unarmed,28.0,M,Black,Phoenix,AZ,False,other,Not fleeing,True,-111.974,33.674,True,1,21 to 25
+3971,5358,5843,Tony McDade,27/5/2020,shot,gun,38.0,M,Black,Tallahassee,FL,False,other,Not fleeing,False,-84.29899999999998,30.415,True,1,31 to 35
+3973,5364,5846,Modesto Reyes,27/5/2020,shot and Tasered,gun,35.0,M,Black,Jefferson Parish,LA,False,attack,Other,True,-90.064,29.906,True,1,31 to 35
+3976,5367,5906,Ruben Smith,28/5/2020,shot,gun,35.0,M,Black,North Little Rock,AR,False,other,Not fleeing,False,-92.213,34.76,True,1,31 to 35
+3979,5372,5849,Terrell Mitchell,29/5/2020,shot,knife,35.0,M,Black,Philadelphia,PA,False,other,Not fleeing,False,-75.08,40.023,True,1,31 to 35
+3980,5373,5850,Momodou Lamin Sisay,29/5/2020,shot,gun,39.0,M,Black,Snellville,GA,False,attack,Car,False,-83.991,33.828,True,1,31 to 35
+3981,5374,5879,Jarvis Sullivan,29/5/2020,shot,vehicle,44.0,M,Black,Yulee,FL,False,attack,Car,False,-81.604,30.634,True,1,36 to 40
+3982,5375,5863,Derrick Thompson,30/5/2020,shot,gun,46.0,M,Black,Fountain,FL,False,attack,Not fleeing,False,-85.348,30.515,True,1,41 to 45
+3991,5390,5899,Kamal Flowers,6/6/2020,shot,gun,24.0,M,Black,New Rochelle,NY,False,attack,Foot,False,-73.773,40.926,True,1,16 to 20
+3995,5398,5911,Lewis Ruffin,9/6/2020,shot,gun,38.0,M,Black,Orlando,FL,False,attack,Not fleeing,False,-81.40899999999998,28.487,True,1,31 to 35
+3996,5405,5916,Rayshard Brooks,12/6/2020,shot,Taser,27.0,M,Black,Atlanta,GA,False,attack,Foot,True,-84.4,33.722,True,1,21 to 25
+3997,5406,5925,Caine Van Pelt,12/6/2020,shot,gun,23.0,M,Black,Crown Point,IN,False,attack,Car,False,-87.322,41.417,True,1,16 to 20
+4002,5411,5926,Brandon Gardner,16/6/2020,shot,gun,24.0,M,Black,Beach Park,IL,False,attack,Not fleeing,False,-87.876,42.43899999999999,True,1,16 to 20
+4003,5412,5927,Donald Ward,16/6/2020,shot,gun,27.0,M,Black,Phoenix,AZ,False,attack,Not fleeing,True,-112.1,33.495,True,1,21 to 25
+4004,5413,5928,Terron Jammal Boone,17/6/2020,shot,gun,31.0,M,Black,Rosamond,CA,False,attack,Not fleeing,False,-118.158,34.871,True,1,26 to 30
+4012,5431,6071,Chazz Hailey,23/6/2020,shot,knife,22.0,M,Black,Sherman,TX,False,attack,Not fleeing,False,-96.64,33.609,True,1,16 to 20
+4013,5433,6072,Skyleur Young,24/6/2020,shot,gun,31.0,M,Black,San Bernardino,CA,False,attack,Car,False,-117.749,34.075,True,1,26 to 30
+4014,5435,5948,Robert D'Lon Harris,25/6/2020,shot,unarmed,34.0,M,Black,Vinita,OK,False,undetermined,Not fleeing,False,-95.151,36.622,True,1,26 to 30
+4016,5437,6073,Rasheed M. Moorman,25/6/2020,shot,gun,26.0,M,Black,Roanoke,VA,False,attack,Foot,True,-79.995,37.292,True,1,21 to 25
+4023,5446,5951,Aloysius Keaton,27/6/2020,shot and Tasered,knife,58.0,M,Black,Little Rock,AR,False,attack,Other,False,-92.237,34.721,True,1,51 to 55
+4030,5455,5976,Ky Johnson,2/7/2020,shot,gun,31.0,M,Black,Kansas City,MO,True,attack,Foot,False,-94.521,39.069,True,1,26 to 30
+4031,5456,5959,Kevan Ruffin,2/7/2020,shot and Tasered,knife,32.0,M,Black,Sheboygan,WI,True,other,Not fleeing,True,-87.725,43.744,True,1,26 to 30
+4040,5470,5987,Richard Lewis Price,9/7/2020,shot,toy weapon,49.0,M,Black,San Diego,CA,True,attack,Not fleeing,True,-117.094,32.756,True,1,41 to 45
+4042,5472,5981,Hakim Littleton,10/7/2020,shot,gun,20.0,M,Black,Detroit,MI,False,attack,Not fleeing,True,-83.146,42.417,True,1,16 to 20
+4043,5473,5986,Kanavis Dujuan Glass,10/7/2020,shot,gun,31.0,M,Black,Panama City,FL,False,attack,Not fleeing,False,-85.804,30.177,True,1,26 to 30
+4050,5482,5990,Vincent Demario Truitt,14/7/2020,shot,gun,17.0,M,Black,Cobb County,GA,False,attack,Other,False,-84.561,33.775,True,1,11 to 15
+4054,5486,5993,Antwane Burrise,15/7/2020,shot,vehicle,39.0,M,Black,Stockton,CA,False,attack,Not fleeing,False,-121.374,38.048,True,1,31 to 35
+4058,5492,6001,Malcolm Comeaux,17/7/2020,shot,toy weapon,24.0,M,Black,Houston,TX,False,other,Not fleeing,False,-95.333,29.657,True,1,16 to 20
+4059,5493,5998,Darius Washington,18/7/2020,shot,gun,24.0,M,Black,Chicago Heights,IL,False,attack,Foot,False,-87.62299999999998,41.503,True,1,16 to 20
+4060,5495,5999,Vincent Harris,20/7/2020,shot,gun,51.0,M,Black,Baton Rouge,LA,False,attack,Not fleeing,True,-91.183,30.393,True,1,46 to 50
+4063,5498,6004,Southern Jeremy,21/7/2020,shot,gun,22.0,M,Black,Sacramento,CA,False,attack,Not fleeing,True,-121.418,38.549,True,1,16 to 20
+4067,5503,6015,Chester Jenkins,24/7/2020,shot,toy weapon,61.0,M,Black,Stockton,CA,False,attack,Not fleeing,True,-121.228,37.999,True,1,56 to 60
+4068,5505,6022,David Earl Brooks,24/7/2020,shot,gun,45.0,M,Black,Roxboro,NC,True,attack,Not fleeing,False,-79.006,36.39,True,1,41 to 45
+4074,5515,6025,Winston Joseph Latour,29/7/2020,shot,gun,37.0,M,Black,Lake Charles,LA,False,other,Car,False,-93.208,30.212,True,1,31 to 35
+4076,5519,6029,Darrien Walker,30/7/2020,shot and Tasered,sword,28.0,M,Black,Detroit,MI,True,attack,Not fleeing,False,-83.16799999999998,42.381,True,1,21 to 25
+4087,5538,6055,Salaythis Melvin,7/8/2020,shot,gun,22.0,M,Black,Orlando,FL,False,other,Foot,True,-81.40100000000002,28.45,True,1,16 to 20
+4092,5545,6051,Jonathan Jefferson,8/8/2020,shot,knife,34.0,M,Black,Bossier City,LA,True,other,Not fleeing,False,-93.709,32.538000000000004,True,1,26 to 30
+4104,5561,6046,Anthony McClain,15/8/2020,shot,gun,32.0,M,Black,Pasadena,CA,False,other,Foot,True,-118.149,34.171,True,1,26 to 30
+4117,5583,6105,Trayford Pellerin,21/8/2020,shot and Tasered,knife,31.0,M,Black,Lafayette,LA,True,other,Foot,False,-92.001,30.204,True,1,26 to 30
+4119,5585,6107,Christopher Walker,22/8/2020,shot,gun,29.0,M,Black,Rancho Cordova,CA,True,attack,Foot,False,-121.318,38.577,True,1,21 to 25
+4120,5587,6108,Gearil Leonard Williams,23/8/2020,shot,knife,47.0,M,Black,Kingsland,GA,False,attack,Not fleeing,False,-81.643,30.79,True,1,41 to 45
+4124,5593,6117,Damian Lamar Daniels,25/8/2020,shot and Tasered,gun,31.0,M,Black,San Antonio,TX,True,attack,Not fleeing,False,-98.712,29.512,True,1,26 to 30
+4126,5596,6122,Julius Kehyei,26/8/2020,shot,gun,29.0,M,Black,Houston,TX,False,attack,Foot,False,-95.394,29.747,True,1,21 to 25
+4129,5600,6127,Donny Walker,29/8/2020,shot,gun,43.0,M,Black,Dearborn Heights,MI,True,attack,Not fleeing,False,-83.307,42.313,True,1,36 to 40
+4130,5601,6128,Michael Anthony Harris,29/8/2020,shot,gun,44.0,M,Black,Holly Hill,FL,False,attack,Not fleeing,True,-81.04899999999998,29.257,True,1,36 to 40
+4131,5604,6134,Dijon Kizzee,31/8/2020,shot,gun,29.0,M,Black,Los Angeles,CA,False,attack,Foot,False,-118.296,33.936,True,1,21 to 25
+4135,5609,6138,Deon Kay,2/9/2020,shot,gun,18.0,M,Black,Washington,DC,False,other,Other,True,-77.003,38.846,True,1,11 to 15
+4138,5613,6141,Steve D. Smith,4/9/2020,shot,gun,33.0,M,Black,Syracuse,NY,False,other,Not fleeing,True,-76.148,43.053,True,1,26 to 30
+4141,5617,6148,Shaon Jermy Ochea Walker,5/9/2020,shot and Tasered,knife,34.0,M,Black,Chicago,IL,False,other,Not fleeing,True,-87.74700000000001,41.803,True,1,26 to 30
+4143,5622,6153,Steve Gilbert,8/9/2020,shot,gun,33.0,M,Black,Delray Beach,FL,False,attack,Car,False,-80.085,26.462,True,1,26 to 30
+4146,5626,6158,Robert Samuel Craig Lusk,10/9/2020,shot,gun,18.0,M,Black,Norcross,GA,False,attack,Foot,False,-84.175,33.926,True,1,11 to 15
+4147,5628,6164,Jonathan Darsaw,10/9/2020,shot,gun,49.0,M,Black,Moscow,TN,False,attack,Not fleeing,False,-89.404,35.062,True,1,41 to 45
+4149,5632,6159,Robert Coleman,12/9/2020,shot,gun,88.0,M,Black,West Sacramento,CA,True,other,Not fleeing,True,-121.534,38.58,True,1,81 to 85
+4152,5637,6173,Darrell Zemault,15/9/2020,shot,gun,55.0,M,Black,San Antonio,TX,False,attack,Not fleeing,True,-98.575,29.445,True,1,51 to 55
+4155,5645,6181,Charles Eric Moses,19/9/2020,shot,gun,33.0,M,Black,Brunswick,GA,False,attack,Foot,False,-81.495,31.148000000000003,True,1,26 to 30
+4158,5649,6176,Patches Holmes,21/9/2020,shot,gun,26.0,M,Black,St. Louis,MO,False,attack,Other,False,-90.224,38.751,True,1,21 to 25
+4159,5651,6179,Dearian Bell,21/9/2020,shot,gun,28.0,M,Black,Atlanta,GA,False,other,Not fleeing,False,-84.368,33.716,True,1,21 to 25
+4167,5663,6203,Willie Shropshire,28/9/2020,shot,gun,57.0,M,Black,Avondale,LA,False,attack,Not fleeing,False,-90.215,29.913,True,1,51 to 55
+4169,5665,6202,Demarco Riley,30/9/2020,shot,undetermined,27.0,M,Black,Decatur,GA,False,undetermined,Not fleeing,False,-84.235,33.767,True,1,21 to 25
+4172,5669,6208,Mickel Erich Lewis,2/10/2020,shot,undetermined,39.0,M,Black,Mojave,CA,False,other,Foot,False,-118.174,35.058,True,1,31 to 35
+4175,5674,6204,Jonathan Price,3/10/2020,shot and Tasered,undetermined,32.0,M,Black,Wolfe City,TX,False,undetermined,Not fleeing,False,-96.069,33.371,True,1,26 to 30
+4181,5684,6217,Stanley Cochran,8/10/2020,shot,gun,29.0,M,Black,Philadelphia,PA,False,attack,Other,False,-75.176,40.038,True,1,21 to 25
+4182,5685,6218,Tyran Dent,8/10/2020,shot,gun,24.0,M,Black,New York,NY,False,attack,Other,True,-73.933,40.851,True,1,16 to 20
+4193,5705,6370,Dana Mitchell Young,15/10/2020,shot,gun,47.0,M,Black,Los Angeles,CA,False,other,Foot,False,-118.292,33.927,True,1,41 to 45
+4195,5708,6238,Fred Williams,16/10/2020,shot,gun,25.0,M,Black,Los Angeles,CA,False,attack,Foot,True,-118.265,33.923,True,1,21 to 25
+4196,5709,6246,Akbar Muhammad Eaddy,16/10/2020,shot,gun,27.0,M,Black,Rock Island,IL,False,attack,Other,True,-90.568,41.5,True,1,21 to 25
+4202,5725,6248,Marcellis Stinnette,20/10/2020,shot,unarmed,19.0,M,Black,Waukegan,IL,False,other,Car,True,-87.833,42.349,True,1,11 to 15
+4204,5727,6251,Rodney Arnez Barnes,20/10/2020,shot,gun,48.0,M,Black,Elmwood Place,OH,False,attack,Not fleeing,False,-84.49,39.187,True,1,41 to 45
+4207,5731,6380,Dominque Mulkey,20/10/2020,shot,gun,26.0,M,Black,Tampa,FL,True,other,Not fleeing,True,-82.402,28.011,True,1,21 to 25
+4208,5732,6249,Gregory Jackson,21/10/2020,shot,knife,45.0,M,Black,Moss Point,MS,False,attack,Not fleeing,False,-88.552,30.412,True,1,41 to 45
+4213,5747,6255,Jakerion Shmond Jackson,24/10/2020,shot,gun,19.0,M,Black,Sylvester,GA,False,attack,Other,False,-83.829,31.53,True,1,11 to 15
+4215,5751,6266,Walter Wallace,26/10/2020,shot,knife,27.0,M,Black,Philadelphia,PA,True,other,Not fleeing,True,-75.244,39.958,True,1,21 to 25
+4217,5757,6277,Maurice Parker,27/10/2020,shot,gun,34.0,M,Black,Las Vegas,NV,False,other,Not fleeing,True,-115.098,36.205,True,1,26 to 30
+4220,5761,6272,Kevin Edward Peterson,29/10/2020,shot,gun,21.0,M,Black,Hazel Dell,WA,False,other,Foot,False,-122.663,45.672,True,1,16 to 20
+4232,5781,6287,Michael Wright,4/11/2020,shot,knife,52.0,M,Black,Sacramento,CA,False,attack,Not fleeing,False,-121.519,38.494,True,1,46 to 50
+4233,5783,6289,Justin Darryel Reed,4/11/2020,shot,gun,33.0,M,Black,Jacksonville,FL,False,attack,Not fleeing,False,-81.645,30.385,True,1,26 to 30
+4243,5798,6293,Rodney Eubanks,9/11/2020,shot,gun,25.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.671,39.308,True,1,21 to 25
+4245,5806,6306,Brandon Milburn,11/11/2020,shot,gun,37.0,M,Black,Oklahoma City,OK,False,attack,Car,False,-97.528,35.479,True,1,31 to 35
+4247,5810,6311,Sincere Pierce,13/11/2020,shot,undetermined,18.0,M,Black,Cocoa,FL,False,other,Not fleeing,False,-80.765,28.374,True,1,11 to 15
+4248,5813,6347,Tracey Leon McKinney,13/11/2020,shot,gun,41.0,M,Black,Gulfport,MS,False,attack,Not fleeing,False,-89.056,30.4,True,1,36 to 40
+4253,5821,6313,Shane K. Jones,16/11/2020,shot,gun,38.0,M,Black,Dania Beach,FL,False,other,Car,False,-80.164,26.048,True,1,31 to 35
+4255,5823,6319,Javon Brice,17/11/2020,shot,gun,39.0,M,Black,La Vergne,TN,False,attack,Car,False,-86.556,36.015,True,1,31 to 35
+4256,5826,6331,Devon Tillman Gregory,17/11/2020,shot,gun,18.0,M,Black,Jacksonville,FL,False,other,Not fleeing,True,-81.73,30.282,True,1,11 to 15
+4258,5829,6323,Kenneth Jones,19/11/2020,shot,gun,35.0,M,Black,Omaha,NE,False,other,Not fleeing,True,-95.953,41.191,True,1,31 to 35
+4259,5830,6344,Rodney Applewhite,19/11/2020,shot,gun,25.0,M,Black,Los Lunas,NM,False,other,Car,False,-106.678,34.724000000000004,True,1,21 to 25
+4265,5844,6341,Ellis Acy Frye,26/11/2020,shot,gun,62.0,M,Black,Culpeper,VA,False,other,Not fleeing,False,-78.01899999999998,38.52,True,1,56 to 60
+4266,5848,6339,Cory Donell Truxillo,29/11/2020,shot,gun,43.0,M,Black,Houma,LA,True,attack,Not fleeing,False,-90.73,29.602,True,1,36 to 40
+4269,5854,6407,Kevin Fox,1/12/2020,shot,gun,28.0,M,Black,Detroit,MI,False,attack,Car,False,-82.96799999999998,42.38399999999999,True,1,21 to 25
+4271,5858,6396,Maurice Jackson,3/12/2020,shot,gun,42.0,M,Black,Phoenix,AZ,False,attack,Not fleeing,False,-112.099,33.568000000000005,True,1,36 to 40
+4273,5862,6427,Andre Sterling,4/12/2020,shot,gun,35.0,M,Black,New York,NY,False,attack,Not fleeing,False,-74.006,40.713,True,1,31 to 35
+4276,5869,6411,Donald Edwin Saunders,6/12/2020,shot,gun,37.0,M,Black,Dayton,OH,False,attack,Not fleeing,False,-84.13799999999998,39.772,True,1,31 to 35
+4279,5873,6412,Joshua Feast,9/12/2020,shot,gun,22.0,M,Black,La Marque,TX,False,other,Foot,True,-94.977,29.37,True,1,16 to 20
+4284,5883,6419,Bennie Edwards,11/12/2020,shot and Tasered,knife,60.0,M,Black,Oklahoma City,OK,True,other,Not fleeing,False,-97.549,35.58,True,1,56 to 60
+4288,5891,6431,Jeremy Daniels,16/12/2020,shot,gun,29.0,M,Black,Concord,NC,False,attack,Foot,False,-80.709,35.367,True,1,21 to 25
+4294,5905,6434,Andre Maurice Hill,22/12/2020,shot,unarmed,47.0,M,Black,Columbus,OH,False,undetermined,Not fleeing,True,-83.042,40.026,True,1,41 to 45
+4297,5921,6472,Larry Hamm,28/12/2020,shot,gun,47.0,M,Black,Denver,CO,False,attack,Foot,False,-104.912,39.731,True,1,41 to 45
+4299,5925,6464,Jaquan Haynes,29/12/2020,shot,gun,18.0,M,Black,Atlanta,GA,False,attack,Not fleeing,False,-84.406,33.725,True,1,11 to 15
+4300,5926,6465,Jason Cooper,29/12/2020,shot,gun,28.0,M,Black,Charleston,SC,False,attack,Not fleeing,False,-79.943,32.812,True,1,21 to 25
+4302,5939,6479,La Garion Lamar Smith,3/1/2021,shot,gun,27.0,M,Black,Homestead,FL,False,attack,Foot,False,-80.475,25.437,True,1,21 to 25
+4311,5956,6485,Patrick Lynn Warren,10/1/2021,shot,unarmed,52.0,M,Black,Killeen,TX,True,other,Not fleeing,True,-97.723,31.096,True,1,46 to 50
+4314,5973,6522,Kershawn Geyger,15/1/2021,shot,gun,24.0,M,Black,Carmichael,CA,False,attack,Not fleeing,False,-121.324,38.648,True,1,16 to 20
+4315,5976,6527,Zonterious Johnson,17/1/2021,shot,gun,24.0,M,Black,Lawton,OK,False,attack,Foot,False,-98.404,34.597,True,1,16 to 20
+4316,5978,6529,Christopher Harris,18/1/2021,shot,gun,27.0,M,Black,Toledo,OH,True,attack,Foot,False,-83.55,41.664,True,1,21 to 25
+4323,6002,6555,Karl Walker,31/1/2021,shot,gun,29.0,M,Black,Dixon,CA,False,attack,Not fleeing,False,-121.841,38.46,True,1,21 to 25
+4326,6018,6579,Treyh Webster,4/2/2021,shot,gun,18.0,M,Black,Mobile,AL,False,attack,Not fleeing,False,-88.212,30.689,True,1,11 to 15
+4327,6019,6580,Dontae Green,4/2/2021,shot,gun,34.0,M,Black,Baltimore,MD,False,attack,Not fleeing,False,-76.645,39.304,True,1,26 to 30
+4328,6020,6585,Josue Drumond-Cruz,4/2/2021,shot,gun,34.0,M,Black,High Point,NC,True,other,Not fleeing,False,-80.042,35.931,True,1,26 to 30
+4329,6022,6574,Andrew Hogan,5/2/2021,shot,knife,25.0,M,Black,Trotwood,OH,False,other,Foot,False,-84.296,39.81800000000001,True,1,21 to 25

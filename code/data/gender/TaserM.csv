@@ -1,0 +1,23 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+454,454,503,627,Neil White,9/7/2015,shot and Tasered,Taser,38.0,M,White,Los Angeles,CA,False,attack,Other,False,-118.344,34.059,True,1
+755,755,866,1004,John David Livingston,15/11/2015,shot and Tasered,Taser,32.0,M,White,Spring Lake,NC,False,attack,Not fleeing,False,-78.954,35.259,True,1
+813,813,937,1081,Jonathan Wardlow,12/12/2015,shot,Taser,36.0,M,White,Healdton,OK,False,attack,Not fleeing,False,-97.488,34.233000000000004,True,1
+1030,1030,1191,1365,Marco Loud,12/3/2016,shot and Tasered,Taser,20.0,M,Black,Houston,TX,False,attack,Not fleeing,False,-95.488,29.994,True,1
+1086,1086,1258,1433,David Mack,3/4/2016,shot,Taser,69.0,M,White,Eau Claire,WI,False,attack,Not fleeing,False,-91.546,44.824,True,1
+1851,1851,2278,2530,Selwyn Aubrey Hall,26/4/2017,shot and Tasered,Taser,57.0,M,Black,Jacksonville,FL,False,other,Not fleeing,False,-81.649,30.355999999999998,True,1
+1975,1975,2444,2724,Jose Guillermo Flores Colon,29/6/2017,shot,Taser,37.0,M,Hispanic,Deltona,FL,False,other,Not fleeing,False,-81.264,28.910999999999998,True,1
+2089,2089,2589,2875,Thomas Justin Walton,19/8/2017,shot,Taser,32.0,M,White,Homewood,AL,False,attack,Not fleeing,False,-86.824,33.449,True,1
+2160,2160,2683,2978,Cody O'Bryan,25/9/2017,shot,Taser,31.0,M,White,Las Vegas,NV,True,attack,Not fleeing,True,-115.167,36.16,True,1
+2309,2309,2882,3194,Kyle Anthony Mihecoby,10/12/2017,shot,Taser,28.0,M,Native Hawaiian,Oklahoma City,OK,False,attack,Not fleeing,False,-97.42399999999999,35.406,True,1
+2624,2624,3345,3669,Terence Leslie,6/5/2018,shot,Taser,32.0,M,Black,East Point,GA,False,attack,Car,False,-84.485,33.652,True,1
+2804,2804,3589,3926,Emmanuel Alquisiras,3/8/2018,shot,Taser,29.0,M,Hispanic,Seville,FL,True,other,Not fleeing,True,-81.493,29.316,True,1
+2938,2938,3775,4134,Albert Ramon Dorsey,29/10/2018,shot,Taser,30.0,M,Black,Hollywood,CA,False,other,Not fleeing,True,-118.32700000000001,34.098,True,1
+3021,3021,3908,4320,Damon Barstad,20/12/2018,shot,Taser,23.0,M,White,Toledo,OH,False,attack,Not fleeing,False,-83.53399999999998,41.657,True,1
+3043,3043,3935,4345,Arron Thomas Lambert,2/1/2019,shot,Taser,33.0,M,White,San Antonio,TX,False,attack,Other,False,-98.40899999999999,29.509,True,1
+3474,3474,4556,4974,Michael Tuck,22/8/2019,shot,Taser,29.0,M,Black,Dayton,OH,False,attack,Foot,False,-84.23899999999998,39.751999999999995,True,1
+3677,3677,4890,5299,Mohamed Ahemed Al-Hashemi,20/12/2019,shot and Tasered,Taser,25.0,M,Black,Tempe,AZ,False,attack,Not fleeing,False,-111.926,33.434,True,1
+3691,3691,4911,5320,Henry Kistler Berry,27/12/2019,shot and Tasered,Taser,43.0,M,White,Newport News,VA,False,attack,Not fleeing,False,-76.47,37.08,True,1
+3869,3869,5192,5710,Jose Moreno,2/4/2020,shot,Taser,30.0,M,Hispanic,Mesa,AZ,False,attack,Other,False,-111.823,33.408,True,1
+3881,3881,5212,5735,Kenneth Jeremy Blair,9/4/2020,shot,Taser,36.0,M,White,Winchester,TN,False,attack,Foot,False,-86.101,35.18,True,1
+3894,3894,5242,5775,Nicolas Chavez,21/4/2020,shot and Tasered,Taser,27.0,M,Hispanic,Houston,TX,True,other,Not fleeing,True,-95.304,29.774,True,1
+3996,3996,5405,5916,Rayshard Brooks,12/6/2020,shot,Taser,27.0,M,Black,Atlanta,GA,False,attack,Foot,True,-84.4,33.722,True,1

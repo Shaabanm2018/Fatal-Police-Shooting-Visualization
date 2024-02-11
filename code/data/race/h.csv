@@ -1,0 +1,774 @@
+,Unnamed: 0,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count,ageGroup
+2,2,5,John Paul Quintero,3/1/2015,shot and Tasered,unarmed,23.0,M,Hispanic,Wichita,KS,False,other,Not fleeing,False,-97.281,37.695,True,1,16 to 20
+5,6,13,Kenneth Arnold Buck,5/1/2015,shot,gun,22.0,M,Hispanic,Chandler,AZ,False,attack,Car,False,-111.841,33.328,True,1,16 to 20
+17,20,325,Andy Martinez,9/1/2015,shot,gun,33.0,M,Hispanic,El Paso,TX,False,attack,Not fleeing,False,-106.439,31.858,True,1,26 to 30
+19,22,43,Brian  Barbosa,11/1/2015,shot,gun,23.0,M,Hispanic,South Gate,CA,False,attack,Not fleeing,False,-118.183,33.951,True,1,16 to 20
+20,23,45,Salvador Figueroa,11/1/2015,shot and Tasered,gun,29.0,M,Hispanic,North Las Vegas,NV,False,attack,Foot,False,-115.116,36.185,True,1,21 to 25
+30,35,63,Jose Ceja,15/1/2015,shot,knife,36.0,M,Hispanic,Fairfield,CA,True,other,Not fleeing,False,-121.997,38.266,True,1,31 to 35
+35,40,75,Pablo Meza,17/1/2015,shot,gun,24.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,False,-118.233,34.038000000000004,True,1,16 to 20
+36,41,78,Daniel Brumley,17/1/2015,shot,knife,27.0,M,Hispanic,Fort Worth,TX,False,attack,Not fleeing,False,-97.334,32.811,True,1,21 to 25
+41,47,88,Miguel Angel de Santos-Rodriguez,21/1/2015,shot,gun,36.0,M,Hispanic,Chapeno,TX,False,attack,Foot,False,-99.123,26.559,True,1,31 to 35
+46,53,102,Jose Antonio Espinoza Ruiz,23/1/2015,shot,knife,56.0,M,Hispanic,Levelland,TX,False,other,Not fleeing,False,-102.369,33.578,True,1,51 to 55
+51,58,108,Orlando Jude Lopez,25/1/2015,shot,gun,26.0,M,Hispanic,Pueblo,CO,False,attack,Car,False,-104.574,38.285,True,1,21 to 25
+52,60,20,Jessie Hernandez,26/1/2015,shot,vehicle,17.0,F,Hispanic,Denver,CO,False,other,Not fleeing,False,-104.909,39.754,True,1,11 to 15
+54,62,352,Joshua Omar Garcia,26/1/2015,shot,unarmed,24.0,M,Hispanic,Tahoka,TX,False,other,Car,False,-101.666,33.166,True,1,16 to 20
+55,63,353,David Garcia,26/1/2015,shot,knife,34.0,M,Hispanic,Wasco,CA,True,other,Not fleeing,False,-119.335,35.589,True,1,26 to 30
+64,74,338,Victor Manuel Reyes,31/1/2015,shot,gun,31.0,M,Hispanic,Houston,TX,False,attack,Not fleeing,False,-95.72,29.861,True,1,26 to 30
+74,84,123,Izzy Colon,4/2/2015,shot,gun,37.0,M,Hispanic,Orlando,FL,False,attack,Not fleeing,False,-81.306,28.5,True,1,31 to 35
+75,85,124,Salvador Muna,4/2/2015,shot,gun,28.0,M,Hispanic,Tempe,AZ,False,attack,Car,False,-111.978,33.378,True,1,21 to 25
+76,86,125,Joaquin Hernandez,4/2/2015,shot,unarmed,28.0,M,Hispanic,Tempe,AZ,False,other,Not fleeing,False,-111.978,33.378,True,1,21 to 25
+92,102,138,Antonio Zambrano-Montes,10/2/2015,shot and Tasered,unarmed,35.0,M,Hispanic,Pasco,WA,True,other,Foot,False,-119.101,46.228,True,1,31 to 35
+95,106,146,Andres Lara-Rodriguez,13/2/2015,shot,gun,21.0,M,Hispanic,Kansas City,KS,False,attack,Car,False,-94.64,39.071,True,1,16 to 20
+96,107,147,Richard Carlin,13/2/2015,shot,unarmed,35.0,M,Hispanic,Reading,PA,False,other,Not fleeing,False,-75.908,40.329,True,1,31 to 35
+98,109,154,Daniel Mejia,13/2/2015,shot,knife,37.0,M,Hispanic,San Manuel,AZ,True,other,Not fleeing,False,-110.628,32.614000000000004,True,1,31 to 35
+111,124,165,Ruben Villalpando,20/2/2015,shot,unarmed,31.0,M,Hispanic,Euless,TX,False,other,Not fleeing,False,-97.1,32.874,True,1,26 to 30
+125,140,181,David Cuevas,26/2/2015,shot,gun,42.0,M,Hispanic,Lakeland,FL,False,attack,Foot,False,-81.95,28.104,True,1,36 to 40
+126,141,182,Amilcar Perez-Lopez,26/2/2015,shot,knife,21.0,M,Hispanic,San Francisco,CA,False,other,Not fleeing,False,-122.414,37.751,True,1,16 to 20
+130,145,185,Ernesto Javiar Canepa Diaz,27/2/2015,shot,unarmed,27.0,M,Hispanic,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.879,33.747,True,1,21 to 25
+133,148,189,Jessica Uribe,28/2/2015,shot,knife,28.0,F,Hispanic,Tucson,AZ,False,other,Not fleeing,False,-110.99,32.23,True,1,21 to 25
+147,162,201,Sergio Alexander Navas,5/3/2015,shot,unarmed,36.0,M,Hispanic,Burbank,CA,False,other,Car,False,-118.345,34.151,True,1,31 to 35
+153,169,272,Aurelio Duarte,8/3/2015,shot,gun,40.0,M,Hispanic,Oklahoma City,OK,False,attack,Not fleeing,False,-97.583,35.426,True,1,36 to 40
+161,178,883,Edixon  Franco,10/3/2015,shot,sword,37.0,M,Hispanic,Ontario,CA,True,other,Car,False,-117.655,34.05,True,1,31 to 35
+163,181,279,Benito Osorio,11/3/2015,shot,gun,39.0,M,Hispanic,Santa Ana,CA,False,attack,Not fleeing,False,-117.868,33.743,True,1,31 to 35
+168,187,207,James Richard Jimenez,13/3/2015,shot,gun,41.0,M,Hispanic,Napa,CA,False,other,Other,False,-122.274,38.306,True,1,36 to 40
+171,190,351,Antonio Perez,13/3/2015,shot,unarmed,32.0,M,Hispanic,Walnut Creek,CA,False,other,Foot,False,-118.229,33.971,True,1,26 to 30
+174,193,287,Richard Castilleja,14/3/2015,shot,gun,29.0,M,Hispanic,San Antonio,TX,True,attack,Not fleeing,False,-98.536,29.513,True,1,21 to 25
+182,201,292,Roberto Leon,17/3/2015,shot,unarmed,22.0,M,Hispanic,Sacramento,CA,False,undetermined,Car,False,-121.504,38.682,True,1,16 to 20
+207,227,241,Victor Terrazas,25/3/2015,shot,gun,28.0,M,Hispanic,South Los Angeles,CA,False,attack,Foot,False,-118.292,33.94,True,1,21 to 25
+210,230,250,Adrian Solis,26/3/2015,shot,knife,35.0,M,Hispanic,Wilmington,CA,True,other,Not fleeing,False,-118.271,33.793,True,1,31 to 35
+216,236,258,Adrian Hernandez,27/3/2015,shot,toy weapon,23.0,M,Hispanic,Bakersfield,CA,False,attack,Car,False,-119.003,35.396,True,1,16 to 20
+221,243,261,Benjamin Quezada,31/3/2015,shot,toy weapon,21.0,M,Hispanic,Baytown,TX,False,attack,Not fleeing,False,-94.971,29.733,True,1,16 to 20
+241,264,331,Roberto Rodriguez,8/4/2015,shot,gun,39.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,False,-118.212,34.041,True,1,31 to 35
+247,271,335,Angel Cresencio Corona,10/4/2015,shot,knife,21.0,M,Hispanic,Corning,CA,False,attack,Not fleeing,False,-122.202,39.935,True,1,16 to 20
+253,277,356,Isaac Jimenez,13/4/2015,shot,gun,27.0,M,Hispanic,Alton,IL,False,attack,Not fleeing,False,-90.135,38.892,True,1,21 to 25
+261,285,374,Ernesto Flores,15/4/2015,shot,toy weapon,52.0,M,Hispanic,Montclair,CA,True,attack,Not fleeing,False,-117.721,34.051,True,1,46 to 50
+262,286,373,Rodolfo Velazquez,16/4/2015,shot,knife,47.0,M,Hispanic,Shafter,CA,False,other,Not fleeing,False,-119.281,35.5,True,1,41 to 45
+264,288,381,Elias Cavazos,17/4/2015,shot,gun,29.0,M,Hispanic,Hemet,CA,False,attack,Not fleeing,False,-116.954,33.744,True,1,21 to 25
+266,290,376,Erik Tellez,18/4/2015,shot,gun,43.0,M,Hispanic,Phoenix,AZ,True,attack,Not fleeing,False,-112.039,33.48,True,1,36 to 40
+270,294,399,Santos Cortez Hernandez,20/4/2015,shot,gun,25.0,M,Hispanic,Mission,TX,False,other,Not fleeing,False,-98.35,26.282,True,1,21 to 25
+273,297,495,Luis Martinez,21/4/2015,shot,knife,35.0,M,Hispanic,Los Angeles,CA,True,other,Not fleeing,False,-118.205,34.072,True,1,31 to 35
+275,300,394,Carlos Saavedra Ramirez,22/4/2015,shot,knife,51.0,M,Hispanic,Bisbee,AZ,False,other,Not fleeing,False,-109.917,31.401,True,1,46 to 50
+281,306,409,Hector Morejon,23/4/2015,shot,unarmed,19.0,M,Hispanic,Long Beach,CA,False,other,Not fleeing,False,-118.174,33.781,True,1,11 to 15
+295,322,416,Joshua Deysie,29/4/2015,shot,gun,33.0,M,Hispanic,Mesa,AZ,True,attack,Not fleeing,False,-111.8,33.39,True,1,26 to 30
+296,323,419,Luis Chavez-Diaz,29/4/2015,shot,gun,27.0,M,Hispanic,Elk Grove,CA,False,attack,Not fleeing,False,-121.492,38.37,True,1,21 to 25
+305,333,445,Billy Grimm,3/5/2015,shot,gun,44.0,M,Hispanic,Albuquerque,NM,False,attack,Not fleeing,False,-106.687,35.052,True,1,36 to 40
+329,362,457,Alfredo Rials-Torres,19/5/2015,shot,unarmed,54.0,M,Hispanic,Arlington,VA,False,attack,Not fleeing,False,-77.105,38.87300000000001,True,1,46 to 50
+337,370,469,David Alejandro Gandara,21/5/2015,shot,gun,22.0,M,Hispanic,El Paso,TX,True,undetermined,Not fleeing,False,-106.423,31.904,True,1,16 to 20
+340,373,485,Elvin Diaz,21/5/2015,shot,knife,24.0,M,Hispanic,Hackensack,NJ,True,other,Not fleeing,False,-74.041,40.901,True,1,16 to 20
+362,397,501,Alexander Tirado Rivera,30/5/2015,shot,toy weapon,39.0,M,Hispanic,Nashville,TN,False,attack,Not fleeing,False,-86.709,36.126,True,1,31 to 35
+367,403,509,Miguel Martinez,3/6/2015,shot,gun,18.0,M,Hispanic,Ellis County,TX,True,attack,Car,False,-96.864,32.301,True,1,11 to 15
+368,404,510,Edelmiro Hernandez,3/6/2015,shot,knife,33.0,M,Hispanic,Fuqua,TX,False,other,Car,False,-95.214,29.619,True,1,26 to 30
+370,406,512,Lorenzo Garza,3/6/2015,shot,gun,46.0,M,Hispanic,Delano,CA,False,attack,Car,False,-119.223,35.787,True,1,41 to 45
+371,407,513,Rudy Baca,3/6/2015,shot and Tasered,unarmed,36.0,M,Hispanic,Los Lunas,NM,False,attack,Not fleeing,False,-106.756,34.751,True,1,31 to 35
+372,408,520,Jesus Quezada Gomez,5/6/2015,shot,gun,50.0,M,Hispanic,Santa Maria,CA,False,attack,Not fleeing,False,-120.439,34.97,True,1,46 to 50
+375,411,518,Alejandro Campos Fernandez,6/6/2015,shot,gun,45.0,M,Hispanic,Watsonsville,CA,False,attack,Foot,False,-121.751,36.905,True,1,41 to 45
+376,413,522,Damien Ramirez,6/6/2015,shot,gun,27.0,M,Hispanic,Strasburg,CO,False,attack,Car,False,-104.326,39.734,True,1,21 to 25
+380,418,524,Rene Garcia,8/6/2015,shot,knife,30.0,M,Hispanic,Anaheim,CA,True,other,Not fleeing,True,-117.922,33.847,True,1,26 to 30
+389,428,544,Mark Flores,11/6/2015,shot,gun,28.0,M,Hispanic,Bexar County,TX,True,attack,Not fleeing,False,-98.355,29.523000000000003,True,1,21 to 25
+390,429,545,Raymond Peralta-Lantigua,11/6/2015,shot,knife,22.0,M,Hispanic,Hackensack,NJ,True,other,Not fleeing,False,-74.04,40.907,True,1,16 to 20
+395,437,559,Christopher DeLeon,16/6/2015,shot,gun,28.0,M,Hispanic,Visalia,CA,False,attack,Not fleeing,False,-119.313,36.305,True,1,21 to 25
+400,442,558,Santos Laboy,19/6/2015,shot,knife,44.0,M,Hispanic,Boston,MA,True,other,Foot,False,-71.101,42.351000000000006,True,1,36 to 40
+402,444,565,Louis Atencio,19/6/2015,shot,gun,50.0,M,Hispanic,Greeley,CO,False,attack,Not fleeing,False,-104.704,40.427,True,1,46 to 50
+404,446,555,Adrian Simental,21/6/2015,shot,unarmed,24.0,M,Hispanic,Azusa,CA,True,other,Not fleeing,False,-117.9,34.129,True,1,16 to 20
+406,449,570,Eduardo Reyes,22/6/2015,shot,gun,35.0,M,Hispanic,Citrus Heights,CA,False,attack,Not fleeing,False,-121.29,38.677,True,1,31 to 35
+417,460,583,Joe Angel Cisneros,26/6/2015,shot,gun,28.0,M,Hispanic,San Antonio,TX,False,other,Foot,False,-98.64,29.418000000000006,True,1,21 to 25
+426,471,598,Arturo Lopez,3/7/2015,shot,gun,46.0,M,Hispanic,Lancaster,CA,False,attack,Not fleeing,False,-118.187,34.671,True,1,41 to 45
+428,474,597,Cesar A. Limon Juarez,3/7/2015,shot and Tasered,knife,27.0,M,Hispanic,West Covina,CA,False,attack,Not fleeing,False,-117.894,34.024,True,1,21 to 25
+440,486,607,David Oliva Sarabia,6/7/2015,shot and Tasered,knife,42.0,M,Hispanic,Atwater,CA,False,attack,Car,False,-120.579,37.339,True,1,36 to 40
+443,491,614,Daniel Hernandez,7/7/2015,shot,gun,47.0,M,Hispanic,Bakersfield,CA,False,attack,Not fleeing,False,-119.013,35.30699999999999,True,1,41 to 45
+444,492,615,Jose Graciano Lopez,7/7/2015,shot,gun,39.0,M,Hispanic,Edinburg,TX,True,attack,Not fleeing,False,-98.137,26.259,True,1,31 to 35
+467,520,646,Antonio Gonzalez,16/7/2015,shot,sword,29.0,M,Hispanic,Wauwatosa,WI,True,other,Not fleeing,False,-88.01899999999998,43.036,True,1,21 to 25
+486,541,666,Francisco Benitez-Santiago,22/7/2015,shot,gun,25.0,M,Hispanic,Monroe,WI,False,attack,Not fleeing,False,-89.646,42.6,True,1,21 to 25
+503,561,686,Michael Malone,29/7/2015,shot,gun,34.0,M,Hispanic,Las Cruces,NM,False,undetermined,Foot,False,-106.797,32.312,True,1,26 to 30
+507,565,690,Philip Vallejo,30/7/2015,shot,gun,30.0,M,Hispanic,Fort Worth,TX,False,attack,Not fleeing,False,-97.331,32.754,True,1,26 to 30
+508,567,692,Rafael Molina,31/7/2015,shot,gun,33.0,M,Hispanic,Albuquerque,NM,False,attack,Not fleeing,True,-106.643,35.073,True,1,26 to 30
+510,570,696,Armando Serrano,1/8/2015,shot,gun,29.0,M,Hispanic,Tucson,AZ,False,attack,Not fleeing,False,-110.973,32.272,True,1,21 to 25
+515,576,701,Daniel Robert Avila,4/8/2015,shot,undetermined,55.0,M,Hispanic,San Diego County,CA,True,other,Not fleeing,False,-117.465,33.299,True,1,51 to 55
+521,584,710,Gustavo Ponce-Galon,6/8/2015,shot,knife,42.0,M,Hispanic,Elsmere,KY,False,attack,Not fleeing,False,-84.594,38.99,True,1,36 to 40
+536,605,733,Anthony Lorenzo Vallejo,12/8/2015,shot,gun,27.0,M,Hispanic,Hemet,CA,False,attack,Car,False,-117.015,33.745,True,1,21 to 25
+541,610,739,Hector Rene Sorriano Gonzalez,14/8/2015,shot,gun,26.0,M,Hispanic,Boerne,TX,False,attack,Not fleeing,False,-98.721,29.79,True,1,21 to 25
+547,617,745,Matthew Castillo,16/8/2015,shot,gun,29.0,M,Hispanic,San Jose,CA,False,other,Not fleeing,False,-121.834,37.295,True,1,21 to 25
+550,620,749,Richard Jacquez,17/8/2015,shot,unarmed,40.0,M,Hispanic,San Jose,CA,False,other,Foot,False,-121.828,37.273,True,1,36 to 40
+555,625,756,Raul Herrera,20/8/2015,shot,gun,17.0,M,Hispanic,Ontario,CA,True,attack,Not fleeing,False,-117.593,34.019,True,1,11 to 15
+568,641,770,Marvin Maestas,25/8/2015,shot,gun,30.0,M,Hispanic,Santa Fe,NM,False,attack,Foot,False,-106.035,35.606,True,1,26 to 30
+572,645,779,Marvin Arroliga,25/8/2015,shot,gun,22.0,M,Hispanic,Miami,FL,False,attack,Not fleeing,False,-80.185,25.897,True,1,16 to 20
+576,653,785,Gilbert Flores,28/8/2015,shot,undetermined,41.0,M,Hispanic,San Antonio,TX,True,undetermined,Not fleeing,False,-98.651,29.669,True,1,36 to 40
+582,659,795,Rafael Cruz Jr,29/8/2015,shot,unarmed,29.0,M,Hispanic,Chicago,IL,False,undetermined,Car,False,-87.671,41.851000000000006,True,1,21 to 25
+584,661,791,David M.  Leon,30/8/2015,shot,gun,40.0,M,Hispanic,Tucson,AZ,False,attack,Not fleeing,False,-110.96,32.147,True,1,36 to 40
+589,667,1409,Freddy Centeno,3/9/2015,shot,unarmed,40.0,M,Hispanic,Fresno,CA,True,attack,Not fleeing,True,-119.764,36.735,True,1,36 to 40
+597,677,809,Carlos Yero,6/9/2015,shot,gun,59.0,M,Hispanic,Little Havana,FL,False,attack,Car,False,-80.236,25.769,True,1,51 to 55
+607,690,823,Eddie Tapia,10/9/2015,shot,gun,41.0,M,Hispanic,Downey,CA,False,attack,Car,False,-118.114,33.955,True,1,36 to 40
+617,701,832,Florencio Chaidez,15/9/2015,shot,gun,32.0,M,Hispanic,Panorama City,CA,False,attack,Not fleeing,True,-118.438,34.23,True,1,26 to 30
+618,702,833,Jorge  Suarez-Ruiz,15/9/2015,shot,gun,51.0,M,Hispanic,Miami,FL,True,undetermined,Car,False,-80.453,25.727,True,1,46 to 50
+619,703,834,Carlos Wilhelm,15/9/2015,shot,gun,39.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,False,-118.267,34.132,True,1,31 to 35
+629,714,840,Gerardo Ramirez,21/9/2015,shot,gun,24.0,M,Hispanic,Dallas,TX,True,attack,Not fleeing,False,-96.775,32.895,True,1,16 to 20
+642,729,860,Ernesto Medina Lopez,24/9/2015,shot,knife,42.0,M,Hispanic,Miami,FL,False,attack,Not fleeing,False,-80.374,25.584,True,1,36 to 40
+647,736,870,Alejandro Lerma,26/9/2015,shot,gun,23.0,M,Hispanic,Lovington,NM,False,attack,Not fleeing,False,-103.367,32.951,True,1,16 to 20
+648,737,871,Norma Angelica Guzman,27/9/2015,shot,knife,37.0,F,Hispanic,Los Angeles,CA,True,other,Not fleeing,True,-118.259,34.025,True,1,31 to 35
+650,739,875,Victor Oswaldo Coronado-Martinez,27/9/2015,shot,gun,40.0,M,Hispanic,Ponder,TX,False,attack,Not fleeing,False,-97.278,33.167,True,1,36 to 40
+651,740,873,Alberto Hernandez,28/9/2015,shot,toy weapon,59.0,M,Hispanic,San Ysidro,CA,False,attack,Not fleeing,True,-117.066,32.562,True,1,51 to 55
+655,745,888,David M. Diaz,2/10/2015,shot,gun,28.0,M,Hispanic,Sierra Vista,AZ,False,attack,Car,False,-110.233,31.467,True,1,21 to 25
+658,748,889,Christian Pena,2/10/2015,shot and Tasered,knife,26.0,M,Hispanic,Rialto,CA,False,attack,Not fleeing,False,-117.403,34.097,True,1,21 to 25
+665,757,897,Amado Lago,7/10/2015,shot,machete,46.0,M,Hispanic,West Palm Beach,FL,False,attack,Not fleeing,False,-80.109,26.668000000000006,True,1,41 to 45
+669,764,906,Anthony Aguilar,10/10/2015,shot and Tasered,unknown weapon,35.0,M,Hispanic,Lisle,IL,False,undetermined,Not fleeing,False,-88.09299999999998,41.805,True,1,31 to 35
+670,765,899,Joe Pasquez Ortiz,11/10/2015,shot,undetermined,34.0,M,Hispanic,San Bernardino,CA,False,undetermined,Other,False,-117.285,34.108000000000004,True,1,26 to 30
+673,768,907,Robert Humberto Medellin,11/10/2015,shot,machete,43.0,M,Hispanic,West Odessa,TX,False,other,Car,False,-102.442,31.867,True,1,36 to 40
+678,776,916,Jorge Santiago Tapia,15/10/2015,shot,gun,15.0,M,Hispanic,Miami,FL,False,attack,Car,False,-80.413,25.507,True,1,11 to 15
+683,781,922,Herbert Benitez,15/10/2015,shot,gun,27.0,M,Hispanic,San Francisco,CA,False,attack,Not fleeing,False,-122.415,37.779,True,1,21 to 25
+685,783,924,Johnny Angel Rangel,16/10/2015,shot,unarmed,27.0,M,Hispanic,Valinda,CA,False,attack,Not fleeing,False,-117.916,34.031,True,1,21 to 25
+688,787,929,Gino Paredes,17/10/2015,shot,toy weapon,22.0,M,Hispanic,Modesto,CA,False,attack,Not fleeing,False,-120.92,37.667,True,1,16 to 20
+694,794,937,Joel Lopes,20/10/2015,shot,gun,40.0,M,Hispanic,Truth or Consequences,NM,False,attack,Not fleeing,False,-107.166,33.251,True,1,36 to 40
+697,797,940,Miguel Angel Marin Galena,21/10/2015,shot,knife,35.0,M,Hispanic,Calexico,CA,False,other,Other,False,-115.496,32.665,True,1,31 to 35
+698,798,941,Ryan Christopher Rodriguez,21/10/2015,shot,unarmed,21.0,M,Hispanic,West Goshen,CA,True,attack,Not fleeing,False,-119.462,36.351,True,1,16 to 20
+703,803,947,Juan Ulloa,24/10/2015,shot,gun,34.0,M,Hispanic,Highgrove,CA,False,attack,Not fleeing,False,-117.34,34.019,True,1,26 to 30
+719,822,967,Mario Martinez,30/10/2015,shot,gun,29.0,M,Hispanic,Mesquite,TX,False,attack,Car,False,-96.628,32.81,True,1,21 to 25
+740,846,991,Cesar Cuellar,9/11/2015,shot,gun,25.0,M,Hispanic,North Laredo,TX,True,attack,Not fleeing,False,-99.453,27.603,True,1,21 to 25
+742,848,994,Leonel Acevedo,9/11/2015,shot,gun,45.0,M,Hispanic,San Jose,CA,False,attack,Not fleeing,False,-121.914,37.255,True,1,41 to 45
+743,850,995,Eddie Gabriel Sanchez,10/11/2015,shot,gun,34.0,M,Hispanic,Chico,CA,False,attack,Not fleeing,False,-121.848,39.717,True,1,26 to 30
+746,855,998,Javier Lopez Garcia,11/11/2015,shot,gun,25.0,M,Hispanic,San Francisco,CA,False,attack,Not fleeing,False,-122.421,37.74800000000001,True,1,21 to 25
+770,886,1029,Miguel Angel Martinez,22/11/2015,shot,gun,28.0,M,Hispanic,Denver,CO,False,attack,Not fleeing,False,-105.017,39.711,True,1,21 to 25
+772,888,1028,Henry Reyna,23/11/2015,shot and Tasered,knife,49.0,M,Hispanic,Corpus Christi,TX,False,other,Not fleeing,True,-97.402,27.726,True,1,41 to 45
+783,900,1038,Ralph Aguilar,29/11/2015,shot,gun,69.0,M,Hispanic,Sun City,AZ,True,attack,Not fleeing,False,-112.298,33.593,True,1,61 to 65
+784,901,1041,Hugo Fernando Celio,29/11/2015,shot,gun,23.0,M,Hispanic,Bakersfield,CA,False,attack,Foot,False,-119.021,35.375,True,1,16 to 20
+786,905,1227,Fernando Sauceda,30/11/2015,shot,undetermined,31.0,M,Hispanic,Wink,TX,False,other,Not fleeing,False,-103.163,31.74,True,1,26 to 30
+788,907,1047,John Anthony Gonzalez,1/12/2015,shot,gun,18.0,M,Hispanic,Norwalk,CA,False,attack,Not fleeing,False,-118.082,33.917,True,1,11 to 15
+789,908,1049,Phillip Munoz,2/12/2015,shot,gun,35.0,M,Hispanic,Denver,CO,False,attack,Car,False,-105.037,39.755,True,1,31 to 35
+793,912,1053,Allen Pacheco,2/12/2015,shot,gun,32.0,M,Hispanic,San Antonio,TX,False,other,Not fleeing,False,-98.585,29.185,True,1,26 to 30
+794,913,1054,Florencio Lucero,2/12/2015,shot,gun,36.0,M,Hispanic,Deming,NM,False,attack,Not fleeing,False,-107.734,32.256,True,1,31 to 35
+800,920,1062,Juan Perez,5/12/2015,shot,gun,38.0,M,Hispanic,Indio,CA,False,attack,Not fleeing,False,-116.251,33.698,True,1,31 to 35
+818,944,1089,Enrique Gonzalez,13/12/2015,shot,gun,32.0,M,Hispanic,Mountain View,CO,False,attack,Not fleeing,False,-105.051,39.777,True,1,26 to 30
+823,950,1094,Roberto Sanchez,14/12/2015,shot,gun,45.0,M,Hispanic,Las Vegas,NV,False,attack,Not fleeing,False,-115.09,36.229,True,1,41 to 45
+829,959,1102,Robert L. Martinez,18/12/2015,shot,toy weapon,58.0,M,Hispanic,Taos,NM,True,attack,Not fleeing,False,-105.573,36.407,True,1,51 to 55
+830,961,1105,Ruben Jose Herrera,19/12/2015,shot,undetermined,26.0,M,Hispanic,Los Angeles,CA,True,attack,Not fleeing,False,-118.307,33.843,True,1,21 to 25
+832,963,1107,Mark  Ramirez,20/12/2015,shot,gun,31.0,M,Hispanic,Amarillo,TX,True,attack,Not fleeing,False,-101.855,35.207,True,1,26 to 30
+833,964,1108,Guadalupe Quiroz,21/12/2015,shot,gun,34.0,M,Hispanic,Hemet,CA,False,attack,Not fleeing,False,-116.971,33.724000000000004,True,1,26 to 30
+841,974,1117,Jose  Rodriguez,22/12/2015,shot,gun,19.0,M,Hispanic,Albuquerque,NM,False,undetermined,Foot,True,-106.566,35.076,True,1,11 to 15
+844,979,1127,Omar Ventura,24/12/2015,shot,knife,23.0,M,Hispanic,Porterville,CA,False,other,Not fleeing,False,-119.006,36.069,True,1,16 to 20
+846,984,1151,Gilbert Heredia,26/12/2015,shot,gun,38.0,M,Hispanic,Homedale,ID,False,attack,Not fleeing,True,-116.94,43.62,True,1,31 to 35
+851,991,1135,Fred Perez,30/12/2015,shot,knife,55.0,M,Hispanic,Fresno,CA,False,attack,Not fleeing,True,-119.812,36.75,True,1,51 to 55
+865,1008,1153,Alan Huberth Franco-Armenta,6/1/2016,shot,gun,32.0,M,Hispanic,Carrizozo,NM,True,attack,Not fleeing,False,-105.918,33.683,True,1,26 to 30
+878,1023,1169,Miguel Hernandez,14/1/2016,shot,knife,39.0,M,Hispanic,Santa Clarita,CA,False,other,Not fleeing,False,-118.46,34.42,True,1,31 to 35
+881,1026,1172,Alfred Longoria,16/1/2016,shot,toy weapon,34.0,M,Hispanic,Hollywood Hills,CA,False,other,Foot,False,-118.358,34.104,True,1,26 to 30
+889,1035,1171,Efrain Herrera,17/1/2016,shot and Tasered,knife,24.0,M,Hispanic,North Hills,CA,False,other,Not fleeing,False,-118.46,34.23,True,1,16 to 20
+903,1050,1199,Sergio Alvarado-Morales,25/1/2016,shot and Tasered,knife,38.0,M,Hispanic,Reno,NV,True,other,Not fleeing,False,-119.804,39.477,True,1,31 to 35
+907,1054,1206,Herman Flores,27/1/2016,shot,gun,31.0,M,Hispanic,Santa Fe,NM,False,attack,Not fleeing,False,-105.992,35.654,True,1,26 to 30
+912,1059,1212,Israel Vladimir Rodriguez,27/1/2016,shot,gun,26.0,M,Hispanic,Cobb County,GA,False,attack,Car,False,-84.484,33.923,True,1,21 to 25
+920,1068,1224,Jose Alegre,30/1/2016,shot,gun,64.0,M,Hispanic,Rossville,GA,True,attack,Not fleeing,False,-85.26899999999998,34.985,True,1,56 to 60
+922,1070,1223,Juan A. Ruiz,31/1/2016,shot,knife,46.0,M,Hispanic,Immokalee,FL,False,other,Not fleeing,False,-81.419,26.418000000000006,True,1,41 to 45
+927,1076,1232,Edgar Rene Alvarado,1/2/2016,shot,gun,21.0,M,Hispanic,Albuquerque,NM,True,attack,Car,True,-106.583,35.094,True,1,16 to 20
+930,1079,1234,Cristiaan Oliver Dubrino,3/2/2016,shot,gun,31.0,M,Hispanic,Ocala,FL,True,attack,Not fleeing,False,-82.053,29.168000000000006,True,1,26 to 30
+936,1085,1250,Hector Leroy,4/2/2016,shot,gun,43.0,M,Hispanic,El Paso,TX,False,attack,Not fleeing,False,-106.49,31.757,True,1,36 to 40
+940,1090,1240,Jose Mendez,6/2/2016,shot,gun,16.0,M,Hispanic,Los Angeles,CA,False,attack,Car,True,-118.294,34.063,True,1,11 to 15
+945,1097,1251,Gustavo Najera,9/2/2016,shot,unarmed,22.0,M,Hispanic,Anaheim,CA,False,undetermined,Not fleeing,True,-117.934,33.843,True,1,16 to 20
+963,1115,1271,Eduardo Rodriguez,14/2/2016,shot,gun,29.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,False,-118.163,34.022,True,1,21 to 25
+966,1118,1282,Guadalupe Sauceda,15/2/2016,shot,gun,52.0,M,Hispanic,Jal,NM,False,attack,Not fleeing,False,-103.426,32.166,True,1,46 to 50
+970,1123,1285,Jose Quintanilla,18/2/2016,shot,undetermined,30.0,M,Hispanic,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.854,33.748000000000005,True,1,26 to 30
+971,1124,1286,Oscar Reyes,18/2/2016,shot,undetermined,35.0,M,Hispanic,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.85,33.748000000000005,True,1,31 to 35
+972,1125,1287,Ronnie Padron,18/2/2016,shot,gun,32.0,M,Hispanic,Reno,TX,False,attack,Not fleeing,False,-97.578,32.944,True,1,26 to 30
+976,1129,1291,Danny Rendon,20/2/2016,shot,gun,30.0,M,Hispanic,Anaheim,CA,False,attack,Car,True,-117.952,33.808,True,1,26 to 30
+977,1130,1294,Edgar Camacho-Alvarado,20/2/2016,shot,gun,23.0,M,Hispanic,Albuquerque,NM,False,attack,Foot,False,-106.72,35.08,True,1,16 to 20
+985,1138,1301,Gerardino Cayetano Gonzalez,22/2/2016,shot,gun,33.0,M,Hispanic,Denver,CO,False,attack,Other,False,-105.035,39.766,True,1,26 to 30
+988,1143,1309,Angel Alan Gleason,23/2/2016,shot,gun,36.0,M,Hispanic,Ripon,CA,False,other,Other,False,-121.143,37.776,True,1,31 to 35
+990,1145,1310,Baltazar Ramos,23/2/2016,shot and Tasered,machete,39.0,M,Hispanic,Houston,TX,True,attack,Not fleeing,False,-95.316,29.713,True,1,31 to 35
+999,1157,1325,Fernando Hernandez,27/2/2016,shot,gun,23.0,M,Hispanic,San Antonio,TX,False,attack,Car,True,-98.702,29.498,True,1,16 to 20
+1003,1161,1328,Dimitri Corcino,1/3/2016,shot,gun,39.0,M,Hispanic,Palm Bay,FL,True,attack,Not fleeing,False,-80.641,28.028,True,1,31 to 35
+1004,1162,1329,Jorge Brian Gonzalez,1/3/2016,shot,gun,22.0,M,Hispanic,Euless,TX,True,attack,Not fleeing,False,-97.091,32.831,True,1,16 to 20
+1008,1166,1335,Sergio Ochoa,3/3/2016,shot,knife,27.0,M,Hispanic,Gilbert,AZ,False,other,Car,False,-111.777,33.33,True,1,21 to 25
+1014,1173,1340,Osvaldo Torres,6/3/2016,shot,gun,41.0,M,Hispanic,South Gate,CA,False,attack,Other,False,-118.176,33.941,True,1,36 to 40
+1022,1182,1352,Martin Hurtado,10/3/2016,shot,gun,21.0,M,Hispanic,Long Beach,CA,False,other,Foot,False,-118.203,33.878,True,1,16 to 20
+1027,1188,1515,Teodoro Valencia,11/3/2016,shot,gun,23.0,M,Hispanic,Newark,CA,False,attack,Foot,False,-122.028,37.54,True,1,16 to 20
+1031,1193,1358,Jose Raul Cruz,13/3/2016,shot,unarmed,16.0,M,Hispanic,Addison,TX,False,undetermined,Car,False,-96.856,32.94,True,1,11 to 15
+1040,1203,1367,Cristian Rene Medina,16/3/2016,shot,unarmed,23.0,M,Hispanic,Florence,CA,True,other,Not fleeing,False,-118.241,33.981,True,1,16 to 20
+1041,1204,1368,Eric Hernandez,16/3/2016,shot,gun,33.0,M,Hispanic,San Antonio,TX,True,attack,Not fleeing,False,-98.484,29.363000000000003,True,1,26 to 30
+1053,1218,1393,Abraham Martinez,20/3/2016,shot,gun,62.0,M,Hispanic,Fort Wayne,IN,False,attack,Foot,False,-85.133,41.05,True,1,56 to 60
+1059,1226,1402,Raymond Gonzalez,23/3/2016,shot,gun,34.0,M,Hispanic,Fresno,CA,False,attack,Foot,True,-119.791,36.77,True,1,26 to 30
+1064,1232,1408,Mario Sandoval,24/3/2016,shot,gun,19.0,M,Hispanic,Pueblo of Laguna,NM,False,attack,Not fleeing,True,-106.617,35.086,True,1,11 to 15
+1076,1247,1436,Ruben Cossyleon,30/3/2016,shot,gun,25.0,M,Hispanic,Glendale,AZ,False,undetermined,Not fleeing,False,-112.225,33.523,True,1,21 to 25
+1082,1254,1435,Joel Fabela,1/4/2016,shot,gun,37.0,M,Hispanic,Odessa,TX,False,attack,Not fleeing,False,-102.328,31.865,True,1,31 to 35
+1087,1260,1428,Raul Salvador Marquez Heraldes,4/4/2016,shot,knife,50.0,M,Hispanic,Minneapolis,MN,True,attack,Not fleeing,False,-93.244,44.962,True,1,46 to 50
+1092,1265,1442,Cesar Frias,6/4/2016,shot and Tasered,knife,20.0,M,Hispanic,Sylmar,CA,True,attack,Not fleeing,False,-118.453,34.308,True,1,16 to 20
+1093,1266,1443,Luis Gongora,7/4/2016,shot,knife,45.0,M,Hispanic,San Francisco,CA,False,other,Not fleeing,False,-122.416,37.762,True,1,41 to 45
+1100,1275,1452,Arturo Yobani-Torrez Valdez,10/4/2016,shot,knife,28.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,False,-118.226,34.049,True,1,21 to 25
+1101,1276,1454,Efren Eloy Trujillo,11/4/2016,shot,gun,22.0,M,Hispanic,Las Vegas,NV,False,attack,Not fleeing,False,-115.154,36.148,True,1,16 to 20
+1104,1279,1457,Joshua Moreno,12/4/2016,shot,gun,38.0,M,Hispanic,Benton,IL,False,attack,Car,False,-88.935,37.957,True,1,31 to 35
+1123,1301,1482,Mario Mejia Martinez,21/4/2016,shot,knife,48.0,M,Hispanic,Everett,MA,False,other,Not fleeing,False,-71.042,42.403,True,1,41 to 45
+1163,1353,1539,Robert Mark Diaz,13/5/2016,shot,gun,28.0,M,Hispanic,Boyle Heights,CA,False,attack,Not fleeing,True,-118.202,34.026,True,1,21 to 25
+1173,1363,1546,Israel Santos-Banos,18/5/2016,shot,gun,20.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-111.978,33.378,True,1,16 to 20
+1174,1364,1547,Jeremias Cruz,19/5/2016,shot,unarmed,30.0,M,Hispanic,Las Vegas,NV,False,attack,Not fleeing,False,-115.124,36.199,True,1,26 to 30
+1176,1366,1549,Jaime Ide,19/5/2016,shot,knife,35.0,M,Hispanic,Citrus Heights,CA,False,other,Not fleeing,True,-121.276,38.674,True,1,31 to 35
+1186,1380,1567,Mario Montoya,24/5/2016,shot,gun,31.0,M,Hispanic,Albuquerque,NM,False,attack,Not fleeing,False,-106.51,35.069,True,1,26 to 30
+1192,1389,1583,Angel Daniel Navarro,26/5/2016,shot,gun,25.0,M,Hispanic,Socorro,NM,False,attack,Car,False,-106.892,34.058,True,1,21 to 25
+1196,1393,1573,Dionisio Augustine Garza III,29/5/2016,shot,gun,25.0,M,Hispanic,Houston,TX,True,attack,Not fleeing,False,-95.573,29.774,True,1,21 to 25
+1214,1414,1599,Omar Villagomez,7/6/2016,shot,vehicle,21.0,M,Hispanic,Turlock,CA,False,other,Not fleeing,False,-120.874,37.493,True,1,16 to 20
+1217,1417,1602,Carlos Garcia,8/6/2016,shot,gun,43.0,M,Hispanic,Kansas City,MO,False,attack,Not fleeing,False,-94.548,39.062,True,1,36 to 40
+1221,1424,1613,Bobby Sanchez,10/6/2016,shot,gun,32.0,M,Hispanic,Pueblo,CO,False,attack,Foot,False,-104.645,38.295,True,1,26 to 30
+1222,1425,1614,J. Juan Briseno-Ortega,10/6/2016,shot,gun,50.0,M,Hispanic,Yakima,WA,False,attack,Not fleeing,True,-120.599,46.567,True,1,46 to 50
+1230,1434,1621,Edward Acquisto,13/6/2016,shot,gun,80.0,M,Hispanic,Tiverton,RI,False,attack,Car,False,-71.199,41.65600000000001,True,1,76 to 80
+1234,1439,1625,Fernando Geovanni Llanez,14/6/2016,shot,undetermined,22.0,M,Hispanic,Chula Vista,CA,False,attack,Not fleeing,False,-116.961,32.662,True,1,16 to 20
+1253,1468,1660,Miguel Angel Chavez-Angles,24/6/2016,shot,gun,42.0,M,Hispanic,Oklahoma City,OK,True,other,Other,False,-97.493,35.338,True,1,36 to 40
+1254,1469,1728,Jamil Alejandro Valladares,24/6/2016,shot,gun,26.0,M,Hispanic,Riverview,FL,False,attack,Not fleeing,False,-82.34700000000002,27.888,True,1,21 to 25
+1257,1475,1656,Daniel Reyes,26/6/2016,shot,knife,27.0,M,Hispanic,Thomaston,CT,False,other,Not fleeing,False,-73.084,41.69300000000001,True,1,21 to 25
+1269,1491,1678,Jasen Scott Ramirez,30/6/2016,shot,undetermined,44.0,M,Hispanic,Douglas,WY,False,undetermined,Not fleeing,False,-105.381,42.757,True,1,36 to 40
+1276,1501,1681,Anthony Nunez,4/7/2016,shot,gun,18.0,M,Hispanic,San Jose,CA,True,other,Not fleeing,False,-121.807,37.368,True,1,11 to 15
+1279,1506,1695,Melissa Ventura,5/7/2016,shot,knife,24.0,F,Hispanic,Yuma,AZ,False,other,Not fleeing,False,-114.667,32.713,True,1,16 to 20
+1282,1510,1697,Vinson Lee Ramos,7/7/2016,shot,knife,37.0,M,Hispanic,Bell,CA,False,other,Not fleeing,False,-118.188,33.971,True,1,31 to 35
+1289,1518,1705,Pablo Medina,11/7/2016,shot,gun,41.0,M,Hispanic,Romulus,MI,False,attack,Not fleeing,False,-83.34700000000002,42.239,True,1,36 to 40
+1301,1534,1722,Javier Garcia Gaona,20/7/2016,shot,knife,31.0,M,Hispanic,Santa Maria,CA,True,other,Not fleeing,False,-120.438,34.935,True,1,26 to 30
+1306,1540,1836,Steven Alfred Longoria,23/7/2016,shot,gun,34.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.571,29.413,True,1,26 to 30
+1314,1550,1740,Saddam Trejeda-Campos,27/7/2016,shot,knife,24.0,M,Hispanic,San Bernardino,CA,True,other,Not fleeing,False,-117.314,34.132,True,1,16 to 20
+1317,1553,1737,Jorge Moreno-Aguirre,28/7/2016,shot,undetermined,41.0,M,Hispanic,Sparks,NV,False,undetermined,Not fleeing,False,-119.745,39.551,True,1,36 to 40
+1319,1556,1743,Jesus Rael,28/7/2016,shot,gun,31.0,M,Hispanic,Tucson,AZ,False,attack,Other,False,-110.969,32.178000000000004,True,1,26 to 30
+1321,1558,1745,Omar Gonzalez,28/7/2016,shot,undetermined,36.0,M,Hispanic,City Terrace,CA,False,other,Car,True,-118.193,34.053000000000004,True,1,31 to 35
+1324,1562,1749,Mario Martinez Torres,31/7/2016,shot,undetermined,38.0,M,Hispanic,Wapato,WA,False,undetermined,Not fleeing,False,-120.424,46.447,True,1,31 to 35
+1344,1585,1774,Juan J. Godines,8/8/2016,shot,gun,34.0,M,Hispanic,Georgetown,KY,False,attack,Other,False,-84.62700000000002,38.181,True,1,26 to 30
+1347,1588,1776,Jesse James Romero,9/8/2016,shot,gun,14.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,True,-118.215,34.038000000000004,True,1,Lesser than 10
+1350,1591,1785,Sergio Daniel Weick,11/8/2016,shot,knife,33.0,M,Hispanic,Vista,CA,False,undetermined,Other,False,-117.258,33.196,True,1,26 to 30
+1352,1593,1782,Jesus Armando Carillo,12/8/2016,shot,undetermined,22.0,M,Hispanic,Mesa,AZ,False,other,Car,False,-111.84,33.451,True,1,16 to 20
+1354,1596,1781,Ruben Horacio Strand Alvear,13/8/2016,shot,knife,38.0,M,Hispanic,Phoenix,AZ,True,attack,Not fleeing,False,-112.152,33.495,True,1,31 to 35
+1361,1605,1792,Marcos Antonio Gastelum,16/8/2016,shot,unarmed,25.0,M,Hispanic,Tucson,AZ,False,attack,Not fleeing,False,-111.161,32.18,True,1,21 to 25
+1363,1609,1794,Francisco Villarreal,18/8/2016,shot,gun,37.0,M,Hispanic,Bakersfield,CA,False,attack,Car,False,-118.983,35.35,True,1,31 to 35
+1370,1617,1800,Jorge Ceniceros,19/8/2016,shot,gun,22.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.039,33.48,True,1,16 to 20
+1374,1621,1803,Pedro Montanez,20/8/2016,shot,knife,71.0,M,Hispanic,Indio,CA,False,other,Not fleeing,True,-116.216,33.726,True,1,66 to 70
+1375,1622,1804,Juan Gabriel Torres,21/8/2016,shot,knife,36.0,M,Hispanic,Las Cruces,NM,False,other,Not fleeing,True,-106.765,32.309,True,1,31 to 35
+1378,1625,1811,Elias Portillo,24/8/2016,shot,gun,36.0,M,Hispanic,Oak Cliff,TX,False,attack,Foot,False,-96.88,32.75,True,1,31 to 35
+1383,1632,1820,Angel Torres Jr.,27/8/2016,shot,toy weapon,26.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.183,33.482,True,1,21 to 25
+1394,1648,1847,Joshua Quintero,1/9/2016,shot,gun,23.0,M,Hispanic,Florence,CA,False,other,Foot,False,-118.243,33.963,True,1,16 to 20
+1395,1650,1849,Joseph Moreno,2/9/2016,shot,gun,38.0,M,Hispanic,Alamogordo,NM,False,attack,Foot,True,-105.952,32.885,True,1,31 to 35
+1400,1659,1859,Simon Gomez,4/9/2016,shot,knife,44.0,M,Hispanic,Grand Junction,CO,True,other,Not fleeing,False,-108.526,39.076,True,1,36 to 40
+1402,1661,1858,Cesar Garcia,5/9/2016,shot,gun,35.0,M,Hispanic,Austin,TX,False,other,Not fleeing,False,-97.76,30.435,True,1,31 to 35
+1404,1664,1864,Steven Del Rio,6/9/2016,shot,gun,31.0,M,Hispanic,Phoenix,AZ,False,attack,Car,False,-112.074,33.448,True,1,26 to 30
+1411,1671,1873,Jose Torres,8/9/2016,shot,toy weapon,38.0,M,Hispanic,Delhi,CA,False,attack,Not fleeing,False,-120.781,37.422,True,1,31 to 35
+1412,1672,1874,Ricardo Tenorio,9/9/2016,shot,gun,32.0,M,Hispanic,Memphis,TN,False,attack,Not fleeing,False,-90.158,35.156,True,1,26 to 30
+1418,1680,1882,Christian Vargas,12/9/2016,shot,unarmed,25.0,M,Hispanic,Colton,CA,False,other,Car,False,-117.311,34.072,True,1,21 to 25
+1420,1682,1884,Robert Carrillo,15/9/2016,shot,gun,32.0,M,Hispanic,Phoenix,AZ,False,other,Other,False,-112.03,33.424,True,1,26 to 30
+1441,1707,1915,Christopher Contreras,23/9/2016,shot,gun,30.0,M,Hispanic,San Antonio,TX,False,other,Foot,False,-98.534,29.373,True,1,26 to 30
+1449,1716,1920,Johnathan Lozano-Murillo,28/9/2016,shot,knife,28.0,M,Hispanic,Valdosta,GA,False,attack,Not fleeing,True,-83.266,30.871,True,1,21 to 25
+1458,1726,1922,Daniel Perez,2/10/2016,shot,toy weapon,16.0,M,Hispanic,Los Angeles,CA,True,attack,Not fleeing,True,-118.25,34.0,True,1,11 to 15
+1469,1740,1942,Ricardo Hernandez,8/10/2016,shot,knife,21.0,M,Hispanic,Federal Way,WA,True,other,Not fleeing,False,-122.296,47.343,True,1,16 to 20
+1474,1747,1950,Maurico Barron,10/10/2016,shot,unarmed,27.0,M,Hispanic,Irvine,CA,True,other,Not fleeing,False,-117.795,33.684,True,1,21 to 25
+1480,1759,1969,George Zapata,14/10/2016,shot,gun,24.0,M,Hispanic,Oak Cliff,TX,False,attack,Not fleeing,False,-96.821,32.711,True,1,16 to 20
+1483,1764,1971,Rolando Delgado,17/10/2016,shot,sword,50.0,M,Hispanic,Miami,FL,True,other,Not fleeing,False,-80.294,25.939,True,1,46 to 50
+1487,1769,1976,Salvador Reyes,18/10/2016,shot,gun,42.0,M,Hispanic,Tulsa,OK,False,attack,Not fleeing,False,-95.787,36.1,True,1,36 to 40
+1489,1773,1982,Javier Munoz,19/10/2016,shot,vehicle,28.0,M,Hispanic,Henderson,NV,False,attack,Car,False,-115.028,36.044,True,1,21 to 25
+1504,1790,1998,Edwin Amaya Maldonado,27/10/2016,shot,undetermined,24.0,M,Hispanic,Elberton,GA,False,attack,Foot,False,-82.897,34.233000000000004,True,1,16 to 20
+1509,1796,2004,Jordan Gonzales,30/10/2016,shot,gun,23.0,M,Hispanic,Corpus Christi,TX,False,attack,Not fleeing,False,-97.393,27.794,True,1,16 to 20
+1511,1799,2007,Jose Armando Cueva,31/10/2016,shot,knife,55.0,M,Hispanic,Chatsworth,CA,False,attack,Not fleeing,False,-118.569,34.241,True,1,51 to 55
+1518,1807,2015,Abraham Ortiz,4/11/2016,shot,unarmed,26.0,M,Hispanic,Palm Springs,CA,False,other,Not fleeing,False,-116.546,33.818000000000005,True,1,21 to 25
+1523,1818,2014,David Contreras,6/11/2016,shot and Tasered,unarmed,33.0,M,Hispanic,Santa Ana,CA,False,attack,Not fleeing,False,-117.903,33.727,True,1,26 to 30
+1525,1821,2031,Juan Ramos,8/11/2016,shot,gun,23.0,M,Hispanic,Denver,CO,False,attack,Other,False,-104.965,39.78,True,1,16 to 20
+1526,1823,2033,Carlos Mendez,8/11/2016,shot,gun,45.0,M,Hispanic,Azusa,CA,False,attack,Not fleeing,False,-117.913,34.128,True,1,41 to 45
+1531,1833,2045,Richard T. Herrera,12/11/2016,shot,gun,29.0,M,Hispanic,Tucson,AZ,False,attack,Car,False,-110.969,31.972,True,1,21 to 25
+1532,1834,2040,Juan Carlos Fernandez,13/11/2016,shot,gun,22.0,M,Hispanic,San Diego,CA,False,attack,Not fleeing,True,-117.106,32.75,True,1,16 to 20
+1533,1835,2041,Daniel Laguna,13/11/2016,shot,gun,21.0,M,Hispanic,Oklahoma City,OK,False,attack,Not fleeing,False,-97.53,35.37699999999999,True,1,16 to 20
+1535,1840,2050,Jose George Anthony Franco,16/11/2016,shot,machete,37.0,M,Hispanic,Whittier,CA,False,other,Not fleeing,False,-118.033,33.975,True,1,31 to 35
+1542,1851,2061,Andrew Moreno,20/11/2016,shot,gun,24.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.598,29.51,True,1,16 to 20
+1546,1855,2065,Mark Daniel Sly,22/11/2016,shot,gun,45.0,M,Hispanic,La Mirada,CA,False,attack,Not fleeing,False,-117.977,33.909,True,1,41 to 45
+1552,1864,2142,Carlos Valencia,25/11/2016,shot,unarmed,26.0,M,Hispanic,Tucson,AZ,False,other,Not fleeing,True,-110.973,32.201,True,1,21 to 25
+1557,1871,2085,Pablo Renato Cartagena,28/11/2016,shot,gun,23.0,M,Hispanic,Los Angeles,CA,False,undetermined,Foot,False,-118.266,34.023,True,1,16 to 20
+1573,1902,2121,Jose Angel Vallarta,11/12/2016,shot,knife,30.0,M,Hispanic,Laredo,TX,False,attack,Not fleeing,False,-99.468,27.47,True,1,26 to 30
+1577,1906,2114,Francisco Serna,12/12/2016,shot,unarmed,73.0,M,Hispanic,Bakersfield,CA,False,other,Not fleeing,False,-119.09,35.301,True,1,66 to 70
+1584,1914,2134,Fidel Barrios,17/12/2016,shot,gun,33.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,False,-118.163,34.022,True,1,26 to 30
+1590,1921,2140,Martin Gomez,20/12/2016,shot,knife,46.0,M,Hispanic,Pharr,TX,False,other,Not fleeing,False,-98.196,26.211,True,1,41 to 45
+1602,1945,2171,Alfonso Lopez,27/12/2016,shot,knife,41.0,M,Hispanic,North Riverside,IL,False,attack,Not fleeing,False,-87.806,41.849,True,1,36 to 40
+1611,1958,2185,Juan Carlos Cuadra,1/1/2017,shot,gun,23.0,M,Hispanic,Houston,TX,False,attack,Foot,False,-95.428,29.603,True,1,16 to 20
+1619,1967,2194,Luis Vargas,5/1/2017,shot,gun,20.0,M,Hispanic,Dinuba,CA,False,attack,Not fleeing,False,-119.395,36.555,True,1,16 to 20
+1626,1975,2202,Carlos A. Cruz,7/1/2017,shot,gun,50.0,M,Hispanic,Independence,MO,True,attack,Not fleeing,False,-94.357,39.051,True,1,46 to 50
+1627,1976,2203,Gilbert Zambronio-Lovato,7/1/2017,shot,toy weapon,38.0,M,Hispanic,Albuquerque,NM,False,other,Not fleeing,False,-106.604,35.124,True,1,31 to 35
+1634,1984,2215,Jose A. Fernandez-Ventura,11/1/2017,shot,gun,38.0,M,Hispanic,Camden,NJ,False,attack,Not fleeing,False,-75.086,39.946,True,1,31 to 35
+1645,1999,2229,Dominic Hodges,17/1/2017,shot,gun,39.0,M,Hispanic,Twentynine Palms,CA,False,attack,Not fleeing,False,-116.081,34.135,True,1,31 to 35
+1649,2005,2225,Marlon Joel Rodas-Sanchez,18/1/2017,shot and Tasered,knife,16.0,M,Hispanic,Salinas,CA,False,other,Not fleeing,True,-121.635,36.679,True,1,11 to 15
+1651,2007,2244,Christopher Garza,19/1/2017,shot,gun,44.0,M,Hispanic,Fritch,TX,False,attack,Foot,False,-101.603,35.64,True,1,36 to 40
+1658,2014,2238,Jorge Victor,22/1/2017,shot,gun,33.0,M,Hispanic,Carson,CA,False,other,Not fleeing,False,-118.219,33.828,True,1,26 to 30
+1659,2015,2235,Angel Ramos,23/1/2017,shot,knife,21.0,M,Hispanic,Vallejo,CA,False,attack,Not fleeing,True,-122.258,38.113,True,1,16 to 20
+1664,2020,2246,Josue Gallardo,24/1/2017,shot,gun,34.0,M,Hispanic,Atascadero,CA,False,other,Not fleeing,False,-120.639,35.447,True,1,26 to 30
+1667,2023,2255,Antonio Arturo Perez Garcia,24/1/2017,shot,gun,27.0,M,Hispanic,Bakersfield,CA,False,attack,Other,False,-118.989,35.381,True,1,21 to 25
+1668,2024,2256,Jeremy Lopez-Robledo,24/1/2017,shot,knife,29.0,M,Hispanic,Las Cruces,NM,True,attack,Foot,True,-106.759,32.295,True,1,21 to 25
+1670,2026,2259,Ramon Milanez,24/1/2017,shot,gun,32.0,M,Hispanic,Kuna,ID,False,attack,Car,False,-116.42,43.492,False,1,26 to 30
+1671,2027,2258,Jose Efrain Rodriguez,24/1/2017,shot and Tasered,gun,18.0,M,Hispanic,Lancaster City,PA,False,attack,Not fleeing,False,-76.301,40.034,True,1,11 to 15
+1674,2031,2265,Josue Javier Diaz,26/1/2017,shot,gun,28.0,M,Hispanic,Charlotte,NC,False,other,Car,False,-80.74,35.203,True,1,21 to 25
+1677,2035,2272,Eduardo Hernandez,27/1/2017,shot,gun,25.0,M,Hispanic,Alhambra,CA,True,attack,Not fleeing,True,-118.155,34.095,True,1,21 to 25
+1678,2036,2273,Gerardo Coronado,28/1/2017,shot,gun,25.0,M,Hispanic,Fort Stockton,TX,False,attack,Car,False,-102.88,30.893,True,1,21 to 25
+1682,2041,2275,Steve Salgado,29/1/2017,shot,unarmed,18.0,M,Hispanic,Santa Ana,CA,False,other,Foot,False,-117.871,33.742,True,1,11 to 15
+1687,2051,2708,Miguel Angel Silva,2/2/2017,shot,gun,18.0,M,Hispanic,Wichita Falls,TX,False,undetermined,Not fleeing,False,-98.527,33.887,True,1,11 to 15
+1688,2052,2281,Jose Gonzales Lera,3/2/2017,shot,gun,27.0,M,Hispanic,Olympic Valley,CA,False,attack,Car,False,-120.202,39.2,True,1,21 to 25
+1694,2061,2348,Peter Torres,4/2/2017,shot,unarmed,23.0,M,Hispanic,Moultrie,GA,False,other,Not fleeing,False,-83.771,31.082,True,1,16 to 20
+1699,2067,2287,Gerardo Vasquez,6/2/2017,shot and Tasered,knife,52.0,M,Hispanic,Santa Monica,CA,True,attack,Foot,False,-118.455,34.027,True,1,46 to 50
+1707,2079,2315,Juan Salinas,9/2/2017,shot and Tasered,knife,33.0,M,Hispanic,Lake Stevens,WA,True,other,Not fleeing,False,-122.088,47.979,True,1,26 to 30
+1717,2094,2333,Bryan Devin Carreno,12/2/2017,shot,knife,26.0,M,Hispanic,Santa Barbara,CA,True,other,Foot,False,-119.752,34.449,True,1,21 to 25
+1724,2103,2345,Mauro Garnica,15/2/2017,shot,unknown weapon,55.0,M,Hispanic,Newman,CA,False,attack,Not fleeing,False,-121.013,37.32,True,1,51 to 55
+1726,2105,2349,Joseph Tamayo,16/2/2017,shot,gun,48.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.532,29.366,True,1,41 to 45
+1734,2115,2358,Sergio Reyes,19/2/2017,shot,toy weapon,18.0,M,Hispanic,New York,NY,False,attack,Foot,False,-73.92,40.702,True,1,11 to 15
+1735,2117,2362,Manuel Encinas,19/2/2017,shot,gun,26.0,M,Hispanic,Tucson,AZ,False,attack,Not fleeing,False,-110.959,32.074,True,1,21 to 25
+1740,2122,2366,Nicolas Sanchez,21/2/2017,shot,gun,38.0,M,Hispanic,Roy,UT,False,attack,Not fleeing,True,-112.026,41.184,True,1,31 to 35
+1741,2123,2367,Bartolo Justice Sambrano,21/2/2017,shot,gun,25.0,M,Hispanic,Ogden,UT,False,attack,Not fleeing,True,-111.973,41.225,True,1,21 to 25
+1742,2124,2368,Misael Macias Cano,21/2/2017,shot,gun,39.0,M,Hispanic,Colorado Springs,CO,False,other,Other,False,-104.776,38.854,True,1,31 to 35
+1746,2128,2370,David Lee Montano,23/2/2017,shot,gun,33.0,M,Hispanic,Newton,KS,False,attack,Not fleeing,False,-95.161,29.69,True,1,26 to 30
+1748,2131,2376,Steven Valenzuela,23/2/2017,shot,gun,24.0,M,Hispanic,Reno,NV,False,other,Foot,False,-119.816,39.528,True,1,16 to 20
+1762,2146,2711,Jose Olivares,28/2/2017,shot,gun,43.0,M,Hispanic,Houma,LA,True,other,Not fleeing,False,-90.7,29.586,True,1,36 to 40
+1765,2150,2397,Michael Cisneros,2/3/2017,shot,toy weapon,27.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.069,33.451,True,1,21 to 25
+1766,2151,2398,Rafael Navarro-Garcia,2/3/2017,shot,gun,25.0,M,Hispanic,Reno,NV,False,attack,Not fleeing,False,-119.789,39.497,True,1,21 to 25
+1767,2152,2435,Ramon Andrade,2/3/2017,shot,knife,37.0,M,Hispanic,Paterson,NJ,True,other,Not fleeing,False,-74.165,40.901,True,1,31 to 35
+1776,2169,2414,Manuel Gonzalez,12/3/2017,shot,knife,28.0,M,Hispanic,Bellingham,WA,False,attack,Foot,True,-122.475,48.75100000000001,True,1,21 to 25
+1777,2170,2412,Michael Anthony Perez,12/3/2017,shot and Tasered,knife,33.0,M,Hispanic,Orange,CA,True,other,Not fleeing,False,-117.853,33.809,True,1,26 to 30
+1793,2195,2444,Mario Simoes,19/3/2017,shot,gun,45.0,M,Hispanic,DeLand,FL,True,other,Car,False,-81.3,29.057,True,1,41 to 45
+1798,2202,2453,Francisco Valdez,23/3/2017,shot,knife,24.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.198,33.452,True,1,16 to 20
+1801,2205,2458,Matthew Gambaro,24/3/2017,shot,gun,26.0,M,Hispanic,Cisco,TX,False,other,Foot,False,-98.979,32.375,True,1,21 to 25
+1802,2206,2454,Fred Barragan,25/3/2017,shot,gun,35.0,M,Hispanic,Los Angeles,CA,False,other,Foot,False,-118.211,34.044000000000004,True,1,31 to 35
+1818,2225,2478,Jose Antonio Hernandez,3/4/2017,shot and Tasered,gun,46.0,M,Hispanic,Pendleton,SC,True,other,Not fleeing,True,-82.786,34.663000000000004,True,1,41 to 45
+1819,2226,2479,Rogelio Vidal Landa,4/4/2017,shot,unarmed,47.0,M,Hispanic,Bakersfield,CA,False,other,Foot,False,-119.005,35.276,True,1,41 to 45
+1821,2229,2482,Michael Alcaraz,5/4/2017,shot,gun,19.0,M,Hispanic,Goshen,IN,False,attack,Car,False,-85.816,41.576,True,1,11 to 15
+1828,2238,2490,Jose Gonzales Rendon,9/4/2017,shot,knife,36.0,M,Hispanic,Santa Paula,CA,False,attack,Not fleeing,False,-119.071,34.349000000000004,True,1,31 to 35
+1836,2252,2520,Isaiah Murrietta-Golding,15/4/2017,shot,unarmed,16.0,M,Hispanic,Fresno,CA,False,other,Foot,True,-119.772,36.801,True,1,11 to 15
+1840,2259,2517,Jose Trejo,20/4/2017,shot,gun,26.0,M,Hispanic,Hardeeville,SC,False,attack,Not fleeing,False,-81.082,32.294000000000004,True,1,21 to 25
+1855,2282,2547,Luis Fernando Pacheco,28/4/2017,shot,gun,25.0,M,Hispanic,San Mateo,CA,False,attack,Not fleeing,False,-123.989,41.364,True,1,21 to 25
+1862,2291,2551,Jason Sebastian Roque,2/5/2017,shot,gun,20.0,M,Hispanic,Austin,TX,True,other,Not fleeing,False,-97.651,30.372,True,1,16 to 20
+1868,2298,2561,Lucille Espinosa,4/5/2017,shot,gun,54.0,F,Hispanic,Katy,TX,True,other,Not fleeing,False,-95.739,29.804,True,1,46 to 50
+1871,2301,2559,Jose Hernandez-Rossy,7/5/2017,shot,gun,26.0,M,Hispanic,Buffalo,NY,False,attack,Foot,False,-78.904,42.944,True,1,21 to 25
+1887,2322,2579,David Jay Juarez,14/5/2017,shot,gun,41.0,M,Hispanic,Kingman,AZ,False,attack,Car,False,-114.053,35.189,True,1,36 to 40
+1892,2328,2585,Emmanuel Ibarra,15/5/2017,shot,knife,34.0,M,Hispanic,Del Mar,CA,True,attack,Foot,False,-117.269,32.977,True,1,26 to 30
+1894,2332,2588,Edwin Fuentes,16/5/2017,shot,gun,24.0,M,Hispanic,Tustin,CA,True,attack,Not fleeing,False,-117.842,33.742,True,1,16 to 20
+1901,2341,2598,Carlos Garcia Petrovich,21/5/2017,shot,unarmed,37.0,M,Hispanic,Orlando,FL,False,attack,Not fleeing,False,-81.418,28.45,True,1,31 to 35
+1906,2346,2601,Jorge Alberto Fuentes,23/5/2017,shot and Tasered,gun,21.0,M,Hispanic,Glendale,AZ,False,attack,Other,False,-112.152,33.553000000000004,True,1,16 to 20
+1912,2361,2631,Roman Jade Carrillo,30/5/2017,shot,gun,18.0,M,Hispanic,Salt Lake City,UT,False,attack,Car,False,-111.891,40.761,True,1,11 to 15
+1914,2364,2633,Francisco Suarez-Madonado,1/6/2017,shot,gun,27.0,M,Hispanic,Las Vegas,NV,True,attack,Not fleeing,False,-115.038,36.191,True,1,21 to 25
+1919,2370,2634,Antonio Gerardo Rodriguez,2/6/2017,shot,gun,55.0,M,Hispanic,Laredo,TX,False,attack,Not fleeing,False,-99.483,27.545,True,1,51 to 55
+1929,2385,2647,Oscar Junior,8/6/2017,shot,gun,45.0,M,Hispanic,Bakersfield,CA,False,attack,Not fleeing,False,-117.681,35.615,True,1,41 to 45
+1932,2389,2652,Antonio Juarez,9/6/2017,shot,gun,44.0,M,Hispanic,Lyons,IL,False,attack,Car,False,-87.821,41.82,True,1,36 to 40
+1937,2396,2658,Eleuterio Amaya-Torres,12/6/2017,shot,gun,63.0,M,Hispanic,Plano,TX,False,attack,Not fleeing,False,-96.795,33.06,True,1,56 to 60
+1940,2399,2656,Johnny Platas,12/6/2017,shot and Tasered,knife,45.0,M,Hispanic,Selma,CA,False,other,Not fleeing,False,-119.615,36.584,True,1,41 to 45
+1947,2409,2670,Hector Cisneros Soria,16/6/2017,shot,gun,30.0,M,Hispanic,Rialto,CA,False,other,Not fleeing,True,-117.352,34.095,True,1,26 to 30
+1948,2410,2676,Sergio Valdovinos,16/6/2017,shot,machete,32.0,M,Hispanic,Madera,CA,True,other,Not fleeing,False,-120.058,36.978,True,1,26 to 30
+1951,2413,2673,Samantha Aguilar,17/6/2017,shot,vehicle,28.0,F,Hispanic,Montebello,CA,False,other,Not fleeing,False,-118.128,33.98,True,1,21 to 25
+1957,2419,2684,David Pacas,20/6/2017,shot,toy weapon,36.0,M,Hispanic,South Gate,CA,False,attack,Other,False,-118.205,33.963,True,1,31 to 35
+1961,2423,2683,Pedro Ramirez,20/6/2017,shot and Tasered,knife,28.0,M,Hispanic,Las Vegas,NV,False,other,Not fleeing,True,-115.271,36.159,True,1,21 to 25
+1963,2425,2690,Daniel Francisco Valenzuela,21/6/2017,shot,knife,37.0,M,Hispanic,Millerton,OK,False,other,Not fleeing,False,-95.015,33.989000000000004,True,1,31 to 35
+1964,2426,2691,Armando Garcia-Muro,22/6/2017,shot,unarmed,17.0,M,Hispanic,Palmdale,CA,False,other,Not fleeing,False,-118.112,34.582,True,1,11 to 15
+1965,2427,2693,Santino Trevino,23/6/2017,shot,gun,20.0,M,Hispanic,Hollywood Hills,CA,False,attack,Not fleeing,False,-118.346,34.105,True,1,16 to 20
+1971,2437,2694,Rip Huntington,26/6/2017,shot,gun,36.0,M,Hispanic,Rowe,NM,True,attack,Not fleeing,False,-105.672,35.492,True,1,31 to 35
+1972,2438,2705,Jason Magana Herrera,27/6/2017,shot and Tasered,gun,35.0,M,Hispanic,Amarillo,TX,False,attack,Foot,False,-101.806,35.203,True,1,31 to 35
+1974,2442,2720,Marco Cardoza,29/6/2017,shot,toy weapon,41.0,M,Hispanic,Burbank,CA,False,attack,Not fleeing,False,-118.322,34.19,True,1,36 to 40
+1975,2444,2724,Jose Guillermo Flores Colon,29/6/2017,shot,Taser,37.0,M,Hispanic,Deltona,FL,False,other,Not fleeing,False,-81.264,28.911,True,1,31 to 35
+1977,2447,2726,Brett Rodriguez,30/6/2017,shot,gun,33.0,M,Hispanic,Westminster,CO,False,other,Foot,False,-105.035,39.82,True,1,26 to 30
+1978,2448,2727,Patrick Sanchez,1/7/2017,shot,gun,23.0,M,Hispanic,Glendale,AZ,False,other,Not fleeing,True,-112.234,33.538000000000004,True,1,16 to 20
+1986,2457,2737,Miguel Gonzales,4/7/2017,shot,gun,28.0,M,Hispanic,Albuquerque,NM,False,undetermined,Other,False,-106.722,35.053000000000004,True,1,21 to 25
+1994,2468,2748,Jonathan Coronel,5/7/2017,shot,unarmed,24.0,M,Hispanic,Vista,CA,False,undetermined,Foot,False,-117.253,33.2,True,1,16 to 20
+1995,2470,2744,Jesus Cervantes,6/7/2017,shot,undetermined,35.0,M,Hispanic,Plant City,FL,False,other,Car,False,-82.105,28.008000000000006,True,1,31 to 35
+2001,2480,2755,Brayant Alvarez,9/7/2017,shot,gun,24.0,M,Hispanic,Chicago,IL,False,attack,Foot,False,-87.75200000000002,41.933,True,1,16 to 20
+2009,2495,2778,Gerber Dieguez,15/7/2017,shot,gun,29.0,M,Hispanic,Los Angeles,CA,False,undetermined,Foot,False,-118.428,34.259,True,1,21 to 25
+2014,2500,2783,Ernesto Sedillo,17/7/2017,shot,gun,52.0,M,Hispanic,Las Cruces,NM,False,attack,Not fleeing,True,-106.763,32.304,True,1,46 to 50
+2016,2502,2785,Jose Cazares,17/7/2017,shot,gun,37.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.54,29.41,True,1,31 to 35
+2020,2507,2790,Anthony Benavidez,19/7/2017,shot,knife,24.0,M,Hispanic,Santa Fe,NM,True,other,Not fleeing,True,-105.951,35.649,True,1,16 to 20
+2024,2511,2794,Yahir Breito,21/7/2017,shot,knife,22.0,M,Hispanic,Santa Ana,CA,False,other,Not fleeing,False,-117.876,33.769,True,1,16 to 20
+2025,2512,2797,Vicente Velasquez,21/7/2017,shot,gun,42.0,M,Hispanic,Mission,TX,False,attack,Foot,False,-98.339,26.22,True,1,36 to 40
+2028,2516,2799,Ismael Lopez Rodriguez,23/7/2017,shot,gun,41.0,M,Hispanic,Southaven,MS,False,attack,Not fleeing,False,-90.007,34.946,True,1,36 to 40
+2033,2521,2803,Moises Balladares,25/7/2017,shot,gun,33.0,M,Hispanic,Avondale,AZ,True,attack,Not fleeing,False,-112.299,33.493,True,1,26 to 30
+2039,2529,2812,Alejandro Alvarado,27/7/2017,shot,knife,35.0,M,Hispanic,Chowchilla,CA,False,attack,Not fleeing,False,-120.258,37.119,True,1,31 to 35
+2049,2541,2824,Norberto Nieblas Reyes,31/7/2017,shot and Tasered,gun,39.0,M,Hispanic,Los Banos,CA,True,attack,Not fleeing,False,-120.82,37.053,True,1,31 to 35
+2051,2545,2832,Mark Anthony Sanchez,1/8/2017,shot,gun,33.0,M,Hispanic,Yuba City,CA,False,attack,Not fleeing,False,-121.263,39.362,True,1,26 to 30
+2052,2546,2843,Miguel Salas,1/8/2017,shot,gun,25.0,M,Hispanic,Las Vegas,NV,True,attack,Not fleeing,True,-115.195,36.105,True,1,21 to 25
+2054,2548,2833,Jeffrey Barboa,2/8/2017,shot,machete,45.0,M,Hispanic,Richmond,CA,False,attack,Car,False,-122.324,37.988,True,1,41 to 45
+2064,2560,2844,Pablo Garcia,5/8/2017,shot and Tasered,knife,35.0,M,Hispanic,Santa Rosa,CA,True,attack,Not fleeing,True,-122.742,38.459,True,1,31 to 35
+2067,2563,2841,Winston Espino Sanchez,7/8/2017,shot,knife,45.0,M,Hispanic,North Bergen,NJ,False,attack,Not fleeing,False,-74.035,40.779,True,1,41 to 45
+2068,2564,2848,Jose Ortiz,7/8/2017,shot,knife,29.0,M,Hispanic,Wichita,KS,False,other,Not fleeing,False,-97.339,37.706,True,1,21 to 25
+2074,2573,2858,Eduardo Navarrete,12/8/2017,shot,knife,35.0,M,Hispanic,Frederickson,WA,False,attack,Not fleeing,False,-122.355,47.084,True,1,31 to 35
+2086,2585,2883,Edgar Ramirez Carreto,17/8/2017,shot,knife,28.0,M,Hispanic,Phoenix,AZ,True,other,Not fleeing,False,-112.029,33.459,True,1,21 to 25
+2103,2605,2896,Isaias Raziel Ochoa,24/8/2017,shot,gun,19.0,M,Hispanic,Lemon Grove,CA,False,attack,Foot,False,-117.016,32.725,True,1,11 to 15
+2109,2611,2902,William Wilson,27/8/2017,shot,gun,26.0,M,Hispanic,Farmington,NM,False,attack,Not fleeing,False,-108.156,36.761,True,1,21 to 25
+2118,2622,2912,Issac Cervantes,31/8/2017,shot,gun,22.0,M,Hispanic,Bakersfield,CA,False,attack,Not fleeing,False,-119.021,35.311,True,1,16 to 20
+2128,2637,2931,Rueben Galindo,6/9/2017,shot,gun,29.0,M,Hispanic,Charlotte,NC,False,other,Not fleeing,False,-80.788,35.279,True,1,21 to 25
+2135,2644,2935,Erick Perez,10/9/2017,shot,gun,22.0,M,Hispanic,Youngtown,AZ,False,attack,Not fleeing,False,-112.302,33.6,True,1,16 to 20
+2137,2646,2937,Frankie Santos,10/9/2017,shot,gun,58.0,M,Hispanic,Tacoma,WA,False,attack,Not fleeing,False,-122.479,47.206,True,1,51 to 55
+2141,2651,2947,Vincent Edward Hernandez Jr,11/9/2017,shot,toy weapon,39.0,M,Hispanic,Bassett,CA,False,attack,Not fleeing,False,-117.977,34.063,True,1,31 to 35
+2142,2652,2948,Rodolfo Ballardo,13/9/2017,shot,gun,31.0,M,Hispanic,Quartzsite,AZ,False,attack,Car,False,-114.229,33.662,True,1,26 to 30
+2143,2656,2957,Jacob Dominguez,15/9/2017,shot,unarmed,32.0,M,Hispanic,San Jose,CA,False,other,Car,False,-121.842,37.39,True,1,26 to 30
+2146,2660,2958,Eric Alvarez,17/9/2017,shot and Tasered,knife,40.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,False,-118.213,34.029,True,1,36 to 40
+2180,2708,3014,Cristino Umana-Garcia,5/10/2017,shot,knife,29.0,M,Hispanic,Finney County,KS,True,other,Not fleeing,False,-100.89,38.063,True,1,21 to 25
+2182,2711,3019,German Ornelas,5/10/2017,shot,knife,31.0,M,Hispanic,Brownsville,TX,False,attack,Not fleeing,False,-97.699,26.193,True,1,26 to 30
+2185,2714,3017,Ernesto Padron,6/10/2017,shot,gun,52.0,M,Hispanic,Miami,FL,False,other,Foot,False,-80.24,25.794,True,1,46 to 50
+2186,2716,3016,Roberto Callejas,6/10/2017,shot and Tasered,knife,35.0,M,Hispanic,Orlando,FL,True,attack,Not fleeing,False,-81.332,28.514,True,1,31 to 35
+2188,2719,3004,Sabrina Ann Garcia,8/10/2017,shot,gun,34.0,F,Hispanic,Mesa,AZ,True,undetermined,Foot,False,-111.849,33.379,True,1,26 to 30
+2189,2720,3006,Albert Garcia,8/10/2017,shot,knife,58.0,M,Hispanic,San Fernando,CA,False,other,Not fleeing,False,-118.443,34.287,True,1,51 to 55
+2194,2727,3030,Kristian Martinez,11/10/2017,shot,unarmed,44.0,M,Hispanic,Valdez,CO,False,attack,Foot,False,-104.703,37.126,True,1,36 to 40
+2199,2732,3035,Michael David Lopez,14/10/2017,shot,undetermined,44.0,M,Hispanic,Torrance,CA,False,other,Car,False,-118.338,33.823,True,1,36 to 40
+2202,2736,3041,Luis David Flores,16/10/2017,shot,gun,34.0,M,Hispanic,Picture Rocks,AZ,False,other,Not fleeing,False,-111.199,32.345,True,1,26 to 30
+2203,2737,3042,Ezekiel Juan Duran,16/10/2017,shot,gun,18.0,M,Hispanic,Atwater,CA,False,attack,Not fleeing,False,-120.583,37.356,True,1,11 to 15
+2212,2750,3055,Nicholas Pimentel,22/10/2017,shot,unarmed,27.0,M,Hispanic,Ceres,CA,False,other,Car,False,-121.012,37.601,True,1,21 to 25
+2215,2754,3062,Matthew David Palaita,23/10/2017,shot,gun,35.0,M,Hispanic,Lodi,CA,False,attack,Not fleeing,False,-121.276,38.146,True,1,31 to 35
+2225,2768,3077,Baltazar Escalona-Baez,28/10/2017,shot,knife,17.0,M,Hispanic,Polk County,OR,False,other,Car,False,-123.609,45.059,True,1,11 to 15
+2230,2774,3081,Jesus Birelas-Contreras,31/10/2017,shot,knife,25.0,M,Hispanic,Sunnyvale,CA,False,attack,Not fleeing,False,-122.017,37.397,True,1,21 to 25
+2235,2779,3088,Jamee Almarez,1/11/2017,shot,gun,27.0,M,Hispanic,Anniston,AL,False,attack,Not fleeing,False,-85.84299999999998,33.685,True,1,21 to 25
+2242,2795,3108,Marylsa Sanchez,5/11/2017,shot,vehicle,31.0,F,Hispanic,Rudioso,NM,False,attack,Not fleeing,False,-105.647,33.367,True,1,26 to 30
+2267,2827,3142,Oscar Anaya,15/11/2017,shot,gun,22.0,M,Hispanic,Van Nuys,CA,False,attack,Car,False,-118.457,34.201,True,1,16 to 20
+2271,2832,3146,Isaac Padilla,17/11/2017,shot,unarmed,23.0,M,Hispanic,Albuquerque,NM,False,other,Car,False,-106.708,35.097,True,1,16 to 20
+2280,2843,3155,Emilio John Cruz Hernandez,23/11/2017,shot,gun,26.0,M,Hispanic,Klamath Falls,OR,False,other,Foot,False,-121.765,42.221,True,1,21 to 25
+2286,2850,3159,Nelson F. Rodarte,25/11/2017,shot,gun,39.0,M,Hispanic,Penasco,NM,False,attack,Not fleeing,False,-105.663,36.145,True,1,31 to 35
+2287,2851,3156,Johnny Castro,26/11/2017,shot,gun,43.0,M,Hispanic,Lemoore,CA,False,attack,Car,False,-119.79,36.286,True,1,36 to 40
+2289,2853,3158,Daniel Navarro,26/11/2017,shot,knife,22.0,M,Hispanic,Covina,CA,False,undetermined,Not fleeing,False,-117.864,34.093,True,1,16 to 20
+2290,2855,3165,Christian Chavez,27/11/2017,shot,gun,40.0,M,Hispanic,South Gate,CA,True,attack,Not fleeing,False,-118.223,33.951,True,1,36 to 40
+2294,2862,3175,Juan Andres Barillas,30/11/2017,shot,gun,37.0,M,Hispanic,North Hollywood,CA,False,other,Car,False,-118.407,34.198,True,1,31 to 35
+2296,2865,3177,Mario Guevara,2/12/2017,shot,knife,37.0,M,Hispanic,Colton,CA,True,other,Not fleeing,False,-117.36,34.078,True,1,31 to 35
+2300,2869,3182,Mario Sanabria,5/12/2017,shot,machete,69.0,M,Hispanic,Bronx,NY,False,other,Not fleeing,False,-73.92,40.808,True,1,61 to 65
+2315,2909,3239,Jose Aguero,21/12/2017,shot,gun,26.0,M,Hispanic,Greeley,CO,True,other,Foot,False,-104.803,40.378,True,1,21 to 25
+2317,2915,3240,Evilio Gomez,24/12/2017,shot,machete,46.0,M,Hispanic,Progreso,TX,False,other,Not fleeing,False,-97.949,26.112,True,1,41 to 45
+2321,2926,3246,Brooke Amelia Camacho,26/12/2017,shot,gun,38.0,F,Hispanic,Farmers Branch,TX,False,attack,Not fleeing,False,-96.889,32.924,True,1,31 to 35
+2326,2936,3255,Marco Antonio Carlos,30/12/2017,shot,gun,31.0,M,Hispanic,Redwood City,CA,False,attack,Not fleeing,False,-122.226,37.487,True,1,26 to 30
+2341,2958,3281,Guillermo Mendoza,6/1/2018,shot,gun,57.0,M,Hispanic,San Carlos Park,FL,False,attack,Not fleeing,False,-81.824,26.473000000000006,True,1,51 to 55
+2346,2963,3270,Alejandro Valdez,7/1/2018,shot,knife,27.0,M,Hispanic,Santa Maria,CA,True,other,Not fleeing,False,-120.431,34.955,True,1,21 to 25
+2362,2985,3311,Christian Escobedo,14/1/2018,shot,gun,22.0,M,Hispanic,El Sereno,CA,False,other,Not fleeing,False,-118.195,34.084,True,1,16 to 20
+2363,2986,3309,Robert Martinez,15/1/2018,shot,gun,42.0,M,Hispanic,Eugene,OR,False,other,Not fleeing,False,-123.13,44.124,True,1,36 to 40
+2365,2988,3306,Victor M. Reyes,16/1/2018,shot,unknown weapon,30.0,M,Hispanic,Bedford,TX,False,other,Not fleeing,False,-97.154,32.828,True,1,26 to 30
+2380,3010,3337,Joe Delira-Alires,22/1/2018,shot,gun,35.0,M,Hispanic,Pueblo,CO,False,attack,Other,True,-104.866,39.694,True,1,31 to 35
+2384,3017,3346,Humberto Vera-Munoz,24/1/2018,shot,unknown weapon,27.0,M,Hispanic,Sparks,NV,False,other,Foot,False,-119.761,39.545,True,1,21 to 25
+2387,3020,3349,Ulises Valladares,25/1/2018,shot,unarmed,47.0,M,Hispanic,Houston,TX,False,other,Not fleeing,False,-95.293,29.828000000000007,True,1,41 to 45
+2388,3021,3352,Dustin Gonzales Castillo,25/1/2018,shot,knife,19.0,M,Hispanic,San Antonio,TX,False,attack,Other,False,-98.492,29.521,True,1,11 to 15
+2400,3038,3367,Gilbert Salas,31/1/2018,shot,knife,20.0,M,Hispanic,St. James,MN,False,other,Foot,False,-94.628,43.981,True,1,16 to 20
+2401,3039,3368,Adrian Valdez,31/1/2018,shot,knife,39.0,M,Hispanic,Arvada,CO,False,other,Not fleeing,False,-105.074,39.85,True,1,31 to 35
+2413,3056,3385,Manuel Zetina,5/2/2018,shot,gun,19.0,M,Hispanic,Colorado Springs,CO,False,attack,Not fleeing,False,-104.75,38.847,True,1,11 to 15
+2415,3058,3387,Alex Duran,6/2/2018,shot,knife,29.0,M,Hispanic,Denver,CO,False,other,Not fleeing,False,-105.017,39.684,True,1,21 to 25
+2416,3063,3393,Ricardo Colon,8/2/2018,shot,knife,35.0,M,Hispanic,Grant-Valkaria,FL,True,other,Not fleeing,False,-80.518,27.907,True,1,31 to 35
+2432,3083,3408,Arthur Joseph Gonzales,15/2/2018,shot,gun,57.0,M,Hispanic,Mesa,AZ,False,attack,Not fleeing,False,-111.792,33.411,True,1,51 to 55
+2437,3092,3426,Ernest Manuel Montelongo,18/2/2018,shot,gun,33.0,M,Hispanic,Guadalupe County,TX,False,attack,Car,False,-98.133,29.573,True,1,26 to 30
+2438,3094,3407,Thomas Vincent Alvarez,19/2/2018,shot,gun,23.0,M,Hispanic,Austin,TX,True,attack,Other,False,-97.736,30.197,True,1,16 to 20
+2460,3121,3466,Joel Jacobo,1/3/2018,shot,unknown weapon,29.0,M,Hispanic,Tucson,AZ,False,other,Not fleeing,False,-110.983,32.177,True,1,21 to 25
+2461,3122,3453,Jose D. Gomez Burgos,2/3/2018,shot,unknown weapon,29.0,M,Hispanic,Bristol Township,PA,False,other,Not fleeing,False,-74.84100000000002,40.137,True,1,21 to 25
+2464,3125,3459,Erick Eduardo Mora Martinez,2/3/2018,shot,vehicle,31.0,M,Hispanic,Santa Ana,CA,False,attack,Not fleeing,False,-117.85,33.708,True,1,26 to 30
+2476,3142,3478,Jesus Delgado-Duarte,6/3/2018,shot,gun,19.0,M,Hispanic,San Francisco,CA,False,attack,Not fleeing,False,-122.418,37.759,True,1,11 to 15
+2483,3153,3492,David Gardea,9/3/2018,shot,gun,27.0,M,Hispanic,Phoenix,AZ,False,attack,Foot,False,-112.164,33.486999999999995,True,1,21 to 25
+2486,3156,3491,Orion Godbout,10/3/2018,shot,gun,45.0,M,Hispanic,Fontana,CA,False,attack,Not fleeing,False,-117.445,34.119,True,1,41 to 45
+2488,3158,3498,Andy Lucero,11/3/2018,shot,gun,48.0,M,Hispanic,Fort Sumner,NM,False,other,Foot,False,-104.246,34.472,True,1,41 to 45
+2489,3159,3499,Juan Garcia Alvarez,11/3/2018,shot,gun,57.0,M,Hispanic,Midland,TX,False,attack,Not fleeing,False,-102.077,31.93,True,1,51 to 55
+2501,3178,3504,Osbaldo Jimenez Ramirez,17/3/2018,shot,gun,50.0,M,Hispanic,Valley View,CA,False,other,Car,False,-116.973,33.22,True,1,46 to 50
+2503,3181,3509,Manuel Borrego,18/3/2018,shot,knife,40.0,M,Hispanic,South El Monte,CA,False,other,Foot,False,-118.047,34.033,True,1,36 to 40
+2513,3194,4256,Angel Uolla,21/3/2018,shot,knife,18.0,M,Hispanic,Littlefield,TX,False,attack,Foot,False,-102.335,33.928000000000004,True,1,11 to 15
+2514,3195,3521,Santiago Calderon,22/3/2018,shot,gun,36.0,M,Hispanic,Aurora,IL,False,attack,Foot,False,-88.31200000000003,41.757,True,1,31 to 35
+2522,3208,3535,Hugo Alvarez,25/3/2018,shot,gun,28.0,M,Hispanic,Austin,TX,False,attack,Not fleeing,False,-97.756,30.198,True,1,21 to 25
+2523,3210,3548,Juan Carlos Romero,27/3/2018,shot,gun,41.0,M,Hispanic,Sanford,NC,False,attack,Not fleeing,True,-79.167,35.477,True,1,36 to 40
+2527,3214,3554,Jose Aaron Gonzalez,27/3/2018,shot,gun,44.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.122,33.458,True,1,36 to 40
+2532,3221,3555,Marco Antonio Saavedra,29/3/2018,shot,gun,44.0,M,Hispanic,Pasadena,TX,True,attack,Other,True,-95.208,29.702,True,1,36 to 40
+2539,3229,3561,Cresencio Rodriguez,1/4/2018,shot,gun,33.0,M,Hispanic,San Antonio,TX,False,other,Not fleeing,False,-98.487,29.609,True,1,26 to 30
+2545,3235,3572,Luis Yair Alvarez,1/4/2018,shot,knife,23.0,M,Hispanic,Brownsville,TX,True,other,Not fleeing,False,-97.478,25.966,True,1,16 to 20
+2548,3240,3575,Adan Rene Marrero,4/4/2018,shot,gun,34.0,M,Hispanic,Corpus Christi,TX,False,other,Foot,False,-97.364,27.69,True,1,26 to 30
+2557,3251,4259,Rafael Ramirez,5/4/2018,shot,knife,56.0,M,Hispanic,South Bend,IN,True,other,Not fleeing,False,-86.279,41.672,True,1,51 to 55
+2558,3252,4260,Junior Davis Lopez,5/4/2018,shot,gun,22.0,M,Hispanic,Las Vegas,NV,True,attack,Not fleeing,False,-115.041,36.163,True,1,16 to 20
+2564,3259,3593,Carlos Roman Urias,8/4/2018,shot,toy weapon,24.0,M,Hispanic,Cathedral City,CA,False,attack,Not fleeing,False,-116.465,33.805,True,1,16 to 20
+2582,3283,3617,Jose Pietri,14/4/2018,shot,gun,55.0,M,Hispanic,Millville,NJ,False,other,Car,False,-75.027,39.38,True,1,51 to 55
+2585,3286,3620,Eduardo Andrade,14/4/2018,shot,gun,44.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.073,33.378,True,1,36 to 40
+2599,3304,3639,Miguel Escalona Vivas,22/4/2018,shot,gun,37.0,M,Hispanic,Louisville,KY,False,attack,Foot,False,-85.665,38.203,True,1,31 to 35
+2600,3305,3640,Jesse Pena,24/4/2018,shot,gun,44.0,M,Hispanic,San Antonio,TX,False,other,Foot,False,-98.494,29.426,True,1,36 to 40
+2608,3319,3653,Nolberto Hernandez Leon,28/4/2018,shot,gun,26.0,M,Hispanic,Elk Grove,CA,False,attack,Not fleeing,False,-121.483,38.426,True,1,21 to 25
+2617,3335,3664,Anthony Trujillo,3/5/2018,shot,machete,26.0,M,Hispanic,Orosi,CA,True,attack,Not fleeing,False,-119.296,36.548,True,1,21 to 25
+2629,3351,3747,Lisa Rivera,7/5/2018,shot,gun,49.0,F,Hispanic,Yuma,AZ,False,other,Not fleeing,False,-114.618,32.721,True,1,41 to 45
+2633,3356,4274,Thomas Junior Garcia,8/5/2018,shot,knife,45.0,M,Hispanic,Greeley,CO,False,other,Foot,False,-104.745,40.427,True,1,41 to 45
+2648,3375,3695,Bob Browning Cruz,14/5/2018,shot,gun,36.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.47,29.412,True,1,31 to 35
+2654,3385,3702,Santiago Evans-Valencia,19/5/2018,shot,gun,36.0,M,Hispanic,Pueblo,CO,False,attack,Not fleeing,False,-104.488,38.273,True,1,31 to 35
+2657,3389,3709,Martin Sandejo,22/5/2018,shot,knife,49.0,M,Hispanic,Mathis,TX,False,other,Not fleeing,False,-97.835,28.099,True,1,41 to 45
+2659,3392,3720,Claudia Patricia Gomez Gonzalez,23/5/2018,shot,unarmed,20.0,F,Hispanic,Rio Bravo,TX,False,attack,Not fleeing,False,-99.48,27.364,True,1,16 to 20
+2665,3399,3712,Raul Rivera,27/5/2018,shot,knife,42.0,M,Hispanic,San Diego,CA,True,other,Not fleeing,True,-117.084,32.564,True,1,36 to 40
+2672,3410,3727,Andres Estrada,1/6/2018,shot,unarmed,21.0,M,Hispanic,Dundee,FL,False,attack,Not fleeing,False,-81.612,28.027,True,1,16 to 20
+2674,3414,3728,Julio Eduardo Hernandez Mata,3/6/2018,shot,unarmed,32.0,M,Hispanic,Chickasha,OK,False,other,Car,False,-97.936,35.053000000000004,True,1,26 to 30
+2675,3416,3741,Rudy Molina,3/6/2018,shot,gun,34.0,M,Hispanic,Jurupa Valley,CA,False,attack,Car,False,-117.482,34.013000000000005,True,1,26 to 30
+2677,3418,3739,Abel Guzman,5/6/2018,shot,gun,55.0,M,Hispanic,Pearland,TX,True,attack,Not fleeing,False,-95.286,29.571,True,1,51 to 55
+2690,3434,3765,Nicolas Moncada,11/6/2018,shot,knife,29.0,M,Hispanic,Whittier,CA,False,other,Car,False,-118.024,33.982,True,1,21 to 25
+2697,3444,3772,Joseph Villanueva,14/6/2018,shot,gun,29.0,M,Hispanic,Hall County,GA,False,attack,Foot,False,-83.85600000000002,34.262,True,1,21 to 25
+2700,3449,3780,Marcelo Castellano,14/6/2018,shot,gun,40.0,M,Hispanic,Kirkland,WA,False,other,Not fleeing,False,-122.176,47.731,True,1,36 to 40
+2703,3453,3783,Richard Rivera,16/6/2018,shot,unarmed,47.0,M,Hispanic,Albuquerque,NM,False,attack,Car,False,-106.622,35.075,True,1,41 to 45
+2705,3457,3790,Abe Martinez,17/6/2018,shot,gun,44.0,M,Hispanic,South Salt Lake,UT,False,other,Not fleeing,False,-111.879,40.702,True,1,36 to 40
+2721,3482,3808,Anthony Sanchez,29/6/2018,shot,gun,36.0,M,Hispanic,Aurora,CO,False,attack,Car,True,-104.819,39.726,True,1,31 to 35
+2735,3501,3834,Abraham Noe Flores,4/7/2018,shot,gun,34.0,M,Hispanic,Red Bluff,CA,True,attack,Not fleeing,False,-122.221,40.156,True,1,26 to 30
+2738,3504,3827,Sylvia Marie Bejarano,5/7/2018,shot,gun,33.0,F,Hispanic,Tempe,AZ,False,attack,Other,False,-111.978,33.393,True,1,26 to 30
+2746,3517,3856,Leonardo Cano,10/7/2018,shot,gun,53.0,M,Hispanic,Miami,FL,False,attack,Car,False,-80.288,25.882,True,1,46 to 50
+2749,3520,3853,Salome Ramirez,11/7/2018,shot,toy weapon,34.0,M,Hispanic,Los Banos,CA,False,other,Not fleeing,False,-120.845,37.062,True,1,26 to 30
+2750,3521,3854,Fidel Miranda,11/7/2018,shot,gun,22.0,M,Hispanic,Las Vegas,NV,False,attack,Car,False,-115.124,36.165,True,1,16 to 20
+2751,3522,3862,Juan Luna,13/7/2018,shot,gun,25.0,M,Hispanic,Dilley,TX,False,attack,Not fleeing,True,-99.169,28.671,True,1,21 to 25
+2756,3528,3941,Jonathan Molina,15/7/2018,shot,gun,23.0,M,Hispanic,Albuquerque,NM,False,attack,Not fleeing,False,-106.639,35.07,True,1,16 to 20
+2758,3531,3868,Juan Manuel Correa-Leyva,17/7/2018,shot,gun,27.0,M,Hispanic,Tucson,AZ,False,attack,Car,False,-110.926,32.178000000000004,True,1,21 to 25
+2760,3533,3866,Arthur Lujan,18/7/2018,shot,gun,30.0,M,Hispanic,Albuquerque,NM,False,attack,Not fleeing,False,-106.716,35.131,True,1,26 to 30
+2762,3536,3870,Luis Cruz,19/7/2018,shot,gun,19.0,M,Hispanic,Peoria,IL,False,other,Foot,False,-89.62100000000002,40.681,True,1,11 to 15
+2763,3537,3871,Carmen Pizarro,19/7/2018,shot,gun,22.0,M,Hispanic,Pico Rivera,CA,False,other,Other,False,-118.09,33.969,True,1,16 to 20
+2764,3538,3877,Ruben Maya,20/7/2018,shot,toy weapon,37.0,M,Hispanic,Fresno,CA,False,attack,Not fleeing,False,-119.829,36.755,True,1,31 to 35
+2768,3542,3946,Arthur Levario,20/7/2018,shot,gun,45.0,M,Hispanic,Riverside,CA,False,attack,Car,False,-117.439,33.946,True,1,41 to 45
+2769,3544,3878,Anthony C. Lopez,21/7/2018,shot,vehicle,21.0,M,Hispanic,Mesa,AZ,False,attack,Not fleeing,False,-111.875,33.393,True,1,16 to 20
+2771,3546,3895,Melyda Marciela Corado,21/7/2018,shot,unarmed,27.0,F,Hispanic,Los Angeles,CA,False,other,Foot,True,-118.272,34.107,True,1,21 to 25
+2772,3547,3947,Eliuth Penaloza Nava,21/7/2018,shot,toy weapon,50.0,M,Hispanic,Anaheim,CA,True,other,Foot,False,-117.925,33.828,True,1,46 to 50
+2775,3550,3957,Juan Garcia,22/7/2018,shot,unknown weapon,38.0,M,Hispanic,Riverside,CA,False,other,Not fleeing,False,-117.325,33.983000000000004,True,1,31 to 35
+2776,3552,3881,Rosalio Hernandez Ortega,23/7/2018,shot,machete,33.0,M,Hispanic,Burlington,NC,True,other,Not fleeing,False,-73.18,44.457,True,1,26 to 30
+2778,3554,3961,John Carlos Natera-Perez,23/7/2018,shot,knife,30.0,M,Hispanic,Silver Spring,MD,True,other,Not fleeing,False,-76.95,39.071,True,1,26 to 30
+2786,3565,3891,Jesus Hernandez Murillo,26/7/2018,shot,gun,18.0,M,Hispanic,Kent Station,WA,False,other,Not fleeing,False,-122.233,47.385,True,1,11 to 15
+2788,3567,3901,Sergio Acosta,26/7/2018,shot,toy weapon,24.0,M,Hispanic,Redondo Beach,CA,False,undetermined,Not fleeing,False,-118.366,33.878,True,1,16 to 20
+2791,3571,4031,Richard Mendoza,27/7/2018,shot,gun,32.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,True,-118.462,34.21,True,1,26 to 30
+2793,3573,3897,Joseph Santos,28/7/2018,shot,unarmed,44.0,M,Hispanic,South Whitehall Township,PA,False,undetermined,Not fleeing,False,-75.53,40.576,True,1,36 to 40
+2796,3579,3963,Skyler Martin,31/7/2018,shot,gun,23.0,M,Hispanic,Glendale,AZ,False,attack,Not fleeing,False,-111.774,33.379,True,1,16 to 20
+2799,3582,3910,Jonathan Joey Mendoza,1/8/2018,shot,gun,35.0,M,Hispanic,Hereford,TX,False,attack,Not fleeing,False,-102.415,34.809,True,1,31 to 35
+2804,3589,3926,Emmanuel Alquisiras,3/8/2018,shot,Taser,29.0,M,Hispanic,Seville,FL,True,other,Not fleeing,True,-81.493,29.316,True,1,21 to 25
+2812,3601,3933,Pedro Lucero,7/8/2018,shot,gun,42.0,M,Hispanic,Salt River Reservation,AZ,False,other,Other,False,-111.767,33.517,True,1,36 to 40
+2821,3614,3955,Anthony Daniel Vargas,12/8/2018,shot,gun,21.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,False,-118.162,34.044000000000004,True,1,16 to 20
+2828,3624,3977,Spencer Mendez,18/8/2018,shot,gun,15.0,M,Hispanic,Ceres,CA,False,other,Other,True,-120.801,37.58,True,1,11 to 15
+2830,3626,3982,Andres Arteaga,18/8/2018,shot and Tasered,gun,28.0,M,Hispanic,Phoenix,AZ,False,other,Foot,False,-112.091,33.392,True,1,21 to 25
+2835,3633,3988,Virginia Romero,23/8/2018,shot,vehicle,34.0,F,Hispanic,Los Lunas,NM,False,other,Not fleeing,False,-106.648,34.736999999999995,True,1,26 to 30
+2843,3645,3999,Sebastian Siney Chamale,28/8/2018,shot,unknown weapon,37.0,M,Hispanic,Tarboro,NC,False,other,Not fleeing,False,-77.572,35.927,True,1,31 to 35
+2848,3650,4006,Vanessa Marquez,30/8/2018,shot,toy weapon,49.0,F,Hispanic,Pasadena,CA,True,other,Not fleeing,True,-118.153,34.114000000000004,True,1,41 to 45
+2861,3670,4026,Rafael Rivera,12/9/2018,shot,gun,32.0,M,Hispanic,Buffalo,NY,False,attack,Not fleeing,True,-78.892,42.908,True,1,26 to 30
+2868,3678,4035,Ricardo Avenia,16/9/2018,shot,gun,29.0,M,Hispanic,Lancaster,PA,False,attack,Not fleeing,False,-76.297,40.036,True,1,21 to 25
+2871,3682,4038,Jose Alvarez,17/9/2018,shot,gun,23.0,M,Hispanic,Temple Hills,MD,False,other,Foot,False,-76.952,38.804,True,1,16 to 20
+2877,3688,4051,Alexander Carballido,20/9/2018,shot,gun,40.0,M,Hispanic,Miami,FL,False,attack,Car,False,-80.312,25.777,True,1,36 to 40
+2880,3693,4054,Ivan Pena,24/9/2018,shot,gun,42.0,M,Hispanic,East Los Angeles,CA,False,attack,Not fleeing,False,-118.187,34.048,True,1,36 to 40
+2883,3696,4056,Jaime Lopez,25/9/2018,shot,knife,41.0,M,Hispanic,Stanfordville,NY,False,other,Not fleeing,False,-73.714,41.867,True,1,36 to 40
+2885,3699,4066,Juan Angel Pinedo,27/9/2018,shot,gun,32.0,M,Hispanic,Las Cruces,NM,False,other,Foot,False,-106.763,32.295,True,1,26 to 30
+2888,3702,4064,Michael Perez,27/9/2018,shot and Tasered,knife,37.0,M,Hispanic,Honolulu,HI,False,other,Not fleeing,False,-157.878,21.324,True,1,31 to 35
+2902,3723,4075,Aaron Joseph Chavez,8/10/2018,shot,knife,22.0,M,Hispanic,Clovis,NM,False,other,Foot,False,-103.196,34.392,True,1,16 to 20
+2915,3741,4091,Umberto Sanchez Ramoz,14/10/2018,shot,knife,17.0,M,Hispanic,Woodville,CA,True,attack,Not fleeing,False,-119.197,36.093,True,1,11 to 15
+2935,3770,4162,Salvador Morales,23/10/2018,shot,gun,37.0,M,Hispanic,Pittsburg,CA,False,attack,Car,True,-121.888,38.029,True,1,31 to 35
+2943,3782,4145,"Jose Centeno, Jr.",31/10/2018,shot,toy weapon,17.0,M,Hispanic,Houston,TX,False,attack,Car,True,-95.53,30.027,True,1,11 to 15
+2944,3783,4146,Gonzalo Rico-Jimenez,31/10/2018,shot,vehicle,26.0,M,Hispanic,North Las Vegas,NV,False,attack,Car,False,-115.105,36.195,True,1,21 to 25
+2949,3790,4154,Anthony David Chavez,4/11/2018,shot,gun,18.0,M,Hispanic,Albuquerque,NM,False,other,Not fleeing,False,-106.569,35.058,True,1,11 to 15
+2963,3813,4224,Cesar Alehandro Ramos,12/11/2018,shot,gun,25.0,M,Hispanic,Chattanooga,TN,False,attack,Not fleeing,False,-85.28299999999999,34.986,True,1,21 to 25
+2966,3816,4196,Rene Prieto,13/11/2018,shot,gun,38.0,M,Hispanic,Pratt,KS,True,attack,Not fleeing,False,-98.739,37.651,True,1,31 to 35
+2978,3838,4214,Martin Lopez,21/11/2018,shot,knife,24.0,M,Hispanic,Bell Gardens,CA,False,attack,Not fleeing,False,-118.16,33.974000000000004,True,1,16 to 20
+2985,3854,4221,David Villagran,28/11/2018,shot,vehicle,33.0,M,Hispanic,Vancouver,WA,False,attack,Car,False,-122.561,45.674,True,1,26 to 30
+2988,3863,4269,Anthony Ray Borden-Cortez,4/12/2018,shot,toy weapon,18.0,M,Hispanic,Ogden,UT,False,attack,Not fleeing,True,-111.995,41.245,True,1,11 to 15
+2989,3864,4270,David Alejandro Molina,5/12/2018,shot,gun,27.0,M,Hispanic,Napa,CA,True,attack,Foot,False,-122.285,38.31,True,1,21 to 25
+2996,3871,4281,Jesus Lainez,7/12/2018,shot,unknown weapon,51.0,M,Hispanic,Fort Pierce,FL,False,attack,Not fleeing,False,-80.336,27.447,True,1,46 to 50
+3013,3889,4300,Gabriel Romero,12/12/2018,shot,gun,19.0,M,Hispanic,Albuquerque,NM,True,attack,Foot,False,-106.587,35.123000000000005,True,1,11 to 15
+3016,3893,4308,Edgar Espinoza,15/12/2018,shot,knife,35.0,M,Hispanic,Hanford,CA,False,attack,Not fleeing,False,-119.591,36.299,True,1,31 to 35
+3022,3909,4330,Jose Lemus,21/12/2018,shot,gun,57.0,M,Hispanic,Azusa,CA,False,attack,Not fleeing,False,-117.934,34.12,True,1,51 to 55
+3024,3911,4326,Jason Delgado Perez,23/12/2018,shot,gun,36.0,M,Hispanic,Albuquerque,NM,True,attack,Not fleeing,False,-106.559,35.08,True,1,31 to 35
+3025,3914,4324,Jennifer Vasquez,25/12/2018,shot,vehicle,24.0,F,Hispanic,San Jose,CA,False,attack,Car,False,-121.923,37.311,True,1,16 to 20
+3026,3915,4325,Antonio A. Ramos,25/12/2018,shot,gun,34.0,M,Hispanic,Buckeye,AZ,False,attack,Not fleeing,False,-112.571,33.436,True,1,26 to 30
+3038,3929,4337,Jesus Ramos,31/12/2018,shot,undetermined,34.0,M,Hispanic,Longmont,CO,True,other,Foot,False,-105.107,40.199,True,1,26 to 30
+3045,3939,4349,Abiel Innis De Joel Rios,3/1/2019,shot,gun,33.0,M,Hispanic,Visalia,CA,True,attack,Not fleeing,False,-119.291,36.341,True,1,26 to 30
+3052,3946,4355,Oliver Hernandez,5/1/2019,shot,ax,29.0,M,Hispanic,Fresno,CA,False,other,Not fleeing,False,-119.759,36.812,True,1,21 to 25
+3053,3948,4357,Adolfo Gonzalez,5/1/2019,shot,gun,28.0,M,Hispanic,Lemon Grove,CA,False,other,Not fleeing,False,-117.033,32.746,True,1,21 to 25
+3057,3956,4351,Miguel Barraza-Lugo,7/1/2019,shot,gun,38.0,M,Hispanic,Kent,WA,False,attack,Car,False,-122.215,47.378,True,1,31 to 35
+3062,3965,4381,Charles Frederick Landeros,11/1/2019,shot,gun,30.0,M,Hispanic,Eugene,OR,False,attack,Not fleeing,True,-123.166,44.07899999999999,True,1,26 to 30
+3065,3970,4375,Dimas Diaz,13/1/2019,shot,unarmed,38.0,M,Hispanic,Calabasas,CA,False,other,Car,False,-118.665,34.15,True,1,31 to 35
+3066,3971,4376,Roberto Tapia,13/1/2019,shot,gun,28.0,M,Hispanic,Cathedral City,CA,False,attack,Not fleeing,False,-116.458,33.823,True,1,21 to 25
+3068,3976,4372,Amiliano Antonio Apodaca,14/1/2019,shot,unarmed,18.0,M,Hispanic,Pueblo,CO,False,other,Car,False,-104.713,38.366,True,1,11 to 15
+3084,3997,4397,Horacio Ruiz-Rodriguez,21/1/2019,shot,unarmed,37.0,M,Hispanic,Las Vegas,NV,True,other,Car,False,-115.144,36.171,True,1,31 to 35
+3087,4002,4414,Marcus Gishal,23/1/2019,shot,gun,20.0,M,Hispanic,Flagstaff,AZ,False,attack,Foot,False,-111.679,35.192,True,1,16 to 20
+3090,4005,4514,Christian Albarran,24/1/2019,shot,unarmed,26.0,M,Hispanic,Ehrenberg,AZ,False,other,Car,False,-114.505,33.618,True,1,21 to 25
+3093,4010,4416,Joey Duane Ramirez,28/1/2019,shot,gun,29.0,M,Hispanic,Jackson,MI,False,attack,Foot,False,-84.402,42.244,True,1,21 to 25
+3102,4020,4425,Paul Cantu,29/1/2019,shot,gun,27.0,M,Hispanic,Austin,TX,True,attack,Car,True,-97.726,30.163,True,1,21 to 25
+3105,4024,4434,Robert Martinez,1/2/2019,shot,vehicle,45.0,M,Hispanic,Denver,CO,False,attack,Car,False,-105.019,39.713,True,1,41 to 45
+3110,4029,4439,Asuncion J. Gomez-Guerrero,3/2/2019,shot,vehicle,35.0,M,Hispanic,Waukegan,IL,False,attack,Car,True,-87.845,42.364,True,1,31 to 35
+3116,4038,4446,Danny Rodriguez,7/2/2019,shot,knife,34.0,M,Hispanic,Seattle,WA,False,attack,Not fleeing,True,-122.343,47.705,True,1,26 to 30
+3124,4048,4447,Jonathan Ramirez,9/2/2019,shot,gun,28.0,M,Hispanic,Bailey,NC,False,other,Not fleeing,True,-78.017,35.828,True,1,21 to 25
+3136,4061,4462,Wilfredo Hernandez,14/2/2019,shot,knife,47.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,False,-118.259,34.049,True,1,41 to 45
+3141,4067,4467,Javier Hernandez Morales,17/2/2019,shot,gun,48.0,M,Hispanic,Napa Valley,CA,False,attack,Not fleeing,True,-122.346,38.274,True,1,41 to 45
+3153,4080,4499,Felipe Martinez,22/2/2019,shot,knife,36.0,M,Hispanic,Poteet,TX,False,other,Car,False,-98.575,29.044,True,1,31 to 35
+3166,4095,4528,Kenneth Joseph Sisneros,28/2/2019,shot,gun,34.0,M,Hispanic,Lone Tree,CO,False,other,Foot,False,-104.874,39.562,True,1,26 to 30
+3168,4098,4523,Eduardo Munoz,1/3/2019,shot and Tasered,unarmed,29.0,M,Hispanic,Fairfield,TX,False,other,Not fleeing,False,-96.165,31.725,True,1,21 to 25
+3173,4107,4539,Daniel Moncada,4/3/2019,shot,gun,27.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.623,29.554,True,1,21 to 25
+3174,4108,4540,Jeremy Ponce,4/3/2019,shot,gun,17.0,M,Hispanic,San Antonio,TX,False,attack,Car,False,-98.461,29.403,True,1,11 to 15
+3176,4112,4567,Stephanie Areanda Quiroz,5/3/2019,shot,unarmed,21.0,F,Hispanic,Bakersfield,CA,False,other,Car,False,-118.95,35.354,True,1,16 to 20
+3189,4130,4674,Anthony Lee Montoya,10/3/2019,shot,gun,51.0,M,Hispanic,Lakewood,CO,False,attack,Car,False,-105.067,39.686,True,1,46 to 50
+3194,4136,4564,Benjamin Melendez,13/3/2019,shot,knife,29.0,M,Hispanic,Grand Island,NE,False,attack,Not fleeing,False,-98.34,41.01600000000001,True,1,21 to 25
+3196,4138,4570,Henry Wayne Rivera,13/3/2019,shot,unarmed,30.0,M,Hispanic,Phoenix,AZ,False,other,Other,False,-112.102,33.45,True,1,26 to 30
+3198,4141,4569,Jerry Marrero,14/3/2019,shot,knife,38.0,M,Hispanic,Jacksonville,FL,True,other,Not fleeing,False,-81.631,30.29,True,1,31 to 35
+3204,4152,4590,Juan Manuel Flores Del Toro,19/3/2019,shot,gun,29.0,M,Hispanic,Kittitas,WA,False,attack,Car,False,-120.419,46.986,True,1,21 to 25
+3205,4153,4596,Jesus Calderon,19/3/2019,shot,knife,52.0,M,Hispanic,Tampa,FL,True,other,Not fleeing,False,-82.43700000000003,28.079,True,1,46 to 50
+3207,4156,4584,Stevie Garcia,20/3/2019,shot,gun,37.0,M,Hispanic,Las Vegas,NV,False,attack,Not fleeing,True,-115.134,36.173,True,1,31 to 35
+3223,4176,4607,Augustine Gutierrez,28/3/2019,shot,gun,42.0,M,Hispanic,San Antonio,TX,False,other,Car,False,-98.494,29.424,True,1,36 to 40
+3227,4181,4611,Juan Padilla,31/3/2019,shot,knife,24.0,M,Hispanic,Marana,AZ,False,attack,Not fleeing,False,-111.123,32.359,True,1,16 to 20
+3233,4190,4614,Alfonso Cervantes,3/4/2019,shot,gun,50.0,M,Hispanic,San Diego,CA,True,attack,Not fleeing,True,-117.047,32.551,True,1,46 to 50
+3234,4191,4616,Jeffrey Garner,3/4/2019,shot,gun,55.0,M,Hispanic,Boynton Beach,FL,False,attack,Not fleeing,False,-80.055,26.543000000000006,True,1,51 to 55
+3236,4194,4625,Daniel Robert Ramirez,4/4/2019,shot,gun,30.0,M,Hispanic,Anaheim,CA,False,other,Not fleeing,False,-117.974,33.838,True,1,26 to 30
+3245,4205,4658,Anthony Santana,10/4/2019,shot,gun,21.0,M,Hispanic,Indio,CA,False,other,Not fleeing,False,-116.237,33.713,True,1,16 to 20
+3251,4212,4666,Theresa Medina-Thomas,11/4/2019,shot,vehicle,29.0,F,Hispanic,Ahwatukee,AZ,False,other,Car,False,-111.98,33.349000000000004,True,1,21 to 25
+3264,4230,4647,Luiz Leizado,18/4/2019,shot,gun,42.0,M,Hispanic,New York,NY,False,attack,Foot,False,-73.932,40.854,True,1,36 to 40
+3267,4234,4891,Sean Michael Collins,20/4/2019,shot,gun,29.0,M,Hispanic,Colorado Springs,CO,False,attack,Not fleeing,True,-104.844,38.893,True,1,21 to 25
+3271,4245,4684,Jose Dominguez,28/4/2019,shot,gun,47.0,M,Hispanic,Sparks,NV,True,other,Not fleeing,False,-119.748,39.559,True,1,41 to 45
+3272,4246,4685,Carlos Manuel Dodero,28/4/2019,shot,gun,45.0,M,Hispanic,Austin,TX,True,other,Not fleeing,True,-97.796,30.352,True,1,41 to 45
+3274,4248,4693,Alejandro Hernandez,29/4/2019,shot,toy weapon,26.0,M,Hispanic,Phoenix,AZ,False,attack,Foot,False,-112.134,33.459,True,1,21 to 25
+3278,4255,4688,Reinaldo Gonzalez,1/5/2019,shot,knife,51.0,M,Hispanic,Miami,FL,False,other,Not fleeing,False,-80.33800000000002,25.741,True,1,46 to 50
+3280,4261,4710,Jorge Albert Merino,2/5/2019,shot,gun,37.0,M,Hispanic,Cedar Hill,TX,False,other,Car,False,-96.947,32.591,True,1,31 to 35
+3282,4267,4707,George Herrera,5/5/2019,shot,knife,61.0,M,Hispanic,Angel Fire,NM,False,other,Not fleeing,False,-105.298,36.357,True,1,56 to 60
+3283,4268,4699,Pedro Colazo-villa,6/5/2019,shot,gun,33.0,M,Hispanic,Mesa,AZ,False,other,Not fleeing,False,-111.836,33.415,True,1,26 to 30
+3284,4269,4698,Cesar Tomix Sarmiento-Molina,7/5/2019,shot,gun,34.0,M,Hispanic,Milwaukee,WI,False,other,Not fleeing,False,-87.92,43.012,True,1,26 to 30
+3286,4271,4735,Francisco Anthony Alcaraz,7/5/2019,shot,gun,32.0,M,Hispanic,Goleta,CA,False,attack,Not fleeing,False,-119.79,34.44,True,1,26 to 30
+3287,4273,4701,Eddie Herrera,9/5/2019,shot,gun,49.0,M,Hispanic,Montebello,CA,False,attack,Not fleeing,False,-118.355,34.084,True,1,41 to 45
+3289,4275,4703,Hector Lopez,9/5/2019,shot,gun,29.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.083,33.437,True,1,21 to 25
+3292,4281,4717,Luis Quinones Rosa,11/5/2019,shot,gun,26.0,M,Hispanic,South Sioux City,NE,False,attack,Not fleeing,False,-96.413,42.477,True,1,21 to 25
+3299,4291,4730,Luis Lomante,17/5/2019,shot,knife,39.0,M,Hispanic,Davie,FL,False,other,Not fleeing,False,-80.244,26.065,True,1,31 to 35
+3301,4295,4731,Andrew Giovanni Meza,18/5/2019,shot,knife,20.0,M,Hispanic,Garden Grove,CA,True,attack,Not fleeing,False,-117.922,33.794000000000004,True,1,16 to 20
+3302,4296,4725,Robert Rabago,19/5/2019,shot,gun,17.0,M,Hispanic,Phoenix,AZ,False,attack,Foot,False,-112.048,33.461,True,1,11 to 15
+3303,4297,4727,Esteban Martinez,19/5/2019,shot,unknown weapon,59.0,M,Hispanic,Huron,CA,False,attack,Not fleeing,False,-120.103,36.2,True,1,51 to 55
+3306,4302,4724,Carlos Javier Roman Santiago,20/5/2019,shot,knife,46.0,M,Hispanic,Archdale,NC,False,attack,Not fleeing,False,-80.03699999999998,35.911,True,1,41 to 45
+3315,4315,4744,Carlvon Mayo,24/5/2019,shot,gun,35.0,M,Hispanic,Houston,TX,False,other,Not fleeing,False,-95.328,29.64,True,1,31 to 35
+3322,4325,4757,Isaac Ray Ruiz,30/5/2019,shot,gun,22.0,M,Hispanic,Amarillo,TX,False,attack,Foot,False,-101.831,35.202,True,1,16 to 20
+3334,4340,4764,Fabian Rivera,5/6/2019,shot,gun,28.0,M,Hispanic,Bernalillo,NM,False,other,Not fleeing,False,-106.545,35.31800000000001,True,1,21 to 25
+3339,4349,4829,Jose Salvador Meza,6/6/2019,shot,gun,35.0,M,Hispanic,San Gabriel,CA,False,attack,Not fleeing,False,-118.098,34.073,True,1,31 to 35
+3344,4354,4772,Krystal Arvizu,8/6/2019,shot,ax,33.0,F,Hispanic,Fresno,CA,True,attack,Not fleeing,True,-119.805,36.733,True,1,26 to 30
+3347,4358,4833,Ysidro Osornio-Velasquez,9/6/2019,shot,gun,32.0,M,Hispanic,Menifee,CA,False,attack,Car,False,-117.154,33.651,True,1,26 to 30
+3352,4368,5449,Juan Manuel Moreno,12/6/2019,shot,unarmed,35.0,M,Hispanic,Farmers Branch,TX,False,other,Car,False,-96.926,32.896,True,1,31 to 35
+3358,4376,4796,Alfredo Chino,15/6/2019,shot,knife,38.0,M,Hispanic,Toppenish,WA,False,other,Not fleeing,False,-120.306,46.382,True,1,31 to 35
+3361,4381,4788,Mark Anthony Galvan,17/6/2019,shot,vehicle,20.0,M,Hispanic,Brownsville,TX,False,attack,Car,False,-97.507,25.925,True,1,16 to 20
+3362,4382,4789,Francisco Tarin,17/6/2019,shot,gun,35.0,M,Hispanic,Las Cruces,NM,False,attack,Car,False,-106.743,32.316,True,1,31 to 35
+3364,4384,4797,Josh Flores,18/6/2019,shot,knife,18.0,M,Hispanic,Centralia,WA,False,other,Not fleeing,False,-122.941,46.73,True,1,11 to 15
+3366,4387,4800,Juan Carlos Chapa,20/6/2019,shot,gun,33.0,M,Hispanic,Mission,TX,True,attack,Foot,False,-98.302,26.212,True,1,26 to 30
+3372,4396,4809,Tomas Hernandez,25/6/2019,shot,knife,35.0,M,Hispanic,San Antonio,TX,True,other,Not fleeing,False,-98.482,29.417,True,1,31 to 35
+3378,4405,4820,Paul David Rea,27/6/2019,shot,unarmed,18.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,False,-118.144,34.03,True,1,11 to 15
+3380,4407,4822,Erik Sandoval,27/6/2019,shot,gun,41.0,M,Hispanic,Yucca Valley,CA,False,attack,Not fleeing,False,-116.405,34.168,True,1,36 to 40
+3386,4415,4823,Christopher Barela,1/7/2019,shot,gun,22.0,M,Hispanic,Denver,CO,False,attack,Not fleeing,False,-104.925,39.729,True,1,16 to 20
+3393,4426,4857,Christine Soto Venegas,3/7/2019,shot,toy weapon,38.0,F,Hispanic,El Paso,TX,False,attack,Not fleeing,False,-106.429,31.77,True,1,31 to 35
+3395,4428,4856,Leonel Mendez,4/7/2019,shot,gun,34.0,M,Hispanic,Lakewood,CO,False,attack,Foot,False,-105.158,39.739,True,1,26 to 30
+3399,4434,4852,Angel Ramos Otero,5/7/2019,shot,knife,37.0,M,Hispanic,Ruskin,FL,False,other,Not fleeing,False,-82.414,27.721,True,1,31 to 35
+3405,4441,4858,Anthony James Gonzales,9/7/2019,shot,undetermined,36.0,M,Hispanic,Bakersfield,CA,False,undetermined,Not fleeing,False,-118.981,35.4,True,1,31 to 35
+3409,4447,4864,Frankie Feliciano,11/7/2019,shot,knife,33.0,M,Hispanic,Jacksonville,FL,False,attack,Not fleeing,True,-81.66199999999998,30.334,True,1,26 to 30
+3412,4450,4879,Derek Antonio-Sanchez,13/7/2019,shot,unarmed,35.0,M,Hispanic,Kirkland,WA,False,attack,Not fleeing,False,-122.197,47.70399999999999,True,1,31 to 35
+3420,4458,4884,Jose Javier Gonzalez,16/7/2019,shot,knife,52.0,M,Hispanic,Chino Hills,CA,False,attack,Not fleeing,False,-117.715,33.983000000000004,True,1,46 to 50
+3427,4468,4874,Patrick Martinez,18/7/2019,shot,knife,53.0,M,Hispanic,Pueblo,CO,False,attack,Not fleeing,False,-104.581,38.272,True,1,46 to 50
+3431,4473,4889,Elisha Lucero,21/7/2019,shot,knife,28.0,F,Hispanic,Albuquerque,NM,True,other,Not fleeing,False,-106.658,35.027,True,1,21 to 25
+3435,4479,4890,Joshua Vigil,23/7/2019,shot,gun,38.0,M,Hispanic,Colorado Springs,CO,False,other,Car,False,-104.77,38.801,True,1,31 to 35
+3436,4481,4896,Alphonso Zaporta,26/7/2019,shot,gun,41.0,M,Hispanic,Hartford,CT,False,attack,Car,True,-72.694,41.758,True,1,36 to 40
+3439,4485,4895,Adalberto Wolmar Rodriguez,28/7/2019,shot,gun,62.0,M,Hispanic,Boyton Beach,FL,False,attack,Not fleeing,False,-80.09100000000002,26.548,True,1,56 to 60
+3449,4505,4915,Oscar Ventura-Gonzalez,3/8/2019,shot,gun,32.0,M,Hispanic,Revere,MA,False,attack,Car,False,-71.031,42.413,True,1,26 to 30
+3454,4513,4916,Marvin Alexis Urbina,5/8/2019,shot,vehicle,19.0,M,Hispanic,Bakersfield,CA,False,other,Car,False,-118.881,34.993,True,1,11 to 15
+3461,4523,4933,Jason Xavier Salas,9/8/2019,shot,machete,52.0,M,Hispanic,Garland,TX,False,attack,Not fleeing,False,-96.577,32.848,True,1,46 to 50
+3465,4538,4966,Jamie Fernandez,15/8/2019,shot,gun,31.0,F,Hispanic,Denver,CO,False,attack,Foot,False,-105.038,39.739,True,1,26 to 30
+3469,4545,4960,Roberto Rene Gabriel,18/8/2019,shot,gun,33.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,True,-118.175,34.072,True,1,26 to 30
+3470,4548,4968,Carlos Torres,19/8/2019,shot,gun,39.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,False,-118.418,34.236,True,1,31 to 35
+3483,4580,5031,Juan Carlos Macias,31/8/2019,shot,gun,37.0,M,Hispanic,Denver,CO,False,attack,Not fleeing,False,-105.01,39.757,True,1,31 to 35
+3488,4588,5104,Eduard Alexis Lopez-Ucles,3/9/2019,shot,vehicle,34.0,M,Hispanic,Kaukauna,WI,False,other,Car,False,-88.26799999999999,44.291,True,1,26 to 30
+3502,4614,5480,Jose Orona,14/9/2019,shot,gun,33.0,M,Hispanic,Plainview,TX,True,attack,Not fleeing,False,-101.722,34.192,True,1,26 to 30
+3528,4658,5491,Raphael Michael Torres,30/9/2019,shot and Tasered,knife,35.0,M,Hispanic,Gainesville,GA,False,other,Foot,False,-83.83200000000002,34.295,True,1,31 to 35
+3532,4669,5078,Antonio Vasquez,6/10/2019,shot,knife,37.0,M,Hispanic,Los Angeles,CA,True,other,Not fleeing,False,-118.073,33.969,True,1,31 to 35
+3542,4685,5095,Fernando Mora,12/10/2019,shot,machete,57.0,M,Hispanic,North Port,FL,False,attack,Not fleeing,False,-82.262,27.054,True,1,51 to 55
+3543,4686,5089,Levy Isacc Madueno Santibanez,13/10/2019,shot,gun,17.0,M,Hispanic,Glendale,AZ,False,attack,Not fleeing,False,-112.206,33.573,True,1,11 to 15
+3562,4714,5216,Claudia Nadia Rodriguez,21/10/2019,shot,gun,37.0,F,Hispanic,Henderson,NV,False,attack,Not fleeing,True,-115.119,36.159,True,1,31 to 35
+3573,4735,5129,Luis Arreguin-Lara,27/10/2019,shot,gun,50.0,M,Hispanic,Tulsa,OK,False,attack,Not fleeing,True,-95.94,36.177,True,1,46 to 50
+3580,4748,5158,Anthony Pena,1/11/2019,shot,gun,46.0,M,Hispanic,Adams County,CO,False,attack,Not fleeing,False,-104.994,39.849,True,1,41 to 45
+3581,4749,5159,Luis Morales-Camacho,1/11/2019,shot,gun,41.0,M,Hispanic,Orlando,FL,False,attack,Not fleeing,False,-81.238,28.554,True,1,36 to 40
+3582,4750,5173,Luis Fino Nabarrette,1/11/2019,shot,gun,38.0,M,Hispanic,Odessa,TX,False,attack,Car,False,-102.372,31.856,True,1,31 to 35
+3602,4784,5203,Omar Enrique Garcia,13/11/2019,shot,sword,37.0,M,Hispanic,Los Angeles,CA,False,other,Foot,False,-118.244,34.052,True,1,31 to 35
+3611,4800,5205,Raul Antonio Menjivar Saabedra,19/11/2019,shot and Tasered,knife,50.0,M,Hispanic,Preston,ID,True,other,Not fleeing,False,-111.875,42.09,True,1,46 to 50
+3618,4808,5210,Estevon Cruz,23/11/2019,shot,toy weapon,24.0,M,Hispanic,Pueblo,CO,False,attack,Not fleeing,False,-104.649,38.256,True,1,16 to 20
+3627,4823,5234,Eliborio Rodriguez,30/11/2019,shot,unarmed,40.0,M,Hispanic,Eugene,OR,False,attack,Not fleeing,False,-123.091,44.091,True,1,36 to 40
+3660,4868,5279,Alejandro Betancourt-Mendoza,14/12/2019,shot,knife,18.0,M,Hispanic,Pasco,WA,False,attack,Not fleeing,False,-119.112,46.245,True,1,11 to 15
+3664,4872,5293,Mario Alberto Torres,15/12/2019,shot,gun,27.0,M,Hispanic,Brownsville,TX,False,attack,Not fleeing,False,-97.538,25.935,True,1,21 to 25
+3666,4874,5292,Jorge Serrano,16/12/2019,shot,gun,25.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,False,-118.192,34.032,True,1,21 to 25
+3667,4875,5296,Bernie Rascon,16/12/2019,shot,undetermined,28.0,M,Hispanic,San Bernardino,CA,False,undetermined,Car,False,-117.334,34.162,True,1,21 to 25
+3684,4900,5398,Macario Hernandez,23/12/2019,shot,gun,34.0,M,Hispanic,San Antonio,TX,False,other,Car,False,-98.504,29.387,True,1,26 to 30
+3689,4907,5325,Juan Rosa,26/12/2019,shot,gun,35.0,M,Hispanic,Auburndale,FL,True,attack,Not fleeing,False,-81.78,28.066,True,1,31 to 35
+3694,4914,5319,Heriberto Rodriguez,28/12/2019,shot,unknown weapon,27.0,M,Hispanic,Bakersfield,CA,False,attack,Not fleeing,False,-118.985,35.395,True,1,21 to 25
+3712,4938,5405,Mariano Ocon,2/1/2020,shot,gun,31.0,M,Hispanic,Chicago,IL,False,attack,Foot,False,-87.777,41.918,True,1,26 to 30
+3713,4939,5340,Michael Gregory,2/1/2020,shot and Tasered,knife,30.0,M,Hispanic,Ansonia,CT,False,attack,Not fleeing,True,-73.07,41.344,True,1,26 to 30
+3718,4944,5338,Drew Nichols Wallas-Flores,5/1/2020,shot,gun,30.0,M,Hispanic,Lubbock,TX,False,attack,Foot,False,-101.902,33.509,True,1,26 to 30
+3722,4948,5353,Xavier Jaime Rovie,6/1/2020,shot,gun,28.0,M,Hispanic,Phoenix,AZ,False,attack,Foot,False,-112.075,33.445,True,1,21 to 25
+3723,4949,5354,Orlando Abeyta,6/1/2020,shot,gun,28.0,M,Hispanic,Albuquerque,NM,False,other,Not fleeing,False,-106.565,35.075,True,1,21 to 25
+3728,4960,5365,Juan Ayon-Ruiz,10/1/2020,shot,vehicle,24.0,M,Hispanic,Muscoy,CA,False,attack,Car,False,-117.351,34.151,True,1,16 to 20
+3734,4970,5373,Eliezer Perez,14/1/2020,shot,knife,51.0,M,Hispanic,The Villages,FL,False,attack,Not fleeing,False,-82.01,28.981,True,1,46 to 50
+3743,4982,5389,Miguel Mercado Segura,20/1/2020,shot,gun,31.0,M,Hispanic,Fountain Valley,CA,False,other,Foot,False,-117.95,33.714,True,1,26 to 30
+3755,5000,5428,Toby Diller,24/1/2020,shot,gun,31.0,M,Hispanic,Oak Park,CA,False,attack,Foot,True,-117.08,32.736,True,1,26 to 30
+3762,5009,5442,Robert Cocio,28/1/2020,shot,gun,39.0,M,Hispanic,Tuscson,AZ,False,attack,Not fleeing,False,-110.998,32.178000000000004,True,1,31 to 35
+3779,5030,5565,Gaston A. Nava-Saucedo,5/2/2020,shot,vehicle,33.0,M,Hispanic,Topeka,KS,False,attack,Car,False,-95.669,39.05,True,1,26 to 30
+3793,5050,5549,Aaron Marcos Valdez,13/2/2020,shot,gun,19.0,M,Hispanic,Amarillo,TX,False,attack,Not fleeing,False,-101.829,35.227,True,1,11 to 15
+3794,5051,5550,Abel Lopez-Lopez,13/2/2020,shot,undetermined,37.0,M,Hispanic,Sparks,NV,False,undetermined,Not fleeing,False,-119.716,39.538,True,1,31 to 35
+3795,5052,5535,William Bluestone,14/2/2020,shot,gun,21.0,M,Hispanic,Silverton,OR,False,other,Not fleeing,True,-122.775,45.005,True,1,16 to 20
+3801,5059,5545,Rudy Arenas,16/2/2020,shot,gun,40.0,M,Hispanic,Poinciana,FL,False,attack,Car,False,-81.458,28.135,True,1,36 to 40
+3806,5064,5542,Alex Francisco Vazquez,19/2/2020,shot,gun,38.0,M,Hispanic,Red Bluff,CA,False,attack,Not fleeing,False,-122.236,40.154,True,1,31 to 35
+3809,5071,5553,Rodrigo Ivan Aguirre,22/2/2020,shot,gun,36.0,M,Hispanic,Deming,NM,False,attack,Other,False,-107.759,32.269,True,1,31 to 35
+3820,5085,5595,Ramiro Carrasco,26/2/2020,shot,gun,30.0,M,Hispanic,Greeley,CO,False,other,Not fleeing,False,-104.703,40.433,True,1,26 to 30
+3823,5092,5586,Jose L. Rivera,28/2/2020,shot,gun,22.0,M,Hispanic,Moses Lake,WA,False,attack,Other,False,-119.317,47.144,True,1,16 to 20
+3826,5097,5581,Raymundo Aaron Ceja,1/3/2020,shot,gun,30.0,M,Hispanic,Santa Clarita,CA,False,other,Not fleeing,False,-118.551,34.416,True,1,26 to 30
+3828,5103,5598,Jose Antonio Gainza,3/3/2020,shot,knife,49.0,M,Hispanic,Miami-Dade,FL,False,other,Not fleeing,False,-80.486,25.582,True,1,41 to 45
+3836,5119,5614,Desiree Nicole Garza,8/3/2020,shot,knife,29.0,F,Hispanic,Torrance,CA,False,other,Not fleeing,False,-118.335,33.866,True,1,21 to 25
+3845,5133,5654,Rosario Angel Alvarado,13/3/2020,shot,toy weapon,41.0,M,Hispanic,Chandler,AZ,False,attack,Not fleeing,False,-111.836,33.305,True,1,36 to 40
+3846,5137,5629,Jeremiah Medina,14/3/2020,shot,gun,31.0,M,Hispanic,Taos,NM,False,attack,Car,False,-105.573,36.407,True,1,26 to 30
+3849,5143,5625,Catherine Gomez,15/3/2020,shot,knife,25.0,F,Hispanic,Long Beach,CA,False,attack,Not fleeing,False,-118.161,33.765,True,1,21 to 25
+3851,5147,5637,Juanito Ovalle,16/3/2020,shot,machete,58.0,M,Hispanic,San Antonio,TX,False,other,Not fleeing,False,-98.504,29.414,True,1,51 to 55
+3862,5170,5687,Maurico Hernandez,24/3/2020,shot,gun,31.0,M,Hispanic,El Paso,TX,False,attack,Car,False,-106.363,31.794,True,1,26 to 30
+3867,5184,5700,Anthony Eduardo Pacheco,31/3/2020,shot,sword,37.0,M,Hispanic,Pomona,CA,False,other,Not fleeing,False,-117.737,34.061,True,1,31 to 35
+3869,5192,5710,Jose Moreno,2/4/2020,shot,Taser,30.0,M,Hispanic,Mesa,AZ,False,attack,Other,False,-111.823,33.408,True,1,26 to 30
+3870,5194,5713,Jose Soto,2/4/2020,shot,unarmed,27.0,M,Hispanic,Manchester,CT,True,other,Not fleeing,False,-72.51100000000002,41.77,True,1,21 to 25
+3874,5202,5725,Yamil Acevedo,6/4/2020,shot,vehicle,29.0,M,Hispanic,North Miami Beach,FL,False,attack,Car,False,-80.176,25.925,True,1,21 to 25
+3894,5242,5775,Nicolas Chavez,21/4/2020,shot and Tasered,Taser,27.0,M,Hispanic,Houston,TX,True,other,Not fleeing,True,-95.304,29.774,True,1,21 to 25
+3898,5249,5751,Michael Ramos,24/4/2020,shot,unarmed,42.0,M,Hispanic,Austin,TX,False,undetermined,Car,True,-97.73,30.223000000000006,True,1,36 to 40
+3903,5258,6170,Christopher Aguirre,27/4/2020,shot,gun,28.0,M,Hispanic,Houston,TX,False,attack,Not fleeing,False,-95.287,29.76,True,1,21 to 25
+3906,5263,5784,Jesus Caballero,29/4/2020,shot,gun,38.0,M,Hispanic,Las Vegas,NV,False,attack,Car,False,-115.311,36.219,True,1,31 to 35
+3920,5279,5773,Armando Salvatierra,3/5/2020,shot,knife,26.0,M,Hispanic,San Jose,CA,False,attack,Not fleeing,True,-121.902,37.336,True,1,21 to 25
+3929,5294,5805,Vincent Ralph Pena,6/5/2020,shot,gun,38.0,M,Hispanic,Commerce City,CO,False,attack,Foot,False,-104.905,39.825,True,1,31 to 35
+3930,5295,5800,Ruben Escarrega,7/5/2020,shot,knife,31.0,M,Hispanic,Long Beach,CA,False,other,Not fleeing,False,-118.182,33.814,True,1,26 to 30
+3933,5298,5887,Daniel Gomez,7/5/2020,shot,knife,21.0,M,Hispanic,Wasco,CA,False,attack,Not fleeing,False,-119.335,35.584,True,1,16 to 20
+3934,5301,5791,Edgar Melgar,9/5/2020,shot,gun,42.0,M,Hispanic,Green Bay,WI,False,attack,Not fleeing,False,-87.943,44.518,True,1,36 to 40
+3944,5314,5834,Anthony Ysaac,14/5/2020,shot,gun,26.0,M,Hispanic,Los Angeles,CA,False,other,Not fleeing,True,-118.289,33.921,True,1,21 to 25
+3961,5338,5840,Bernardo Palacios-Carbajal,23/5/2020,shot,gun,22.0,M,Hispanic,Salt Lake City,UT,False,other,Foot,True,-111.9,40.75,True,1,16 to 20
+3965,5345,5839,Joe Louis Castillanos,25/5/2020,shot,gun,38.0,M,Hispanic,Houston,TX,True,attack,Not fleeing,False,-95.308,29.604,True,1,31 to 35
+3968,5352,5864,John Alvarado,26/5/2020,shot,gun,22.0,M,Hispanic,Corpus Christi,TX,False,attack,Not fleeing,False,-97.434,27.724,True,1,16 to 20
+3970,5355,5882,Robert Avitia,26/5/2020,shot,gun,18.0,M,Hispanic,Los Angeles,CA,False,attack,Foot,False,-118.294,33.937,True,1,11 to 15
+3972,5361,5858,Hector Hernandez,27/5/2020,shot,knife,31.0,M,Hispanic,Fullerton,CA,False,attack,Not fleeing,True,-117.975,33.865,True,1,26 to 30
+3984,5379,5866,Jorge Gomez,1/6/2020,shot,gun,25.0,M,Hispanic,Las Vegas,NV,False,attack,Not fleeing,False,-115.142,36.165,True,1,21 to 25
+3987,5386,5904,Eric A. Galvan,3/6/2020,shot,gun,25.0,M,Hispanic,Corpus Christi,TX,False,attack,Not fleeing,False,-97.451,27.752,True,1,21 to 25
+3992,5391,5900,Erik Salgado,6/6/2020,shot,vehicle,22.0,M,Hispanic,Oakland,CA,False,attack,Not fleeing,False,-122.167,37.74800000000001,True,1,16 to 20
+4000,5409,5922,Anthony Angel Armenta,13/6/2020,shot,toy weapon,21.0,M,Hispanic,San Bernardino,CA,False,attack,Not fleeing,False,-117.25,34.117,True,1,16 to 20
+4008,5419,5933,Andres Guardado,18/6/2020,shot,gun,18.0,M,Hispanic,Gardena,CA,False,other,Foot,False,-118.304,33.89,True,1,11 to 15
+4011,5426,5944,Aaron Solorio Granados,22/6/2020,shot,gun,33.0,M,Hispanic,Palm Desert,CA,False,other,Not fleeing,False,-116.355,33.746,True,1,26 to 30
+4015,5436,5949,Martin Humberto Sanchez Fregoso,25/6/2020,shot,gun,37.0,M,Hispanic,Atlanta,GA,False,attack,Other,False,-84.446,33.9,True,1,31 to 35
+4021,5443,5963,Leonardo Hurtado Ibarra,27/6/2020,shot,gun,25.0,M,Hispanic,San Diego,CA,False,attack,Foot,True,-117.159,32.718,True,1,21 to 25
+4033,5458,5969,James Porter Garcia,4/7/2020,shot,undetermined,28.0,M,Hispanic,Phoenix,AZ,False,undetermined,Not fleeing,True,-112.208,33.495,True,1,21 to 25
+4034,5459,5974,Axel Perez,4/7/2020,shot,machete,17.0,M,Hispanic,Jacksonville,FL,True,other,Not fleeing,False,-81.815,30.255,True,1,11 to 15
+4038,5466,5967,Carlos Baires,7/7/2020,shot,vehicle,36.0,M,Hispanic,Fresno,CA,False,attack,Not fleeing,False,-119.776,36.736,True,1,31 to 35
+4047,5478,6076,Marcos Reyes,12/7/2020,shot,gun,28.0,M,Hispanic,Chamblee,GA,False,attack,Not fleeing,False,-84.29299999999998,33.876999999999995,True,1,21 to 25
+4051,5483,5991,Cristhian Eliud Ramos-Murillo,14/7/2020,shot,gun,32.0,M,Hispanic,Knoxville,TN,False,attack,Car,False,-83.926,35.97,True,1,26 to 30
+4052,5484,5994,Julio Jaramillo,14/7/2020,shot,gun,28.0,M,Hispanic,Deming,NM,False,attack,Foot,False,-107.745,32.261,True,1,21 to 25
+4061,5496,6002,David Angulo,20/7/2020,shot,gun,33.0,M,Hispanic,Chula Vista,CA,False,attack,Other,False,-116.983,32.646,True,1,26 to 30
+4071,5510,6211,Julio Caesar Virula,27/7/2020,shot,gun,26.0,M,Hispanic,Carmel,IN,True,attack,Foot,True,-86.069,39.995,True,1,21 to 25
+4073,5514,6024,Juan Rene Hummel,29/7/2020,shot,knife,25.0,M,Hispanic,Bothell,WA,True,other,Not fleeing,False,-122.207,47.791,True,1,21 to 25
+4075,5518,6084,Gabriel Salinas,30/7/2020,shot,gun,39.0,M,Hispanic,Mission,TX,False,attack,Not fleeing,False,-98.312,26.19,True,1,31 to 35
+4084,5532,6035,Roberto Hernandez,5/8/2020,shot,gun,29.0,M,Hispanic,San Angelo,TX,False,attack,Other,False,-100.509,31.438,True,1,21 to 25
+4085,5534,6031,Vasquinho Bettencourt,6/8/2020,shot,gun,35.0,M,Hispanic,San Leandro,CA,False,attack,Other,False,-122.177,37.736,True,1,31 to 35
+4094,5547,6054,Ryan Shane Hinojo,9/8/2020,shot,gun,26.0,M,Hispanic,El Paso,TX,False,attack,Foot,False,-106.282,31.759,True,1,21 to 25
+4099,5554,6063,Americo Reyes,10/8/2020,shot,knife,40.0,M,Hispanic,Grand Island,NE,True,attack,Not fleeing,False,-98.331,40.934,True,1,36 to 40
+4100,5555,6058,Lyana Gilmore,11/8/2020,shot,gun,48.0,F,Hispanic,Pueblo,CO,True,attack,Not fleeing,False,-104.641,38.281,True,1,41 to 45
+4102,5557,6049,Derick Manuel Bonilla,13/8/2020,shot,gun,39.0,M,Hispanic,Phoenix,AZ,False,attack,Not fleeing,False,-112.111,33.509,True,1,31 to 35
+4108,5566,6043,Jose Manuel Castro,16/8/2020,shot,knife,27.0,M,Hispanic,Dos Palos,CA,False,other,Not fleeing,True,-120.618,36.983,True,1,21 to 25
+4110,5569,6095,Marco Antonio Sigala,17/8/2020,shot,gun,27.0,M,Hispanic,Weslaco,TX,True,attack,Foot,False,-97.111,31.585,True,1,21 to 25
+4111,5570,6096,Everardo Gonzalez Santana,17/8/2020,shot,knife,65.0,M,Hispanic,Bakersfield,CA,False,other,Car,True,-119.009,35.354,True,1,61 to 65
+4112,5571,6097,Santos Anthony Villegas,17/8/2020,shot,gun,36.0,M,Hispanic,San Bernardino,CA,False,attack,Foot,False,-117.299,34.12,True,1,31 to 35
+4113,5577,6103,Ronald Stuart Chipman,19/8/2020,shot,gun,39.0,M,Hispanic,Lake Havasu City,AZ,False,attack,Not fleeing,False,-114.295,34.509,True,1,31 to 35
+4114,5578,6104,Samuel Mata,19/8/2020,shot,gun,21.0,M,Hispanic,San Benito,TX,False,attack,Not fleeing,False,-97.63,26.126,True,1,16 to 20
+4125,5595,6121,Simon Pancho,26/8/2020,shot,gun,17.0,M,Hispanic,Tucson,AZ,False,attack,Foot,True,-110.992,32.171,True,1,11 to 15
+4128,5598,6112,Julio Cesar Moran-Ruiz,28/8/2020,shot,vehicle,36.0,M,Hispanic,Elkridge,MD,False,other,Car,False,-76.764,39.199,True,1,31 to 35
+4132,5605,6136,Marco Antonio Benito,31/8/2020,shot,undetermined,36.0,M,Hispanic,Aztec,NM,False,other,Other,True,-108.036,36.798,True,1,31 to 35
+4137,5611,6150,Fernando Napoles,3/9/2020,shot,gun,37.0,M,Hispanic,California City,CA,True,attack,Not fleeing,False,-117.987,35.312,True,1,31 to 35
+4142,5619,6144,Refugio Reynaldo Olivo,6/9/2020,shot,knife,49.0,M,Hispanic,Virginia Beach,VA,False,other,Not fleeing,False,-76.083,36.831,True,1,41 to 45
+4148,5629,6165,"Samuel Herrera, Jr.",10/9/2020,shot,gun,41.0,M,Hispanic,Los Angeles,CA,False,attack,Not fleeing,False,-118.203,33.892,True,1,36 to 40
+4150,5634,6157,Ricardo Munoz,13/9/2020,shot,knife,27.0,M,Hispanic,Lancaster,PA,True,other,Not fleeing,True,-76.314,40.031,True,1,21 to 25
+4162,5654,6187,Victor Sanchez,22/9/2020,shot,gun,44.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,False,-98.597,29.448,True,1,36 to 40
+4166,5661,6198,Angel Benitez,25/9/2020,shot,undetermined,21.0,M,Hispanic,Tempe,AZ,False,other,Car,True,-111.883,33.422,True,1,16 to 20
+4173,5670,6212,Justin Lee Aguilar-Tofte,2/10/2020,shot,gun,33.0,M,Hispanic,Longview,WA,False,other,Foot,False,-122.938,46.13800000000001,True,1,26 to 30
+4174,5672,6209,Jason Rodriguez,2/10/2020,shot and Tasered,knife,46.0,M,Hispanic,Fresno,CA,False,other,Foot,True,-119.723,36.729,True,1,41 to 45
+4176,5677,6224,Diego Eguino-Alcala,4/10/2020,shot,gun,27.0,M,Hispanic,Las Cruces,NM,False,attack,Not fleeing,False,-106.764,32.32,True,1,21 to 25
+4177,5679,6221,Juan Adrian Garcia,5/10/2020,shot,unarmed,47.0,M,Hispanic,Napa,CA,False,other,Not fleeing,True,-122.271,38.258,True,1,41 to 45
+4180,5683,6394,Douglas Sanchez,6/10/2020,shot,unknown weapon,54.0,M,Hispanic,Sterling,CO,False,other,Foot,False,-103.22,40.622,True,1,46 to 50
+4187,5692,6213,Cesar Vargas,10/10/2020,shot,knife,21.0,M,Hispanic,San Francisco,CA,False,other,Car,True,-122.42,37.772,True,1,16 to 20
+4188,5693,6366,Matthew Montoya,12/10/2020,shot,gun,52.0,M,Hispanic,Albuquerque,NM,False,other,Not fleeing,False,-106.577,35.092,True,1,46 to 50
+4189,5696,6228,Jose Marcos Ramirez,13/10/2020,shot,knife,27.0,M,Hispanic,Bakersfield,CA,False,attack,Foot,True,-118.994,35.37300000000001,True,1,21 to 25
+4190,5697,6367,Miguel Nevarez,13/10/2020,shot,gun,36.0,M,Hispanic,Houma,LA,True,other,Not fleeing,False,-90.733,29.596,True,1,31 to 35
+4191,5699,6239,Yoel Arnaldo Mejia Santel,14/10/2020,shot,machete,28.0,M,Hispanic,Frostproof,FL,True,other,Not fleeing,False,-81.531,27.746,True,1,21 to 25
+4194,5707,6237,Alberto Rivas,16/10/2020,shot,gun,57.0,M,Hispanic,Huntsville,AL,False,attack,Not fleeing,False,-86.572,34.628,True,1,51 to 55
+4203,5726,6250,George Cocreham,20/10/2020,shot,gun,43.0,M,Hispanic,Phoenix,AZ,True,attack,Not fleeing,True,-112.035,33.509,True,1,36 to 40
+4206,5730,6334,Emmett Cocreham,20/10/2020,shot,unarmed,44.0,M,Hispanic,Phoenix,AZ,False,other,Not fleeing,True,-112.035,33.509,True,1,36 to 40
+4209,5734,6258,Francisco Danny Flores,22/10/2020,shot,gun,30.0,M,Hispanic,Casa Grande,AZ,False,attack,Car,False,-111.757,32.894,True,1,26 to 30
+4211,5740,6260,Marc Nevarez,23/10/2020,shot,gun,25.0,M,Hispanic,Chicago,IL,False,attack,Foot,False,-87.71700000000001,41.844,True,1,21 to 25
+4212,5744,6389,David Angel Villalobos-Baldovinos,23/10/2020,shot,unarmed,30.0,M,Hispanic,San Ysidro,CA,False,attack,Not fleeing,False,-117.047,32.556,True,1,26 to 30
+4218,5759,6273,Charles Robert Arviso,28/10/2020,shot,gun,35.0,M,Hispanic,Tucson,AZ,False,attack,Foot,True,-110.998,32.135,True,1,31 to 35
+4219,5760,6315,Justin Esqueda,28/10/2020,shot,gun,30.0,M,Hispanic,Bakersfield,CA,False,attack,Foot,False,-118.98,35.399,True,1,26 to 30
+4221,5762,6386,Rodolfo Martinez-Cortez,29/10/2020,shot,gun,30.0,M,Hispanic,Salem,OR,False,attack,Foot,False,-123.02,44.93600000000001,True,1,26 to 30
+4224,5771,6361,Nick Burgos,1/11/2020,shot,unknown weapon,38.0,M,Hispanic,West Carson,CA,True,attack,Not fleeing,False,-118.293,33.828,True,1,31 to 35
+4227,5775,6285,Jessee Bowers,3/11/2020,shot,gun,55.0,M,Hispanic,San Antonio,TX,False,attack,Not fleeing,True,-98.761,29.463,True,1,51 to 55
+4229,5778,6358,Jonathan Torres Ramirez,3/11/2020,shot,undetermined,20.0,M,Hispanic,Oakland,CA,False,undetermined,Other,False,-122.173,37.749,True,1,16 to 20
+4237,5787,6299,Javier P. Magana,5/11/2020,shot,gun,32.0,M,Hispanic,Ventura,CA,False,other,Car,False,-119.27,34.265,True,1,26 to 30
+4238,5789,6356,Luis Robert Zaragoza Barbosa,5/11/2020,shot,gun,37.0,M,Hispanic,Crestview,FL,False,attack,Not fleeing,False,-86.568,30.729,True,1,31 to 35
+4239,5790,6355,David Viveros,6/11/2020,shot and Tasered,knife,26.0,M,Hispanic,Rialto,CA,False,attack,Not fleeing,False,-117.368,34.107,True,1,21 to 25
+4257,5828,6321,Pedro Martinez,18/11/2020,shot,unknown weapon,66.0,M,Hispanic,Tyler,TX,False,other,Not fleeing,False,-95.285,32.337,True,1,61 to 65
+4264,5842,6335,Lorenzo Aguilar,24/11/2020,shot,gun,37.0,M,Hispanic,Deming,NM,False,attack,Car,False,-107.762,32.267,True,1,31 to 35
+4267,5851,6364,Adam Lee Mendez,30/11/2020,shot,knife,38.0,M,Hispanic,San Angelo,TX,False,other,Not fleeing,False,-100.475,31.469,True,1,31 to 35
+4270,5856,6397,Dolores Hernandez,2/12/2020,shot,vehicle,62.0,F,Hispanic,Redding,CA,True,attack,Not fleeing,False,-122.348,40.586,True,1,56 to 60
+4275,5867,6400,Christian Juarez,6/12/2020,shot,vehicle,28.0,M,Hispanic,Rowland Heights,CA,False,attack,Car,False,-117.904,33.988,True,1,21 to 25
+4283,5879,6425,Evelio Rivera,10/12/2020,shot,gun,37.0,M,Hispanic,Rehoboth Beach,DE,False,attack,Not fleeing,False,-75.117,38.719,True,1,31 to 35
+4291,5897,6446,Leonal Salinas,18/12/2020,shot,knife,34.0,M,Hispanic,Nampa,ID,False,attack,Not fleeing,False,-116.557,43.582,True,1,26 to 30
+4293,5904,6435,Paul Peraza,21/12/2020,shot,vehicle,50.0,M,Hispanic,Wichita,KS,False,other,Car,False,-97.227,37.682,True,1,46 to 50
+4296,5919,6468,Bryan Cruz-Soto,28/12/2020,shot,knife,28.0,M,Hispanic,Brockton,MA,False,other,Not fleeing,False,-71.031,42.108,True,1,21 to 25
+4303,5940,6514,Henry Martinez,3/1/2021,shot,knife,49.0,M,Hispanic,Ontario,OR,False,other,Not fleeing,False,-116.945,44.02,True,1,41 to 45
+4320,5996,6552,Felix Santos,26/1/2021,shot,gun,48.0,M,Hispanic,San Antonio,TX,False,attack,Car,False,-98.65,29.4,True,1,41 to 45
+4322,5998,6551,Erick Mejia,27/1/2021,shot,gun,26.0,M,Hispanic,San Antonio,TX,False,other,Foot,True,-98.534,29.351,True,1,21 to 25

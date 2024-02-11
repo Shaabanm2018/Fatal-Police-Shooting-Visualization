@@ -1,0 +1,148 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+52,52,60,20,Jessie Hernandez,26/1/2015,shot,vehicle,17.0,F,Hispanic,Denver,CO,False,other,Not fleeing,False,-104.90899999999999,39.754,True,1
+180,180,199,221,Alice Brown,17/3/2015,shot,vehicle,24.0,F,White,San Francisco,CA,True,other,Not fleeing,False,-122.42200000000001,37.789,True,1
+222,222,244,263,Mya Hall,31/3/2015,shot,vehicle,27.0,F,Black,Fort Meade,MD,False,other,Car,False,-76.77,39.115,True,1
+373,373,409,521,Christie Cathers,5/6/2015,shot,vehicle,45.0,F,White,Morgantown,WV,False,other,Car,False,-79.907,39.62300000000001,True,1
+910,910,1057,1209,Janet Wilson,27/1/2016,shot,vehicle,31.0,F,Black,Dearborn,MI,True,other,Car,False,-83.208,42.321999999999996,True,1
+913,913,1060,1213,Jacqueline D. Salyers,28/1/2016,shot,vehicle,32.0,F,Native Hawaiian,Tacoma,WA,False,other,Not fleeing,False,-122.454,47.233999999999995,True,1
+918,918,1065,1226,Angela Hiatt,29/1/2016,shot,vehicle,41.0,F,White,Phenix City,AL,False,attack,Car,False,-85.06700000000002,32.486,True,1
+1214,1214,1414,1599,Omar Villagomez,7/6/2016,shot,vehicle,21.0,M,Hispanic,Turlock,CA,False,other,Not fleeing,False,-120.874,37.493,True,1
+1403,1403,1662,1862,David L. Anderson,6/9/2016,shot,vehicle,25.0,M,White,Omaha,NE,False,other,Other,False,-95.947,41.206,True,1
+1489,1489,1773,1982,Javier Munoz,19/10/2016,shot,vehicle,28.0,M,Hispanic,Henderson,NV,False,attack,Car,False,-115.02799999999999,36.044000000000004,True,1
+1510,1510,1798,2006,Michelle Lee Shirley,31/10/2016,shot,vehicle,39.0,F,Black,Torrance,CA,True,attack,Car,False,-118.316,33.819,True,1
+1595,1595,1934,2165,Michael Tyler Jacques,23/12/2016,shot and Tasered,vehicle,31.0,M,White,Bend,OR,True,other,Not fleeing,False,-121.314,44.056999999999995,True,1
+1756,1756,2139,2380,Evin Sanna Olsen,26/2/2017,shot,vehicle,46.0,F,White,Ripon,CA,False,other,Car,False,-121.115,37.739000000000004,True,1
+1951,1951,2413,2673,Samantha Aguilar,17/6/2017,shot,vehicle,28.0,F,Hispanic,Montebello,CA,False,other,Not fleeing,False,-118.12799999999999,33.98,True,1
+2191,2191,2722,3008,Cariann Hithon,8/10/2017,shot,vehicle,22.0,F,Black,Miami,FL,False,attack,Car,False,-80.132,25.783,True,1
+2242,2242,2795,3108,Marylsa Sanchez,5/11/2017,shot,vehicle,31.0,F,Hispanic,Rudioso,NM,False,attack,Not fleeing,False,-105.647,33.367,True,1
+2276,2276,2837,3150,Preston Bell,18/11/2017,shot,vehicle,24.0,M,Native Hawaiian,Billings,MT,False,attack,Car,True,-108.51299999999999,45.76300000000001,True,1
+2342,2342,2959,3285,Gregory Stough,6/1/2018,shot,vehicle,27.0,M,White,Manchester Township,PA,False,other,Car,False,-76.751,40.001999999999995,True,1
+2354,2354,2973,3301,Shalun Dique Smith,10/1/2018,shot,vehicle,21.0,M,Black,Palmdale,CA,False,other,Car,False,-118.04299999999999,34.565,True,1
+2392,2392,3028,3359,Crystalline Barnes,27/1/2018,shot,vehicle,21.0,F,Black,Jackson,MS,False,attack,Car,False,-90.15299999999999,32.384,True,1
+2418,2418,3065,3395,David Darden,9/2/2018,shot,vehicle,36.0,M,Black,Atlanta,GA,False,other,Car,False,-84.395,33.731,True,1
+2464,2464,3125,3459,Erick Eduardo Mora Martinez,2/3/2018,shot,vehicle,31.0,M,Hispanic,Santa Ana,CA,False,attack,Not fleeing,False,-117.85,33.708,True,1
+2526,2526,3213,3553,Holly Knighton,27/3/2018,shot,vehicle,33.0,F,White,Montgomery,AL,False,attack,Car,False,-86.28299999999999,32.418,True,1
+2554,2554,3248,3586,Diante Yarber,5/4/2018,shot,vehicle,26.0,M,Black,Barstow,CA,False,attack,Not fleeing,False,-116.994,34.885,True,1
+2584,2584,3285,3619,Jessie Thedford,14/4/2018,shot,vehicle,32.0,M,White,Carrollton,GA,False,attack,Not fleeing,False,-85.12700000000002,33.628,True,1
+2588,2588,3291,3625,Justin Monjay,17/4/2018,shot,vehicle,39.0,M,White,Tishomingo,OK,False,attack,Car,False,-96.689,34.25,True,1
+2594,2594,3298,3634,Lockwood Adrian Gibson,20/4/2018,shot,vehicle,49.0,M,White,Foresthill,CA,True,other,Car,False,-121.054,38.923,True,1
+2605,2605,3315,3648,Myra Lisa Micalizio,26/4/2018,shot,vehicle,56.0,F,White,Palermo,CA,False,attack,Car,True,-121.551,39.446999999999996,True,1
+2621,2621,3342,3745,Savannah Hill,5/5/2018,shot,vehicle,21.0,F,White,Aurora,MO,False,attack,Car,False,-93.71799999999999,36.971,True,1
+2635,2635,3358,3683,Kenneth Carter,10/5/2018,shot,vehicle,46.0,M,White,Morristown,TN,False,attack,Not fleeing,False,-83.27600000000002,36.201,True,1
+2662,2662,3395,3715,Augustine Oliva,25/5/2018,shot,vehicle,29.0,M,White,Dumas,TX,False,attack,Not fleeing,False,-101.999,36.033,True,1
+2686,2686,3430,3760,LaShanda Anderson,9/6/2018,shot,vehicle,36.0,F,Black,Deptford,NJ,False,other,Car,False,-75.097,39.838,True,1
+2769,2769,3544,3878,Anthony C. Lopez,21/7/2018,shot,vehicle,21.0,M,Hispanic,Mesa,AZ,False,attack,Not fleeing,False,-111.875,33.393,True,1
+2773,2773,3548,3873,Logan Simpson,22/7/2018,shot,vehicle,16.0,M,White,Bixby,OK,False,attack,Car,False,-95.883,35.926,True,1
+2779,2779,3555,3882,Donna Lynn Allen,24/7/2018,shot,vehicle,39.0,F,White,Soddy-Daisy,TN,False,attack,Car,False,-85.169,35.313,True,1
+2782,2782,3558,3885,Richard R. Bahr,25/7/2018,shot,vehicle,54.0,M,White,Spokane,WA,False,attack,Car,False,-117.363,47.646,True,1
+2813,2813,3602,3934,Michael Ducote,7/8/2018,shot,vehicle,26.0,M,White,Shreveport,LA,False,other,Car,False,-93.74600000000001,32.492,True,1
+2814,2814,3603,3931,Joseph Robbins,8/8/2018,shot,vehicle,24.0,M,White,Carthage,TN,False,attack,Not fleeing,False,-85.95,36.26300000000001,True,1
+2833,2833,3631,3985,Jeffrey Dennis,20/8/2018,shot,vehicle,36.0,M,Black,Philadelphia,PA,False,attack,Car,False,-75.041,40.032,True,1
+2835,2835,3633,3988,Virginia Romero,23/8/2018,shot,vehicle,34.0,F,Hispanic,Los Lunas,NM,False,other,Not fleeing,False,-106.648,34.736999999999995,True,1
+2846,2846,3648,4001,Jalon Johnson,29/8/2018,shot,vehicle,17.0,M,Black,Houston,TX,False,attack,Car,False,-95.271,29.784000000000002,True,1
+2852,2852,3654,4011,Oshae Terry,1/9/2018,shot,vehicle,24.0,M,Black,Arlington,TX,False,attack,Car,False,-97.149,32.7,True,1
+2873,2873,3684,4040,Damon Christopher Gayheart,17/9/2018,shot,vehicle,44.0,M,White,Christian County,KY,False,attack,Car,False,-87.314,37.009,True,1
+2884,2884,3697,4065,Paul Braswell,26/9/2018,shot,vehicle,29.0,M,Black,Newark,NJ,False,attack,Car,False,-74.209,40.707,True,1
+2886,2886,3700,4068,Coltin Brennan Leblanc,27/9/2018,shot,vehicle,23.0,M,White,Hammond,LA,False,other,Not fleeing,True,-90.462,30.504,True,1
+2896,2896,3712,4074,LaJuana Philips,2/10/2018,shot,vehicle,36.0,F,Black,Victorville,CA,False,attack,Not fleeing,False,-117.307,34.522,True,1
+2903,2903,3724,4079,Alexander G. Lindahl,8/10/2018,shot,vehicle,24.0,M,White,Okarche,OK,False,attack,Car,False,-97.977,35.726,True,1
+2904,2904,3725,4081,Isaiah Ramirez,8/10/2018,shot,vehicle,36.0,M,White,Oak Ridge,TN,False,attack,Car,False,-84.21799999999998,36.025,True,1
+2912,2912,3738,4099,Ashley Elisna Grammer,12/10/2018,shot,vehicle,26.0,F,Other,Puna,HI,False,attack,Not fleeing,False,-154.873,19.551,True,1
+2923,2923,3754,4115,Sean Dutcher,18/10/2018,shot,vehicle,38.0,M,White,Elkhorn,WI,False,attack,Car,False,-88.54299999999998,42.723,True,1
+2926,2926,3757,4116,"Neico Crooks, Jr",19/10/2018,shot,vehicle,21.0,M,Black,Miami,FL,False,attack,Car,False,-80.203,25.948,True,1
+2939,2939,3778,4138,Derrick Alexander Sellman,29/10/2018,shot,vehicle,28.0,M,Black,Parkville,MD,False,attack,Car,False,-76.565,39.37300000000001,True,1
+2944,2944,3783,4146,Gonzalo Rico-Jimenez,31/10/2018,shot,vehicle,26.0,M,Hispanic,North Las Vegas,NV,False,attack,Car,False,-115.105,36.195,True,1
+2947,2947,3787,4150,Laudemer Arboleda,3/11/2018,shot,vehicle,33.0,M,Black,Danville,CA,True,other,Not fleeing,True,-121.999,37.823,True,1
+2950,2950,3791,4164,Ryan Millsap,4/11/2018,shot,vehicle,19.0,M,White,Clear Creek Canyon,CO,False,attack,Car,False,-105.04299999999999,39.797,True,1
+2972,2972,3828,4185,Rio Antwuan Thomas,17/11/2018,shot,vehicle,27.0,M,Black,Fort Pierce,FL,False,attack,Car,False,-80.39699999999998,27.416999999999998,True,1
+2974,2974,3831,4192,Christopher Williams,19/11/2018,shot,vehicle,41.0,M,White,Meridian,ID,False,attack,Car,False,-116.39399999999999,43.598,True,1
+2975,2975,3833,4237,Roderick McDaniel,20/11/2018,shot,vehicle,33.0,M,Black,Magnolia,AR,False,attack,Not fleeing,False,-93.23200000000001,33.257,True,1
+2984,2984,3849,4210,Jarmane Logan,27/11/2018,shot,vehicle,35.0,M,Black,Topeka,KS,False,attack,Car,False,-95.661,39.071999999999996,True,1
+2985,2985,3854,4221,David Villagran,28/11/2018,shot,vehicle,33.0,M,Hispanic,Vancouver,WA,False,attack,Car,False,-122.561,45.674,True,1
+3010,3010,3886,4297,Demario Bass,12/12/2018,shot,vehicle,29.0,M,Black,St. Louis,MO,False,attack,Car,False,-90.26299999999999,38.702,True,1
+3025,3025,3914,4324,Jennifer Vasquez,25/12/2018,shot,vehicle,24.0,F,Hispanic,San Jose,CA,False,attack,Car,False,-121.92299999999999,37.311,True,1
+3027,3027,3916,4322,Michael Jerome Taylor,26/12/2018,shot,vehicle,17.0,M,Black,Lakeland,FL,False,attack,Car,False,-81.95,28.039,True,1
+3040,3040,3932,4504,Brandon Lovell Webster,1/1/2019,shot,vehicle,28.0,M,Black,Shallotte,NC,False,other,Car,False,-78.368,33.979,True,1
+3041,3041,3933,4342,Matthew Burroughs,2/1/2019,shot,vehicle,35.0,M,Black,Niles,OH,False,attack,Foot,False,-80.75399999999998,41.18899999999999,True,1
+3049,3049,3943,4506,Jeremy Dean Duncan,4/1/2019,shot,vehicle,39.0,M,White,Amarillo,TX,False,attack,Car,False,-101.84100000000001,35.175,True,1
+3073,3073,3984,4402,D'ettrick Griffin,15/1/2019,shot,vehicle,18.0,M,Black,Atlanta,GA,False,other,Car,False,-84.404,33.744,True,1
+3082,3082,3995,4399,Jason C. Minnick,19/1/2019,shot,vehicle,30.0,M,White,Knoxville,TN,False,other,Car,False,-83.97200000000002,35.99800000000001,True,1
+3092,3092,4009,4429,Jacob Archambault,27/1/2019,shot,vehicle,25.0,M,Native Hawaiian,Rosebud,SD,False,attack,Car,False,-100.853,43.233000000000004,True,1
+3101,3101,4019,4423,Siatu'u Tauai,29/1/2019,shot,vehicle,51.0,M,Other,Kalihi,HI,False,attack,Car,False,-157.864,21.331999999999997,True,1
+3105,3105,4024,4434,Robert Martinez,1/2/2019,shot,vehicle,45.0,M,Hispanic,Denver,CO,False,attack,Car,False,-105.01899999999999,39.713,True,1
+3110,3110,4029,4439,Asuncion J. Gomez-Guerrero,3/2/2019,shot,vehicle,35.0,M,Hispanic,Waukegan,IL,False,attack,Car,True,-87.845,42.364,True,1
+3148,3148,4075,4490,Kyle Thomas,20/2/2019,shot,vehicle,26.0,M,White,Honolulu,HI,False,attack,Car,False,-158.016,21.443,True,1
+3149,3149,4076,4471,Bradley Blackshire,22/2/2019,shot,vehicle,30.0,M,Black,Little Rock,AR,False,attack,Car,True,-92.35600000000001,34.742,True,1
+3152,3152,4079,4493,Neico Crooks,22/2/2019,shot,vehicle,21.0,M,Black,Miami Gardens,FL,False,attack,Car,False,-80.204,25.948,True,1
+3160,3160,4088,4492,Sasha Ann Pishko,26/2/2019,shot,vehicle,20.0,F,White,McIntosh County,GA,False,attack,Car,False,-81.447,31.471,True,1
+3192,3192,4133,4561,Latasha Nicole Walton,12/3/2019,shot,vehicle,32.0,F,Black,Miami,FL,False,other,Not fleeing,False,-80.21300000000002,25.921,True,1
+3217,3217,4168,4597,Brandon Michael Jacque,27/3/2019,shot,vehicle,25.0,M,White,Burnet,TX,False,attack,Not fleeing,True,-98.219,30.756999999999998,True,1
+3220,3220,4172,4604,Chris Joseph,27/3/2019,shot,vehicle,38.0,M,Black,Terrytown,LA,False,attack,Not fleeing,False,-90.04,29.926,True,1
+3221,3221,4173,4605,Daviri Robertson,27/3/2019,shot,vehicle,39.0,M,Black,Terrytown,LA,False,attack,Car,False,-90.04,29.926,True,1
+3226,3226,4180,4608,Stacy William Kenny,31/3/2019,shot,vehicle,33.0,F,White,Springfield,OR,True,other,Car,False,-122.97200000000001,44.059,True,1
+3251,3251,4212,4666,Theresa Medina-Thomas,11/4/2019,shot,vehicle,29.0,F,Hispanic,Ahwatukee,AZ,False,other,Car,False,-111.98,33.349000000000004,True,1
+3258,3258,4224,4641,Chadwick Dale Martin,16/4/2019,shot,vehicle,24.0,M,White,Fountain Inn,SC,False,attack,Car,False,-82.196,34.689,True,1
+3297,3297,4288,5418,Djuantez Anthony Mitchell,15/5/2019,shot,vehicle,30.0,M,Black,Louisville,KY,False,attack,Car,False,-85.58,38.188,True,1
+3324,3324,4327,4749,Kyle Needham,31/5/2019,shot,vehicle,32.0,M,White,Gorham,ME,False,attack,Car,False,-70.439,43.681999999999995,True,1
+3351,3351,4367,4780,Brandon Webber,12/6/2019,shot,vehicle,20.0,M,Black,Memphis,TN,False,attack,Foot,False,-89.994,35.24,True,1
+3353,3353,4369,4782,Marquis Weems,13/6/2019,shot,vehicle,17.0,M,Black,Rockville,MD,False,attack,Car,False,-77.107,39.053000000000004,True,1
+3354,3354,4370,4784,Tramon Savage,13/6/2019,shot,vehicle,22.0,M,Black,Jacksonville,AR,False,attack,Car,False,-92.12700000000001,34.865,True,1
+3361,3361,4381,4788,Mark Anthony Galvan,17/6/2019,shot,vehicle,20.0,M,Hispanic,Brownsville,TX,False,attack,Car,False,-97.507,25.925,True,1
+3379,3379,4406,4821,William Aubrey Martin,27/6/2019,shot,vehicle,50.0,M,White,Tulsa,OK,False,attack,Car,False,-95.916,36.071999999999996,True,1
+3454,3454,4513,4916,Marvin Alexis Urbina,5/8/2019,shot,vehicle,19.0,M,Hispanic,Bakersfield,CA,False,other,Car,False,-118.881,34.993,True,1
+3484,3484,4581,4995,Robert Desjarlais,1/9/2019,shot,vehicle,49.0,M,White,Sand Springs,OK,False,attack,Car,True,-96.155,36.076,True,1
+3488,3488,4588,5104,Eduard Alexis Lopez-Ucles,3/9/2019,shot,vehicle,34.0,M,Hispanic,Kaukauna,WI,False,other,Car,False,-88.26799999999999,44.291000000000004,True,1
+3489,3489,4589,5477,Terry Pierce,3/9/2019,shot,vehicle,46.0,M,White,Van Wert,OH,True,other,Car,False,-84.601,40.96100000000001,True,1
+3526,3526,4655,5070,Angela Louise Perkins,29/9/2019,shot,vehicle,38.0,F,White,Cotter,MO,False,attack,Car,False,-91.758,36.977,True,1
+3536,3536,4674,5087,Joseph Cimino,8/10/2019,shot,vehicle,48.0,M,White,Lincoln,NE,False,attack,Not fleeing,False,-96.682,40.741,True,1
+3537,3537,4675,5222,Zachary Aldrige Hall,8/10/2019,shot,vehicle,28.0,M,White,Layton,UT,False,attack,Car,False,-111.978,41.078,True,1
+3538,3538,4677,5084,Michael Uccello,10/10/2019,shot,vehicle,48.0,M,White,Los Angeles,CA,False,other,Car,False,-118.148,34.711999999999996,True,1
+3554,3554,4700,5109,Allan Feliz,17/10/2019,shot,vehicle,31.0,M,Black,New York,NY,False,attack,Not fleeing,False,-73.878,40.882,True,1
+3563,3563,4718,5125,Matthew Wayne Sutton,23/10/2019,shot,vehicle,47.0,M,White,El Paso,TX,False,attack,Car,False,-106.469,31.778000000000002,True,1
+3568,3568,4726,5124,Anthony John Michael Zapier,25/10/2019,shot,vehicle,19.0,M,White,Morristown,TN,False,attack,Not fleeing,False,-83.338,36.175,True,1
+3600,3600,4779,5184,Sidney Alexis Renew,11/11/2019,shot,vehicle,20.0,F,White,Lakeland,FL,False,attack,Not fleeing,False,-82.02799999999998,28.215,True,1
+3615,3615,4805,5224,Anthony Chilcott,22/11/2019,shot,vehicle,36.0,M,White,Black Diamond,WA,False,attack,Not fleeing,False,-121.925,47.286,True,1
+3630,3630,4828,5235,Steven Kerr,1/12/2019,shot,vehicle,25.0,M,White,Plant City,FL,False,attack,Car,False,-82.14399999999998,28.023000000000003,True,1
+3637,3637,4838,5256,Demetrius Williams,5/12/2019,shot,vehicle,31.0,M,Black,Marshall,TX,False,attack,Foot,False,-94.38600000000001,32.538000000000004,True,1
+3688,3688,4905,5330,Deangelo Rashad Martin,25/12/2019,shot,vehicle,23.0,M,Black,Atlanta,GA,False,attack,Car,False,-84.509,33.632,True,1
+3698,3698,4922,5402,Debra D. Arbuckle,30/12/2019,shot,vehicle,51.0,F,White,Wichita,KS,False,attack,Car,False,-97.226,37.657,True,1
+3699,3699,4923,5404,Cody McCaulou,30/12/2019,shot,vehicle,25.0,M,White,Fulton,MO,False,attack,Car,False,-91.96,38.85,True,1
+3700,3700,4925,5333,Frederick Perkins,31/12/2019,shot,vehicle,37.0,M,Black,Chesterfield,MO,False,attack,Car,False,-90.661,38.677,True,1
+3710,3710,4936,5349,Jamari Daiwon Tarver,2/1/2020,shot,vehicle,26.0,M,Black,North Las Vegas,NV,False,attack,Car,True,-115.18799999999999,36.24,True,1
+3728,3728,4960,5365,Juan Ayon-Ruiz,10/1/2020,shot,vehicle,24.0,M,Hispanic,Muscoy,CA,False,attack,Car,False,-117.351,34.150999999999996,True,1
+3733,3733,4969,5372,Randy Glen Goodale,13/1/2020,shot,vehicle,45.0,M,White,San Antonio,TX,False,attack,Not fleeing,False,-98.404,29.288,True,1
+3752,3752,4997,5506,Andrew Smyrna,23/1/2020,shot,vehicle,32.0,M,Black,Atlanta,GA,False,attack,Car,False,-84.344,33.75,True,1
+3753,3753,4998,5507,Michael Rivera,23/1/2020,shot,vehicle,32.0,M,Black,Bloomingdale,NJ,False,attack,Car,False,-74.331,41.006,True,1
+3763,3763,5010,5569,Jonathan Bentley,28/1/2020,shot,vehicle,37.0,M,White,Shelby Gap,KY,False,attack,Not fleeing,False,-82.566,37.233000000000004,True,1
+3770,3770,5018,5493,Leonard Parker,1/2/2020,shot,vehicle,53.0,M,Black,Gulfport,MS,False,other,Not fleeing,False,-89.054,30.38300000000001,True,1
+3779,3779,5030,5565,Gaston A. Nava-Saucedo,5/2/2020,shot,vehicle,33.0,M,Hispanic,Topeka,KS,False,attack,Car,False,-95.669,39.05,True,1
+3799,3799,5057,5532,Thomas Murray,16/2/2020,shot,vehicle,31.0,M,White,Newbury,MA,False,attack,Car,False,-70.936,42.751999999999995,True,1
+3815,3815,5078,5590,Matthew Felix,25/2/2020,shot,vehicle,19.0,M,Black,New York,NY,False,attack,Car,False,-73.743,40.696,True,1
+3819,3819,5084,5593,Justin Lee Stackhouse,26/2/2020,shot,vehicle,30.0,M,Black,Bradenton,FL,False,attack,Car,False,-82.616,27.462,True,1
+3834,3834,5116,5618,Gary Brown,7/3/2020,shot,vehicle,43.0,M,White,Harrison Township,OH,False,attack,Car,False,-85.323,51.254,True,1
+3852,3852,5151,5709,Charity Thorne,16/3/2020,shot,vehicle,42.0,F,White,Myerstown,PA,False,attack,Car,False,-76.329,40.359,True,1
+3860,3860,5168,5685,Kathryn R. Hale,24/3/2020,shot,vehicle,32.0,F,White,Shelton,WA,False,attack,Car,False,-122.958,47.333,True,1
+3874,3874,5202,5725,Yamil Acevedo,6/4/2020,shot,vehicle,29.0,M,Hispanic,North Miami Beach,FL,False,attack,Car,False,-80.176,25.925,True,1
+3876,3876,5206,5729,Jacob Matthew Dau,7/4/2020,shot,vehicle,38.0,M,White,Clinton,IA,False,other,Car,True,-90.18799999999999,41.842,True,1
+3889,3889,5233,5749,Jasman Washington,16/4/2020,shot,vehicle,31.0,M,Black,Lubbock,TX,False,attack,Car,False,-101.822,33.657,True,1
+3907,3907,5264,5785,Artemio Mondragon Alfaro,29/4/2020,shot,vehicle,29.0,M,White,Madera County,CA,False,attack,Other,False,-120.18700000000001,36.836999999999996,True,1
+3946,3946,5318,5832,Robert Avila,15/5/2020,shot,vehicle,31.0,M,White,Pueblo,CO,False,attack,Car,False,-104.57700000000001,38.271,True,1
+3975,3975,5366,5855,Steven Edward Ferguson,28/5/2020,shot,vehicle,31.0,M,White,Centennial,CO,False,attack,Car,False,-104.88,39.580999999999996,True,1
+3981,3981,5374,5879,Jarvis Sullivan,29/5/2020,shot,vehicle,44.0,M,Black,Yulee,FL,False,attack,Car,False,-81.604,30.634,True,1
+3992,3992,5391,5900,Erik Salgado,6/6/2020,shot,vehicle,22.0,M,Hispanic,Oakland,CA,False,attack,Not fleeing,False,-122.167,37.74800000000001,True,1
+4038,4038,5466,5967,Carlos Baires,7/7/2020,shot,vehicle,36.0,M,Hispanic,Fresno,CA,False,attack,Not fleeing,False,-119.77600000000001,36.736,True,1
+4046,4046,5476,5984,Terena Nicole Thurman,12/7/2020,shot,vehicle,36.0,F,White,Butler Township,OH,False,attack,Car,False,-79.918,40.841,True,1
+4054,4054,5486,5993,Antwane Burrise,15/7/2020,shot,vehicle,39.0,M,Black,Stockton,CA,False,attack,Not fleeing,False,-121.374,38.048,True,1
+4101,4101,5556,6064,Paul Monroe Bryan,11/8/2020,shot,vehicle,48.0,M,White,Rogers County,OK,False,attack,Car,False,-95.791,36.329,True,1
+4107,4107,5565,6042,Thomas Moles,16/8/2020,shot,vehicle,35.0,M,White,Maury County,TN,False,attack,Other,False,-87.07,35.786,True,1
+4128,4128,5598,6112,Julio Cesar Moran-Ruiz,28/8/2020,shot,vehicle,36.0,M,Hispanic,Elkridge,MD,False,other,Car,False,-76.764,39.199,True,1
+4140,4140,5615,6146,Andrew Blowers,5/9/2020,shot,vehicle,22.0,M,White,Battle Creek,MI,False,attack,Car,False,-85.272,42.305,True,1
+4225,4225,5773,6280,John Mellone,2/11/2020,shot,vehicle,39.0,M,White,Lynn,MA,False,attack,Car,False,-70.96300000000002,42.46,True,1
+4236,4236,5786,6298,Jacob C. Rucker,5/11/2020,shot,vehicle,36.0,M,White,Tulsa,OK,False,attack,Not fleeing,False,-95.851,36.167,True,1
+4251,4251,5816,6310,Jake Settle,14/11/2020,shot,vehicle,40.0,M,White,Pensacola,FL,False,other,Car,False,-87.235,30.441999999999997,True,1
+4262,4262,5839,6326,Brian Allen Thurman,22/11/2020,shot,vehicle,49.0,M,White,Louisville,KY,False,attack,Car,True,-85.78299999999999,38.266,True,1
+4263,4263,5840,6327,Nicholas Kaussaen,22/11/2020,shot,vehicle,41.0,M,White,Spokane Valley,WA,False,attack,Car,False,-117.26100000000001,47.657,True,1
+4270,4270,5856,6397,Dolores Hernandez,2/12/2020,shot,vehicle,62.0,F,Hispanic,Redding,CA,True,attack,Not fleeing,False,-122.348,40.586,True,1
+4275,4275,5867,6400,Christian Juarez,6/12/2020,shot,vehicle,28.0,M,Hispanic,Rowland Heights,CA,False,attack,Car,False,-117.904,33.988,True,1
+4285,4285,5884,6413,Matthew T. Melzoni,13/12/2020,shot,vehicle,36.0,M,White,Huntington,IN,False,other,Car,False,-87.47,41.486999999999995,True,1
+4293,4293,5904,6435,Paul Peraza,21/12/2020,shot,vehicle,50.0,M,Hispanic,Wichita,KS,False,other,Car,False,-97.227,37.681999999999995,True,1

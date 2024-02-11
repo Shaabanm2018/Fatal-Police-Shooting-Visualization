@@ -1,0 +1,290 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+  <title>Bar chart with D3.js</title>
+  
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <style>
+  body {
+  padding-bottom: 20px;
+  font-size: 11px;
+  font-family: verdana;
+ 
+  margin: 0;
+  text-align: center;
+}
+
+svg:hover{
+  font-weight: bold;
+}
+
+.axis path, .axis line {
+  fill: none;
+  shape-rendering: crispEdges;
+}
+
+.bubble-graph{
+  text-align: center;
+  background-color: lightgrey;
+  border-radius: 10px;
+  margin: 0px 40% 0px 40%;
+  padding: 1px;
+  color: black;
+}
+.data-box{
+
+  width: 50%;
+ margin-top: 60px;
+  margin-left: 15%;
+  
+#container{
+  width: 650px;
+  float: left;
+  border-style: solid;
+  }
+  #data-container{
+    float: left;
+	border-style: solid;
+    .data-piece{
+      border-style: solid;
+      text-align: center;
+      width: 200px;
+      height: 20px;
+      background-color: steelblue;
+      font-size: 14px;
+      font-family: arial;
+      font-weight: 100;
+      color:white;
+      margin: 3px 0px;
+      padding: 3px 0px;
+      border-radius: 10px;
+      
+    }
+  }
+  
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+
+<body>
+
+
+<div class="topnav">
+  <a  href="visualization_1.html">Visulazation 1</a>
+   <a  href="visualization_2.html">Visulazation 2</a>
+  <a  class="active" href="visualization_3.html">Visulazation 3</a>
+   <a  href="visualization_4.html">Visulazation 4</a>
+</div>
+
+
+
+
+
+<div class="bubble-graph"><h1 >Fatalities distribution by age in the United States 2015-2021</h1></div>
+<div class="data-box">
+  <div id="container"></div><div id="data-container"></div>
+</div>
+<script>
+
+
+
+
+  d3.csv("data/data8.csv", function(d){
+data = d;
+var dataset = d3.nest()
+	  .key(function(d){
+	    return d.age;
+	  })
+	  .sortKeys(d3.ascending)
+	  .rollup(function(v) {
+    return d3.sum(v, function(d) { return d.count; })
+  })
+	  .entries(data)
+	  
+
+
+		
+
+
+ 
+		dotchart(dataset);
+});		
+
+function dotchart(data){
+var w = 900;
+var h = 450;
+var margin = { top: 10, right: 20, bottom: 20, left: 100};
+var radius = 10;
+
+var dataBox = document.getElementById("data-container")
+
+var svg = d3.select('#container').append('svg').attr({
+  width: w,
+  height: h+50
+});
+
+
+var xScale = d3.scale.linear()
+  .domain([0, d3.max(data, function(d) { return d.key; } )])
+  .range([margin.left, w - margin.right]);
+
+var yScale = d3.scale.linear()
+  .domain([ d3.max(data, function(d) { return d.values; } ) + 10,0])
+  .range([margin.top, h - margin.bottom]);
+
+var xAxis = d3.svg.axis().scale(xScale).orient("bottom");
+var yAxis = d3.svg.axis().scale(yScale).orient('left');
+
+svg.append("text")
+
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("x", w-395)
+    .attr("y", h+25 )
+    .text("Age"); 
+	
+
+
+svg.append("text")
+.attr("transform", "rotate(-90 100 100)")
+    .attr("class", "x label")
+    .attr("text-anchor", "end")
+    .attr("x", w-950)
+    .attr("y", h-450 )
+    .text("value"); 	  
+	  
+// This describes a circle at top left corner with radius of 1
+var circleInitialAttrs = {
+  cx: function(d){return xScale(d.key)},
+  cy: yScale(0),
+  r: 1,
+  fill: 'red'
+};
+ 
+var randomColors =  function(){
+  var k = Math.floor(Math.random()*10)
+  if(k >=8) return "lightblue";
+  if(k < 8 &&k > 5) return "darkblue";
+  if(k <= 5 && k > 2) return "blue";
+  if(k <= 2) return 'aquamarine'}
+
+var circleAttrs = {
+  cx: function(d) { return xScale(d.key); },
+  cy: function(d) { return yScale(d.values); },
+  r: function(d){return Math.floor(Math.random()*10+10)},
+  fill: function(){return randomColors()}
+};
+
+
+
+
+
+
+
+
+
+var mouseOverHandler = function(d, i) {
+  d3.select(this).attr({
+    fill: 'red',
+	r: radius * 2
+  });
+  svg.append('text')
+    .attr({
+      id: 't' +i,
+      x: function() { return xScale(d.key) - 30 ; },
+      y: function() { return yScale(d.values) - 15 ; }
+    })
+    .text(function() {
+      return ["Age " + Math.trunc(d.key)," Total "+ d.values];
+    });
+	console.log('t' + d.key+ '-' + d.values + '-' + i)
+};
+
+var mouseOutHandler = function(d, i) {
+  d3.select(this).attr({
+    fill: function(){return randomColors()},
+    r: function(d){return Math.floor(Math.random()*10+10)}
+  });
+  d3.select('#t'+i).remove();
+  console.log('t' + d.key + '-' + d.values + '-' + i)
+};
+
+
+
+
+
+
+
+
+
+var xAxisGroup = svg.append('g').attr({
+  'class': 'axis',
+  transform: 'translate(' + [0, h-margin.bottom] + ')'
+}).call(xAxis);
+
+var yAxisGroup = svg.append('g').attr({
+  'class': 'axis',
+  transform: 'translate(' + [margin.left, 0] + ')'
+}).call(yAxis);
+
+var circles = svg.selectAll('circle')
+  .data(data)
+  .enter()
+  .append('circle')
+  .attr(circleInitialAttrs)
+  .on('mouseover', mouseOverHandler)
+  .on('mouseout', mouseOutHandler);
+
+// Now transition all the circles to their new positions
+// Pass a function to delay to stagger the transitions,
+// (otherwise circles all bounce at once and look like they're attached)
+circles.transition()
+  .delay(function(d, i) {
+    // first circle will be not delayed (0*100=0)
+    // second circle will be delayed by 100ms (1*100=100)
+    // third circle will be delayed by 2*100=200ms
+    // etc.
+    return i * 100;
+  })
+  .duration(1000)
+  .ease('bounce')
+  .attr(circleAttrs);
+
+  svg.on('click', function() {
+
+  });
+  
+
+
+
+}
+</script>
+
+</body>

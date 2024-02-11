@@ -1,0 +1,22 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+161,161,178,883,Edixon  Franco,10/3/2015,shot,sword,37.0,M,Hispanic,Ontario,CA,True,other,Car,False,-117.655,34.05,True,1
+243,243,266,332,Gordon Kimbrell,9/4/2015,shot,sword,22.0,M,White,Navarre,FL,False,attack,Not fleeing,False,-86.835,30.413,True,1
+313,313,343,439,Shaun Johnson,8/5/2015,shot,sword,35.0,M,White,Kearny,AZ,False,attack,Not fleeing,False,-110.92299999999999,33.079,True,1
+328,328,361,461,Timothy Jones,17/5/2015,shot,sword,27.0,M,White,Ruidoso,NM,False,other,Not fleeing,False,-105.67299999999999,33.357,True,1
+453,453,502,634,Javon Hawkins,9/7/2015,shot,sword,21.0,M,Black,Kansas City,MO,False,other,Not fleeing,False,-94.565,39.001,True,1
+467,467,520,646,Antonio Gonzalez,16/7/2015,shot,sword,29.0,M,Hispanic,Wauwatosa,WI,True,other,Not fleeing,False,-88.01899999999998,43.036,True,1
+1406,1406,1666,1868,Dylan Papa,6/9/2016,shot,sword,25.0,M,White,Phoenix,AZ,True,attack,Not fleeing,False,-112.162,33.484,True,1
+1483,1483,1764,1971,Rolando Delgado,17/10/2016,shot,sword,50.0,M,Hispanic,Miami,FL,True,other,Not fleeing,False,-80.294,25.939,True,1
+2079,2079,2578,2863,Hussein Hassan,13/8/2017,shot,sword,46.0,M,Black,Kennewick,WA,True,attack,Not fleeing,False,-119.13799999999999,46.211999999999996,True,1
+2298,2298,2867,3178,Gregory Ray Ham,3/12/2017,shot,sword,62.0,M,White,La Marque,TX,False,attack,Not fleeing,False,-94.959,29.37,True,1
+2450,2450,3108,3444,Douglas Oneyear,25/2/2018,shot,sword,36.0,M,White,Casper,WY,False,other,Foot,False,-106.27600000000001,42.83600000000001,True,1
+2729,2729,3493,3817,Larry San Nicolas,1/7/2018,shot,sword,60.0,M,Asian,Grandview,MO,False,other,Not fleeing,False,-94.524,38.855,True,1
+3169,3169,4100,4538,Larry Todd Hoover,2/3/2019,shot,sword,33.0,M,White,Mount Holly,NC,True,other,Not fleeing,False,-81.01899999999998,35.336,True,1
+3222,3222,4174,4671,Brian Leslie Statler,27/3/2019,shot,sword,30.0,M,Black,Inglewood,CA,False,other,Not fleeing,False,-118.352,33.96,True,1
+3259,3259,4225,5412,Patrick West,16/4/2019,shot,sword,42.0,M,White,Montesano,WA,True,other,Not fleeing,False,-123.594,46.981,True,1
+3374,3374,4399,4813,Michael Norquest,26/6/2019,shot,sword,50.0,M,White,Timberville,VA,False,attack,Not fleeing,False,-78.77199999999998,38.625,True,1
+3583,3583,4753,5155,Michael Kifer,2/11/2019,shot and Tasered,sword,29.0,M,White,Vero Beach,FL,False,attack,Not fleeing,False,-80.422,27.585,True,1
+3602,3602,4784,5203,Omar Enrique Garcia,13/11/2019,shot,sword,37.0,M,Hispanic,Los Angeles,CA,False,other,Foot,False,-118.244,34.052,True,1
+3622,3622,4814,5484,Micduff Lamarco Robinson,27/11/2019,shot,sword,40.0,M,Black,Mansfield,OH,False,other,Not fleeing,False,-82.531,40.751,True,1
+3867,3867,5184,5700,Anthony Eduardo Pacheco,31/3/2020,shot,sword,37.0,M,Hispanic,Pomona,CA,False,other,Not fleeing,False,-117.73700000000001,34.061,True,1
+4076,4076,5519,6029,Darrien Walker,30/7/2020,shot and Tasered,sword,28.0,M,Black,Detroit,MI,True,attack,Not fleeing,False,-83.16799999999998,42.381,True,1

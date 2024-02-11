@@ -1,0 +1,34 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+52,52,60,20,Jessie Hernandez,26/1/2015,shot,vehicle,17.0,F,Hispanic,Denver,CO,False,other,Not fleeing,False,-104.90899999999999,39.754,True,1
+180,180,199,221,Alice Brown,17/3/2015,shot,vehicle,24.0,F,White,San Francisco,CA,True,other,Not fleeing,False,-122.42200000000001,37.789,True,1
+222,222,244,263,Mya Hall,31/3/2015,shot,vehicle,27.0,F,Black,Fort Meade,MD,False,other,Car,False,-76.77,39.115,True,1
+373,373,409,521,Christie Cathers,5/6/2015,shot,vehicle,45.0,F,White,Morgantown,WV,False,other,Car,False,-79.907,39.62300000000001,True,1
+910,910,1057,1209,Janet Wilson,27/1/2016,shot,vehicle,31.0,F,Black,Dearborn,MI,True,other,Car,False,-83.208,42.321999999999996,True,1
+913,913,1060,1213,Jacqueline D. Salyers,28/1/2016,shot,vehicle,32.0,F,Native Hawaiian,Tacoma,WA,False,other,Not fleeing,False,-122.454,47.233999999999995,True,1
+918,918,1065,1226,Angela Hiatt,29/1/2016,shot,vehicle,41.0,F,White,Phenix City,AL,False,attack,Car,False,-85.06700000000002,32.486,True,1
+1510,1510,1798,2006,Michelle Lee Shirley,31/10/2016,shot,vehicle,39.0,F,Black,Torrance,CA,True,attack,Car,False,-118.316,33.819,True,1
+1756,1756,2139,2380,Evin Sanna Olsen,26/2/2017,shot,vehicle,46.0,F,White,Ripon,CA,False,other,Car,False,-121.115,37.739000000000004,True,1
+1951,1951,2413,2673,Samantha Aguilar,17/6/2017,shot,vehicle,28.0,F,Hispanic,Montebello,CA,False,other,Not fleeing,False,-118.12799999999999,33.98,True,1
+2191,2191,2722,3008,Cariann Hithon,8/10/2017,shot,vehicle,22.0,F,Black,Miami,FL,False,attack,Car,False,-80.132,25.783,True,1
+2242,2242,2795,3108,Marylsa Sanchez,5/11/2017,shot,vehicle,31.0,F,Hispanic,Rudioso,NM,False,attack,Not fleeing,False,-105.647,33.367,True,1
+2392,2392,3028,3359,Crystalline Barnes,27/1/2018,shot,vehicle,21.0,F,Black,Jackson,MS,False,attack,Car,False,-90.15299999999999,32.384,True,1
+2526,2526,3213,3553,Holly Knighton,27/3/2018,shot,vehicle,33.0,F,White,Montgomery,AL,False,attack,Car,False,-86.28299999999999,32.418,True,1
+2605,2605,3315,3648,Myra Lisa Micalizio,26/4/2018,shot,vehicle,56.0,F,White,Palermo,CA,False,attack,Car,True,-121.551,39.446999999999996,True,1
+2621,2621,3342,3745,Savannah Hill,5/5/2018,shot,vehicle,21.0,F,White,Aurora,MO,False,attack,Car,False,-93.71799999999999,36.971,True,1
+2686,2686,3430,3760,LaShanda Anderson,9/6/2018,shot,vehicle,36.0,F,Black,Deptford,NJ,False,other,Car,False,-75.097,39.838,True,1
+2779,2779,3555,3882,Donna Lynn Allen,24/7/2018,shot,vehicle,39.0,F,White,Soddy-Daisy,TN,False,attack,Car,False,-85.169,35.313,True,1
+2835,2835,3633,3988,Virginia Romero,23/8/2018,shot,vehicle,34.0,F,Hispanic,Los Lunas,NM,False,other,Not fleeing,False,-106.648,34.736999999999995,True,1
+2896,2896,3712,4074,LaJuana Philips,2/10/2018,shot,vehicle,36.0,F,Black,Victorville,CA,False,attack,Not fleeing,False,-117.307,34.522,True,1
+2912,2912,3738,4099,Ashley Elisna Grammer,12/10/2018,shot,vehicle,26.0,F,Other,Puna,HI,False,attack,Not fleeing,False,-154.873,19.551,True,1
+3025,3025,3914,4324,Jennifer Vasquez,25/12/2018,shot,vehicle,24.0,F,Hispanic,San Jose,CA,False,attack,Car,False,-121.92299999999999,37.311,True,1
+3160,3160,4088,4492,Sasha Ann Pishko,26/2/2019,shot,vehicle,20.0,F,White,McIntosh County,GA,False,attack,Car,False,-81.447,31.471,True,1
+3192,3192,4133,4561,Latasha Nicole Walton,12/3/2019,shot,vehicle,32.0,F,Black,Miami,FL,False,other,Not fleeing,False,-80.21300000000002,25.921,True,1
+3226,3226,4180,4608,Stacy William Kenny,31/3/2019,shot,vehicle,33.0,F,White,Springfield,OR,True,other,Car,False,-122.97200000000001,44.059,True,1
+3251,3251,4212,4666,Theresa Medina-Thomas,11/4/2019,shot,vehicle,29.0,F,Hispanic,Ahwatukee,AZ,False,other,Car,False,-111.98,33.349000000000004,True,1
+3526,3526,4655,5070,Angela Louise Perkins,29/9/2019,shot,vehicle,38.0,F,White,Cotter,MO,False,attack,Car,False,-91.758,36.977,True,1
+3600,3600,4779,5184,Sidney Alexis Renew,11/11/2019,shot,vehicle,20.0,F,White,Lakeland,FL,False,attack,Not fleeing,False,-82.02799999999998,28.215,True,1
+3698,3698,4922,5402,Debra D. Arbuckle,30/12/2019,shot,vehicle,51.0,F,White,Wichita,KS,False,attack,Car,False,-97.226,37.657,True,1
+3852,3852,5151,5709,Charity Thorne,16/3/2020,shot,vehicle,42.0,F,White,Myerstown,PA,False,attack,Car,False,-76.329,40.359,True,1
+3860,3860,5168,5685,Kathryn R. Hale,24/3/2020,shot,vehicle,32.0,F,White,Shelton,WA,False,attack,Car,False,-122.958,47.333,True,1
+4046,4046,5476,5984,Terena Nicole Thurman,12/7/2020,shot,vehicle,36.0,F,White,Butler Township,OH,False,attack,Car,False,-79.918,40.841,True,1
+4270,4270,5856,6397,Dolores Hernandez,2/12/2020,shot,vehicle,62.0,F,Hispanic,Redding,CA,True,attack,Not fleeing,False,-122.348,40.586,True,1

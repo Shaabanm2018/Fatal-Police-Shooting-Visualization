@@ -1,0 +1,4 @@
+,Unnamed: 0,Unnamed: 0.1,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+1091,1091,1264,1441,Laronda Sweatt,6/4/2016,shot,ax,40.0,F,Black,Gallatin,TN,False,attack,Not fleeing,True,-86.436,36.37,True,1
+2234,2234,2778,3087,Heather Denean Bubrig,31/10/2017,shot,ax,37.0,F,White,Las Cruces,NM,True,other,Not fleeing,False,-106.845,32.285,True,1
+3344,3344,4354,4772,Krystal Arvizu,8/6/2019,shot,ax,33.0,F,Hispanic,Fresno,CA,True,attack,Not fleeing,True,-119.805,36.733000000000004,True,1

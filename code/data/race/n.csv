@@ -1,0 +1,63 @@
+,Unnamed: 0,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera,longitude,latitude,is_geocoding_exact,count
+193,213,531,Justin Fowler,20/3/2015,shot,gun,24.0,M,Native Hawaiian,Red Valley,AZ,False,attack,Car,False,-109.138,36.466,True,1
+271,295,393,Daniel Covarrubias,21/4/2015,shot,unarmed,37.0,M,Native Hawaiian,Lakewood,WA,True,other,Foot,False,-122.485,47.16,True,1
+396,438,563,Joe Charboneau,16/6/2015,shot,gun,31.0,M,Native Hawaiian,Wood Lake,ND,False,attack,Not fleeing,False,-98.863,47.937,True,1
+459,508,628,Paul Castaway,12/7/2015,shot,knife,35.0,M,Native Hawaiian,Denver,CO,True,other,Foot,False,-105.047,39.701,True,1
+471,524,656,Saige Hack,16/7/2015,shot,gun,23.0,M,Native Hawaiian,Cheyenne,WY,False,attack,Not fleeing,False,-104.826,41.117,True,1
+600,681,836,Tristan Vent,8/9/2015,shot,gun,19.0,M,Native Hawaiian,Fairbanks,AK,False,attack,Not fleeing,False,-147.779,64.827,True,1
+602,684,816,Vincent J. Perdue,9/9/2015,shot,gun,33.0,M,Native Hawaiian,Fairbanks,AK,False,attack,Car,False,-147.543,64.806,True,1
+873,1018,1166,Herman Bean,12/1/2016,shot,knife,49.0,M,Native Hawaiian,Spenard,AK,True,other,Not fleeing,False,-149.898,61.192,True,1
+913,1060,1213,Jacqueline D. Salyers,28/1/2016,shot,vehicle,32.0,F,Native Hawaiian,Tacoma,WA,False,other,Not fleeing,False,-122.454,47.234,True,1
+931,1080,1235,Raymond Gassman,3/2/2016,shot,gun,22.0,M,Native Hawaiian,Rosebud,SD,False,attack,Not fleeing,True,-100.626,43.188,True,1
+949,1101,1255,Vincent Nageak,10/2/2016,shot,gun,36.0,M,Native Hawaiian,Barrow,AK,False,attack,Not fleeing,False,-156.738,71.301,True,1
+981,1134,1290,Sherrisa Homer,21/2/2016,shot,gun,36.0,F,Native Hawaiian,Phoenix,AZ,True,attack,Foot,False,-112.108,33.495,True,1
+984,1137,1305,Patricia Kruger,21/2/2016,shot,gun,38.0,F,Native Hawaiian,Houston,AK,False,attack,Not fleeing,False,-149.778,61.585,True,1
+1165,1355,1537,Francis Clark,14/5/2016,shot,gun,43.0,M,Native Hawaiian,Phoenix,AZ,False,attack,Not fleeing,True,-112.139,33.466,True,1
+1184,1377,1560,Verl Bedonie,23/5/2016,shot,gun,26.0,M,Native Hawaiian,Flagstaff,AZ,False,attack,Foot,True,-111.655,35.198,True,1
+1207,1406,1591,"Hubert Thomas Burns, Jr.",3/6/2016,shot,knife,34.0,M,Native Hawaiian,Parker,AZ,False,other,Not fleeing,False,-112.139,33.863,True,1
+1307,1542,1730,Alvin R. Sylversmythe,24/7/2016,shot,knife,29.0,M,Native Hawaiian,Gallup,NM,True,other,Not fleeing,False,-108.759,35.52,True,1
+1423,1686,1889,Jesse Beshaw,16/9/2016,shot,unarmed,29.0,M,Native Hawaiian,Winooski,VT,False,other,Foot,True,-73.191,44.492,True,1
+1491,1775,1988,Renee Davis,21/10/2016,shot,gun,23.0,F,Native Hawaiian,Muckleshoot Indian Reservation,WA,True,other,Not fleeing,False,-122.131,47.25899999999999,True,1
+1585,1915,2137,Chassady LeClair,17/12/2016,shot,gun,44.0,M,Native Hawaiian,Everett,WA,False,other,Not fleeing,False,-122.214,47.966,True,1
+1636,1986,2224,Jamison Christopher Anderson,12/1/2017,shot,gun,20.0,M,Native Hawaiian,Vineland,MN,False,attack,Not fleeing,False,-93.78,46.201,True,1
+1648,2004,2245,Melvin DeLong,18/1/2017,shot,gun,28.0,M,Native Hawaiian,Grand Forks,ND,False,attack,Not fleeing,False,-97.033,47.925,False,1
+1769,2154,2403,Dave Phoenix,3/3/2017,shot,toy weapon,25.0,M,Native Hawaiian,Lemoore,CA,False,attack,Not fleeing,False,-119.763,36.232,True,1
+1833,2247,2503,Ivan Wilson,14/4/2017,shot,knife,24.0,M,Native Hawaiian,Mandan,ND,False,other,Not fleeing,False,-100.89,46.827,True,1
+1955,2417,2680,Matthew Colton Stover,19/6/2017,shot,gun,21.0,M,Native Hawaiian,Fairbanks,AK,True,attack,Foot,False,-147.76,64.833,True,1
+1990,2462,2926,Tyrone Orvy Peabody,4/7/2017,shot,gun,53.0,M,Native Hawaiian,Pleasant View,CO,False,attack,Not fleeing,False,-108.831,37.55,True,1
+2006,2489,2771,Dorsey Glenn Taulbee Jr.,12/7/2017,shot,gun,33.0,M,Native Hawaiian,Oklahoma City,OK,False,attack,Not fleeing,False,-97.567,35.442,True,1
+2117,2621,2918,Thomas Daniel Littlecloud,30/8/2017,shot,gun,32.0,M,Native Hawaiian,Sacramento,CA,False,attack,Car,False,-121.383,38.611,True,1
+2139,2649,2945,Thomas Addison,11/9/2017,shot,unknown weapon,25.0,M,Native Hawaiian,Great Falls,MT,False,other,Foot,False,-111.254,47.515,True,1
+2167,2691,3202,Dominique Tyrell White,28/9/2017,shot,gun,30.0,M,Native Hawaiian,Topeka,KS,False,attack,Foot,True,-95.655,39.052,True,1
+2213,2751,3058,Johnny Bonta,22/10/2017,shot,gun,43.0,M,Native Hawaiian,Sparks,NV,False,attack,Not fleeing,False,-119.771,39.548,True,1
+2217,2756,3069,George Gipp,23/10/2017,shot,undetermined,35.0,M,Native Hawaiian,Standing Rock Reservation,ND,False,other,Car,False,-100.682,46.17100000000001,True,1
+2229,2773,3079,Robert James Lightfeather,30/10/2017,shot,gun,33.0,M,Native Hawaiian,Federal Way,WA,False,attack,Not fleeing,False,-122.313,47.319,True,1
+2250,2804,3117,Jason Ike Pero,8/11/2017,shot,knife,14.0,M,Native Hawaiian,Odanah,WI,False,other,Not fleeing,False,-90.65,46.597,True,1
+2276,2837,3150,Preston Bell,18/11/2017,shot,vehicle,24.0,M,Native Hawaiian,Billings,MT,False,attack,Car,True,-108.513,45.76300000000001,True,1
+2305,2875,3188,Kyler Grabbingbear,7/12/2017,shot,unarmed,19.0,M,Native Hawaiian,Denver,CO,False,undetermined,Foot,False,-104.966,39.854,True,1
+2309,2882,3194,Kyle Anthony Mihecoby,10/12/2017,shot,Taser,28.0,M,Native Hawaiian,Oklahoma City,OK,False,attack,Not fleeing,False,-97.424,35.406,True,1
+2322,2928,3263,Joshua Paul Spottedhorse,26/12/2017,shot,gun,36.0,M,Native Hawaiian,Spokane,WA,False,attack,Foot,True,-117.428,47.669,True,1
+2340,2957,3280,Skyler Burnette,6/1/2018,shot,knife,21.0,M,Native Hawaiian,Sparta,WI,False,other,Not fleeing,False,-90.824,43.942,True,1
+2433,3084,3417,Fordell Hill,15/2/2018,shot,gun,27.0,M,Native Hawaiian,Montezuma Creek,UT,False,attack,Car,False,-108.901,37.323,True,1
+2504,3182,3516,Quintin J. Horner,19/3/2018,shot,gun,50.0,M,Native Hawaiian,Utica,KY,False,attack,Other,False,-87.095,37.68,True,1
+2509,3190,3523,Duane Preciado,21/3/2018,shot,gun,39.0,M,Native Hawaiian,Owasso,OK,True,attack,Not fleeing,True,-95.807,36.312,True,1
+2520,3206,3538,Zander M. Clark,24/3/2018,shot,knife,20.0,M,Native Hawaiian,Anchorage,AK,False,other,Foot,False,-149.817,61.216,True,1
+2587,3288,3616,Ruben Stewart,15/4/2018,shot,knife,36.0,M,Native Hawaiian,Lodge Grass,MT,False,other,Not fleeing,False,-107.37,45.317,True,1
+2592,3296,3629,Delorean Pikyavit,18/4/2018,shot,knife,32.0,M,Native Hawaiian,Sugar House,UT,True,other,Not fleeing,False,-111.86,40.744,True,1
+2640,3365,3753,Jacob T. Eldridge,11/5/2018,shot,knife,24.0,M,Native Hawaiian,Blackfoot,ID,False,attack,Not fleeing,False,-112.356,43.18,True,1
+2667,3403,3722,Rabi Brown,29/5/2018,shot,gun,34.0,M,Native Hawaiian,Phoenix,AZ,False,other,Not fleeing,False,-112.121,33.575,True,1
+2734,3500,3822,Emmanuel Bitsuie,4/7/2018,shot,knife,32.0,M,Native Hawaiian,Pueblo,CO,False,attack,Not fleeing,False,-104.613,38.246,True,1
+2807,3592,3913,"William ""Billy"" James Hughes",5/8/2018,shot,gun,43.0,M,Native Hawaiian,St. Paul,MN,False,other,Not fleeing,True,-93.138,44.952,True,1
+2932,3767,4127,Shaunday Mullins,23/10/2018,shot,gun,37.0,M,Native Hawaiian,Tulsa,OK,False,attack,Not fleeing,False,-95.923,36.148,True,1
+2986,3855,4218,Vernon May,29/11/2018,shot,gun,32.0,M,Native Hawaiian,Bemidji,MN,False,other,Not fleeing,True,-94.896,47.49800000000001,True,1
+3092,4009,4429,Jacob Archambault,27/1/2019,shot,vehicle,25.0,M,Native Hawaiian,Rosebud,SD,False,attack,Car,False,-100.853,43.233,True,1
+3186,4127,4552,Brandon Robertson,10/3/2019,shot,gun,34.0,M,Native Hawaiian,Redding,CA,False,attack,Foot,False,-122.351,40.565,True,1
+3197,4139,4565,Shawn Taylor Waite,14/3/2019,shot,knife,27.0,M,Native Hawaiian,Sallisaw,OK,False,attack,Not fleeing,False,-94.78,35.48300000000001,True,1
+3229,4183,4618,Kevin Ray McEnulty,31/3/2019,shot,gun,25.0,M,Native Hawaiian,Fairbanks,AK,False,other,Car,False,-147.838,64.84899999999999,True,1
+3255,4218,4636,Clarence Leading Fighter,14/4/2019,shot,knife,32.0,M,Native Hawaiian,Rushville,NE,False,other,Foot,False,-102.455,42.719,True,1
+3262,4228,4637,John Duane Fairbanks,18/4/2019,shot,gun,40.0,M,Native Hawaiian,Coon Rapids,MN,False,attack,Foot,True,-93.276,45.174,True,1
+3326,4329,4750,Thomas Goodeyes Gay,1/6/2019,shot,unarmed,35.0,M,Native Hawaiian,Bartlesville,OK,True,undetermined,Not fleeing,False,-95.917,36.735,True,1
+3516,4636,5490,Anderson Antelope,21/9/2019,shot,knife,58.0,M,Native Hawaiian,Riverton,WY,True,attack,Not fleeing,False,-108.378,43.043,True,1
+3633,4833,5388,Neil Chiago,2/12/2019,shot,gun,18.0,M,Native Hawaiian,Mesa,AZ,False,attack,Not fleeing,False,-111.788,33.408,True,1
+3790,5045,5525,Hans Alejandro Huitz,12/2/2020,shot,gun,51.0,M,Native Hawaiian,Virginia Beach,VA,False,attack,Not fleeing,False,-75.99,36.776,True,1
+3804,5062,5560,Jeremy Dewey,17/2/2020,shot,gun,27.0,M,Native Hawaiian,Pinetop,AZ,False,attack,Not fleeing,False,-109.946,34.129,True,1
